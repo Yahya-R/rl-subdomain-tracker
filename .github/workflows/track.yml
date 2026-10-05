@@ -1,0 +1,32 @@
+name: Track subdomains
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python track.py
+        env:
+          C99_API_KEY: ${{ secrets.C99_API_KEY }}
+      - name: Open an issue for new subdomains
+        if: hashFiles('new.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "New subdomains $(date -u +%F)" --body-file new.md
+      - name: Commit results
+        run: |
+          rm -f new.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update subdomains $(date -u +%F)"
+          git push
