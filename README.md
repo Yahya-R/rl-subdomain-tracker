@@ -1,6 +1,6 @@
 # RL subdomain tracker
 
-Every day at 09:17 UTC, a GitHub Action finds the subdomains of each root domain in `domains.txt`.
+Every 4 hours, a GitHub Action finds the subdomains of each root domain in `domains.txt`.
 
 - **Sources:** crt.sh and Cert Spotter (certificate transparency logs), HackerTarget (passive DNS), and subdomainfinder.c99.nl when the `C99_API_KEY` secret is set.
 - **Output:**
@@ -10,3 +10,5 @@ Every day at 09:17 UTC, a GitHub Action finds the subdomains of each root domain
 - **Alerts:** a GitHub issue is opened whenever new subdomains appear. The first run for a domain sets the baseline and sends no alert.
 
 To add a company, put its root domain on a new line in `domains.txt`. To run it now, use Actions → Track subdomains → Run workflow.
+
+Each run scans for up to 35 minutes, starting with the domains scanned longest ago, and saves its progress. crt.sh and Cert Spotter rate-limit heavily, so it can take a few runs to cover every domain. A domain only raises alerts once crt.sh and Cert Spotter have both answered for it at least once (see the Baseline column in `INDEX.md`).

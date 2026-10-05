@@ -5,6 +5,7 @@ import datetime, json, os, pathlib, random, re, socket, sys, threading, time, ur
 ROOT = pathlib.Path(__file__).parent
 DATA = ROOT / "data"
 STATUS = DATA / "_status.json"
+BUDGET = int(os.environ.get("SCAN_MINUTES", "35")) * 60  # stop starting new domains after this
 C99_KEY = os.environ.get("C99_API_KEY")  # optional: subdomainfinder.c99.nl API key
 UA = {"User-Agent": "rl-subdomain-tracker (github.com/yahya-r/rl-subdomain-tracker)"}
 
@@ -42,7 +43,7 @@ def as_json(text):
 
 # Each source returns a list of names, or None when it could not be reached.
 def crtsh(d):
-    rows = as_json(get(f"https://crt.sh/?q=%25.{d}&output=json", timeout=120))
+    rows = as_json(get(f"https://crt.sh/?q=%25.{d}&output=json", timeout=60, tries=3))
     return None if rows is None else [n for r in rows for n in r["name_value"].split("\n")]
 
 
@@ -92,7 +93,15 @@ def main():
     today = datetime.date.today().isoformat()
     new_finds = {}
 
+    deadline = time.time() + BUDGET
+    scanned = set()
+    # Least recently scanned first, so runs that hit the time budget rotate through every domain.
+    roots_by_age = sorted(roots, key=lambda d: status.get(d, {}).get("last_scan", ""))
+
     def scan(d):
+        if time.time() > deadline:
+            return
+        scanned.add(d)
         with ThreadPoolExecutor(len(SOURCES)) as ex:
             results = dict(zip((f.__name__ for f in SOURCES), ex.map(lambda f: f(d), SOURCES)))
         failed = sorted(k for k, v in results.items() if v is None)
@@ -104,17 +113,19 @@ def main():
         # Only alert once this domain has had one complete scan as a baseline.
         alert = status.get(d, {}).get("complete", False)
         for host in sorted(found):
+            is_new = host not in known
             entry = known.setdefault(host, {"first_seen": today})
             entry.update(last_seen=today, ip=ips[host], live=bool(ips[host]))
-            if entry["first_seen"] == today and alert:
+            if is_new and alert:
                 new_finds.setdefault(d, []).append(f"{host} ({ips[host] or 'no DNS'})")
         path.write_text(json.dumps(dict(sorted(known.items())), indent=1) + "\n")
         complete = alert or not (REQUIRED & set(failed))
-        status[d] = {"complete": complete, "last_scan": today, "failed_sources": failed}
+        status[d] = {"complete": complete, "last_scan": datetime.datetime.utcnow().isoformat(timespec="minutes"), "failed_sources": failed}
         print(f"[{d}] {len(found)} found, {len(known)} total, failed: {failed or 'none'}", flush=True)
 
     with ThreadPoolExecutor(4) as ex:
-        list(ex.map(scan, roots))
+        list(ex.map(scan, roots_by_age))
+    print(f"{len(scanned)} scanned, {len(roots) - len(scanned)} left for the next run")
 
     if new_finds:
         body = "".join(f"\n### {d}\n" + "".join(f"- {h}\n" for h in hs) for d, hs in sorted(new_finds.items()))
