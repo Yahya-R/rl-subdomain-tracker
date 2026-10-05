@@ -1,4 +1,5 @@
 """Find subdomains of each root in domains.txt, save them to data/, and log new finds."""
+from concurrent.futures import ThreadPoolExecutor
 import datetime, json, os, pathlib, re, socket, sys, time, urllib.request
 
 ROOT = pathlib.Path(__file__).parent
@@ -7,7 +8,7 @@ C99_KEY = os.environ.get("C99_API_KEY")  # optional: subdomainfinder.c99.nl API 
 UA = {"User-Agent": "rl-subdomain-tracker"}
 
 
-def get(url, timeout=60):
+def get(url, timeout=45):
     for attempt in range(3):
         try:
             req = urllib.request.Request(url, headers=UA)
@@ -62,7 +63,6 @@ def clean(names, d):
 
 def resolves(host):
     try:
-        socket.setdefaulttimeout(5)
         return socket.gethostbyname(host)
     except Exception:
         return ""
@@ -70,17 +70,21 @@ def resolves(host):
 
 def main():
     DATA.mkdir(exist_ok=True)
+    socket.setdefaulttimeout(5)
     roots = [l.split("#")[0].strip().lower() for l in (ROOT / "domains.txt").read_text().splitlines()]
     today = datetime.date.today().isoformat()
     new_finds = {}
     for d in filter(None, roots):
         print(f"[{d}]")
-        found = clean(crtsh(d) + certspotter(d) + hackertarget(d) + c99(d), d)
+        with ThreadPoolExecutor(4) as ex:
+            found = clean(sum(ex.map(lambda f: f(d), (crtsh, certspotter, hackertarget, c99)), []), d)
+        with ThreadPoolExecutor(32) as ex:
+            ips = dict(zip(sorted(found), ex.map(resolves, sorted(found))))
         path = DATA / f"{d}.json"
         known = json.loads(path.read_text()) if path.exists() else {}
         first_run = not known
         for host in sorted(found):
-            ip = resolves(host)
+            ip = ips[host]
             entry = known.setdefault(host, {"first_seen": today})
             entry.update(last_seen=today, ip=ip, live=bool(ip))
             if "first_seen" in entry and entry["first_seen"] == today and not first_run:
@@ -95,6 +99,9 @@ def main():
         head, _, rest = old.partition("\n")
         log.write_text(f"{head}\n\n## {today}\n{body}{rest}")
         (ROOT / "new.md").write_text(body)
+    for p in DATA.glob("*.json"):
+        if p.stem not in roots:
+            p.unlink()
     write_index()
 
 

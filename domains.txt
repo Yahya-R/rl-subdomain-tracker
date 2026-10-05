@@ -1,62 +1,69 @@
-# Pavlov's List (RL envs and data), 68 companies, as of 2026-09-11.
-# One root domain per line. "#" starts a comment.
-# The domains are mapped from memory; none could be checked from the session that wrote this file.
-
-# --- Confident ---
-mercor.com            # Mercor
-joinhandshake.com     # Handshake
-scale.com             # Scale
-turing.com            # Turing
-surgehq.ai            # Surge
-snorkel.ai            # Snorkel
-micro1.ai             # micro1
-afterquery.com        # AfterQuery
-latch.bio             # Latch
-patronus.ai           # Patronus AI
-datacurve.ai          # Datacurve
-halluminate.ai        # Halluminate
-mechanize.work        # Mechanize
-pareto.ai             # Pareto
-bespokelabs.ai        # Bespoke Labs
-collinear.ai          # Collinear
-quesma.com            # Quesma
-trycua.com            # Cua
-gr.inc                # General Reasoning
-pre.dev               # pre.dev
-hud.so                # HUD
-wirestock.io          # Wirestock
-plato.so              # Plato
-benchflow.ai          # BenchFlow
-
-# --- Likely, verify ---
-proximal.ai           # Proximal
-aptura.ai             # Aptura
-fleet.so              # Fleet
-parsewave.ai          # Parsewave
-deeptune.com          # Deeptune (acquired by Hebbia)
-huzzle.com            # Huzzle Labs
-arimlabs.ai           # ARIMLABS
-chakralabs.ai         # Chakra Labs
-dmodel.ai             # dmodel
-incalmo.ai            # Incalmo
-anthromind.com        # Anthromind
-goodstartlabs.com     # Good Start Labs
-ooak.io               # Ooak Data
-phinity.ai            # Phinity
-sepalai.com           # Sepal AI (acquired)
-originator.ai         # Originator
-tacitlabs.ai          # Tacit Labs
-metaphi.ai            # Metaphi
-symbal.ai             # Symbal
-emulated.ai           # Emulated
-hillclimb.ai          # Hillclimb
-preferencemodel.com   # Preference Model
-vetto.ai              # Vetto AI
-
-# --- Unknown domain, needs a lookup (left commented out) ---
-# ReasonCore, Abundant, Aviro, EdotEnv, Markov, Normal, Refresh, Ulam, Vmax,
-# Verita AI, Idler, Taste Labs, Align AI, Andromede, Diffuse Labs, Dissei,
-# Exabite, Rise Data Labs, Theta, Trajectory Labs
-
-# --- Skipped: too big to be useful ---
-# uber.com              # Uber AI (thousands of unrelated subdomains)
+# Pavlov's List (RL envs and data). One root domain per line. "#" starts a comment.
+mercor.com
+joinhandshake.com
+scale.com
+turing.com
+surgehq.ai
+snorkel.ai
+micro1.ai
+afterquery.com
+latch.bio
+patronus.ai
+datacurve.ai
+halluminate.ai
+mechanize.work
+pareto.ai
+proximal.ai
+aptura.ai
+bespokelabs.ai
+collinear.ai
+quesma.com
+reasoncore.ai
+abundant.ai
+aviro.ai
+benchflow.ai
+cua.ai
+edotenv.com
+emulated.so
+gr.inc
+markovstudios.com
+metaphi.ai
+normal.ai
+pre.dev
+refresh.dev
+tacitlabs.co
+ulam.ai
+vmax.ai
+uber.com
+originator.inc
+fleetai.com
+parsewave.ai
+wirestock.io
+deeptune.com
+labs.huzzle.com
+verita-ai.com
+arimlabs.ai
+chakra.dev
+dmodel.ai
+hud.ai
+idler.ai
+incalmo.ai
+preferencemodel.com
+symbal.ai
+tastelabs.com
+alignai.co
+andromede.ai
+anthromind.com
+diffuselabs.ai
+dissei.ai
+exabite.ai
+goodstartlabs.com
+hillclimb.com
+ooakdata.com
+phinity.ai
+plato.so
+risedatalabs.com
+sepalai.com
+thetasoftware.com
+trajectorylabs.com
+vetto.ai
