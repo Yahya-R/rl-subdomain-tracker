@@ -68,6 +68,13 @@ SOURCES = (crtsh, certspotter, hackertarget, c99)
 REQUIRED = {"crtsh", "certspotter"}  # a scan only counts as complete if these answered
 
 
+def write_atomic(path, data):
+    """Write JSON via a temp file so a mid-run checkpoint commit never sees half a file."""
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(data, indent=1) + "\n")
+    tmp.replace(path)
+
+
 def clean(names, d):
     out = set()
     for n in names:
@@ -95,6 +102,7 @@ def main():
 
     deadline = time.time() + BUDGET
     scanned = set()
+    status_lock = threading.Lock()
     # Least recently scanned first, so runs that hit the time budget rotate through every domain.
     roots_by_age = sorted(roots, key=lambda d: status.get(d, {}).get("last_scan", ""))
 
@@ -118,9 +126,11 @@ def main():
             entry.update(last_seen=today, ip=ips[host], live=bool(ips[host]))
             if is_new and alert:
                 new_finds.setdefault(d, []).append(f"{host} ({ips[host] or 'no DNS'})")
-        path.write_text(json.dumps(dict(sorted(known.items())), indent=1) + "\n")
+        write_atomic(path, dict(sorted(known.items())))
         complete = alert or not (REQUIRED & set(failed))
-        status[d] = {"complete": complete, "last_scan": datetime.datetime.utcnow().isoformat(timespec="minutes"), "failed_sources": failed}
+        status[d] = {"complete": complete, "last_scan": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M"), "failed_sources": failed}
+        with status_lock:
+            write_atomic(STATUS, {k: status[k] for k in sorted(status) if k in roots})
         print(f"[{d}] {len(found)} found, {len(known)} total, failed: {failed or 'none'}", flush=True)
 
     with ThreadPoolExecutor(4) as ex:
@@ -137,7 +147,7 @@ def main():
     for p in DATA.glob("*.json"):
         if p != STATUS and p.stem not in roots:
             p.unlink()
-    STATUS.write_text(json.dumps({d: status[d] for d in sorted(status) if d in roots}, indent=1) + "\n")
+    write_atomic(STATUS, {d: status[d] for d in sorted(status) if d in roots})
     write_index(status)
 
 

@@ -15,7 +15,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python track.py
+      - name: Scan, saving progress every 5 minutes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # If GitHub kills the runner mid-scan, the checkpoints keep what finished.
+          ( while sleep 300; do
+              git add data && git commit -qm "Checkpoint subdomains $(date -u +%F)" &&
+                git pull -q --rebase --autostash origin main && git push -q || true
+            done ) &
+          python track.py
+          kill %1 || true
         env:
           C99_API_KEY: ${{ secrets.C99_API_KEY }}
       - name: Open an issue for new subdomains
@@ -26,8 +36,6 @@ jobs:
       - name: Commit results
         run: |
           rm -f new.md
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "Update subdomains $(date -u +%F)"
-          git pull --rebase origin main && git push
+          git pull --rebase --autostash origin main && git push
