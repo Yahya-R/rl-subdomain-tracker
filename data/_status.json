@@ -24,6 +24,13 @@
   "last_scan": "2026-10-06T02:05",
   "failed_sources": []
  },
+ "benchflow.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:18",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
  "bespokelabs.ai": {
   "complete": false,
   "last_scan": "2026-10-06T01:41",
@@ -38,9 +45,30 @@
    "crtsh"
   ]
  },
+ "cua.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:19",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
  "datacurve.ai": {
   "complete": false,
   "last_scan": "2026-10-06T01:27",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
+ "edotenv.com": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:18",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
+ "emulated.so": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:18",
   "failed_sources": [
    "crtsh"
   ]
