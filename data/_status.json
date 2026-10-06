@@ -180,11 +180,9 @@
   "failed_sources": []
  },
  "joinhandshake.com": {
-  "complete": false,
-  "last_scan": "2026-10-06T01:21",
-  "failed_sources": [
-   "crtsh"
-  ]
+  "complete": true,
+  "last_scan": "2026-10-06T23:48",
+  "failed_sources": []
  },
  "labs.huzzle.com": {
   "complete": false,
@@ -216,7 +214,7 @@
  },
  "mercor.com": {
   "complete": true,
-  "last_scan": "2026-10-06T01:19",
+  "last_scan": "2026-10-06T23:48",
   "failed_sources": []
  },
  "metaphi.ai": {
@@ -318,12 +316,20 @@
    "crtsh"
   ]
  },
+ "risedatalabs.com": {
+  "complete": true,
+  "last_scan": "2026-10-06T23:47",
+  "failed_sources": []
+ },
  "scale.com": {
-  "complete": false,
-  "last_scan": "2026-10-06T01:22",
-  "failed_sources": [
-   "crtsh"
-  ]
+  "complete": true,
+  "last_scan": "2026-10-06T23:49",
+  "failed_sources": []
+ },
+ "sepalai.com": {
+  "complete": true,
+  "last_scan": "2026-10-06T23:47",
+  "failed_sources": []
  },
  "snorkel.ai": {
   "complete": false,
@@ -333,11 +339,9 @@
   ]
  },
  "surgehq.ai": {
-  "complete": false,
-  "last_scan": "2026-10-06T01:22",
-  "failed_sources": [
-   "crtsh"
-  ]
+  "complete": true,
+  "last_scan": "2026-10-06T23:49",
+  "failed_sources": []
  },
  "symbal.ai": {
   "complete": true,
@@ -356,12 +360,22 @@
   "last_scan": "2026-10-06T18:23",
   "failed_sources": []
  },
- "turing.com": {
+ "thetasoftware.com": {
+  "complete": true,
+  "last_scan": "2026-10-06T23:49",
+  "failed_sources": []
+ },
+ "trajectorylabs.com": {
   "complete": false,
-  "last_scan": "2026-10-06T01:22",
+  "last_scan": "2026-10-06T23:48",
   "failed_sources": [
    "crtsh"
   ]
+ },
+ "turing.com": {
+  "complete": true,
+  "last_scan": "2026-10-06T23:49",
+  "failed_sources": []
  },
  "uber.com": {
   "complete": false,
@@ -384,6 +398,11 @@
   "failed_sources": [
    "crtsh"
   ]
+ },
+ "vetto.ai": {
+  "complete": true,
+  "last_scan": "2026-10-06T23:48",
+  "failed_sources": []
  },
  "vmax.ai": {
   "complete": false,

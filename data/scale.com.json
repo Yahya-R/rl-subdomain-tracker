@@ -1,6 +1,2370 @@
 {
+ "000011112222333344445555.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "000011112222333344446666.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "00091012.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "00091013.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "00091109.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "00092519.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "00111212.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "1234567890.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "222211112222333344447777.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "333311112222333344446666.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "3d.mongodb.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "40004000.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "40004001.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "40004002.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "444411112222333344446666.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "555511112222333344446666.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "65245f38aa3d749e0026b8c1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6528608fe907fc3206b9db27.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "659d904771cc3209f82841c9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "65a0483c4058b618b593c0a0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "660eb35911d96608c5698d36.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "661070320e240111ff42b8dc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6615af7994dc5e412d30604a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6621795d81736575a0aca628.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "662787a744be1659f622a880.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6628fb97e918510edd2ad032.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66293794984f09dd531a6b10.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "662a6fd572151fa05bef5884.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "662bb520ebf57c72104b3302.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "662f834c73382b69cda060b2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6633c48ffb35a1c8cfe60b56.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6633eab19e001681e43b0db2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6633f5a372cb36d10186d900.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6634d6b1c25349ab0bc0e2d1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6638a3090998e0fef967860e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6640e859d1daf3c59bf2a3ef.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6645c9b1d90b9e2cc59e9e0c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6648d56428a6b2e7215076ed.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66490500e05b8924e7e14505.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664918ed5ff3cf292bc0eef1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664932640eb56cd1b8191aa4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6649b6b12743d73fecc0baba.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6649e966045d3f32ab9c4d6d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664a01ba9c8bcea31e6fae5f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664a113564a222244c2891e0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664a34ea9c056fa5218a65bc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664bb4f270b6c098918ff764.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664bc76973908737a11d32a5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664bdc3c3b0ea7454b99e861.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664c57d7da3f77bb35c81b67.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664c757a1644d2cb83162acc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664c90d06ab598190e85a32d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664ca1f495134056b56e367a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664ca4cdec276f8e0805a66f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664cd405e552336bd89e749b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664cf2c4742525902f6dd464.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664db5dbe027946e6927d2c6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664dc9984db3e2477eb6659e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664de91978d47c82d999b51f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664debe6ce481e461be8a484.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e037892cc08a78d798547.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e048a59d2d1d297332228.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e19ec076a0c1d66e2f32e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e1b0f1bc7641724f5f6b8.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e3d62d019c09737f53b7a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664e43bd233916519f3f3120.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664efd3480443a1f40269de7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664f15de4cc85d63b64bb291.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664f27d9668f300f9da0529b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "664fa179e56431b3e6c78254.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6650bb6c3f895e75bc20734f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6652ea2852079cee35b09538.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66532a2b367568ccacd47264.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6654580b1dee97651f996cff.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6655aea5dec0012b3bc0b816.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6655df0be49ada13e18811aa.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665607c3c5f0e946b9332a94.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665704929fa44d0ad5054d65.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66573e68371a5df7cec48af3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6658570df6c9edb558a435aa.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66587c20c84c8acdd380d70f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66588bc855c3bc8f18e08fa0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6658b943d7d26c6526703fd2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6659a34f8f604a922ac029a0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6659c2f6b951dd86d6deb8ef.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6659cef61c5333a1aa678a2e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665eea0ce666145b18109ff4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665f439e41e29da402f23d1c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665f6b782c576fe9fb44b9a5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665f937fdbfeb84af087f11e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "665fa97072da0dd77c62c029.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66602e96d7b4ca1e9f8e7b70.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66604fdb7820f9352a399e15.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66609bc9d4a51ab9f847cd7d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666174f961f5daa7fe47a698.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66618f3d5f5490810ecdfa0a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6661ccdd556a77fb43e8beeb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6662163b8f2e6323053d76db.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66624eab39760a291b5d35a2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666287091e8aa63e8f4d741d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6662bf018e27f8ded9c0477e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6662f88e368e9a66084298de.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6663314c856fed6dbf092726.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666367bffd4b344228863677.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6663d8f3664443cd10e98aef.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6666ec77ff6a2dcd0820bb16.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66672b24419f0b050bfe1096.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66676350ce5ab08921b3d568.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6667962399b788557baf1c71.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6667cdb03365bd4bea0ae06d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66680604c5305892093cb01c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66683e993f3cf77ac1545a7c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "666854cf6e2bdbe805ac9a4b.workspace.egp.scale.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6668758dd0227ed45aafc724.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6668adb92046ab35257fda60.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6668e710507fdcc6108999ee.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66691e5aaa6c5b10b5fdf4d9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666956bf401abcd00f4369f5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66698f12a0c93739a6f0a5a8.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6669ff218e6201211c656ceb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666a3797e80d7d5389866cbf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666a6fb7ea77c50652da5647.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666aa7d754018381f42601f3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666ae06b51ed3e5f5fe22b1e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666b189931555a99e7e85af7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666b50ac484e91631ae75419.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666b890f5a93a2f8f09c4dd9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666bc133d4b62bb9160b4ecb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666bf992c476661878c46f7c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666c31de03021bae7e5a5a8a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666c69fd840a3c4570d07585.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666ca23c4657c589225a4184.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666cdab4769b121d1a1cc2d6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666d12ab1cf4d64fd495892a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666d4affc768981acfff4d4c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666d8331dd4ec9839130ac60.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666dbbba424dbb8f13eb126e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666df3f985a81477e242d589.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666e2c242ec42bd91ac89fc4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666e64273c51f9069d817d1d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666e9c864cf99c5525ebb811.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666ed4e11cc37783051c8693.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666f0d1a74f0de1853ee3a09.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666f454e03791df7637b9eb0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666f7dcabf19e55da5a5cdde.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666fb5e579ff8ed95bc5ca9a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "666fee0c051fd45107eac0ae.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66702653607cc3b6354e0fee.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66705e6d9ebda74fe074b762.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6670973c3c41bfd7a7008ccb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6670cf3e3a00b4a218a59f84.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6671076196f6ee9306bc976e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66713f974961371816a5215f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "667177d0b2346ffe656be11a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6671b002d96357f697fb9dbf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6671e843b5fd6e65906268fe.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66722067d0ec887350a91c34.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "667258ae63996e9dd8bbb178.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66729145090e28a82edc353e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6672c9628128dd7828b9ed51.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6673018693803f7e263481ac.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6673790cd20fc34aab773273.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6673aa5c6ead97cde2ab354a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6673e26b518f09aa2ba274ea.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66741ad5ab05fc4b7ec76c34.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6674533ac8b09ab21c48b44c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66748b3740e0c65c62caf0ae.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6675410ee7417d7802fd9bc1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66756d24ae8e5f443f212fb5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66756d30327864998b45b2a9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "667d55841dc2c38736790701.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "667f4faacdf1f4bb1205b2dd.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "667ff843a4416efe116c289a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6680a12350159ec7b7ce017c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668149db499e3df87cd2d6ff.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6681f2a47c6f973618f34e2a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668271d80a8ae099e5fba81d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66829b7f027141e372b370cc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66829d3fe671b1fc4b371733.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6682db6ddeb29a4e748c21d4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6683c0b12069175955d1e4fb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6683ece0cae89879d05935ba.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66849582cc808af923d74a8d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66853e7fdc15eba3bb954743.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6685e6ea7560384522834dd9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66868fd87ef77f7a00f1f782.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6686b9fb9f843595051779f1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6686e4415096c57a0ebf73fa.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66870e72af532728812becf4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6687389b90b8d4a4c073e3a4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6687633dff3eafcdb9374c57.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66878d0db5145f76ba05a0fb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6687b71774202755be2f19a2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6687e145cfb9974812833a4f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66880b680ff26e0768b26f59.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66888a816cd330206dbdbd6f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6688b426d09550d9b013878a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6688e04d048e1fc62b9cc313.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668bc634d8f5161e39b0c714.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668bfff2773f7bb5fd0b428f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668c2b7a5ec4ccd525b9ac9d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668c547006e30de6e422eedf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668c7ee2f51d97bab2296907.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668ca8b9cbf6bd4c3f59f8be.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668cd3ca36ac51ad953fcd45.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668cfd6455b9a787f4c0f6e4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668d27b08b2e35925fa65222.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668d518cffd850b91df742b7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668d7c020e2d6ca3fa788107.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668da5e4d7192672cdd73ff3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668dd1e2be54d020391bcaf2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668dfa350ed07fdd0c4709ce.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668e25244e77a837b1a8821a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668e4f950f47d839c75eb068.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668e794a9eb9756c921579fd.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668ea3bcaba38d72cb4a16d6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668f236db5d18d3717b5d0cb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "668ff481c70e0d19950e32b3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66907b2dfd1d5f276193b3cc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66914606e518b47a03e87f10.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6691c47fa4c6a7feeafedcae.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6692977b3bc5aedbf0223d45.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669316e90e1f769602ab6384.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6693e90e783200cb935cd141.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669467fd12173e4bc621838d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66953a7ef932b685b4ffb1c2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6695b929d97be13cb7d1e2d9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66968bf7a7c0b76f47566c5e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6697b7e126b3f91ea4e3054c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66985ce628a6640b0f3830ce.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6698c3f0d88d6475c2bd41b8.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6698ea177ad1cc7b179d1b3b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66992ef7607f5a67a9cde390.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6699adc653f0483be8b390a0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669a80665b02cc3025fd7ed3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669affe7b7d013ec2346825e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669bd209a73f1894ab42e23f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669c50e139fc4c96c2679e68.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669d23d017078c3bd9d9b1c6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669da24aa36e04f0294067c5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669e751dd25b39e04d5c5d03.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669eae5860daa42e91de10b9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669ef3ebdcc2aae9b45b27be.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "669fc674abf88475e775bffd.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a1969d40555db6f7f4454d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a2696f9f3e55d7092231c5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a2e819fd8439e750b147c4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a3bafb018ba5af347f6469.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a439a7a54f3bd5429922a3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a50c7a17a48e50f3aa0f50.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a58c640a04f8dff7c68456.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a65e8af3b7b934a3dd2972.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a6dc9030074af20f991c48.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a7af9ca2855e254929573d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66a9812754aa4f9e4ccb69ad.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66aa5b6486155b8af0242500.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66aad1faf52fca41521fa0e5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66aba40402a2134c628848f0.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ac22801ced46ab0a0077f5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66acf55b68c8065490dff21a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ad75528d2c7127fcca5038.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ae48a192e582e0e63e9d64.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66aec66e7de24b7c824c9fb9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66af99e2ec1e5470e2c11006.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b018c85c2d44b2a5ee915f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b0ea5c608a0cb7d6108858.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b0feed4214ab1d39ca9464.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b130529ff7573c994eb5c1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b16a6bbbc7731c2e4f97f7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b1a0eacc6140c3c04bbda5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b1da262e5a194b6c24b2a1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b26bd054c5b0361c2f4fab.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b2ba06900a39aaacba15da.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b39b2ba36d397720ad08c4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b3d4651229d355175b7b06.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b63e2269dad0b783a9739c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b67615ac93ca47e8221a65.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66b6afe9d8a82b04ec2f8ea1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bc9dc64c35316eec510a95.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bcdc7dd0e96441721459ef.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bd0daf0a335f9c3a3b34ee.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bd4613b85d1e9d048729c5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bd7e3a77507c3e32ec35ce.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bdb68d2f24abc0db045937.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bdeed34e1167d56b45c804.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66be271e2a3fbaae73444122.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66be5f89e56efee7c3fcbebf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66be988fccca39e642b76ae6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bf3b3e0bbab8c1d7c66771.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bf878721b8d0564d19874d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66bfb458a09af38cbfdc9319.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c0798ab4731695924edbc1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c34284468b369c17c237ea.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c3a6481cda27b064cc3a68.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c3bdedcf8a2459dcd2587d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c3ddd3db868d508b4c605e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c48694c1dbf6ddef7a89ef.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c4c36ec81729999437a2d6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c4f716f968bac2f4cb709e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c5150cda5155cba987448b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c567a0adee9423b09266b4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c5a0665a82bcce1209c3ec.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c5ead94694c7e8240b266a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c61a04f81c8ee3bcf21c8c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c664b661740d214d32369f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c69ceef7085a7648f2535c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c6b9e07f37961019a185e8.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c6f1e35a5f549672d680b5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c71097a7d3c76fbb78423b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66c91cae3b979dcabae373ca.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ca671556a28e86c65b8bf7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66cbb91db05f2550068fc980.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66cd09d2280e908300cdfef6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ce5c099992c704c0f67f53.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d0fedde277b6adb5f02831.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d1159ec537bbee77cddaea.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d25047c6a119cebed948a3.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d3a1d4832f35472328ec02.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d4f38ca98ac9e3e69dbf46.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d644fef49d90890c75b669.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d796de79a70fff6bf06a67.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d7acecba61bf30ac4fd879.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d8e838983a724628c4a5e4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d8fcb1d689f67d8e8d56ff.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d967e2a736582fb0d0df61.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d99ed26cf92680316bc9c7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66d9d85cd9b5f5fd306326aa.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66da0f2b538f6a45ba2908a6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66da494b5bee69f939d29b04.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66dd6f2939e70065ab509fc8.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66de2e2988884c91753b6b96.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66de95ea622954d2da5aa705.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66df7fb9821706a7d5311a33.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e022978f08c98d343332e1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e0d16e3250d37fb4929ec2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e18117e5fedc9d648facce.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e223ae5a2b02f68f1eb6f4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e2c43e1e9d9b11934f6fdf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e374504e52ec12a7056e02.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e38745a6afc540aa1d568d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e4c5e2a879eccf0c3e8971.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e6173890391b61eb4ccffe.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e7f9b73138dc8a03aaefc5.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e8ba5f8e47b2ce48041895.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e8d7a7e0e383470896d467.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e951c47b4625e94bd2173f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66e9a0730a3bd7a2bae0d751.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ea0be69abc2395aa3e6e1a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66eaa6310e73b62eec229f8f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66eb79a6548079bdf6c8f024.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66eccab7138c0e0d74534228.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ee213d0812e899e77dfca1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ee8912f3aa2e9096e95749.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f13ad454ee76531da43444.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f2130925280da6c45afe02.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f345daf9a859762bfc5591.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f3cd43307ffefd0c69515a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f497bfd0c2f6eaa911a063.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f4b4154388d59514adccbc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f5ea45de4df2d56f446639.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f6059e536d989fe5b043aa.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66f6b8a1bd74258309826b67.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fb2ed6d2203e1ef9d4994a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fb4bd60a29262c704b5d8f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fbd51759564270e51e6217.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fc80988a2be919167c24ca.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fc9d0df59aa11085023bb7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fdd1fe0eef110e14822da7.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fde89850914749652e616f.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fe5aee0c0dea4d0f4a46f2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66fef0855392d629ba833e7a.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ffb841ba5c0889bfe8c1a4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "66ffda7435b1af19a7b4ddf6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6700282deeb9ce6d1c7a795e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670082ee743b6718471b47eb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6701c64e7af3a57e81761f0c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670317da5ef360c0963ffad9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67032dcebced3ecefa50f620.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67046959542ed074e5e68294.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67047b72ef2b9b5de076e40e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670532b2e768e7199b262411.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670658aec31269d4c06b092b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6707c9959afbd370293ef749.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670e4451abb7c00ffb9138ea.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670ef8dc92c820996746be20.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670f1a9d25d65677713cbf3e.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "670fcf62437df53a34ff649d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6710e60a8ea9f7d6ba181cfc.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6716c5c2083b229a4fa90a49.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "672018fd4bfe3985f91b89cf.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6720361c616ced76908b529b.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67216a9a234fdcb38c9d3dc6.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67227f7f3b01866885e9a794.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6722bbf0b00064ab4a4d9e68.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67230ee6740029536d8ec284.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -17,14 +2381,152 @@
   "ip": "",
   "live": false
  },
+ "67240dc75272da9a0fc131f4.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "672429b6617c48b942140040.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67255ee23ba50a59bdffda8c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67257bd7668a9d4b620c1fed.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6726b059c58a0d3290a92f15.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6726cce3ec2304ee588522b1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67280204932918766de78bc1.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "67281f36f48626a435c5ceda.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "673e71cbe5ee15198d638889.workspace.egp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
+ "673e7c0287729ebbafb8304d.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6740fe30353dd9319e50b4ac.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674110e4c7e9bb0a1d48ce25.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674127d9693448c3f8715885.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6744965de3695cfba48b15ad.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6744aed400a7ad0e1d142773.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6744bc5bbd741d82feeb3124.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674502e4b1482ab136464cc2.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "6745073e616c19cc226fb4d7.workspace.egp.scale.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674654efddfd0632d21e4972.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6747a6505fce785739330ede.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "6748f77e1255ef192f1084cb.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674a48f22b5917dedfd226d9.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674b9ad383f32c6858038a01.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674cec1e6235cdb1e2dc7210.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "674e3d71615bb93e6fda2b2c.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -545,6 +3047,1092 @@
   "ip": "",
   "live": false
  },
+ "76035.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "76036.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "90011207.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "90110415.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "91010715.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "92121513.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93030403.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93030715.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "93031009.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93031010.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93031011.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93031012.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "93111414.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93111516.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93112116.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "93120111.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120112.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120214.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "93120517.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120518.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120523.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120611.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120613.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120909.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120910.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120911.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120913.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120916.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "93120917.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98010711.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98010811.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98010914.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98010917.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98011012.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98011414.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98011416.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98011418.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98012816.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98080708.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "98080712.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "98081614.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98081618.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98082312.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98082317.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98082811.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98083009.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98083011.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98083015.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98083017.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "980900914.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090200.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98090212.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98090218.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98090310.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98090312.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090320.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090413.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090414.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090415.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090416.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090417.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090418.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090419.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090510.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
+ "98090609.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090610.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98090800.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98090811.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98090914.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98090916.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98091116.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98091119.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98091311.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
+ "98091315.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98091813.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98091814.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98091815.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98091816.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98092314.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98092412.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98092413.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98092414.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98092415.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98092611.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98092616.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98092712.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "98100100.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98100213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100216.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100218.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98100313.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100316.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100317.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100319.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100320.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100321.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100322.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100323.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100400.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100409.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100410.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100411.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100413.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98100414.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100700.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98100711.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100712.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100713.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100714.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100715.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100716.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100717.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100718.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100719.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100720.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98100823.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98100914.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100915.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100916.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100917.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100918.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100919.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100921.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98100922.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101011.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98101013.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101018.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101117.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101118.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101121.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101122.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101510.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101514.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101519.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98101709.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98110611.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98110612.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98111311.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98111320.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "98111418.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98111908.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98111915.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "98112520.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112521.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112522.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112523.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112600.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "98112601.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112619.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112621.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
+ "98112623.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "98112700.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "98989880.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99012011.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99012915.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99013010.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99032503.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99032506.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99050712.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99051710.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99053011.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99053110.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99060512.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99060611.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99061116.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99061911.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99062413.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99062420.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99080113.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99080515.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99080609.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99080617.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99080700.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99081213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "99081312.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "99081314.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "99082110.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "99082311.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "99082609.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
+ "99100808.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "99999991.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "accounts.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -554,7 +4142,7 @@
  "ada.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "104.18.41.195",
+  "ip": "172.64.146.61",
   "live": true
  },
  "advanced-mcp-viewer-service.scale.com": {
@@ -569,6 +4157,12 @@
   "ip": "104.18.41.195",
   "live": true
  },
+ "agent-workshop.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
  "agent-workshop.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -578,7 +4172,7 @@
  "agentex.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "150.171.110.3",
+  "ip": "150.171.109.154",
   "live": true
  },
  "ai-asset-eval-service.scale.com": {
@@ -590,11 +4184,23 @@
  "anteater-explorer.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.64.146.61",
+  "ip": "104.18.41.195",
   "live": true
  },
  "api-ada.scale.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api-internal.99081213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
+ "api-internal.spellbook.scale.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "104.18.41.195",
   "live": true
@@ -605,14 +4211,104 @@
   "ip": "172.66.3.9",
   "live": true
  },
+ "api-test.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api.99081213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
  "api.ada.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "172.64.146.61",
   "live": true
  },
+ "api.agent-workshop.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "api.donovan-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api.donovan.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api.jason-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "api.scale.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "api.sensorfusion.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "api.spellbook.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "api.test-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.trade-portal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "app.99081213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "app.jason-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "app.test-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "apps.egp.scale.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "104.18.41.195",
   "live": true
@@ -626,25 +4322,31 @@
  "arc-agi-2-service.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "104.18.41.195",
+  "ip": "172.64.146.61",
   "live": true
  },
  "argo-test.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.64.146.61",
+  "ip": "104.18.41.195",
   "live": true
+ },
+ "assets.internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "audio-collector.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "76.76.21.22",
+  "ip": "66.33.60.129",
   "live": true
  },
  "auth-gateway-dogfood-sample.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "76.76.21.164",
+  "ip": "76.76.21.98",
   "live": true
  },
  "auth-gateway-dogfood-service.scale.com": {
@@ -665,17 +4367,53 @@
   "ip": "172.64.146.61",
   "live": true
  },
+ "auth.99081213.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.146",
+  "live": true
+ },
  "auth.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "52.85.12.21",
+  "ip": "65.8.54.110",
   "live": true
+ },
+ "auth.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "auth.jason-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "auth.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "104.18.41.195",
+  "ip": "172.64.146.61",
   "live": true
+ },
+ "auth.test-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "autodeploy-public.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "autodeploy.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "autoflation-service.scale.com": {
   "first_seen": "2026-10-05",
@@ -692,7 +4430,7 @@
  "autorobot.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "64.239.123.1",
+  "ip": "64.239.109.193",
   "live": true
  },
  "bbox-annotator-service.scale.com": {
@@ -716,19 +4454,19 @@
  "brand.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "64.239.109.1",
+  "ip": "64.239.109.193",
   "live": true
  },
  "browser-trajectories.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "66.33.60.129",
+  "ip": "76.76.21.22",
   "live": true
  },
  "building-permits.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.64.146.61",
+  "ip": "104.18.41.195",
   "live": true
  },
  "canary.api.scale.com": {
@@ -740,7 +4478,19 @@
  "canary.console.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "canary.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "172.64.146.61",
+  "live": true
+ },
+ "canary.spellbook.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
   "live": true
  },
  "cb-toolbox-service.scale.com": {
@@ -755,6 +4505,18 @@
   "ip": "104.18.34.146",
   "live": true
  },
+ "computer-use.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "console.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
  "console.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -767,10 +4529,52 @@
   "ip": "54.167.163.113",
   "live": true
  },
+ "control.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
  "copilot.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.64.146.61",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "crawler.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "d.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "demo-builder.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "demo.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "demo.dune-qm-test.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "134.33.149.130",
   "live": true
  },
  "dev-sgp.scale.com": {
@@ -782,8 +4586,14 @@
  "dev.agentex.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "150.171.109.183",
+  "ip": "150.171.109.146",
   "live": true
+ },
+ "devbox.internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "discovery.ext.scale.com": {
   "first_seen": "2026-10-05",
@@ -791,17 +4601,287 @@
   "ip": "",
   "live": false
  },
+ "discovery.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "dla-ext.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.150",
+  "live": true
+ },
+ "dla.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "docs-test.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "docs.genai.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "66.33.60.129",
+  "live": true
+ },
+ "docs.gp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "76.76.21.93",
+  "live": true
+ },
+ "docs.nucleus.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.1.163",
+  "live": true
+ },
+ "docs.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "donovan-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "donovan-v1.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "donovan-v2.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "donovan-v2.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "donovan.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "donovan.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "dune-qm-test.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "edr-test.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.32.164.77",
+  "ip": "13.249.74.81",
+  "live": true
+ },
+ "egp-annotation.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "egp-apps.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "egp-cookie.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "egp-sandbox.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "egp-test.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "egp.azure.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "egp.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "elasticsearch.crawler.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "embeddings-visualizer.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "engvpn-admin.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "engvpn-ft.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "engvpn.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "3.33.132.230",
+  "live": true
+ },
+ "events.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.2",
+  "live": true
+ },
+ "exchange.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "expert-management-data-service.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "ext.mongodb.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "fire-product-approval.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "fractal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "frp.internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "gafg-ext.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "gcp-cdn.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.227.237.164",
+  "live": true
+ },
+ "genai-data-gallery.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "go.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.254",
+  "live": true
+ },
+ "googleapis.com.maps-interview-proxy.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "gp.azure.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "gp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
   "live": true
  },
  "gram.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "52.12.140.99",
+  "ip": "100.22.61.178",
   "live": true
+ },
+ "hello.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.236.31.100",
+  "live": true
+ },
+ "hfc.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "64.239.123.129",
+  "live": true
+ },
+ "hhc.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.153",
+  "live": true
+ },
+ "internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "it-agent.corp.scale.com": {
   "first_seen": "2026-10-05",
@@ -812,8 +4892,92 @@
  "it-tooling-hub.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.103.25",
+  "ip": "18.238.192.19",
   "live": true
+ },
+ "jason-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "lidar-now.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "76.76.21.61",
+  "live": true
+ },
+ "lidar.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "76.76.21.123",
+  "live": true
+ },
+ "lillytest123.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "llm-engine.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "main.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "manta-scim-test.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "manta-staging.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.154",
+  "live": true
+ },
+ "mantastaging.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "mist-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "ml-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ml-launch-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ml-launch-new-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ml-mosaic-internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "ml-serving-internal.scale.com": {
   "first_seen": "2026-10-05",
@@ -821,22 +4985,58 @@
   "ip": "",
   "live": false
  },
+ "model-eval-public.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "morganstanley-dev.gp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "morganstanley-test.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "morganstanley-test.gp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "morganstanley.gp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.145",
+  "live": true
+ },
+ "nucleus.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.16.242.118",
+  "live": true
+ },
  "okta-groups.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.138.69",
+  "ip": "18.173.121.76",
   "live": true
  },
  "okta-mcp.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "35.80.239.73",
+  "ip": "35.82.17.199",
   "live": true
  },
  "okta-sso-portal.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "54.149.116.27",
+  "ip": "35.82.18.30",
   "live": true
  },
  "panther-mcp.corp.scale.com": {
@@ -848,7 +5048,55 @@
  "people-offsite.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.249.141.39",
+  "ip": "65.8.180.64",
+  "live": true
+ },
+ "platform.hfc.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "76.76.21.22",
+  "live": true
+ },
+ "pritunl.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "private-docs.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "redash-dev.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "redash-next.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "redash.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "redteam.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "rudi.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
   "live": true
  },
  "scale-experimental.api.scale.com": {
@@ -857,11 +5105,77 @@
   "ip": "104.18.41.195",
   "live": true
  },
+ "scale-experimental.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
  "scale.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "ip": "76.76.21.93",
+  "ip": "76.76.21.98",
   "live": true
+ },
+ "scaleui-radix-docs.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "scaleui.storybook.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "10.192.4.142",
+  "live": true
+ },
+ "scim.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.122.113.163",
+  "live": true
+ },
+ "scimtest.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "scraper.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "sensor-fusion-ops-dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "sensorfusion.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "sensorfusion.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "spellbook.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "staging-api.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "staging-sgp.scale.com": {
   "first_seen": "2026-10-05",
@@ -869,16 +5183,172 @@
   "ip": "",
   "live": false
  },
+ "staging.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "stagingmanta.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "150.171.109.152",
+  "live": true
+ },
+ "static.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "65.8.180.37",
+  "live": true
+ },
+ "status.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "52.85.151.47",
+  "live": true
+ },
  "storybook-reflect.api.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "104.18.41.195",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "storybook.internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "storybook.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "10.192.4.142",
   "live": true
  },
  "streamlit.corp.scale.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "50.112.100.213",
+  "live": true
+ },
+ "sweat.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "tasmutest.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "temporal.worker.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "test-env.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "test-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "testtesttest.dashboard.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "tier-testing-aws.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "tier-testing-azure.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "tier-testing-gcp.azure.workspace.egp.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "192.168.1.1",
+  "live": true
+ },
+ "trade-portal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "trajectories.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "trust.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.26.175",
+  "live": true
+ },
+ "ui.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
+  "live": true
+ },
+ "verdad.internal.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.253.7.229",
+  "live": true
+ },
+ "videocaptioning.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "66.33.60.129",
+  "live": true
+ },
+ "vpn-admin.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.69.126.210",
+  "live": true
+ },
+ "vpn.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.238.162.202",
+  "live": true
+ },
+ "woven.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.41.195",
+  "live": true
+ },
+ "www.exchange.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "www.scale.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.146.61",
   "live": true
  }
 }

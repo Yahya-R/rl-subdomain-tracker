@@ -65,10 +65,34 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "acg-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "acg-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "acg-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
  "acg.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "104.21.38.196",
+  "live": true
+ },
+ "admin.edu-arena.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "aegis.turing.com": {
@@ -86,7 +110,7 @@
  "agencies-staging.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.67.138.31",
+  "ip": "104.21.38.196",
   "live": true
  },
  "agencies-uat.turing.com": {
@@ -116,7 +140,7 @@
  "agentic.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "142.250.125.121",
+  "ip": "142.251.121.121",
   "live": true
  },
  "agents-dev.turing.com": {
@@ -185,6 +209,12 @@
   "ip": "34.41.93.17",
   "live": true
  },
+ "agentspace.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "agios-dev-alpha.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -236,13 +266,85 @@
  "akademia.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.202.121",
+  "ip": "192.178.142.121",
   "live": true
+ },
+ "algs-nestjs-master.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "algs-nestjs.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "amazon-dashboard.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "amazon-tau-bench.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.171.72.115",
+  "live": true
+ },
+ "api-osb.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api-tb-dev.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api-tb.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "api.akademia.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "173.194.206.121",
+  "ip": "142.251.108.121",
+  "live": true
+ },
+ "apple-dashboard.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "apt-application-1460346-2184571-5337-preview-apt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "apt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "audio-analyzer-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "audio-analyzer.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "audio-collection-dev.turing.com": {
@@ -263,6 +365,24 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "audit-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.57.87.32",
+  "live": true
+ },
+ "audit-compliance-assistant.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.57.87.32",
+  "live": true
+ },
+ "auth.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "autoreview-tool-backend-dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -275,14 +395,26 @@
   "ip": "34.172.60.85",
   "live": true
  },
+ "autotest-dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
  "belyx-v1.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.201.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "bench.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "benchforce.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -305,10 +437,154 @@
   "ip": "52.86.114.4",
   "live": true
  },
+ "bootcamp-labeling.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "box-listener.genai-platform.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "209.92.170.130",
+  "live": true
+ },
  "browser.demo.agentic.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "34.9.212.251",
+  "live": true
+ },
+ "caa-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.44.63.169",
+  "live": true
+ },
+ "careers-dev-custom.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "careers-dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "case-studies.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ces-gpt-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "ces-gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "challenge.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "character-ai-next.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "character-ai.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "chat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "ciso.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "cloud-ide-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "cloud-ide.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "cms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "code-exec-server-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "communications-dev-socket.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "communications-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "communications-staging-socket.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.197.171.31",
+  "live": true
+ },
+ "communications-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "communications-uat-socket.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "communications-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "community.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.185.65",
   "live": true
  },
  "consent.field.turing.com": {
@@ -317,16 +593,82 @@
   "ip": "18.204.175.147",
   "live": true
  },
+ "content.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.185.17.246",
+  "live": true
+ },
+ "conv-staging.tms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.61.118.161",
+  "live": true
+ },
+ "coolify.rlgym.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.58.238.157",
+  "live": true
+ },
+ "cot.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "cot.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.226.100.190",
+  "live": true
+ },
  "crisp.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
+ "ct-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.73.173",
+  "live": true
+ },
+ "ct-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.73.173",
+  "live": true
+ },
+ "ct-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.73.173",
+  "live": true
+ },
+ "ct.marketing.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.117.93.81",
+  "live": true
+ },
+ "ct.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "45.223.56.119",
+  "live": true
+ },
  "ctms-preprod.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
+  "live": true
+ },
+ "ctms-staging.tms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.61.118.161",
   "live": true
  },
  "cua-arena.turing.com": {
@@ -335,14 +677,44 @@
   "ip": "199.36.158.100",
   "live": true
  },
+ "dasm-media-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.197.171.31",
+  "live": true
+ },
+ "data-analytics.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.197.110.48",
+  "live": true
+ },
  "databricks.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
  },
+ "datahound.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.46.81.150",
+  "live": true
+ },
+ "datahound.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "dataset-controller-dev.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "dataset-controller.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -359,16 +731,82 @@
   "ip": "34.61.118.161",
   "live": true
  },
+ "demo-labeling.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "demo.agentic.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "34.9.212.251",
   "live": true
  },
+ "demochat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "deskzen.rlgym.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.58.238.157",
+  "live": true
+ },
+ "dev-customers.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "dev-self-serve.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "dev-traefik.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
  "dev.agios.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "136.65.134.72",
+  "live": true
+ },
+ "dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "developer-labs.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "devops-example.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "disaster-recovery.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "dos.turing.com": {
@@ -389,10 +827,124 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "edu-arena-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.54.87.156",
+  "live": true
+ },
+ "edu-arena.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "email-campaigns-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "email-dev-centralized-data.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "email-dev-csv-utilities.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "email-dev-mailer.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "email-dev-unsubscription.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "email-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "email-staging-centralized-data.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "email-staging-csv-utilities.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.107.145.164",
+  "live": true
+ },
+ "email-staging-mailer.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "email-staging-unsubscription.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "email-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "email-uat-centralized-data.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "email-uat-csv-utilities.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "email-uat-mailer.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "email-uat-unsubscription.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "email-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
  "env.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "34.72.145.218",
+  "live": true
+ },
+ "eval-a-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.136.198.181",
   "live": true
  },
  "eval-a-staging-api.turing.com": {
@@ -407,6 +959,12 @@
   "ip": "34.136.198.181",
   "live": true
  },
+ "eval-a.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.136.198.181",
+  "live": true
+ },
  "eval.agentic.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -415,7 +973,13 @@
  },
  "eval.turing.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "evalplatform.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
  },
@@ -425,8 +989,92 @@
   "ip": "35.226.4.57",
   "live": true
  },
+ "external-proxy-monitoring-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "fastchat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.117.175.7",
+  "live": true
+ },
+ "fc-eval.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.30.244.6",
+  "live": true
+ },
+ "fc.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "feature-service-oauth.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "finalysis.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.171.209.14",
+  "live": true
+ },
+ "financerag.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.71.201.236",
+  "live": true
+ },
+ "flexsupport.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.226",
+  "live": true
+ },
+ "flower.llm-as-evaluator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "forum.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "99.83.222.164",
+  "live": true
+ },
+ "gaia-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "gaia.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "gbm.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "gdm-agentic-monitoring.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "gdm-agentic.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -434,13 +1082,13 @@
  "gdpval-qa.rd.atlas.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.202.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "gdpval-staging.rd.atlas.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.201.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "gdpval-worker-beta-pr-303.rd.atlas.turing.com": {
@@ -527,10 +1175,52 @@
   "ip": "",
   "live": false
  },
+ "gdpval-worker-beta-pr-605.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "gdpval-worker-beta-pr-606.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "gdpval-worker-staging.rd.atlas.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "34.36.166.66",
+  "live": true
+ },
+ "gemini-pipeline.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.208.221.44",
+  "live": true
+ },
+ "go.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "198.202.211.1",
+  "live": true
+ },
+ "gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "grafana-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "grafana.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "harbor-trial-claude-staging.rd.atlas.turing.com": {
@@ -563,6 +1253,18 @@
   "ip": "34.36.15.212",
   "live": true
  },
+ "health.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.202.94.223",
+  "live": true
+ },
+ "hector-cert.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "helm.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -572,11 +1274,293 @@
  "help.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.32.205.67",
+  "ip": "13.226.38.86",
+  "live": true
+ },
+ "help1.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.30",
+  "live": true
+ },
+ "hms-api-m.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.9.190.129",
+  "live": true
+ },
+ "hms-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "hms-m.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.9.190.129",
+  "live": true
+ },
+ "hms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "huyhoang-final.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "huyhoang-new-3.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "huyhoang-new.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "huyhoang.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "id-verification-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.120.137",
+  "live": true
+ },
+ "id-verification-sandbox-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.120.42.7",
+  "live": true
+ },
+ "ide-webview.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "img.sib.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.17.157.243",
+  "live": true
+ },
+ "info.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.30",
+  "live": true
+ },
+ "instruction-validation.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "internal.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "invoice-ai.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.66.85.231",
+  "live": true
+ },
+ "invoice-processing-agent.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.44.88.96",
+  "live": true
+ },
+ "invoice-processing.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.136.40.14",
+  "live": true
+ },
+ "is.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "jenkins-development.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "jenkins-gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "jenkins.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.240.134",
+  "live": true
+ },
+ "kbase-search.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "146.148.44.121",
+  "live": true
+ },
+ "klenty-webhooks.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "knowledge-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "kong-admin.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "kong.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "label-studio-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.117.175.7",
+  "live": true
+ },
+ "label-studio.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.117.175.7",
+  "live": true
+ },
+ "labeling-a.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-ad.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-al.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-an.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-b.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-bm.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-by.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-dasm.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-extraction.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "labeling-fm.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-g.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "45.223.56.119",
+  "live": true
+ },
+ "labeling-in.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "labeling-m.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "45.223.56.119",
+  "live": true
+ },
+ "labeling-metrics.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-mi.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-ms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-n.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -587,8 +1571,68 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "labeling-oa.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-s.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-sf.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "labeling-t.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "labeling-te.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-tool-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "labeling-tool.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "labeling-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-v.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "labeling-x.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -599,10 +1643,142 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "labeling.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "langfuse.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "legacy-cot.rd.atlas.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "142.251.121.121",
+  "live": true
+ },
+ "link.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "170.187.131.209",
+  "live": true
+ },
+ "linter-dev.llm-as-evaluator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "linter.llm-as-evaluator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "litellm-poc.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-as-evaluator-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-as-evaluator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "45.223.56.119",
+  "live": true
+ },
+ "llm-deepmind-review.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.10.118.255",
+  "live": true
+ },
+ "llm-gateway-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-gateway.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-poc-a.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-poc-g.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "llm-review.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "llm-reviewer-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-reviewer.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-run-checks-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llm-run-checks.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "llmstudio-poc.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "llmstudio-tracker-poc.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
  "lobby-dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
+  "live": true
+ },
+ "logging-mapping-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
   "live": true
  },
  "login.turing.com": {
@@ -611,10 +1787,112 @@
   "ip": "13.248.245.245",
   "live": true
  },
+ "lt-status-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "lt-status.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "magic-lens-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "marketing.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.185.65",
+  "live": true
+ },
+ "marscode.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "matching-dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "matching-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.117.111.253",
+  "live": true
+ },
+ "matching-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "mcp-client-ant.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.54.148.212",
+  "live": true
+ },
+ "mcp-git-ingest.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "meta-agentless.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "mistral-validator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "modal-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "modal-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "modal.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "ms-qgen-dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
+  "live": true
+ },
+ "mtms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "multi-agent.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "20.41.252.65",
   "live": true
  },
  "mydga-be.turing.com": {
@@ -626,43 +1904,91 @@
  "mydga.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.239.32.21",
+  "ip": "216.239.38.21",
   "live": true
+ },
+ "mysql-development.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "neo4j-bolt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "neo4j-dataset.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "new-postmatch.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "nginx-staging-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "nginx-uat-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.224.207.190",
+  "live": true
+ },
+ "nginxtest.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "nothing.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "nvidia.calendar.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "209.85.200.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "nvidia.dashdoor.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "142.250.152.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "nvidia.deskzen.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "142.250.152.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "nvidia.lsn.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.217.214.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "nvidia.mailg.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "192.178.209.121",
+  "ip": "142.251.121.121",
   "live": true
  },
  "nvidia.mira.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.217.214.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "nvidia.spothub.rlgym.turing.com": {
@@ -674,7 +2000,25 @@
  "nvidia.waymart.rlgym.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "142.251.184.121",
+  "ip": "192.178.142.121",
+  "live": true
+ },
+ "nyt-wiki.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "oncall-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "oncall.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "osworld-dev.turing.com": {
@@ -689,10 +2033,52 @@
   "ip": "107.178.243.153",
   "live": true
  },
+ "p.id-verification-sandbox.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.70.221.170",
+  "live": true
+ },
+ "p.id-verification.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.67.241.53",
+  "live": true
+ },
+ "penguin-dashboard-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "penguin-dashboard.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "penguin-qgen-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "people.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.138.23",
+  "ip": "108.139.10.89",
+  "live": true
+ },
+ "phoenix.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "plagiarism-checker-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "preprod.agios.turing.com": {
@@ -704,13 +2090,13 @@
  "prism-harbor-dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.226.17.154",
+  "ip": "3.217.61.81",
   "live": true
  },
  "prism-harbor.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "98.95.196.52",
+  "ip": "32.193.252.173",
   "live": true
  },
  "prod.agios.turing.com": {
@@ -719,10 +2105,106 @@
   "ip": "34.121.242.49",
   "live": true
  },
+ "project-review.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "query-understanding-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.36.20.53",
+  "live": true
+ },
+ "query-understanding.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "quivr-dev-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "quivr-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "quivr-kb.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.66.38.46",
+  "live": true
+ },
  "qwen2.5.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "47.87.139.137",
+  "live": true
+ },
+ "r.sib.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.246.243.65",
+  "live": true
+ },
+ "rag-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "ranking-develop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ranking-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ranking-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "realtime.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.73.111.48",
+  "live": true
+ },
+ "research.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.36.158.100",
+  "live": true
+ },
+ "rl-gym-a.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-advance-backend.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-advance-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.60.255.44",
   "live": true
  },
  "rl-gym-advance-platform.turing.com": {
@@ -737,9 +2219,129 @@
   "ip": "34.60.255.44",
   "live": true
  },
+ "rl-gym-amazon-mcp-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-amazon-mcp.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-demo.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.60.255.44",
+  "live": true
+ },
+ "rl-gym-harness.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "rl-gym-jira-mcp-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-jira-mcp.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-labs-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-labs-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-labs.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-paypal-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-paypal-mcp-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-paypal-mcp.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-sf.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym-slack-mcp-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-slack-mcp.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rl-gym-sn.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rl-gym.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.8.137.114",
+  "live": true
+ },
+ "rlhf-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rlhf-code-trainer-stats.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "rlhf-develop-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "rlhf-develop.turing.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "34.54.201.117",
   "live": true
  },
@@ -753,6 +2355,24 @@
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "34.8.92.108",
+  "live": true
+ },
+ "rlhf-uat-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "rlhf-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.102.210.12",
+  "live": true
+ },
+ "rlhf-v2.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
   "live": true
  },
  "rlhf-v3.turing.com": {
@@ -770,13 +2390,43 @@
  "rwp-pilot.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "192.178.209.121",
+  "ip": "142.251.121.121",
   "live": true
+ },
+ "s3manager.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.198.177.87",
+  "live": true
+ },
+ "sales.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "16.144.146.102",
+  "live": true
+ },
+ "salesforce-delivery.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "salesforce-validator.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "sandbox-ssh.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "sandbox.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "44.194.87.217",
+  "ip": "44.207.142.38",
   "live": true
  },
  "sat.dev.turing.com": {
@@ -803,23 +2453,155 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "sdr-analysis.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.71.35.199",
+  "live": true
+ },
+ "search-truckpro.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "securecodingdojo.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.29.244.244",
+  "live": true
+ },
+ "service-delivery.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.171.72.115",
+  "live": true
+ },
+ "service-developer-availability-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-availability-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-grpc-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-grpc-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-grpc-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-knowledge-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-developer-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "service-postmatch-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "service-postmatch-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "service-postmatch.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "servicenow-pipeline.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "sim.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
+ "socket-staging-vetting.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
  "specvision.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.216.185.182",
+  "ip": "54.225.173.230",
+  "live": true
+ },
+ "sso.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.18.43.182",
   "live": true
  },
  "ssp.dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "209.85.200.121",
+  "ip": "192.178.142.121",
   "live": true
+ },
+ "staging-customers.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "staging-developers-v2.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "staging-self-serve.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.104.165",
+  "live": true
+ },
+ "staging-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "staging.turing.com": {
   "first_seen": "2026-10-05",
@@ -832,6 +2614,24 @@
   "last_seen": "2026-10-06",
   "ip": "8.232.50.2",
   "live": true
+ },
+ "swe-bench-plus-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "swe-bench-plus.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "syncline.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "ta-wiki.turing.com": {
   "first_seen": "2026-10-05",
@@ -854,23 +2654,101 @@
  "talent-bridge-dev-api.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "209.85.145.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "talent-bridge-dev.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "173.194.192.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "talent-bridge.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "209.85.200.121",
+  "ip": "142.251.108.121",
+  "live": true
+ },
+ "talentsupport.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.60.103.226",
+  "live": true
+ },
+ "talenttrack.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.72.145.218",
+  "live": true
+ },
+ "task-staging.tms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.61.118.161",
+  "live": true
+ },
+ "tasks.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "tau-bench.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
   "live": true
  },
  "tb.reviewer.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "terminalbench.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.232.22.200",
+  "live": true
+ },
+ "test-kustomize.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.172.60.85",
+  "live": true
+ },
+ "test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ticket-tracker.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.60.24.194",
+  "live": true
+ },
+ "tms-a.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-al.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-an.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-b.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -893,8 +2771,26 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "tms-g.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
  "tms-m.turing.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-ms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-o.turing.com": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "35.222.142.54",
   "live": true
@@ -905,10 +2801,262 @@
   "ip": "35.222.142.54",
   "live": true
  },
+ "tms-sandbox-v2.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "tms-sandbox.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "52.13.211.126",
+  "live": true
+ },
+ "tms-sf.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-te.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms-z.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "tms.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "tmsdevelop.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "trace.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "tracking.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "51.254.13.185",
+  "live": true
+ },
  "turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "45.223.155.119",
+  "ip": "45.223.56.119",
+  "live": true
+ },
+ "turingchat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "turinggenaidevlab.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.244.250.96",
+  "live": true
+ },
+ "uat-developer-search.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "uat-developers-v2.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "uat-developers.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.224.207.190",
+  "live": true
+ },
+ "uat-matching.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "uat-self-serve.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.98.98.31",
+  "live": true
+ },
+ "unbounce.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "unsubscription-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.120.5.80",
+  "live": true
+ },
+ "unsubscription-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.120.5.80",
+  "live": true
+ },
+ "unsubscription-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.120.5.80",
+  "live": true
+ },
+ "unsubscription.marketing.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.201.107.193",
+  "live": true
+ },
+ "unsubscription.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.120.5.80",
+  "live": true
+ },
+ "url-bk-dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "url-dev-env.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "v2.cot.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "vetting-apt-ide.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.121.202.48",
+  "live": true
+ },
+ "vetting-build-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "vetting-engine-socket-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.172.60.85",
+  "live": true
+ },
+ "vetting-engine-socket-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.197.171.31",
+  "live": true
+ },
+ "vetting-engine-socket-uat.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.224.207.190",
+  "live": true
+ },
+ "vetting-exec-server.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "vetting-lab.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.190.82.215",
+  "live": true
+ },
+ "vetting-scoring-service-staging.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.197.171.31",
+  "live": true
+ },
+ "visualized-llm-financial-analysis.gpt.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.226.193.238",
+  "live": true
+ },
+ "vlm-bench.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.36.158.100",
+  "live": true
+ },
+ "voice-training-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "voice-training-dev-api.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "voice-training-dev.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "voice-training.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.222.142.54",
+  "live": true
+ },
+ "vpn.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.232.82.114",
+  "live": true
+ },
+ "welcome-test.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
+  "live": true
+ },
+ "welcome.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "104.21.38.196",
   "live": true
  },
  "work-uat.turing.com": {
@@ -923,10 +3071,34 @@
   "ip": "45.223.56.119",
   "live": true
  },
+ "workspace-jenkins.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
+ "workspace.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.138.31",
+  "live": true
+ },
  "ws.akademia.turing.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "136.111.178.183",
+  "live": true
+ },
+ "www.case-studies.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "www.turing.com": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "45.223.56.119",
   "live": true
  },
  "zeta3-data-browser-migration.turing.com": {
