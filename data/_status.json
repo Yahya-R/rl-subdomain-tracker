@@ -73,6 +73,13 @@
    "crtsh"
   ]
  },
+ "fleetai.com": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:39",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
  "gr.inc": {
   "complete": false,
   "last_scan": "2026-10-06T11:21",
@@ -140,6 +147,13 @@
   "last_scan": "2026-10-06T11:22",
   "failed_sources": [
    "crtsh"
+  ]
+ },
+ "originator.inc": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:38",
+  "failed_sources": [
+   "certspotter"
   ]
  },
  "pareto.ai": {
@@ -227,6 +241,14 @@
   "complete": false,
   "last_scan": "2026-10-06T11:27",
   "failed_sources": [
+   "crtsh"
+  ]
+ },
+ "ulam.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T11:38",
+  "failed_sources": [
+   "certspotter",
    "crtsh"
   ]
  },
