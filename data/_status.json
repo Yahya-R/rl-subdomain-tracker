@@ -4,10 +4,25 @@
   "last_scan": "2026-10-06T01:23",
   "failed_sources": []
  },
+ "bespokelabs.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T01:41",
+  "failed_sources": [
+   "crtsh"
+  ]
+ },
  "datacurve.ai": {
   "complete": false,
   "last_scan": "2026-10-06T01:27",
   "failed_sources": [
+   "crtsh"
+  ]
+ },
+ "halluminate.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T01:41",
+  "failed_sources": [
+   "certspotter",
    "crtsh"
   ]
  },
@@ -55,6 +70,14 @@
   "complete": true,
   "last_scan": "2026-10-06T01:24",
   "failed_sources": []
+ },
+ "proximal.ai": {
+  "complete": false,
+  "last_scan": "2026-10-06T01:41",
+  "failed_sources": [
+   "certspotter",
+   "crtsh"
+  ]
  },
  "scale.com": {
   "complete": false,
