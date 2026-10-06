@@ -1,415 +1,541 @@
 {
+ "admin-cegid.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "admin-etsy.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "admin-portal-esty.gcp.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "admin-rc.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "admin.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api-cegid.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "api-etsy.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "api-rc.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "api.adobe.australiaeast.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "4.196.162.61",
   "live": true
  },
  "api.adobe.canadacentral.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.43.13.126",
   "live": true
  },
  "api.adobe.eastus2.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "172.177.95.71",
   "live": true
  },
  "api.adobe.southindia.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.219.108.78",
   "live": true
  },
  "api.adobe.switzerlandnorth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "51.107.87.213",
   "live": true
  },
  "api.adobe.uksouth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.68.40.85",
   "live": true
  },
  "api.adobe.westeurope.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.71.95.53",
   "live": true
  },
  "api.adobe.westus3.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "57.154.38.161",
   "live": true
  },
  "api.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "app-cegid.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "app-etsy.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "app-rc.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "app.adobe.australiaeast.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "4.196.162.61",
   "live": true
  },
  "app.adobe.canadacentral.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.43.13.126",
   "live": true
  },
  "app.adobe.eastus2.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "172.177.95.71",
   "live": true
  },
  "app.adobe.southindia.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.219.108.78",
   "live": true
  },
  "app.adobe.switzerlandnorth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "51.107.87.213",
   "live": true
  },
  "app.adobe.uksouth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.68.40.85",
   "live": true
  },
  "app.adobe.westeurope.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.71.95.53",
   "live": true
  },
  "app.adobe.westus3.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "57.154.38.161",
   "live": true
  },
  "app.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "app.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "52.200.156.217",
   "live": true
  },
  "auth.dev.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
-  "ip": "104.18.43.182",
+  "last_seen": "2026-10-06",
+  "ip": "172.64.144.74",
   "live": true
  },
  "auth.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "104.18.43.182",
   "live": true
  },
+ "auth.staging.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
-  "ip": "13.35.78.116",
+  "last_seen": "2026-10-06",
+  "ip": "13.227.87.105",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
-  "ip": "13.35.78.106",
+  "last_seen": "2026-10-06",
+  "ip": "18.160.200.3",
   "live": true
  },
  "chat.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "3.214.179.40",
   "live": true
  },
+ "customer.portal.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "data.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "data.private.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "demo.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "design-review-hub.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "34.111.179.208",
   "live": true
  },
  "dev.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "dev.private.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "develop.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "docs.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "52.7.144.79",
   "live": true
  },
  "echoserver.adobe.eastus2.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "172.177.95.71",
   "live": true
  },
+ "echoserver.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "echoserver2.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "echoservertest.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "ext.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "external.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "hosted-box.minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "internal.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "isomorph.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "isomorph.private.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "link.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "mars.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "13.216.218.5",
   "live": true
  },
+ "models.internal.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "onprem.private.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "onpremtest.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "otel-cegid.azure.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "otel-etsy.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "otel-rc.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "otel.adobe.australiaeast.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "4.196.162.61",
   "live": true
  },
  "otel.adobe.canadacentral.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.43.13.126",
   "live": true
  },
  "otel.adobe.eastus2.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "172.177.95.71",
   "live": true
  },
  "otel.adobe.southindia.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.219.108.78",
   "live": true
  },
  "otel.adobe.switzerlandnorth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "51.107.87.213",
   "live": true
  },
  "otel.adobe.uksouth.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.68.40.85",
   "live": true
  },
  "otel.adobe.westeurope.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "20.71.95.53",
   "live": true
  },
  "otel.adobe.westus3.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "57.154.38.161",
   "live": true
  },
  "otel.gcp.onprem.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "otel.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "52.5.6.167",
   "live": true
  },
  "patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "198.202.211.1",
   "live": true
  },
  "prod.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "prod.private.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "rewrite.minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
-  "ip": "52.44.82.166",
+  "last_seen": "2026-10-06",
+  "ip": "54.87.134.187",
   "live": true
  },
  "rl.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "rl.private.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "sme-intake.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "34.111.179.208",
   "live": true
  },
  "speedrunbench.sandbox.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "staging.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "test.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "test1.onprem.patronus.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
   "ip": "",
   "live": false
  },
  "txt2sql.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "34.111.179.208",
   "live": true
  },
  "vouch.adobe.eastus2.azure.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "172.177.95.71",
   "live": true
  },
  "wiki.rl.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
-  "ip": "185.199.108.153",
+  "last_seen": "2026-10-06",
+  "ip": "185.199.110.153",
   "live": true
  },
  "www.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "198.202.211.1",
   "live": true
  }
