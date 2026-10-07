@@ -26,7 +26,7 @@
  "accounts.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "api.verita-ai.com": {
@@ -62,7 +62,7 @@
  "clerk.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "client.staging.verita-ai.com": {
@@ -80,7 +80,7 @@
  "core-api.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "18.172.134.101",
+  "ip": "18.238.192.39",
   "live": true
  },
  "dashboard.verita-ai.com": {
@@ -92,13 +92,13 @@
  "demon.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.129",
+  "ip": "216.150.16.193",
   "live": true
  },
  "docu.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.24.57.16",
+  "ip": "216.24.57.18",
   "live": true
  },
  "files1.alpha.verita-ai.com": {
@@ -106,6 +106,12 @@
   "last_seen": "2026-10-07",
   "ip": "3.95.73.228",
   "live": true
+ },
+ "foundrytestalfkdjsfhiuehdsf.verita-ai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "hillclimb.alpha.verita-ai.com": {
   "first_seen": "2026-10-06",
@@ -134,31 +140,31 @@
  "jobs.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "64.29.17.1",
+  "ip": "216.198.79.1",
   "live": true
  },
  "mitra.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "nps.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "offers.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "64.29.17.65",
+  "ip": "216.198.79.1",
   "live": true
  },
  "one.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "ops.studio.staging.verita-ai.com": {
@@ -176,19 +182,19 @@
  "ops.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "13.216.71.79",
+  "ip": "18.205.197.179",
   "live": true
  },
  "org.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "payments.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.198.79.65",
+  "ip": "64.29.17.1",
   "live": true
  },
  "recru.verita-ai.com": {
@@ -200,13 +206,13 @@
  "refer.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.1",
   "live": true
  },
  "relay.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.1",
   "live": true
  },
  "research.alpha.verita-ai.com": {
@@ -230,19 +236,19 @@
  "shub.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.193",
   "live": true
  },
  "shub2.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "shub3.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.1",
   "live": true
  },
  "siren.verita-ai.com": {
@@ -260,7 +266,7 @@
  "staging.api.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "3.225.154.123",
+  "ip": "23.23.52.121",
   "live": true
  },
  "staging.dashboard.verita-ai.com": {
@@ -296,13 +302,13 @@
  "talentdocs.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "76.76.21.98",
+  "ip": "76.76.21.142",
   "live": true
  },
  "team.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.198.79.65",
+  "ip": "216.198.79.1",
   "live": true
  },
  "test.verita-ai.com": {
@@ -314,7 +320,7 @@
  "updates.verita-ai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "64.29.17.65",
+  "ip": "64.29.17.1",
   "live": true
  },
  "verita-ai.com": {
