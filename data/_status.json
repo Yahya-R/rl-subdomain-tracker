@@ -20,15 +20,18 @@
  },
  "andromede.ai": {
   "complete": true,
-  "last_scan": "2026-10-06T18:37",
+  "last_scan": "2026-10-07T01:57",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "crtsh"
   ]
  },
  "anthromind.com": {
   "complete": true,
-  "last_scan": "2026-10-06T18:31",
-  "failed_sources": []
+  "last_scan": "2026-10-07T01:56",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "aptura.ai": {
   "complete": true,
@@ -90,12 +93,14 @@
  },
  "diffuselabs.ai": {
   "complete": true,
-  "last_scan": "2026-10-06T18:37",
-  "failed_sources": []
+  "last_scan": "2026-10-07T01:57",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "dissei.ai": {
   "complete": true,
-  "last_scan": "2026-10-06T18:25",
+  "last_scan": "2026-10-07T01:56",
   "failed_sources": []
  },
  "dmodel.ai": {

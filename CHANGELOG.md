@@ -1,5 +1,10 @@
 # New subdomains
 
+## 2026-10-07
+
+### tastelabs.com
+- api.staging.symphony.tastelabs.com (130.211.18.166)
+
 ## 2026-10-06
 
 ### mercor.com
