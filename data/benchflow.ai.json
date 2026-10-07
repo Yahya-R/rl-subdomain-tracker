@@ -392,7 +392,7 @@
  "clawsbench.benchflow.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "docs.benchflow.ai": {
@@ -428,7 +428,7 @@
  "hub.benchflow.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "new.benchflow.ai": {
@@ -440,7 +440,7 @@
  "pay.benchflow.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "100.49.110.141",
+  "ip": "100.49.0.246",
   "live": true
  },
  "posttrainarena.benchflow.ai": {
@@ -533,13 +533,37 @@
   "ip": "76.76.21.21",
   "live": true
  },
+ "www.arena.benchflow.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "www.benchflow.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
   "ip": "76.76.21.21",
   "live": true
  },
+ "www.docs.benchflow.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "www.pay.benchflow.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.benchflow.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.vibe.benchflow.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "",
