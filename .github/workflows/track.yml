@@ -33,8 +33,18 @@ jobs:
         if: hashFiles('new.md') != ''
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "New subdomains $(date -u +%F)" --body-file new.md
+        # Issue bodies are capped at 65,536 characters; the full list is always in CHANGELOG.md.
+        run: |
+          if [ "$(wc -c < new.md)" -gt 60000 ]; then
+            head -c 60000 new.md > body.md
+            printf '\n\n_List truncated; see CHANGELOG.md for every new subdomain._\n' >> body.md
+          else
+            cp new.md body.md
+          fi
+          gh issue create --title "New subdomains $(date -u +%F)" --body-file body.md
+          rm -f body.md
       - name: Commit results
+        if: always()  # keep the scan's results even if opening the issue failed
         run: |
           rm -f new.md
           git add -A

@@ -57,7 +57,7 @@ def crtsh_db(d):
     sql = """SELECT DISTINCT cai.name_value FROM certificate_and_identities cai
              WHERE plainto_tsquery('certwatch', %(d)s) @@ identities(cai.certificate)
                AND (lower(cai.name_value) = %(d)s OR lower(cai.name_value) LIKE %(suffix)s)"""
-    for attempt in range(3):
+    for attempt in range(1):  # one try: the pooler is often full, and the website is the fallback
         try:
             with LOCKS["crt.sh"]:
                 # crt.sh's connection pooler rejects the "options" startup parameter, so no server-side timeout.
@@ -75,9 +75,7 @@ def crtsh_db(d):
             DB_BROKEN.set()
             return None
         except Exception as e:
-            print(f"  crt.sh database failed ({str(e).strip()[:120]}), try {attempt + 1}/3", file=sys.stderr)
-            if attempt < 2:
-                time.sleep(15 * (attempt + 1))
+            print(f"  crt.sh database failed ({str(e).strip()[:120]}), falling back to the website", file=sys.stderr)
     return None
 
 
@@ -138,7 +136,11 @@ def c99(d):
     return None if not isinstance(data, dict) else [s["subdomain"] for s in data.get("subdomains", [])]
 
 
-SOURCES = (crtsh, certspotter, hackertarget, alienvault, subdomain_center, anubis, wayback, rapiddns, c99)
+# Anubis (jldc.me) answers 403 and unauthenticated AlienVault OTX answers 429 to every request
+# from GitHub runners, so neither is queried; their functions stay for an API key or a later retry.
+SOURCES = (crtsh, certspotter, hackertarget, subdomain_center, wayback, rapiddns, c99)
+# The sources whose results the baselines collected before per-source tracking was added.
+ORIGINAL_SOURCES = {"crtsh", "certspotter", "hackertarget", "c99"}
 # crt.sh returns every logged certificate for a domain, so a scan where it answered is complete.
 # Cert Spotter reads the same CT logs but returns only its first page without an API key.
 REQUIRED = {"crtsh"}
@@ -199,17 +201,23 @@ def main():
             ips = dict(zip(sorted(found), ex.map(resolves, sorted(found))))
         path = DATA / f"{d}.json"
         known = json.loads(path.read_text()) if path.exists() else {}
-        # Only alert once this domain has had one complete scan as a baseline.
-        alert = status.get(d, {}).get("complete", False)
+        # Only alert once this domain has had one complete scan as a baseline, and only for hosts
+        # reported by a source that has answered for this domain before; a newly added source's
+        # first answer is backlog, not new subdomains.
+        prev = status.get(d, {})
+        alert = prev.get("complete", False)
+        proven = set(prev["proven"]) if "proven" in prev else ORIGINAL_SOURCES
+        alertable = clean([n for k, v in results.items() if v and k in proven for n in v], d)
         for host in sorted(found):
             is_new = host not in known
             entry = known.setdefault(host, {"first_seen": today})
             entry.update(last_seen=today, ip=ips[host], live=bool(ips[host]))
-            if is_new and alert:
+            if is_new and alert and host in alertable:
                 new_finds.setdefault(d, []).append(f"{host} ({ips[host] or 'no DNS'})")
         write_atomic(path, dict(sorted(known.items())))
         complete = alert or not (REQUIRED & set(failed))
         status[d] = {"sources": {k: (None if v is None else len(clean(v, d))) for k, v in results.items()},
+                     "proven": sorted(proven | {k for k, v in results.items() if v is not None}),
                      "complete": complete, "last_scan": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M"), "failed_sources": failed}
         with status_lock:
             write_atomic(STATUS, {k: status[k] for k in sorted(status) if k in roots})
