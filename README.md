@@ -11,4 +11,4 @@ Every 4 hours, a GitHub Action finds the subdomains of each root domain in `doma
 
 To add a company, put its root domain on a new line in `domains.txt`. To run it now, use Actions → Track subdomains → Run workflow.
 
-Each run scans for up to 35 minutes, starting with the domains scanned longest ago, and saves its progress. crt.sh and Cert Spotter rate-limit heavily, so it can take a few runs to cover every domain. A domain only raises alerts once crt.sh and Cert Spotter have both answered for it at least once (see the Baseline column in `INDEX.md`).
+Each run scans for up to 35 minutes, starting with the domains scanned longest ago, and saves its progress. crt.sh and Cert Spotter rate-limit heavily, so it can take a few runs to cover every domain. A domain only raises alerts once crt.sh (queried through its database, falling back to its website) has answered for it (see the Baseline column in `INDEX.md`).

@@ -11,6 +11,7 @@ UA = {"User-Agent": "rl-subdomain-tracker (github.com/yahya-r/rl-subdomain-track
 
 # crt.sh and Cert Spotter rate-limit hard, so each gets one request at a time.
 LOCKS = {"crt.sh": threading.Lock(), "api.certspotter.com": threading.Lock()}
+DB_BROKEN = threading.Event()  # set if crt.sh's database rejects our query, so we stop trying it
 
 
 def get(url, timeout=60, tries=4, gap=2):
@@ -42,13 +43,53 @@ def as_json(text):
 
 
 # Each source returns a list of names, or None when it could not be reached.
+def crtsh_db(d):
+    """Query crt.sh's public Postgres replica, which stays up when its web frontend returns 502s."""
+    if DB_BROKEN.is_set():
+        return None
+    try:
+        import psycopg2
+    except ImportError:
+        return None
+    sql = """SELECT DISTINCT cai.name_value FROM certificate_and_identities cai
+             WHERE plainto_tsquery('certwatch', %(d)s) @@ identities(cai.certificate)
+               AND (lower(cai.name_value) = %(d)s OR lower(cai.name_value) LIKE %(suffix)s)"""
+    for attempt in range(3):
+        try:
+            with LOCKS["crt.sh"]:
+                conn = psycopg2.connect(host="crt.sh", port=5432, user="guest", dbname="certwatch",
+                                        connect_timeout=20, options="-c statement_timeout=180000")
+                conn.autocommit = True  # the replica is read-only; crt.sh rejects open transactions
+                try:
+                    with conn.cursor() as cur:
+                        cur.execute(sql, {"d": d, "suffix": "%." + d})
+                        return [r[0] for r in cur.fetchall()]
+                finally:
+                    conn.close()
+        except psycopg2.ProgrammingError as e:  # schema or query problem: retrying won't help
+            print(f"  crt.sh database query rejected ({str(e).strip()[:200]}); using the website", file=sys.stderr)
+            DB_BROKEN.set()
+            return None
+        except Exception as e:
+            print(f"  crt.sh database failed ({str(e).strip()[:120]}), try {attempt + 1}/3", file=sys.stderr)
+            if attempt < 2:
+                time.sleep(15 * (attempt + 1))
+    return None
+
+
 def crtsh(d):
-    rows = as_json(get(f"https://crt.sh/?q=%25.{d}&output=json", timeout=60, tries=3))
+    names = crtsh_db(d)
+    if names is not None:
+        return names
+    rows = as_json(get(f"https://crt.sh/?q=%25.{d}&output=json&deduplicate=Y", timeout=90, tries=3))
     return None if rows is None else [n for r in rows for n in r["name_value"].split("\n")]
 
 
 def certspotter(d):
-    rows = as_json(get(f"https://api.certspotter.com/v1/issuances?domain={d}&include_subdomains=true&expand=dns_names"))
+    # One try only: unauthenticated Cert Spotter answers 429 with multi-minute Retry-After
+    # waits that stall the whole run, and crt.sh already covers the same CT logs.
+    rows = as_json(get(f"https://api.certspotter.com/v1/issuances?domain={d}&include_subdomains=true&expand=dns_names",
+                       tries=1))
     return None if not isinstance(rows, list) else [n for r in rows for n in r.get("dns_names", [])]
 
 
@@ -65,7 +106,9 @@ def c99(d):
 
 
 SOURCES = (crtsh, certspotter, hackertarget, c99)
-REQUIRED = {"crtsh", "certspotter"}  # a scan only counts as complete if these answered
+# crt.sh returns every logged certificate for a domain, so a scan where it answered is complete.
+# Cert Spotter reads the same CT logs but returns only its first page without an API key.
+REQUIRED = {"crtsh"}
 
 
 def write_atomic(path, data):
@@ -97,14 +140,19 @@ def main():
     roots = [l.split("#")[0].strip().lower() for l in (ROOT / "domains.txt").read_text().splitlines()]
     roots = [r for r in roots if r]
     status = json.loads(STATUS.read_text()) if STATUS.exists() else {}
+    for v in status.values():  # re-judge earlier scans against the current REQUIRED set
+        if not v.get("complete") and not REQUIRED & set(v.get("failed_sources", [])):
+            v["complete"] = True
     today = datetime.date.today().isoformat()
     new_finds = {}
 
     deadline = time.time() + BUDGET
     scanned = set()
     status_lock = threading.Lock()
-    # Least recently scanned first, so runs that hit the time budget rotate through every domain.
-    roots_by_age = sorted(roots, key=lambda d: status.get(d, {}).get("last_scan", ""))
+    # Incomplete domains first, then least recently scanned, so runs that hit the time budget
+    # finish the missing baselines before rotating through everything else.
+    roots_by_age = sorted(roots, key=lambda d: (status.get(d, {}).get("complete", False),
+                                                status.get(d, {}).get("last_scan", "")))
 
     def scan(d):
         if time.time() > deadline:
@@ -153,7 +201,7 @@ def main():
 
 def write_index(status):
     lines = ["# Subdomain index", "",
-             "Baseline = a full scan has succeeded, so new subdomains now raise alerts.", "",
+             "Baseline = crt.sh has returned every logged certificate for the domain, so new subdomains now raise alerts.", "",
              "| Root | Subdomains | Live | Baseline | Failed sources (last run) |", "|---|---|---|---|---|"]
     for p in sorted(DATA.glob("*.json")):
         if p == STATUS:
