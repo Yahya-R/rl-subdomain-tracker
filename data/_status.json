@@ -58,11 +58,9 @@
   ]
  },
  "bespokelabs.ai": {
-  "complete": false,
-  "last_scan": "2026-10-06T01:41",
-  "failed_sources": [
-   "crtsh"
-  ]
+  "complete": true,
+  "last_scan": "2026-10-07T00:23",
+  "failed_sources": []
  },
  "chakra.dev": {
   "complete": true,
@@ -202,9 +200,9 @@
  },
  "mechanize.work": {
   "complete": false,
-  "last_scan": "2026-10-06T01:29",
+  "last_scan": "2026-10-07T00:23",
   "failed_sources": [
-   "crtsh"
+   "certspotter"
   ]
  },
  "mercor.com": {
@@ -245,9 +243,9 @@
  },
  "pareto.ai": {
   "complete": false,
-  "last_scan": "2026-10-06T01:35",
+  "last_scan": "2026-10-07T00:23",
   "failed_sources": [
-   "crtsh"
+   "certspotter"
   ]
  },
  "parsewave.ai": {

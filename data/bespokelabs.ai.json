@@ -1,4 +1,16 @@
 {
+ "admin.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.160.150.11",
+  "live": true
+ },
  "ar-dash.bespokelabs.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
@@ -8,19 +20,19 @@
  "auth.experts.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "172.64.144.74",
+  "ip": "104.18.43.182",
   "live": true
  },
  "benchmarks.bespokelabs.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "ip": "209.85.145.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "31.43.160.6",
+  "ip": "31.43.161.6",
   "live": true
  },
  "brain.bespokelabs.ai": {
@@ -53,6 +65,12 @@
   "ip": "34.160.150.11",
   "live": true
  },
+ "developers.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "docs.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -62,7 +80,7 @@
  "experts.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.202.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "files.bespokelabs.ai": {
@@ -70,6 +88,18 @@
   "last_seen": "2026-10-06",
   "ip": "198.54.115.236",
   "live": true
+ },
+ "find.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "go.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "grafana.bespokelabs.ai": {
   "first_seen": "2026-10-06",
@@ -80,19 +110,25 @@
  "horizon.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "173.194.64.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "kanban.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "173.194.194.121",
+  "ip": "192.178.142.121",
   "live": true
+ },
+ "leaderboard.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "mobile.horizon.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "74.125.202.121",
+  "ip": "142.251.108.121",
   "live": true
  },
  "playground.bespokelabs.ai": {
@@ -116,7 +152,7 @@
  "status.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "192.178.212.121",
+  "ip": "192.178.142.121",
   "live": true
  },
  "vpn.bespokelabs.ai": {
@@ -125,10 +161,16 @@
   "ip": "136.116.201.163",
   "live": true
  },
+ "who.bespokelabs.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "www.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "31.43.160.6",
+  "ip": "31.43.161.6",
   "live": true
  }
 }
