@@ -60,8 +60,9 @@ def crtsh_db(d):
     for attempt in range(3):
         try:
             with LOCKS["crt.sh"]:
+                # crt.sh's connection pooler rejects the "options" startup parameter, so no server-side timeout.
                 conn = psycopg2.connect(host="crt.sh", port=5432, user="guest", dbname="certwatch",
-                                        connect_timeout=20, options="-c statement_timeout=180000")
+                                        connect_timeout=20)
                 conn.autocommit = True  # the replica is read-only; crt.sh rejects open transactions
                 try:
                     with conn.cursor() as cur:
