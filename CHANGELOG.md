@@ -2,6 +2,14 @@
 
 ## 2026-10-07
 
+### quesma.com
+- auth.app.quesma.com (104.18.35.233)
+
+### verita-ai.com
+- foundrytestalfkdjsfhiuehdsf.verita-ai.com (no DNS)
+
+## 2026-10-07
+
 ### tastelabs.com
 - api.staging.symphony.tastelabs.com (130.211.18.166)
 

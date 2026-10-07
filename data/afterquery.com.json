@@ -2,7 +2,7 @@
  "accounts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.1",
   "live": true
  },
  "accounts.delivery.afterquery.com": {
@@ -14,7 +14,7 @@
  "accounts.forge.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "accounts.inference.afterquery.com": {
@@ -26,7 +26,7 @@
  "accounts.quill.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "accounts.security.afterquery.com": {
@@ -38,7 +38,7 @@
  "afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.1",
   "live": true
  },
  "auth.aether.afterquery.com": {
@@ -56,13 +56,13 @@
  "authe.afterquery.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.65",
   "live": true
  },
  "breachforces.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.65",
+  "ip": "64.239.123.65",
   "live": true
  },
  "chat.afterquery.com": {
@@ -74,7 +74,7 @@
  "clerk.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.65",
   "live": true
  },
  "clerk.delivery.afterquery.com": {
@@ -92,13 +92,13 @@
  "clerk.inference.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.quill.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.security.afterquery.com": {
@@ -116,7 +116,13 @@
  "cua-gw.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "184.194.85.237",
+  "ip": "35.171.66.113",
+  "live": true
+ },
+ "data.afterquery.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.129",
   "live": true
  },
  "delivery.afterquery.com": {
@@ -140,13 +146,13 @@
  "e.experts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.20.19.245",
+  "ip": "172.66.169.73",
   "live": true
  },
  "egg.reviewer.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.123.65",
+  "ip": "64.239.109.193",
   "live": true
  },
  "ender.afterquery.com": {
@@ -170,7 +176,7 @@
  "experts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "66.33.60.129",
+  "ip": "76.76.21.93",
   "live": true
  },
  "fd-api.afterquery.com": {
@@ -188,13 +194,13 @@
  "pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.193",
+  "ip": "64.239.123.65",
   "live": true
  },
  "quality-check.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.123.193",
+  "ip": "64.239.109.193",
   "live": true
  },
  "sec.afterquery.com": {
@@ -218,13 +224,13 @@
  "test.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.1",
+  "ip": "216.150.16.129",
   "live": true
  },
  "trust.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "66.33.60.194",
+  "ip": "76.76.21.98",
   "live": true
  },
  "turing-backend.afterquery.com": {
@@ -236,13 +242,13 @@
  "weave-demo-be.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.123.193",
+  "ip": "64.239.109.193",
   "live": true
  },
  "www.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "64.239.109.65",
+  "ip": "64.239.123.193",
   "live": true
  },
  "www.auth.afterquery.com": {
@@ -254,7 +260,7 @@
  "www.pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.65",
   "live": true
  }
 }
