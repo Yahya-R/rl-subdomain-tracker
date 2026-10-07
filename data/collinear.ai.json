@@ -5,10 +5,16 @@
   "ip": "172.67.217.121",
   "live": true
  },
+ "apie.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "app.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "auth.collinear.ai": {
@@ -20,7 +26,7 @@
  "blog.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "catalog.collinear.ai": {
@@ -32,11 +38,17 @@
  "collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "console.collinear.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "consoles.collinear.ai": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "",
   "live": false
@@ -50,7 +62,7 @@
  "docs.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "internal-mcp.collinear.ai": {
@@ -86,7 +98,7 @@
  "rl-gym-api.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "rl-gym-gaiic-api.collinear.ai": {
@@ -110,7 +122,7 @@
  "rl-gym.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "safety-taxonomy.collinear.ai": {
@@ -122,7 +134,7 @@
  "stage.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "steer-stag.collinear.ai": {
@@ -140,13 +152,85 @@
  "trustcentre.collinear.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
+ },
+ "www.api.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.auth.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.blog.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "www.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
+ },
+ "www.console.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.docs.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.platform-v2.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.platform.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.play.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.safety-taxonomy.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.stage.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.steer.collinear.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  }
 }
