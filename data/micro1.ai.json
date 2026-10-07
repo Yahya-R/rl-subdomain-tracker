@@ -2,19 +2,19 @@
  "adm.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "108.156.107.71",
+  "ip": "52.85.151.36",
   "live": true
  },
  "admin.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.226.53.59",
+  "ip": "65.8.180.20",
   "live": true
  },
  "agora.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.185.80",
+  "ip": "18.155.202.103",
   "live": true
  },
  "ai-interviewer.micro1.ai": {
@@ -32,7 +32,7 @@
  "ai-recruiter.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "66.33.60.34",
+  "ip": "76.76.21.123",
   "live": true
  },
  "ambrosia.cortex.micro1.ai": {
@@ -41,10 +41,34 @@
   "ip": "185.158.133.1",
   "live": true
  },
+ "api-ai.kai.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "52.6.74.20",
+  "live": true
+ },
+ "api-custom-gpt-vetting.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api-dev.mercury.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "api-dev.merit.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "35.172.92.24",
+  "live": true
+ },
+ "api-dev.robotics.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "52.3.132.254",
   "live": true
  },
  "api-dev.titan.micro1.ai": {
@@ -53,10 +77,28 @@
   "ip": "98.82.46.110",
   "live": true
  },
+ "api-llm-sequoia.realm.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api-stage.realm.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "100.55.122.12",
+  "live": true
+ },
  "api-staging.merit.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "32.192.118.216",
+  "live": true
+ },
+ "api-v2.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "23.23.177.127",
   "live": true
  },
  "api-v3.ai-search.micro1.ai": {
@@ -101,6 +143,12 @@
   "ip": "52.8.53.219",
   "live": true
  },
+ "api.core.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.215.184.102",
+  "live": true
+ },
  "api.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -113,11 +161,83 @@
   "ip": "54.151.9.14",
   "live": true
  },
+ "api.demo-agentic-rhea.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.176.148.191",
+  "live": true
+ },
+ "api.dev-search.kai.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "3.213.93.162",
+  "live": true
+ },
+ "api.finance.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.81.68.241",
+  "live": true
+ },
  "api.horizon.titan.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
   "ip": "13.52.8.217",
   "live": true
+ },
+ "api.humandata.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "98.94.220.252",
+  "live": true
+ },
+ "api.jupiter.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.kairo.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.222.12.54",
+  "live": true
+ },
+ "api.ll-dev.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.ll.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.lumi.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "13.56.207.150",
+  "live": true
+ },
+ "api.mars-dev.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.mars.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "13.219.15.245",
+  "live": true
+ },
+ "api.mercury.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "api.merit.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -128,8 +248,68 @@
  "api.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.168.51.45",
+  "ip": "13.226.38.32",
   "live": true
+ },
+ "api.neptune.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.prism.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.puzzle.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.realm.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.158.205.207",
+  "live": true
+ },
+ "api.realtime-ai-interview.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.rhea.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.193.205.160",
+  "live": true
+ },
+ "api.robotics-evals.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.217.252.75",
+  "live": true
+ },
+ "api.robotics.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "3.89.53.60",
+  "live": true
+ },
+ "api.shelf.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.175.157.190",
+  "live": true
+ },
+ "api.sol.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "api.stage.cdp.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -155,6 +335,12 @@
   "ip": "52.201.140.1",
   "live": true
  },
+ "api.stage.helix.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.169.79.22",
+  "live": true
+ },
  "api.staging.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
@@ -167,8 +353,32 @@
   "ip": "107.22.43.221",
   "live": true
  },
+ "api.titan-rhea.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.167.165.242",
+  "live": true
+ },
+ "api.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.203.25.163",
+  "live": true
+ },
+ "api.trees.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "api.venus.micro1.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "api.zion.micro1.ai": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -188,11 +398,29 @@
  "assets-cdn.zara.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.225.21",
+  "ip": "65.8.180.87",
+  "live": true
+ },
+ "astra.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.1",
   "live": true
  },
  "atlas.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "185.158.133.1",
+  "live": true
+ },
+ "atlas2.cortex.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "blitz.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "185.158.133.1",
   "live": true
@@ -212,19 +440,19 @@
  "captions.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "54.192.55.118",
+  "ip": "18.238.192.33",
   "live": true
  },
  "cdp.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "52.85.12.9",
+  "ip": "3.169.183.69",
   "live": true
  },
  "client.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.26",
+  "ip": "108.138.246.33",
   "live": true
  },
  "community.micro1.ai": {
@@ -233,22 +461,52 @@
   "ip": "89.106.200.1",
   "live": true
  },
+ "company.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "65.8.54.44",
+  "live": true
+ },
+ "compiler.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "100.58.85.7",
+  "live": true
+ },
+ "compliance.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "connectors.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.16.1",
+  "ip": "216.150.16.193",
   "live": true
+ },
+ "core-m1.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "core.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.32.164.111",
+  "ip": "65.8.180.90",
   "live": true
+ },
+ "core.research.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "cortex.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.249.141.15",
+  "ip": "18.155.192.28",
   "live": true
  },
  "dagster-dev.merit.micro1.ai": {
@@ -259,7 +517,7 @@
  },
  "dagster-dev.research.merit.micro1.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "54.209.235.62",
   "live": true
  },
@@ -278,7 +536,25 @@
  "data.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.163.108",
+  "ip": "52.85.151.114",
+  "live": true
+ },
+ "dev-api.finance.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "98.95.18.89",
+  "live": true
+ },
+ "dev-api.fly-agent.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.144.211.40",
+  "live": true
+ },
+ "dev-api.realtime-ai-interview.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.85.246.111",
   "live": true
  },
  "dev-m1-videos.cdn.micro1.ai": {
@@ -286,6 +562,12 @@
   "last_seen": "2026-10-06",
   "ip": "34.49.233.90",
   "live": true
+ },
+ "dev-monequery.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "dev-recorder.cdn.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -311,11 +593,23 @@
   "ip": "",
   "live": false
  },
+ "docs.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "15.197.225.128",
+  "live": true
+ },
  "downloader.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.200.99",
+  "ip": "65.8.180.25",
   "live": true
+ },
+ "ecosystem.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "eden.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -323,26 +617,68 @@
   "ip": "185.158.133.1",
   "live": true
  },
+ "everest.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.193",
+  "live": true
+ },
  "fin.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.168.51.120",
+  "ip": "13.249.74.6",
   "live": true
  },
  "finance.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "54.192.55.55",
+  "ip": "13.226.38.95",
+  "live": true
+ },
+ "flow-orchestration.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.36.158.100",
+  "live": true
+ },
+ "flow.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "3.218.200.8",
   "live": true
  },
  "fly-agent-demo.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.249.141.103",
+  "ip": "18.238.192.54",
+  "live": true
+ },
+ "gpt-vetting-feedbacks.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.212.122.178",
   "live": true
  },
  "gpt-vetting.micro1.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "hardware.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "23.227.38.74",
+  "live": true
+ },
+ "health-experts.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "142.251.121.121",
+  "live": true
+ },
+ "helix.micro1.ai": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -353,34 +689,58 @@
   "ip": "40.64.128.227",
   "live": true
  },
+ "horizon.robotics.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.1.193",
+  "live": true
+ },
  "horizon.titan.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.129",
+  "live": true
+ },
+ "huma.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.129",
   "live": true
  },
  "humandata.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.213.14",
+  "ip": "65.8.180.34",
   "live": true
  },
  "intelligence.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.226.53.24",
+  "ip": "13.226.38.28",
+  "live": true
+ },
+ "interview-api.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "44.209.231.190",
+  "live": true
+ },
+ "interview-prod-api.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "3.216.129.198",
   "live": true
  },
  "interview.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.226.53.104",
+  "ip": "108.138.246.112",
   "live": true
  },
  "jobs.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.249.67",
+  "ip": "65.8.180.103",
   "live": true
  },
  "jupiter.micro1.ai": {
@@ -389,10 +749,70 @@
   "ip": "",
   "live": false
  },
+ "kai.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.173.121.50",
+  "live": true
+ },
+ "kb.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "66.33.60.67",
+  "live": true
+ },
+ "keystone.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "185.158.133.1",
+  "live": true
+ },
+ "lab.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.193",
+  "live": true
+ },
+ "library.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "76.76.21.123",
+  "live": true
+ },
+ "link.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "207.174.61.1",
+  "live": true
+ },
+ "livekit-template.interview.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.1.129",
+  "live": true
+ },
+ "ll-dev.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "ll.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "luma.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "lumi.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.249.59",
+  "ip": "18.238.192.41",
   "live": true
  },
  "m1-videos.cdn.micro1.ai": {
@@ -401,8 +821,26 @@
   "ip": "34.49.233.90",
   "live": true
  },
+ "mars-dev.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "mars.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "mercury-dev.micro1.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "mercury.micro1.ai": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -410,7 +848,7 @@
  "merit.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.185.112",
+  "ip": "18.239.199.77",
   "live": true
  },
  "micro1.ai": {
@@ -422,8 +860,14 @@
  "mocha.titan.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
+ },
+ "monequery.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "neptune.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -434,97 +878,127 @@
  "new-stage.admin.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "54.192.55.79",
+  "ip": "65.8.180.28",
   "live": true
  },
  "new-stage.client.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.126",
+  "ip": "18.238.192.47",
   "live": true
  },
  "new-stage.company.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.152.91",
+  "ip": "65.8.180.82",
   "live": true
  },
  "new-stage.downloader.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.169.149.76",
+  "ip": "13.249.74.67",
   "live": true
  },
  "new-stage.finance.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "108.156.91.86",
+  "ip": "13.226.38.14",
+  "live": true
+ },
+ "new-stage.forms.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.155.202.96",
   "live": true
  },
  "new-stage.intelligence.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.172.122.12",
+  "ip": "108.138.246.109",
   "live": true
  },
  "new-stage.jobs.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.86",
+  "ip": "65.8.180.30",
   "live": true
  },
  "new-stage.merit.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "99.86.77.83",
+  "ip": "18.244.214.22",
   "live": true
  },
  "new-stage.refer.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.86",
+  "ip": "65.8.54.35",
   "live": true
  },
  "new-stage.req.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.32.205.116",
+  "ip": "18.155.202.101",
   "live": true
  },
  "new-stage.talent.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.226.53.2",
+  "ip": "13.226.38.42",
   "live": true
  },
  "new-stage.tc.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.162.163.61",
+  "ip": "65.8.180.13",
   "live": true
  },
  "new-stage.ticketing.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.168.40.59",
+  "ip": "13.249.74.89",
   "live": true
+ },
+ "notify.expert.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "onyx.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "ops.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.249.141.75",
+  "ip": "18.239.199.79",
   "live": true
  },
  "payroll.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.64",
+  "ip": "3.168.86.24",
+  "live": true
+ },
+ "phoenix.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.1.129",
+  "live": true
+ },
+ "pre-prod.forms.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "65.8.54.20",
   "live": true
  },
  "pre-prod.merit.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.154.185.103",
+  "ip": "65.8.180.125",
   "live": true
  },
  "prism.micro1.ai": {
@@ -532,6 +1006,24 @@
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
+ },
+ "prod-api.kai.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "54.235.219.26",
+  "live": true
+ },
+ "proxy.humandata.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "98.94.220.252",
+  "live": true
+ },
+ "pulse.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "185.158.133.1",
+  "live": true
  },
  "puzzle.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -542,7 +1034,13 @@
  "realm.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.249.141.70",
+  "ip": "13.249.74.41",
+  "live": true
+ },
+ "recorder-data-videos.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "34.49.233.90",
   "live": true
  },
  "recorder.cdn.micro1.ai": {
@@ -554,18 +1052,24 @@
  "refer.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.185.6",
+  "ip": "65.8.54.21",
   "live": true
  },
  "req.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "54.192.55.26",
+  "ip": "18.244.214.21",
+  "live": true
+ },
+ "research-fe.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "64.29.17.65",
   "live": true
  },
  "research.merit.micro1.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
   "ip": "54.209.235.62",
   "live": true
  },
@@ -578,13 +1082,19 @@
  "robotics.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.225.47.25",
+  "ip": "13.249.74.49",
+  "live": true
+ },
+ "seeding.legal.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "185.158.133.1",
   "live": true
  },
  "shelf.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.168.51.52",
+  "ip": "18.155.202.49",
   "live": true
  },
  "shopping.cortex.micro1.ai": {
@@ -599,22 +1109,40 @@
   "ip": "",
   "live": false
  },
+ "specula.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "8.232.24.236",
+  "live": true
+ },
+ "stage.api.humandata.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "100.52.66.132",
+  "live": true
+ },
  "stage.cdp.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "52.85.12.2",
+  "ip": "13.226.38.54",
   "live": true
  },
  "stage.core.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.138.42",
+  "ip": "65.8.54.100",
   "live": true
  },
  "stage.data.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "52.85.12.46",
+  "ip": "65.8.180.108",
+  "live": true
+ },
+ "stage.flow-orchestration.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "199.36.158.100",
   "live": true
  },
  "stage.flow.micro1.ai": {
@@ -626,44 +1154,98 @@
  "stage.humandata.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.172.134.117",
+  "ip": "13.249.74.84",
+  "live": true
+ },
+ "stage.kai.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.244.214.81",
+  "live": true
+ },
+ "staging-api.lumi.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "13.52.121.123",
   "live": true
  },
  "staging.cortex.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.167.183.72",
+  "ip": "108.139.10.116",
   "live": true
  },
  "staging.realm.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.160.249.2",
+  "ip": "65.8.180.76",
   "live": true
  },
  "staging.robotics.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.103.20",
+  "ip": "65.8.54.127",
+  "live": true
+ },
+ "staging.sunday.robotics.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "13.56.196.221",
+  "live": true
+ },
+ "sunday.robotics.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "52.52.110.162",
+  "live": true
+ },
+ "synth.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.129",
   "live": true
  },
  "synth2.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.168.40.4",
+  "ip": "13.249.74.31",
   "live": true
  },
  "talent.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.154.110.115",
+  "ip": "13.226.38.109",
+  "live": true
+ },
+ "tc.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "18.155.192.74",
+  "live": true
+ },
+ "telesto.titan.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "216.150.16.129",
   "live": true
  },
  "ticketing.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "18.172.122.76",
+  "ip": "18.155.192.97",
   "live": true
+ },
+ "timer-rpk.kairo.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "titan-dev.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "titan.legacy.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -674,8 +1256,20 @@
  "titan.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.152.33",
+  "ip": "18.155.192.50",
   "live": true
+ },
+ "trail.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "188.165.50.182",
+  "live": true
+ },
+ "transcript.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
  },
  "trees.micro1.ai": {
   "first_seen": "2026-10-05",
@@ -683,8 +1277,32 @@
   "ip": "",
   "live": false
  },
+ "trueview-staging.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "vdb-dev.merit.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "35.172.92.24",
+  "live": true
+ },
  "venus.micro1.ai": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
+ "verdict-v2.neptune.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "185.158.133.1",
+  "live": true
+ },
+ "vetting.micro1.ai": {
+  "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
   "ip": "",
   "live": false
@@ -701,28 +1319,40 @@
   "ip": "185.158.133.1",
   "live": true
  },
+ "web3-register.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "",
+  "live": false
+ },
  "widget.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "143.204.204.85",
+  "ip": "52.85.151.41",
   "live": true
  },
  "www.client.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.227.87.68",
+  "ip": "108.138.246.33",
+  "live": true
+ },
+ "www.micro1.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "198.202.211.1",
   "live": true
  },
  "zara.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "3.170.185.103",
+  "ip": "18.155.202.72",
   "live": true
  },
  "zion.micro1.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "13.225.47.100",
+  "ip": "108.139.10.9",
   "live": true
  }
 }
