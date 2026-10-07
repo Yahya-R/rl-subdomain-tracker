@@ -8,13 +8,13 @@
  "admin.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "32.195.131.229",
+  "ip": "44.208.147.239",
   "live": true
  },
  "api.apollo.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "54.145.242.62",
+  "ip": "44.193.102.50",
   "live": true
  },
  "api.environment.fleet-dev-gcp-uc1.fleetai.com": {
@@ -26,19 +26,19 @@
  "api.fledex-dev.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "3.93.139.75",
+  "ip": "3.233.202.199",
   "live": true
  },
  "api.fledex.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "35.153.15.161",
+  "ip": "52.206.109.20",
   "live": true
  },
  "api.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.38.10",
+  "ip": "172.64.149.246",
   "live": true
  },
  "api.galaxy.fleetai.com": {
@@ -50,7 +50,7 @@
  "app-explorer.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "3.215.132.100",
+  "ip": "18.235.21.57",
   "live": true
  },
  "app.argo.fleet-prod-389-us-east-1.fleetai.com": {
@@ -62,7 +62,7 @@
  "app.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "76.76.21.241",
+  "ip": "66.33.60.35",
   "live": true
  },
  "argo.fleet-dev-0ua-us-east-1.fleetai.com": {
@@ -656,7 +656,7 @@
  "argo.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "100.63.100.57",
+  "ip": "18.232.7.87",
   "live": true
  },
  "argo.fleet-prd-bd3-us-east-1.fleetai.com": {
@@ -1130,7 +1130,7 @@
  "argo.fleetai-training-data.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "51.44.136.86",
+  "ip": "15.224.193.167",
   "live": true
  },
  "argo.hermes-alpha-eks-us-east-1.fleetai.com": {
@@ -1190,19 +1190,19 @@
  "auth.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.149.246",
+  "ip": "104.18.38.10",
   "live": true
  },
  "book.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.129",
   "live": true
  },
  "bootstrap.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "52.1.132.126",
+  "ip": "54.83.46.140",
   "live": true
  },
  "browser.fleet-dev-0ua-us-east-1.fleetai.com": {
@@ -3374,7 +3374,7 @@
  "docs.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "66.33.60.193",
+  "ip": "76.76.21.123",
   "live": true
  },
  "driver.fleet-dev-0ua-us-east-1.fleetai.com": {
@@ -5522,7 +5522,7 @@
  "envb.fleet-platform.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "44.216.81.189",
+  "ip": "100.27.161.255",
   "live": true
  },
  "environment.fleet-dev-0ua-us-east-1.fleetai.com": {
@@ -6602,7 +6602,7 @@
  "eu-west-2.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "3.210.13.90",
+  "ip": "32.195.131.229",
   "live": true
  },
  "fleet-dev-0ua-us-east-1.fleetai.com": {
@@ -7763,6 +7763,12 @@
   "ip": "",
   "live": false
  },
+ "fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "fleet-prod-x2w-us-east-1.fleetai.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -7868,7 +7874,7 @@
  "fullstackbench.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "100.63.142.201",
+  "ip": "3.224.17.11",
   "live": true
  },
  "galaxy.fleetai.com": {
@@ -7988,7 +7994,7 @@
  "orchestrator.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "3.210.13.90",
+  "ip": "44.208.147.239",
   "live": true
  },
  "research.fleetai.com": {
@@ -9230,7 +9236,7 @@
  "us-east-1.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "44.213.139.117",
+  "ip": "32.195.131.229",
   "live": true
  },
  "us-east-1a.fleetai.com": {
@@ -9308,7 +9314,7 @@
  "us-west-1.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "32.195.131.229",
+  "ip": "44.208.147.239",
   "live": true
  },
  "us-west-1.vm.fleetai.com": {
@@ -11525,10 +11531,94 @@
   "ip": "",
   "live": false
  },
+ "www.api.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.auth.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.c7df69b2.fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.docs.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.fleet-env-173f25f6-6998bf66c7-x9rhw.fleet-prod-worker-us-east-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.fleet-env-27215b23-b98b7bd99-jlzv8.fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.fleet-env-8a566e44-66c6f468fd-56n8w.fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.fleet-env-900050bb-86d77ff46c-dlkpf.fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.fleet-env-b1574f2b-6954dfcb45-6g855.fleet-prod-worker-us-west-1.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "www.fleetai.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "76.76.21.123",
+  "ip": "76.76.21.142",
   "live": true
+ },
+ "www.orchestrator-eks.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.security.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.status.fleetai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  }
 }

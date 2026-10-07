@@ -1,4 +1,10 @@
 {
+ "123-nonexistant-dnsjedi-456.ulam.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "api.ulam.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
@@ -26,7 +32,13 @@
  "www.ulam.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.1",
   "live": true
+ },
+ "www.webmail.ulam.ai": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  }
 }
