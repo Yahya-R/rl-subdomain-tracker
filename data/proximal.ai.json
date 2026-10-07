@@ -8,19 +8,25 @@
  "platform.proximal.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.16.1",
+  "ip": "216.150.16.129",
+  "live": true
+ },
+ "portal.proximal.ai": {
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "ip": "172.67.128.82",
   "live": true
  },
  "proximal.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "www.proximal.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-06",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.129",
   "live": true
  }
 }
