@@ -1,6 +1,6 @@
 """Find subdomains of each root in domains.txt, save them to data/, and log new finds."""
 from concurrent.futures import ThreadPoolExecutor
-import datetime, json, os, pathlib, random, re, socket, sys, threading, time, urllib.error, urllib.request
+import datetime, json, os, pathlib, random, re, socket, sys, threading, time, urllib.error, urllib.parse, urllib.request
 
 ROOT = pathlib.Path(__file__).parent
 DATA = ROOT / "data"
@@ -10,7 +10,10 @@ C99_KEY = os.environ.get("C99_API_KEY")  # optional: subdomainfinder.c99.nl API 
 UA = {"User-Agent": "rl-subdomain-tracker (github.com/yahya-r/rl-subdomain-tracker)"}
 
 # crt.sh and Cert Spotter rate-limit hard, so each gets one request at a time.
-LOCKS = {"crt.sh": threading.Lock(), "api.certspotter.com": threading.Lock()}
+# Every source host gets one request at a time; crt.sh and Cert Spotter rate-limit hard,
+# and the free passive-DNS services ask for the same courtesy.
+LOCKS = {h: threading.Lock() for h in ("crt.sh", "api.certspotter.com", "otx.alienvault.com",
+                                       "api.subdomain.center", "jldc.me", "web.archive.org", "rapiddns.io")}
 DB_BROKEN = threading.Event()  # set if crt.sh's database rejects our query, so we stop trying it
 
 
@@ -98,6 +101,35 @@ def hackertarget(d):
     return None if text is None else [l.split(",")[0] for l in text.splitlines() if "," in l]
 
 
+def alienvault(d):
+    data = as_json(get(f"https://otx.alienvault.com/api/v1/indicators/domain/{d}/passive_dns", tries=2))
+    return None if not isinstance(data, dict) else [r.get("hostname", "") for r in data.get("passive_dns", [])]
+
+
+def subdomain_center(d):
+    data = as_json(get(f"https://api.subdomain.center/?domain={d}", tries=2, gap=5))
+    return None if not isinstance(data, list) else [n for n in data if isinstance(n, str)]
+
+
+def anubis(d):
+    data = as_json(get(f"https://jldc.me/anubis/subdomains/{d}", tries=2))
+    return None if not isinstance(data, list) else [n for n in data if isinstance(n, str)]
+
+
+def wayback(d):
+    """Hostnames from every URL the Internet Archive has captured under the domain."""
+    text = get(f"https://web.archive.org/cdx/search/cdx?url=*.{d}&fl=original&collapse=urlkey&limit=50000",
+               timeout=120, tries=1)
+    if text is None:
+        return None
+    return [urllib.parse.urlsplit(l if "://" in l else "http://" + l).hostname or "" for l in text.splitlines()]
+
+
+def rapiddns(d):
+    html = get(f"https://rapiddns.io/subdomain/{d}?full=1", tries=1)
+    return None if html is None else re.findall(r"[a-z0-9.-]+\." + re.escape(d), html.lower())
+
+
 def c99(d):
     if not C99_KEY:
         return []
@@ -105,7 +137,7 @@ def c99(d):
     return None if not isinstance(data, dict) else [s["subdomain"] for s in data.get("subdomains", [])]
 
 
-SOURCES = (crtsh, certspotter, hackertarget, c99)
+SOURCES = (crtsh, certspotter, hackertarget, alienvault, subdomain_center, anubis, wayback, rapiddns, c99)
 # crt.sh returns every logged certificate for a domain, so a scan where it answered is complete.
 # Cert Spotter reads the same CT logs but returns only its first page without an API key.
 REQUIRED = {"crtsh"}
@@ -176,10 +208,12 @@ def main():
                 new_finds.setdefault(d, []).append(f"{host} ({ips[host] or 'no DNS'})")
         write_atomic(path, dict(sorted(known.items())))
         complete = alert or not (REQUIRED & set(failed))
-        status[d] = {"complete": complete, "last_scan": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M"), "failed_sources": failed}
+        status[d] = {"sources": {k: (None if v is None else len(clean(v, d))) for k, v in results.items()},
+                     "complete": complete, "last_scan": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M"), "failed_sources": failed}
         with status_lock:
             write_atomic(STATUS, {k: status[k] for k in sorted(status) if k in roots})
-        print(f"[{d}] {len(found)} found, {len(known)} total, failed: {failed or 'none'}", flush=True)
+        per = " ".join(f"{k}={'x' if v is None else len(clean(v, d))}" for k, v in results.items())
+        print(f"[{d}] {len(found)} found, {len(known)} total | {per}", flush=True)
 
     with ThreadPoolExecutor(4) as ex:
         list(ex.map(scan, roots_by_age))

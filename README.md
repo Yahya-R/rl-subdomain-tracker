@@ -2,7 +2,7 @@
 
 Every 4 hours, a GitHub Action finds the subdomains of each root domain in `domains.txt`.
 
-- **Sources:** crt.sh and Cert Spotter (certificate transparency logs), HackerTarget (passive DNS), and subdomainfinder.c99.nl when the `C99_API_KEY` secret is set.
+- **Sources:** crt.sh (database, falling back to its website) and Cert Spotter for certificate transparency logs; HackerTarget, AlienVault OTX, subdomain.center and Anubis for passive DNS; the Internet Archive's Wayback Machine and RapidDNS for hostnames seen on the web; and subdomainfinder.c99.nl when the `C99_API_KEY` secret is set.
 - **Output:**
   - `data/<domain>.json` lists each subdomain with its first-seen date, last-seen date, IP and whether it's live.
   - `INDEX.md` is the summary table.
