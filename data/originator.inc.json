@@ -35,10 +35,16 @@
   "ip": "",
   "live": false
  },
+ "app.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
  "atlas.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.26.9.62",
+  "ip": "104.26.8.62",
   "live": true
  },
  "b0go8c004gskokcggksogwsk.coolify2.originator.inc": {
@@ -140,13 +146,13 @@
  "ori.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.67.75.187",
+  "ip": "104.26.9.62",
   "live": true
  },
  "originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "31.43.161.6",
+  "ip": "31.43.160.6",
   "live": true
  },
  "p0g408c0cc80c0o4kcossc88.coolify2.originator.inc": {
@@ -167,6 +173,12 @@
   "ip": "116.203.93.161",
   "live": true
  },
+ "prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
  "prometheus.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
@@ -176,7 +188,7 @@
  "pub.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.67.75.187",
+  "ip": "104.26.8.62",
   "live": true
  },
  "rituals.originator.inc": {
@@ -206,19 +218,19 @@
  "sessions-dashboard.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.26.8.62",
+  "ip": "104.26.9.62",
   "live": true
  },
  "sessions-site.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "52.211.34.210",
+  "ip": "108.128.172.42",
   "live": true
  },
  "sessions.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.67.75.187",
+  "ip": "104.26.9.62",
   "live": true
  },
  "site.sessions.originator.inc": {
@@ -227,10 +239,16 @@
   "ip": "",
   "live": false
  },
+ "software.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "sso.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "3.33.238.178",
+  "ip": "15.197.195.200",
   "live": true
  },
  "stagin.api.prometheus.coolify.originator.inc": {
@@ -260,7 +278,7 @@
  "timesheets.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.26.9.62",
+  "ip": "104.26.8.62",
   "live": true
  },
  "v8cosk00g04os80kc0sksk0s.coolify.originator.inc": {
@@ -278,13 +296,13 @@
  "vault-api.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.26.9.62",
+  "ip": "104.26.8.62",
   "live": true
  },
  "vault.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.26.8.62",
+  "ip": "104.26.9.62",
   "live": true
  },
  "w00ow8g8k8w88www8skgws0k.coolify.originator.inc": {
@@ -299,10 +317,124 @@
   "ip": "116.203.93.161",
   "live": true
  },
+ "www.api.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.apiv1.cocab.software.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.apiv2.cocab.software.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.cocab.software.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.external-tools.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.kk00k8wkcgwo8w4co8ko844o.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.n8wcggg8gwogowcwoco8k40w.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.ok0sg4g44w84o8g44go04884.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
  "www.originator.inc": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
   "ip": "31.43.161.6",
+  "live": true
+ },
+ "www.pandora.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.prometheus.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.rkg4kg8wk8kk0g08o8gs0k8s.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.stagin.api.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.stagin.app.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.staging.api.prometheus.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
+  "live": true
+ },
+ "www.staging.prometheus.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.v8cosk00g04os80kc0sksk0s.coolify.originator.inc": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "95.217.128.231",
   "live": true
  }
 }

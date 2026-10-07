@@ -1,6 +1,18 @@
 {
+ "3dev.chakra.tvtv.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "akash.chakra.dev": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "akash1.chakra.dev": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "",
   "live": false
@@ -11,10 +23,16 @@
   "ip": "",
   "live": false
  },
+ "apit.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "app.chakra.dev": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "66.33.60.129",
+  "ip": "76.76.21.123",
   "live": true
  },
  "chakra.dev": {
@@ -23,8 +41,32 @@
   "ip": "31.43.161.6",
   "live": true
  },
+ "chakra.tvtv.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "cld.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "collector.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.20.16.161",
+  "live": true
+ },
  "console.chakra.dev": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "consoles.chakra.dev": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "",
   "live": false
@@ -101,14 +143,104 @@
   "ip": "",
   "live": false
  },
+ "tvtv.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.akash.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.api.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "www.chakra.dev": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "31.43.160.6",
+  "ip": "31.43.161.6",
   "live": true
  },
  "www.console.chakra.dev": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.dashboard.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.docs.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.manny.app.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.scout-auth.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.scout.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging-ecs.api.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging-ecs.console.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.api.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.app.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.console.chakra.dev": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.staging.scout.chakra.dev": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "",
   "live": false

@@ -14,8 +14,14 @@
  "api.quesma.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "142.251.108.121",
+  "ip": "142.251.121.121",
   "live": true
+ },
+ "apiv.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "app.charts.quesma.com": {
   "first_seen": "2026-10-05",
@@ -26,7 +32,13 @@
  "app.quesma.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "63.189.83.22",
+  "ip": "63.185.65.62",
+  "live": true
+ },
+ "auth.app.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.35.233",
   "live": true
  },
  "auth0.quesma.com": {
@@ -34,6 +46,12 @@
   "last_seen": "2026-10-07",
   "ip": "172.64.144.74",
   "live": true
+ },
+ "auth0s.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "charts.quesma.com": {
   "first_seen": "2026-10-05",
@@ -44,8 +62,14 @@
  "docs.quesma.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.67.140.195",
+  "ip": "104.21.38.231",
   "live": true
+ },
+ "docstm.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "eap.quesma.com": {
   "first_seen": "2026-10-05",
@@ -56,8 +80,20 @@
  "licensing.quesma.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "192.178.142.121",
+  "ip": "142.251.121.121",
   "live": true
+ },
+ "licensing7.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "ns1.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "quesma.com": {
   "first_seen": "2026-10-06",
@@ -77,10 +113,58 @@
   "ip": "",
   "live": false
  },
+ "www.api.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app.charts.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.auth0.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.charts.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.docs.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.eap.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.licensing.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "www.quesma.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
   "ip": "172.67.140.195",
   "live": true
+ },
+ "www.staging.charts.quesma.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  }
 }
