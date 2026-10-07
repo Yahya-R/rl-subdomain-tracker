@@ -1,291 +1,363 @@
 {
+ "123-nonexistant-dnsjedi-456.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "aboro.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "34.212.117.251",
+  "last_seen": "2026-10-07",
+  "ip": "52.26.34.114",
   "live": true
  },
  "admin.forch.flyte.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "54.212.153.189",
+  "last_seen": "2026-10-07",
+  "ip": "100.23.31.181",
   "live": true
  },
  "allumiqs.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "52.26.34.114",
+  "last_seen": "2026-10-07",
+  "ip": "34.212.117.251",
   "live": true
  },
  "argocd.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "52.88.146.117",
+  "last_seen": "2026-10-07",
+  "ip": "52.11.199.175",
   "live": true
+ },
+ "argocde.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "atlasxomics.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "34.212.117.251",
+  "last_seen": "2026-10-07",
+  "ip": "52.13.177.206",
   "live": true
  },
  "auth.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "172.64.144.74",
   "live": true
  },
  "blog.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "172.64.151.232",
   "live": true
  },
+ "brokenstring.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "52.13.177.206",
+  "live": true
+ },
+ "c1vq2f8i4qlnfgu8e6iqrpfr04ulon09.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "c3ks38t0h1rbcgrhh70vhbkdq2vbvqrt.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "centromere.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "32.190.160.138",
+  "last_seen": "2026-10-07",
+  "ip": "44.239.201.114",
   "live": true
+ },
+ "centromerec.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "clipper-viz-server.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "35.83.76.226",
   "live": true
  },
+ "clipper-viz-servera.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "clipper.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "conference.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "31.43.160.6",
   "live": true
  },
+ "conferencec.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "console.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.13.177.206",
   "live": true
  },
  "custom.eu-central.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "custom.pods.eu-central.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "3.71.240.204",
   "live": true
  },
  "custom.pods.eu-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.215.123.107",
   "live": true
  },
  "custom.pods.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "54.68.237.89",
+  "last_seen": "2026-10-07",
+  "ip": "44.229.73.209",
   "live": true
  },
  "custom.pods.us-east.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "18.214.48.59",
   "live": true
  },
  "custom.pods.us-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.32.86.109",
   "live": true
  },
  "custom.us-east.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "custom.us-west.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "deseq2-viz-server.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "54.69.252.26",
+  "last_seen": "2026-10-07",
+  "ip": "44.241.209.80",
   "live": true
+ },
+ "deseq2-viz-server1.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "docs.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "35.95.170.39",
   "live": true
  },
  "factorial.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.13.177.206",
   "live": true
  },
  "geo.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "44.239.149.116",
   "live": true
  },
+ "geom.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "git.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "35.80.0.186",
   "live": true
  },
  "jlab.eu-central.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "jlab.pods.eu-central.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "3.71.240.204",
   "live": true
  },
  "jlab.pods.eu-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.215.123.107",
   "live": true
  },
  "jlab.pods.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "54.68.237.89",
   "live": true
  },
  "jlab.pods.us-east.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "18.214.48.59",
   "live": true
  },
  "jlab.pods.us-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.32.86.109",
   "live": true
  },
  "jlab.us-east.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "jlab.us-west.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "jobs.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "35.95.207.31",
+  "last_seen": "2026-10-07",
+  "ip": "35.95.170.39",
   "live": true
  },
  "plots-faas.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "pods.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "44.229.73.209",
+  "last_seen": "2026-10-07",
+  "ip": "184.33.219.147",
   "live": true
  },
  "pods.us-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.32.86.109",
   "live": true
  },
  "pollock.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "rip1vh7lsenp5fbibo13flm5dr498bf0.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "rstudio.eu-central.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "rstudio.pods.eu-central.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "3.71.240.204",
   "live": true
  },
  "rstudio.pods.eu-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.215.123.107",
   "live": true
  },
  "rstudio.pods.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "184.33.219.147",
+  "last_seen": "2026-10-07",
+  "ip": "44.229.73.209",
   "live": true
  },
  "rstudio.pods.us-east.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "18.214.48.59",
   "live": true
  },
  "rstudio.pods.us-west.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.32.86.109",
   "live": true
  },
  "rstudio.us-east.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "rstudio.us-west.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "salesloft.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "34.48.58.236",
   "live": true
+ },
+ "salesloft1.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "sandbox-router-dev.us-west-2.latch.bio": {
   "first_seen": "2026-10-06",
@@ -295,61 +367,217 @@
  },
  "sandbox-router.us-west-2.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "52.89.40.179",
   "live": true
  },
  "sourcegraph.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "status.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.164",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.66",
   "live": true
  },
  "support.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
+ "takarabio.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "34.212.117.251",
+  "live": true
+ },
+ "test.pods.us-west.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "52.32.86.109",
+  "live": true
+ },
  "trust.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "104.18.41.248",
   "live": true
  },
+ "u003econsole.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "us-west.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "vacuole.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "52.26.88.8",
+  "last_seen": "2026-10-07",
+  "ip": "35.83.223.228",
+  "live": true
+ },
+ "vizgen.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "34.212.117.251",
   "live": true
  },
  "vpn.z.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "wiki.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.93",
+  "last_seen": "2026-10-07",
+  "ip": "76.76.21.123",
   "live": true
+ },
+ "wildcard.custom.pods.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "54.68.237.89",
+  "live": true
+ },
+ "wildcard.jlab.pods.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "44.229.73.209",
+  "live": true
+ },
+ "wildcard.pods.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "184.33.219.147",
+  "live": true
+ },
+ "wildcard.rstudio.pods.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "184.33.219.147",
+  "live": true
+ },
+ "www.argocd.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.auth.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.blog.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.centromere.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.clipper-viz-server.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.conference.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.deseq2-viz-server.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "www.latch.bio": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "35.95.170.39",
+  "last_seen": "2026-10-07",
+  "ip": "35.95.207.31",
   "live": true
+ },
+ "www.pods.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "44.229.73.209",
+  "live": true
+ },
+ "www.pods.us-west.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "52.32.86.109",
+  "live": true
+ },
+ "www.pollock.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.salesloft.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.status.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.test.pods.us-west.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "52.32.86.109",
+  "live": true
+ },
+ "www.trust.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.u003econsole.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.wiki.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.x.latch.bio": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "x.latch.bio": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  }

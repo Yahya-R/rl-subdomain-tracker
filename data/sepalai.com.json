@@ -1,218 +1,404 @@
 {
  "accounts.app-foundry.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "104.18.34.146",
   "live": true
  },
  "accounts.expert-hub.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "104.18.34.146",
   "live": true
  },
  "accounts.nexus-admin.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "104.18.34.146",
   "live": true
  },
  "accounts.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "172.64.153.110",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.34.146",
   "live": true
  },
  "accounts.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "172.64.153.110",
   "live": true
  },
+ "accountsc.expert-hub.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "accountsm.nexus-admin.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "api.demo.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "66.241.125.158",
   "live": true
  },
  "api.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "213.188.215.72",
   "live": true
  },
  "api.stage.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "66.241.125.161",
+  "live": true
+ },
+ "apim.demo.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "apis.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "app-foundry.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.66",
   "live": true
  },
  "apply.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "35.205.106.218",
+  "live": true
+ },
+ "book.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.129",
+  "live": true
+ },
+ "cal.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.65",
   "live": true
  },
  "clerk.app-foundry.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "172.64.153.110",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.34.146",
   "live": true
  },
  "clerk.expert-hub.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "104.18.34.146",
   "live": true
  },
  "clerk.nexus-admin.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "104.18.34.146",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "104.18.34.146",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "104.18.34.146",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.153.110",
   "live": true
+ },
+ "clerkc.expert-hub.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "demo.expert-hub.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.22",
+  "last_seen": "2026-10-07",
+  "ip": "76.76.21.93",
   "live": true
  },
  "demo.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "66.33.60.129",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.66",
   "live": true
  },
  "expert-hub.sepalai.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.142",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.129",
   "live": true
  },
  "expert.sepalai.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.123.1",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.129",
   "live": true
  },
  "experts.sepalai.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.109.1",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.65",
   "live": true
  },
  "feedback.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "104.20.30.201",
+  "last_seen": "2026-10-07",
+  "ip": "172.66.160.77",
   "live": true
  },
  "forms.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.123.65",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.1",
   "live": true
  },
  "help.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "172.66.160.77",
+  "last_seen": "2026-10-07",
+  "ip": "104.20.30.201",
   "live": true
  },
  "marketing.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "198.202.211.1",
   "live": true
  },
  "nexus-admin.sepalai.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "ip": "66.33.60.129",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.34",
   "live": true
  },
  "nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.142",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.35",
   "live": true
  },
  "sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.109.1",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.65",
   "live": true
  },
  "stage.expert-hub.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "stage.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "wildcard.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.1",
+  "live": true
+ },
+ "www.accounts.app-foundry.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.accounts.expert-hub.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.accounts.nexus-admin.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.accounts.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.accounts.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.api.demo.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.api.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.api.stage.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.app-foundry.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.130",
+  "live": true
+ },
+ "www.apply.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "www.book.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.109.65",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.1",
   "live": true
  },
  "www.cal.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.109.193",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.193",
   "live": true
+ },
+ "www.clerk.app-foundry.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.clerk.expert-hub.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.clerk.nexus-admin.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.clerk.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.clerk.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.demo.expert-hub.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.demo.nexus.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "www.expert-hub.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.98",
+  "last_seen": "2026-10-07",
+  "ip": "66.33.60.67",
   "live": true
  },
  "www.expert.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.123.1",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.109.193",
   "live": true
  },
  "www.experts.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.109.1",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.1",
   "live": true
+ },
+ "www.feedback.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.forms.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.1",
+  "live": true
+ },
+ "www.help.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "www.marketing.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "www.nexus-admin.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
   "ip": "",
   "live": false
  },
  "www.nexus.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "76.76.21.22",
+  "last_seen": "2026-10-07",
+  "ip": "76.76.21.142",
   "live": true
  },
  "www.sepalai.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-06",
-  "ip": "64.239.123.129",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.65",
+  "live": true
+ },
+ "www.wildcard.sepalai.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "64.239.123.1",
   "live": true
  }
 }
