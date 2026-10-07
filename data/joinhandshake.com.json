@@ -1,4 +1,10 @@
 {
+ "a1.mail.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "192.237.159.131",
+  "live": true
+ },
  "a2.mail.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -32,13 +38,13 @@
  "academy.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "13.225.47.4",
+  "ip": "108.138.246.117",
   "live": true
  },
  "access-presenters.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "185.41.148.1",
+  "ip": "185.41.148.2",
   "live": true
  },
  "access.joinhandshake.com": {
@@ -62,7 +68,7 @@
  "adelphi.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "admin.joinhandshake.com": {
@@ -80,7 +86,7 @@
  "agentic-recruiter.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "agnesscott.joinhandshake.com": {
@@ -92,7 +98,7 @@
  "ai-support.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "66.33.60.34",
+  "ip": "66.33.60.129",
   "live": true
  },
  "ai-vercel.joinhandshake.com": {
@@ -110,7 +116,7 @@
  "aiacademy.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "3.168.40.80",
+  "ip": "65.8.180.83",
   "live": true
  },
  "aims.joinhandshake.com": {
@@ -224,13 +230,19 @@
  "ambassador-staging.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "american.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "americanc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "amherst.joinhandshake.com": {
@@ -284,7 +296,7 @@
  "api.scdp.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "34.208.52.2",
+  "ip": "52.10.98.83",
   "live": true
  },
  "app.joinhandshake.com": {
@@ -301,6 +313,12 @@
  },
  "apps.joinhandshake.com": {
   "first_seen": "2026-10-05",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "appsa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
@@ -347,16 +365,34 @@
   "ip": "172.64.145.100",
   "live": true
  },
- "arkansasbaptistk.joinhandshake.com": {
+ "arizona.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "arkansasbaptist.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "arkansasbaptistk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "assumptiona.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "asu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "asug.joinhandshake.com": {
@@ -371,16 +407,58 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "atu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "atug.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "auburn.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "aucc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "audiorca-external.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
   "ip": "34.149.127.39",
+  "live": true
+ },
+ "augusta.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "augustana.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "augustanac.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "austincc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "auth.orbit.joinhandshake.com": {
@@ -392,7 +470,7 @@
  "avemaria.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "babson.joinhandshake.com": {
@@ -422,7 +500,7 @@
  "bc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "bellarmine.joinhandshake.com": {
@@ -446,7 +524,7 @@
  "benningtona.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "berea.joinhandshake.com": {
@@ -461,10 +539,22 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "bethanywv.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "bgsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "blog-test.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "blog-testa.joinhandshake.com": {
@@ -475,6 +565,12 @@
  },
  "blog.joinhandshake.com": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "bloge.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
@@ -488,10 +584,22 @@
  "bloomfieldi.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "boisestatei.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "boulder.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "brandeis.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -503,7 +611,19 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "bridgew.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "brockport.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "brockporta.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -518,7 +638,7 @@
  "bu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "bucknell.joinhandshake.com": {
@@ -548,10 +668,16 @@
  "byuia.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "byuu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "cabrini.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -572,7 +698,13 @@
  "calendar.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "54.203.141.234",
+  "ip": "52.40.224.11",
+  "live": true
+ },
+ "calendarg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "calstatelam.joinhandshake.com": {
@@ -587,8 +719,20 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "canisiusg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "careertips.joinhandshake.com": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "careertipsk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
@@ -602,7 +746,7 @@
  "carrolluo.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "casewestern.joinhandshake.com": {
@@ -611,16 +755,28 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "cca.joinhandshake.com": {
+ "casewesterng.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
- "ccisg.joinhandshake.com": {
+ "cau.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "cca.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "ccisg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "cdn.ai.joinhandshake.com": {
@@ -629,8 +785,20 @@
   "ip": "35.227.218.237",
   "live": true
  },
+ "cdn.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "35.227.208.115",
+  "live": true
+ },
  "cdn.learning.joinhandshake.com": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "cdna.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
@@ -641,10 +809,16 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "cedarvillem.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "centralstatea.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "centre.joinhandshake.com": {
@@ -668,6 +842,12 @@
  "champlain.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "champlaina.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
@@ -675,6 +855,12 @@
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "chatham.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "cheyney.joinhandshake.com": {
@@ -710,10 +896,22 @@
  "cmu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "coastal.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
  "coek.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "cofc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -737,6 +935,24 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "coloradomesag.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "colostate.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "columbiai.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "columbusstatei.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -747,6 +963,12 @@
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
   "ip": "34.120.68.39",
+  "live": true
+ },
+ "concordia.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "concordiatx.joinhandshake.com": {
@@ -764,19 +986,19 @@
  "conference.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "conncollk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "cookman.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "cornell.joinhandshake.com": {
@@ -785,16 +1007,46 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "cortlande.joinhandshake.com": {
+ "cortland.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
+ "cortlande.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "covenant.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "cppa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "creighton.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "creightona.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "csbsju.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "csp.joinhandshake.com": {
@@ -821,7 +1073,19 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "csudh.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "csun.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "csuniv.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -869,6 +1133,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "cwru.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "daemen.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -881,13 +1151,31 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "davenport.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "davidson.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "davidsons.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "dbu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
- "dbu.joinhandshake.com": {
+ "dccc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -908,13 +1196,31 @@
  "demo.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "denison.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "depaul.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "desu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "desug.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "documentation-new.joinhandshake.com": {
@@ -926,7 +1232,25 @@
  "documentation.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "18.64.183.99",
+  "ip": "18.244.214.20",
+  "live": true
+ },
+ "documentationk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "dominicana.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "dordt.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "drake.joinhandshake.com": {
@@ -941,10 +1265,34 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "duq.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "duqe.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "earlham.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "eastern.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "echo-contour.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "echo-contouri.joinhandshake.com": {
@@ -957,6 +1305,12 @@
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "ecu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "edu-api.joinhandshake.com": {
@@ -980,13 +1334,13 @@
  "email.m.ai.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "34.102.239.211",
+  "ip": "34.110.180.34",
   "live": true
  },
  "email.m.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "34.110.180.34",
+  "ip": "34.102.239.211",
   "live": true
  },
  "email.mail.joinhandshake.com": {
@@ -998,7 +1352,7 @@
  "email.notifications.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "34.110.180.34",
+  "ip": "34.102.239.211",
   "live": true
  },
  "email.recruiting.joinhandshake.com": {
@@ -1031,6 +1385,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "endicotti.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "eoui.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1040,13 +1400,13 @@
  "eraug.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "esui.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "etown.joinhandshake.com": {
@@ -1064,13 +1424,13 @@
  "evs.scdp.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "99.86.77.88",
+  "ip": "18.173.121.97",
   "live": true
  },
  "ewu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "ewuc.joinhandshake.com": {
@@ -1082,13 +1442,13 @@
  "experimentation-portal.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "ext.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "fallrelease.joinhandshake.com": {
@@ -1127,7 +1487,19 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "fdu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "ferris.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "fit.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1139,7 +1511,19 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "fiu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "flagler.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "flsouthern.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -1154,10 +1538,46 @@
  "framingham.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "franklinpiercem.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "fredonia.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "fredoniac.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "fsuc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "fullcoll.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "furman.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "fvtci.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -1169,10 +1589,34 @@
   "ip": "",
   "live": false
  },
+ "gcc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "gcsum.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "georgefox.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "georgefoxg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "georgetown.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "get.joinhandshake.com": {
@@ -1190,19 +1634,19 @@
  "gettysburg.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "gettysburga.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "gmu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "gmuo.joinhandshake.com": {
@@ -1214,19 +1658,19 @@
  "go.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.17.70.206",
+  "ip": "104.17.71.206",
   "live": true
  },
  "godigital.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "godigitali.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "golinks.joinhandshake.com": {
@@ -1238,13 +1682,13 @@
  "gordon.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "goto.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "104.17.70.206",
+  "ip": "104.17.73.206",
   "live": true
  },
  "grcc.joinhandshake.com": {
@@ -1277,6 +1721,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "gvsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "gwg.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
@@ -1290,6 +1740,12 @@
   "live": true
  },
  "gwu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "gwug.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1346,19 +1802,25 @@
  "haverford.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "haverfordg.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "hcc-nd.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "highpoint.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "hirerawls.joinhandshake.com": {
@@ -1385,6 +1847,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "hollins.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "hoods.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1392,6 +1860,12 @@
   "live": true
  },
  "hopea.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "houghton.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1412,6 +1886,12 @@
  "hpu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "hpua.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
@@ -1421,8 +1901,20 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "hs-staginga.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "hs.joinhandshake.com": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "hsa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
@@ -1430,7 +1922,7 @@
  "hsc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "hsutx.joinhandshake.com": {
@@ -1484,19 +1976,25 @@
  "importer-ambassador.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "importer-ambassadorc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "importer.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "indiana.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "indstate.joinhandshake.com": {
@@ -1511,10 +2009,16 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "indwes.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "insights-stage.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "52.23.124.161",
+  "ip": "18.214.58.32",
   "live": true
  },
  "insights.joinhandshake.com": {
@@ -1526,7 +2030,7 @@
  "ipfw.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "ipfwa.joinhandshake.com": {
@@ -1541,6 +2045,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "iup.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "ivy-internal.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
@@ -1553,7 +2063,19 @@
   "ip": "34.96.86.159",
   "live": true
  },
+ "iwu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "jcuc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "jhum.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1583,6 +2105,18 @@
   "ip": "76.76.21.21",
   "live": true
  },
+ "jsums.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "ju.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "juk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1598,7 +2132,7 @@
  "kent.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "keuka.joinhandshake.com": {
@@ -1619,6 +2153,12 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "knox.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "knoxc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1637,7 +2177,19 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "lakeforest.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "lawrence.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "lawrencek.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1658,13 +2210,13 @@
  "learn-test.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "learn-testm.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "learn.joinhandshake.com": {
@@ -1715,6 +2267,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "lmue.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "lockhaven.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1730,10 +2288,22 @@
  "louisiana.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "louisville.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
  "louisvillec.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "lr.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -1751,11 +2321,29 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "lvc.joinhandshake.com": {
+ "lsus.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
+ },
+ "ltug.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "lvc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "m.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
  },
  "macalester.joinhandshake.com": {
   "first_seen": "2026-10-07",
@@ -1772,7 +2360,7 @@
  "manchesterc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "marian.joinhandshake.com": {
@@ -1781,7 +2369,31 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "marist.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "marquettek.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "marshall.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "maryville.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "maryvillec.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -1799,6 +2411,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "masters.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "mayvillestatea.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1811,6 +2429,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "mdc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "medaille.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1818,6 +2442,12 @@
   "live": true
  },
  "memphis.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "menlo.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -1847,6 +2477,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "mhu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "mhue.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -1856,13 +2492,25 @@
  "miad.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "miami.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "miamioh.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
  "minerva.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "missouri.joinhandshake.com": {
@@ -1871,7 +2519,31 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "missouric.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "missouriwesternw.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "miti.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "morehouseo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "morgan.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -1904,13 +2576,13 @@
  "mtmary.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "mtu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "mtuo.joinhandshake.com": {
@@ -1931,10 +2603,16 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "mvnuw.joinhandshake.com": {
+ "murraystatei.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "mvnuw.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "naus.joinhandshake.com": {
@@ -1952,13 +2630,25 @@
  "ncat.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "nccu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "nccua.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
  "nctclink.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "nctclinka.joinhandshake.com": {
@@ -1982,10 +2672,22 @@
  "neccy.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "neumann.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "newhaven.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "newmarkjschool.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2000,13 +2702,25 @@
  "njit.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "njiti.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "nmsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "nmsug.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "nmt.joinhandshake.com": {
@@ -2018,10 +2732,16 @@
  "nmta.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "nmu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "nnu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -2039,6 +2759,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "northwood.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "northwoode.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -2051,10 +2777,16 @@
   "ip": "8.232.55.37",
   "live": true
  },
+ "notifications.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
  "notificationsi.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "notifs.joinhandshake.com": {
@@ -2072,19 +2804,25 @@
  "novaa.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "nsc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "nsci.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "nsula.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "nsuok.joinhandshake.com": {
@@ -2094,6 +2832,12 @@
   "live": true
  },
  "nyit.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "oakland.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -2114,19 +2858,31 @@
  "ohlone.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "oit.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "oitc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
  "olemiss.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "olina.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "olivetcollegeg.joinhandshake.com": {
@@ -2144,7 +2900,7 @@
  "openvpn.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "orbit.joinhandshake.com": {
@@ -2162,16 +2918,22 @@
  "oscar.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "osu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "osug.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "ou.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2201,6 +2963,12 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "pacificu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "pacificug.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -2217,6 +2985,12 @@
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
   "ip": "8.232.147.100",
+  "live": true
+ },
+ "pba.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "pbac.joinhandshake.com": {
@@ -2237,16 +3011,40 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "pfw.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "pfwo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "pitt.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "pittstate.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
- "pointloma.joinhandshake.com": {
+ "pitzer.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "pointloma.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "pointpark.joinhandshake.com": {
@@ -2255,26 +3053,44 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "pointparkc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "portlandstate.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
- "potsdam.joinhandshake.com": {
+ "portlandstatea.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "potsdam.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "pratt.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "premium.joinhandshake.com": {
   "first_seen": "2026-10-06",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "princeton.joinhandshake.com": {
+  "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
@@ -2294,7 +3110,7 @@
  "providenceg.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "purdue.joinhandshake.com": {
@@ -2345,6 +3161,12 @@
   "ip": "",
   "live": false
  },
+ "rhodes.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "ricek.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -2361,6 +3183,12 @@
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "rochester.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "rochesterg.joinhandshake.com": {
@@ -2381,10 +3209,22 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "rpia.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "rspha.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "rsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "rutgers.joinhandshake.com": {
@@ -2393,13 +3233,25 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "sagu.joinhandshake.com": {
+ "rwu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
+ "sagu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "saintleo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "saintleoe.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2414,7 +3266,7 @@
  "sales.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "52.40.224.11",
+  "ip": "16.144.93.190",
   "live": true
  },
  "salve.joinhandshake.com": {
@@ -2432,7 +3284,7 @@
  "sarahlawrence.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "sarahlawrencem.joinhandshake.com": {
@@ -2447,6 +3299,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "scfa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "schreiner.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -2456,7 +3314,7 @@
  "schreinerk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "scripps.joinhandshake.com": {
@@ -2477,10 +3335,28 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "sdsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "seattleu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "seattleue.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "selu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "seminolestate.joinhandshake.com": {
@@ -2495,16 +3371,28 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "sfsuc.joinhandshake.com": {
+ "sf.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
- "simpson.joinhandshake.com": {
+ "sfsu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "sfsuc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "simpson.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "siuc.joinhandshake.com": {
@@ -2516,13 +3404,13 @@
  "sjcny.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "sjfci.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "sjsu.joinhandshake.com": {
@@ -2558,10 +3446,22 @@
  "skills.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "18.211.166.153",
+  "ip": "34.210.109.146",
   "live": true
  },
  "slac.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "slaci.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "slu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2579,10 +3479,28 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "smuguildhalli.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "snhu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "snow.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "snowq.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "sou.joinhandshake.com": {
@@ -2594,7 +3512,7 @@
  "soui.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "southalabama.joinhandshake.com": {
@@ -2606,19 +3524,19 @@
  "spelman.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "staging-gcp.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "staging.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "stanford.joinhandshake.com": {
@@ -2630,7 +3548,7 @@
  "status.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "13.225.47.44",
+  "ip": "18.239.199.60",
   "live": true
  },
  "statuspage-proxy.joinhandshake.com": {
@@ -2645,22 +3563,40 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "stcloudstate.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "stcloudstatem.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
+ "stedwards.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "stevensonc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "stfrancis.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "stfrancisk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "stjohns.joinhandshake.com": {
@@ -2696,19 +3632,25 @@
  "stonehill.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "stonehilli.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "stonybrook.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "stthom.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "suffolk.joinhandshake.com": {
@@ -2723,6 +3665,12 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "sunyoldwestburyq.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "support.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
@@ -2730,6 +3678,12 @@
   "live": true
  },
  "suu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "suuk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -2744,7 +3698,25 @@
  "syr.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "syrk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "tacomauw.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "tacomauw7.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "tamuc.joinhandshake.com": {
@@ -2756,7 +3728,7 @@
  "tamucc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "tamuct.joinhandshake.com": {
@@ -2783,6 +3755,18 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "tcnje.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "teachme.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "temple.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -2796,6 +3780,12 @@
   "live": false
  },
  "thomasmore.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "tlu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2816,7 +3806,7 @@
  "training.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "18.172.122.75",
+  "ip": "18.239.199.102",
   "live": true
  },
  "traininga.joinhandshake.com": {
@@ -2825,10 +3815,16 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "trevecca.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "treveccac.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "trinity.joinhandshake.com": {
@@ -2852,16 +3848,40 @@
  "trust-dev.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "trust.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "18.172.122.61",
+  "ip": "13.249.74.45",
   "live": true
  },
  "tufts.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "tulane.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "tuskegeeg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "twu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "twua.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -2885,10 +3905,16 @@
   "ip": "172.64.145.100",
   "live": true
  },
- "uakron.joinhandshake.com": {
+ "uah.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "uakron.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "uapb.joinhandshake.com": {
@@ -2897,13 +3923,37 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "uapbk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "uarkc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
+ "uc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "ucdavis.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "ucdenver.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "ucdenverk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -2918,6 +3968,12 @@
  "ucfe.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uchicago.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
   "live": true
  },
@@ -2930,13 +3986,37 @@
  "uci.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "ucla.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "ucmerced.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "ucmoo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uconn.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "ucr.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "ucsbq.joinhandshake.com": {
@@ -2972,7 +4052,25 @@
  "udel.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "udelk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "uga.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uiowa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "uiw.joinhandshake.com": {
@@ -2981,10 +4079,16 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "uiwe.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "uky.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "ukyi.joinhandshake.com": {
@@ -2996,7 +4100,7 @@
  "umass.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "umb.joinhandshake.com": {
@@ -3008,19 +4112,25 @@
  "umd.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "umgc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "umich.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "umkc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "umne.joinhandshake.com": {
@@ -3053,6 +4163,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "umwk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "unca.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3068,7 +4184,7 @@
  "uncfsu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "unco.joinhandshake.com": {
@@ -3083,7 +4199,25 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "uncw.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "uncwc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "unf.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "unh.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -3107,6 +4241,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "unle.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "unlv.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3119,10 +4259,22 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "uno.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "unoc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "unomaha.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "unr.joinhandshake.com": {
@@ -3131,16 +4283,34 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "unra.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "unt.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "unwsp.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "up.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "updates.joinhandshake.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-07",
-  "ip": "34.235.178.45",
+  "ip": "44.218.149.214",
   "live": true
  },
  "upe.joinhandshake.com": {
@@ -3167,10 +4337,34 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "usm.joinhandshake.com": {
+ "usf.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "usfca.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "usfq.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "usfsm.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "usm.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "usui.joinhandshake.com": {
@@ -3188,10 +4382,22 @@
  "utah.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "utaha.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "utaustin.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "utaustina.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -3206,7 +4412,7 @@
  "utc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "utdallas.joinhandshake.com": {
@@ -3233,6 +4439,18 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "utk.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "utka.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "utmartin.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3246,6 +4464,12 @@
   "live": true
  },
  "utsai.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "utulsa.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -3266,7 +4490,7 @@
  "uvu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "uvuo.joinhandshake.com": {
@@ -3287,6 +4511,18 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "uwg.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uwgb.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "uwgba.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3299,10 +4535,34 @@
   "ip": "104.18.42.156",
   "live": true
  },
- "uwpa.joinhandshake.com": {
+ "uwmm.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "uwosh.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uwp.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "uwpa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "uwplatt.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "uwrf.joinhandshake.com": {
@@ -3314,7 +4574,7 @@
  "uwrfa.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "uwspw.joinhandshake.com": {
@@ -3326,13 +4586,31 @@
  "uwstout.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "uww.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "valpo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "villanova.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "villanovak.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "vmi.joinhandshake.com": {
@@ -3365,10 +4643,16 @@
   "ip": "104.18.42.156",
   "live": true
  },
+ "walsh.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "washburn.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "washcollk.joinhandshake.com": {
@@ -3380,10 +4664,16 @@
  "wcsu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "wcsua.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "wcupa.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -3410,7 +4700,13 @@
  "western.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "westfield.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "westminster.joinhandshake.com": {
@@ -3420,6 +4716,12 @@
   "live": true
  },
  "westminstercollege.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "westminstercollegey.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
@@ -3440,13 +4742,13 @@
  "wfuk.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "wgu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "wheaton.joinhandshake.com": {
@@ -3458,7 +4760,7 @@
  "whitman.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "whitworth.joinhandshake.com": {
@@ -3485,6 +4787,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "willamette.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "willamettek.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3500,7 +4808,13 @@
  "wilmu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "winona.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "wisc.joinhandshake.com": {
@@ -3512,7 +4826,19 @@
  "wku.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "wkue.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "wlu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "wlug.joinhandshake.com": {
@@ -3524,19 +4850,25 @@
  "wmich.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "wmpenn.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "woum.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "wpi.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "wpie.joinhandshake.com": {
@@ -3557,6 +4889,12 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "wvu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "wvupc.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -3575,10 +4913,46 @@
   "ip": "",
   "live": false
  },
+ "www.auburn.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.berkeley.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.bridgew.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.cmc.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.coloradomesa.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "www.curry.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.dbu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
   "live": true
  },
  "www.ecsu.joinhandshake.com": {
@@ -3590,10 +4964,28 @@
  "www.fandm.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
+ "www.floridapoly.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
   "live": true
  },
+ "www.gatech.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "www.gateway.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.gmercyu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -3603,6 +4995,12 @@
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "www.houghton.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.iit.joinhandshake.com": {
@@ -3617,10 +5015,22 @@
   "ip": "76.76.21.21",
   "live": true
  },
+ "www.keene.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
  "www.learn.joinhandshake.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "www.lsus.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.marian.joinhandshake.com": {
@@ -3644,7 +5054,7 @@
  "www.merrimack.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "www.missouri.joinhandshake.com": {
@@ -3674,7 +5084,7 @@
  "www.rider.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.sc.joinhandshake.com": {
@@ -3683,10 +5093,22 @@
   "ip": "172.64.145.100",
   "live": true
  },
+ "www.sfsu.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "104.18.42.156",
+  "live": true
+ },
  "www.svsu.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "104.18.42.156",
+  "live": true
+ },
+ "www.thomasmore.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.uc.joinhandshake.com": {
@@ -3698,7 +5120,7 @@
  "www.ucsb.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.udel.joinhandshake.com": {
@@ -3710,7 +5132,13 @@
  "www.uiowa.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.umary.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
   "live": true
  },
  "www.umass.joinhandshake.com": {
@@ -3722,10 +5150,22 @@
  "www.uw.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "www.valpo.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.weber.joinhandshake.com": {
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "ip": "172.64.145.100",
+  "live": true
+ },
+ "www.wellesley.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
   "ip": "172.64.145.100",
@@ -3752,13 +5192,13 @@
  "wwwy.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "172.64.145.100",
+  "ip": "104.18.42.156",
   "live": true
  },
  "xulae.joinhandshake.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "ip": "104.18.42.156",
+  "ip": "172.64.145.100",
   "live": true
  },
  "ysua.joinhandshake.com": {

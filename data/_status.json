@@ -666,20 +666,26 @@
  "joinhandshake.com": {
   "sources": {
    "crtsh": 97,
-   "certspotter": 51,
-   "hackertarget": 51,
-   "alienvault": null,
-   "subdomain_center": 498,
-   "anubis": null,
+   "certspotter": null,
+   "hackertarget": 0,
+   "subdomain_center": 499,
    "wayback": 2,
    "rapiddns": 51,
    "c99": 0
   },
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center",
+   "wayback"
+  ],
   "complete": true,
-  "last_scan": "2026-10-07T02:17",
+  "last_scan": "2026-10-07T03:12",
   "failed_sources": [
-   "alienvault",
-   "anubis"
+   "certspotter"
   ]
  },
  "labs.huzzle.com": {
@@ -958,40 +964,51 @@
  "phinity.ai": {
   "sources": {
    "crtsh": 2,
-   "certspotter": 2,
-   "hackertarget": 2,
-   "alienvault": null,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 2,
-   "anubis": null,
    "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center"
+  ],
   "complete": true,
-  "last_scan": "2026-10-07T02:14",
+  "last_scan": "2026-10-07T03:10",
   "failed_sources": [
-   "alienvault",
-   "anubis",
+   "certspotter",
    "wayback"
   ]
  },
  "plato.so": {
   "sources": {
    "crtsh": 53,
-   "certspotter": 40,
-   "hackertarget": 22,
-   "alienvault": null,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 57,
-   "anubis": null,
    "wayback": 6,
    "rapiddns": 1,
    "c99": 0
   },
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center",
+   "wayback"
+  ],
   "complete": true,
-  "last_scan": "2026-10-07T02:17",
+  "last_scan": "2026-10-07T03:13",
   "failed_sources": [
-   "alienvault",
-   "anubis"
+   "certspotter"
   ]
  },
  "pre.dev": {
@@ -1132,21 +1149,26 @@
  "risedatalabs.com": {
   "sources": {
    "crtsh": 31,
-   "certspotter": 25,
-   "hackertarget": 23,
-   "alienvault": null,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 4,
-   "anubis": null,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
-  "complete": true,
-  "last_scan": "2026-10-07T02:17",
-  "failed_sources": [
-   "alienvault",
-   "anubis",
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center",
    "wayback"
+  ],
+  "complete": true,
+  "last_scan": "2026-10-07T03:13",
+  "failed_sources": [
+   "certspotter"
   ]
  },
  "scale.com": {
