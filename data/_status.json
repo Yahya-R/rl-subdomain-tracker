@@ -306,10 +306,10 @@
  },
  "cua.ai": {
   "sources": {
-   "crtsh": 790,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 15,
-   "subdomain_center": 498,
+   "hackertarget": 0,
+   "subdomain_center": 497,
    "wayback": 287,
    "rapiddns": 0,
    "c99": 0
@@ -324,9 +324,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:10",
+  "last_scan": "2026-10-07T16:01",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "crtsh"
   ]
  },
  "datacurve.ai": {
@@ -486,7 +487,7 @@
   "sources": {
    "crtsh": 1,
    "certspotter": null,
-   "hackertarget": 1,
+   "hackertarget": 0,
    "subdomain_center": 0,
    "wayback": null,
    "rapiddns": 0,
@@ -501,7 +502,7 @@
    "subdomain_center"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:07",
+  "last_scan": "2026-10-07T15:58",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -509,9 +510,9 @@
  },
  "emulated.so": {
   "sources": {
-   "crtsh": 3,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 2,
+   "hackertarget": 0,
    "subdomain_center": 0,
    "wayback": null,
    "rapiddns": 0,
@@ -526,9 +527,10 @@
    "subdomain_center"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:06",
+  "last_scan": "2026-10-07T15:58",
   "failed_sources": [
    "certspotter",
+   "crtsh",
    "wayback"
   ]
  },
@@ -833,11 +835,11 @@
  },
  "markovstudios.com": {
   "sources": {
-   "crtsh": 6,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 2,
+   "hackertarget": 0,
    "subdomain_center": 2,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -847,13 +849,14 @@
    "crtsh",
    "hackertarget",
    "rapiddns",
-   "subdomain_center"
+   "subdomain_center",
+   "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:06",
+  "last_scan": "2026-10-07T15:58",
   "failed_sources": [
    "certspotter",
-   "wayback"
+   "crtsh"
   ]
  },
  "mechanize.work": {
@@ -908,11 +911,11 @@
  },
  "metaphi.ai": {
   "sources": {
-   "crtsh": 17,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 11,
+   "hackertarget": 0,
    "subdomain_center": 3,
-   "wayback": null,
+   "wayback": 8,
    "rapiddns": 1,
    "c99": 0
   },
@@ -922,13 +925,14 @@
    "crtsh",
    "hackertarget",
    "rapiddns",
-   "subdomain_center"
+   "subdomain_center",
+   "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:09",
+  "last_scan": "2026-10-07T16:00",
   "failed_sources": [
    "certspotter",
-   "wayback"
+   "crtsh"
   ]
  },
  "micro1.ai": {
@@ -959,9 +963,9 @@
  },
  "normal.ai": {
   "sources": {
-   "crtsh": 8,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 4,
+   "hackertarget": 0,
    "subdomain_center": 2,
    "wayback": 1,
    "rapiddns": 0,
@@ -977,9 +981,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:10",
+  "last_scan": "2026-10-07T16:01",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "crtsh"
   ]
  },
  "ooakdata.com": {
@@ -1283,9 +1288,9 @@
  },
  "refresh.dev": {
   "sources": {
-   "crtsh": 17,
-   "certspotter": null,
-   "hackertarget": 10,
+   "crtsh": null,
+   "certspotter": 12,
+   "hackertarget": 0,
    "subdomain_center": 49,
    "wayback": null,
    "rapiddns": 0,
@@ -1300,9 +1305,9 @@
    "subdomain_center"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:09",
+  "last_scan": "2026-10-07T16:01",
   "failed_sources": [
-   "certspotter",
+   "crtsh",
    "wayback"
   ]
  },
@@ -1613,7 +1618,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 5,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 2,
    "c99": 0
   },
@@ -1623,13 +1628,13 @@
    "crtsh",
    "hackertarget",
    "rapiddns",
-   "subdomain_center"
+   "subdomain_center",
+   "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-07T06:14",
+  "last_scan": "2026-10-07T16:02",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "verita-ai.com": {
