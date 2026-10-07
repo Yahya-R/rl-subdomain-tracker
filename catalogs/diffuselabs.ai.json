@@ -1,0 +1,22 @@
+{
+ "domain": "diffuselabs.ai",
+ "live_hosts": 3,
+ "pages": [
+  {
+   "host": "diffuselabs.ai",
+   "status": "ok",
+   "url": "https://diffuselabs.ai/",
+   "title": "Diffuse Labs",
+   "links": []
+  },
+  {
+   "host": "grafana.diffuselabs.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "preview.diffuselabs.ai",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

@@ -1,0 +1,1263 @@
+{
+ "domain": "micro1.ai",
+ "live_hosts": 183,
+ "pages": [
+  {
+   "host": "adm.micro1.ai",
+   "status": "ok",
+   "url": "https://adm.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "admin.micro1.ai",
+   "status": "ok",
+   "url": "https://adm.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "agora.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://agora.cortex.micro1.ai/",
+   "title": "Agora",
+   "links": []
+  },
+  {
+   "host": "ai-interviewer.micro1.ai",
+   "status": "ok",
+   "url": "https://ai-recruiter.micro1.ai/api-reference/getting-started/introduction",
+   "title": "Introduction - micro1 API",
+   "links": []
+  },
+  {
+   "host": "ai-recommendation-api.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ai-recruiter.micro1.ai",
+   "status": "ok",
+   "url": "https://ai-recruiter.micro1.ai/api-reference/getting-started/introduction",
+   "title": "Introduction - micro1 API",
+   "links": []
+  },
+  {
+   "host": "ambrosia.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://ambrosia.cortex.micro1.ai/",
+   "title": "Pipeline Ambrosia \u2014 Rec Eval Platform",
+   "links": []
+  },
+  {
+   "host": "api-ai.kai.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-dev.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-dev.robotics.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-dev.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-stage.realm.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-staging.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-v2.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-v3.ai-search.micro1.ai",
+   "status": "ok",
+   "url": "https://api-v3.ai-search.micro1.ai/",
+   "title": "micro1 AI Search",
+   "links": []
+  },
+  {
+   "host": "api.agora.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://api.agora.cortex.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.ai-search-poc.micro1.ai",
+   "status": "ok",
+   "url": "https://api.ai-search-poc.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.ai-search.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.ai-skills-match.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.captions.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.cdp.micro1.ai",
+   "status": "ok",
+   "url": "https://api.cdp.micro1.ai/",
+   "title": "Welcome to nginx!",
+   "links": []
+  },
+  {
+   "host": "api.core.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.cortex.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.data.micro1.ai",
+   "status": "ok",
+   "url": "https://api.data.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.demo-agentic-rhea.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.dev-search.kai.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.finance.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.horizon.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.humandata.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.kairo.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.lumi.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.mars.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.realm.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.rhea.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.robotics-evals.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.robotics.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.shelf.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.stage.cdp.micro1.ai",
+   "status": "ok",
+   "url": "https://api.stage.cdp.micro1.ai/",
+   "title": "Welcome to nginx!",
+   "links": []
+  },
+  {
+   "host": "api.stage.core.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.stage.data.micro1.ai",
+   "status": "ok",
+   "url": "https://api.stage.data.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.stage.flow.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.stage.helix.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.staging.cortex.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.synth2.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.titan-rhea.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "apollo.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://apollo.cortex.micro1.ai/",
+   "title": "Sign in \u2014 Cortex Apollo",
+   "links": []
+  },
+  {
+   "host": "assets-cdn.zara.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "astra.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://astra.titan.micro1.ai/",
+   "title": "Astra Task Dashboard - Micro1.ai",
+   "links": []
+  },
+  {
+   "host": "atlas.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://atlas.cortex.micro1.ai/",
+   "title": "Lovable App",
+   "links": []
+  },
+  {
+   "host": "blitz.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://blitz.titan.micro1.ai/",
+   "title": "Blitz | Pre-comp Platform",
+   "links": []
+  },
+  {
+   "host": "canyon.robotics.micro1.ai",
+   "status": "ok",
+   "url": "https://canyon.robotics.micro1.ai/",
+   "title": "Canyon",
+   "links": []
+  },
+  {
+   "host": "captions.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cdp.micro1.ai",
+   "status": "ok",
+   "url": "https://cdp.micro1.ai/",
+   "title": "CDP Platform \u00b7 Corpus",
+   "links": []
+  },
+  {
+   "host": "client.micro1.ai",
+   "status": "ok",
+   "url": "https://www.zara.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "community.micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/",
+   "title": "Data lab to train frontier models & evaluate agents | micro1",
+   "links": [
+    {
+     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "kind": "page",
+     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "kind": "page",
+     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology-report",
+     "kind": "page",
+     "text": "Realm: Pathology-report reasoning benchmarkAn evaluation of frontier models on extracting pathology-report facts, preser"
+    },
+    {
+     "url": "https://www.micro1.ai/cortex",
+     "kind": "page",
+     "text": "Cortex The contextual evaluation platform for improving AI agent performance in production"
+    },
+    {
+     "url": "https://www.micro1.ai/realm",
+     "kind": "page",
+     "text": "RealmFrontier evaluations and RL environments for AI Labs"
+    }
+   ]
+  },
+  {
+   "host": "company.micro1.ai",
+   "status": "ok",
+   "url": "https://company.micro1.ai/",
+   "title": "Company portal | micro1",
+   "links": []
+  },
+  {
+   "host": "compiler.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "connectors.micro1.ai",
+   "status": "ok",
+   "url": "https://connectors.micro1.ai/auth/login",
+   "title": "Connectors Testing Platform",
+   "links": []
+  },
+  {
+   "host": "core.micro1.ai",
+   "status": "ok",
+   "url": "https://core.micro1.ai/",
+   "title": "micro1 \u00b7 Core Platform",
+   "links": []
+  },
+  {
+   "host": "cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://cortex.micro1.ai/",
+   "title": "Cortex - micro1",
+   "links": []
+  },
+  {
+   "host": "dagster-dev.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1661479577%3A1791344076066240&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=DPTFskd8vmEgSSa_7pr0HsAGpI6NpPPfd0QozHaA9jg%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOSQgo3UdIteLqPhzc7gEIcfX9A3FhKroLfVuosJDf9F5Ol-RZdKpJjPJBu5mcrNaV5KqMrUhQAht2r64WriAkm5RFWgi79fUhT48y9d_XR7JXMtaitO-b7Kk9gMyHF_6ztGOGq1d8cEJ9Z0EvHVUhlxFP8nxiDOR5-tDZ7EFnp239A6B75JBpt-ZzmSKkE5sO7-U3WY7aMkBeiGbK4sBElbsVANLpFxOIMvTyiF673t7LaJyt0OIvWU2-mkNXJ5fyq3nn285EoR4sPO_Q6GZH_xayKxFEaqCGoWeg9UkEG9EvBXKZtUHbl_Vgc4yWJzmEqwCV-9NVFAivdJPMTEFATBwoWDTgdrsmRBrJrnyPKcTY0rch4k7W1SOMRWLy61hdfrxIZmr8EU1Eb6zbP8Pz7S76Ot2QPE0iaOJxuMEK6ci1SCAHfF_PsRiGsfiITpj3WkIWm5sqX8NuGGwed6qkZGH0rFihiIKl_sJfxZxDnhnICfwc%26flowName%3DGeneralOAuthFlow%26as%3DS1661479577%253A1791344076066240%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcdS9kCKr_Uio_bnMr-pr5bJfnwITI9z5iTeUmQyTFVKSC7m2VzoJ4IprLgH5KO0UykC8RDC8vNWeiExqI0-yF2pAsyMmg2zG9eh4inxEYNk02WTv5M",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "dagster-dev.research.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1758264036%3A1791344076177068&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=9uDnT4_JwQ0fJ3_XBM7SIYwnaHlsg1dcHlNXgCca9Bs%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANvXour2F-HttraA6EKZUa6rSoQfaOYYiuaRBN7T-25SCht26REVBx28v39vQf9Od5sV89TB-gi80tqasAIWTzPNnvDGZuwJQOfGzm68KMaxdHx_FuvT-sYQbRLRTv6xh7KIMpPl1A7mgy2KCSK75mojZap2fhD7XeyL-QF-OfI9vEkd6NHa-hg54arNnRe8w4Wu414zd6Z2__Qi_QzRwbRq4yYn1r8Ob8uAaQN224WHsOfIoDcwGNlRFG8Y7_Ib3vetlcdCkmNASr-unweLmaLRpePjO_-o5owQj4R3FGMagoYJl-G4eyOjrXWbBnwSojUbWSk78xUYUtdfIdqpzDbntUpQuGRo3g9CEvPeTKxqYVsn_B2vcYxo3F-8l5Y_w1R0tgarsbsZtuoGd0rOeO8c9ts-f6zbqlueq28ugUCNYduf-Pg8aAdeE3hyOYjz3OQ40kI7xAHytTGpIoM_zMmt4r-VdH3m5aYuRL6lktBELlE2HTqXdJJ4LG3Y1URzVyKaCYR%26flowName%3DGeneralOAuthFlow%26as%3DS-1758264036%253A1791344076177068%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxcfP2Mjgm-Nahou14Yg-gNxs-8d8ZrbHpZQdxzjBBoZQuvOjR2vccMmMqpeZLKKqXgi_l55ZG6Gs2W_tozREQqP3v-7nTGhiU8hwjHchgNA35Ho47PU",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "dagster-staging.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1105826694%3A1791344076468198&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-staging.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=Nj0Nm2hiBSejbOxc6GU7vhAuHWBwuU4WJoUxfr2hHXc%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMPHvVhfYPlkJLnz6BWfkagyeW5kFo04hhhsS0u4mE47QD5R0xu1iz34bvO9lEBRgM6PukeWK9W8F2Aaxbcsd3tfx2JHndRtWwi0tJx5If29bsNQ-n-XlX5ttyHdjHPwKSU0M3j-tam3HZxG32JQ3shQ346DfqLdd-bN28xTioSZXq0PFnZxbwHR-UNa8iTgn8OFgwBxQWqnUecmAlmE4u0xyMa0I79ucfbVrsClN5gCpi8Yf5aavhXp0a1VA95bFVrzP9iJC1DKbdcXfagtXJmnCAdiDmD9ihP-zG6sZopBG4X5IiWPHLu2QY0iVLd9iqpPsFa_U4p1bJFN579tRCbzBIMleMwPuwllx6dPeDtGgUq7Pj5FZwNWdQ3nt-Nd61NdHYC0jhT0XfFCOW4DFyObcZe7hC0IY9Wb-OlM2F_tcuMTWSb7KyR8DEk-CxrtudcPV7JyP2K9zkg1G_PhurOsdlVkY5Uxn7soziq7L8LUqF2s-s%26flowName%3DGeneralOAuthFlow%26as%3DS-1105826694%253A1791344076468198%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-staging.merit.micro1.ai&rart=ANgoxcdnLXeuTlkeBKfTrWZiJWdQLCgavwV3FVR1veDB5bznD3QDcPY7mgZuN92PTwWyC1wHUgMaMKRFPkqtHrornGUr6J_g4jpeRE4Hjur_OfzYlTd3rF4",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "dagster.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1746773312%3A1791344076749124&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=bOCD995iX0yxH5JwjiG2ixdEI0ua0zoL5AgSuwp15kU%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANHVAl3jjt2qb-_CVpa1rnU9K7-QRwFm9of3Eb8V3JaPwv7MHP_-t9-fh5jBxk2tErn5rkQlKT0Jy34G5tWdvBZ4xBDRNqUTZin7I-b_yrqNw17vRmdb4fIC_-38p1HsEo1ie7wsZQA1bn_qIT_SZKCxmPIpXz7oKzKfTiCxKBaq35SIDI6KzIb3tLeh6bkV4Lbi7mwfj-rxya9r3S0fRjaDopie4RhyQXWasoKDZwjtchfqkiJAIuFBqy-C4ZgsIwlsLnk_m6DxC2q6IVSeoFalZbjuM0WoMQTjl12CxB6l52_RNTbWo-NqcXuF1HkcJH6Aa_Pt9dDvSSPVqSMPHepBa1I32wKSql75I-iLmC1dpuDl9gaYWzWPos3Mbv_X4wlg3KssJA0ts6Mrz199Z2ucuNPzmc_RVrgj6mPTSD5ak47bhM3cJpw7CnZymdF8EprQRdECzKwenGsru9FqCPLrwvIj8tmiGXpO3oxVMi-X_38fUA%26flowName%3DGeneralOAuthFlow%26as%3DS1746773312%253A1791344076749124%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcesaFEGun2F6V-iizGZJ9M3k_gST20NIFKsGUMB6R1cvuBnxWxT2V63bf55O4JEXvYHD2NgAAQSKxMhK07O_TLU38vF8YKG3VqoeefyF2vSwlIDQLk",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "data.micro1.ai",
+   "status": "ok",
+   "url": "https://data.micro1.ai/",
+   "title": "Company Data Platform \u00b7 Transfer Ops",
+   "links": []
+  },
+  {
+   "host": "dev-api.finance.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dev-api.fly-agent.micro1.ai",
+   "status": "ok",
+   "url": "https://dev-api.fly-agent.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "dev-api.realtime-ai-interview.micro1.ai",
+   "status": "ok",
+   "url": "https://dev-api.realtime-ai-interview.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "dev-m1-videos.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dev-recorder.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dev-robotics.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dev-videos.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "docs.micro1.ai",
+   "status": "ok",
+   "url": "https://ai-recruiter.micro1.ai/api-reference/getting-started/introduction",
+   "title": "Introduction - micro1 API",
+   "links": []
+  },
+  {
+   "host": "downloader.micro1.ai",
+   "status": "ok",
+   "url": "https://www.downloader.micro1.ai/",
+   "title": "HLS Downloader",
+   "links": []
+  },
+  {
+   "host": "eden.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://eden.cortex.micro1.ai/",
+   "title": "m1 Eden",
+   "links": []
+  },
+  {
+   "host": "everest.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "fin.micro1.ai",
+   "status": "ok",
+   "url": "https://fin.micro1.ai/login",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "finance.micro1.ai",
+   "status": "ok",
+   "url": "https://fin.micro1.ai/login",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "flow-orchestration.micro1.ai",
+   "status": "ok",
+   "url": "https://flow-orchestration.micro1.ai/",
+   "title": "Flow orchestration",
+   "links": []
+  },
+  {
+   "host": "flow.micro1.ai",
+   "status": "ok",
+   "url": "https://flow.micro1.ai/",
+   "title": "Flow - micro1",
+   "links": []
+  },
+  {
+   "host": "fly-agent-demo.micro1.ai",
+   "status": "ok",
+   "url": "https://fly-agent-demo.micro1.ai/",
+   "title": "micro1 \u00b7 Report Agent",
+   "links": []
+  },
+  {
+   "host": "gpt-vetting-feedbacks.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hardware.micro1.ai",
+   "status": "ok",
+   "url": "https://hardware.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "health-experts.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1930071565:1791344079894063",
+   "title": "Google Drive: Sign-in",
+   "links": []
+  },
+  {
+   "host": "hgs-recruiter.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "horizon.robotics.micro1.ai",
+   "status": "ok",
+   "url": "https://horizon.robotics.micro1.ai/",
+   "title": "Horizon Platform",
+   "links": []
+  },
+  {
+   "host": "horizon.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://horizon.titan.micro1.ai/",
+   "title": "Horizon Platform",
+   "links": []
+  },
+  {
+   "host": "huma.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://huma.titan.micro1.ai/dashboard",
+   "title": "Huma Ops Dashboard",
+   "links": []
+  },
+  {
+   "host": "humandata.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "intelligence.micro1.ai",
+   "status": "ok",
+   "url": "https://intelligence.micro1.ai/",
+   "title": "Intelligence portal | micro1",
+   "links": []
+  },
+  {
+   "host": "interview-api.micro1.ai",
+   "status": "ok",
+   "url": "https://interview-api.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "interview-prod-api.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "interview.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "jobs.micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/experts/opportunities",
+   "title": "High-paying Remote AI Training Jobs | micro1",
+   "links": []
+  },
+  {
+   "host": "kai.micro1.ai",
+   "status": "ok",
+   "url": "https://kai.micro1.ai/",
+   "title": "Kai \u00b7 micro1",
+   "links": []
+  },
+  {
+   "host": "kb.micro1.ai",
+   "status": "ok",
+   "url": "https://kb.micro1.ai/kb/introduction",
+   "title": "Introduction - Knowledge Base | micro1",
+   "links": []
+  },
+  {
+   "host": "keystone.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "lab.micro1.ai",
+   "status": "ok",
+   "url": "https://lab.micro1.ai/",
+   "title": "micro1 lab",
+   "links": []
+  },
+  {
+   "host": "library.micro1.ai",
+   "status": "ok",
+   "url": "https://library.micro1.ai/getting-started/introduction",
+   "title": "Introduction - micro1 library",
+   "links": []
+  },
+  {
+   "host": "link.micro1.ai",
+   "status": "ok",
+   "url": "https://link.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "livekit-template.interview.micro1.ai",
+   "status": "ok",
+   "url": "https://livekit-template.interview.micro1.ai/",
+   "title": "LiveKit Egress",
+   "links": []
+  },
+  {
+   "host": "lumi.micro1.ai",
+   "status": "ok",
+   "url": "https://lumi.micro1.ai/",
+   "title": "Lumi by micro1",
+   "links": []
+  },
+  {
+   "host": "m1-videos.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "merit.micro1.ai",
+   "status": "ok",
+   "url": "https://merit.micro1.ai/",
+   "title": "Merit \u2014 Data Pipeline Performance Tracking | micro1",
+   "links": []
+  },
+  {
+   "host": "micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/",
+   "title": "Data lab to train frontier models & evaluate agents | micro1",
+   "links": [
+    {
+     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "kind": "page",
+     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "kind": "page",
+     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology-report",
+     "kind": "page",
+     "text": "Realm: Pathology-report reasoning benchmarkAn evaluation of frontier models on extracting pathology-report facts, preser"
+    },
+    {
+     "url": "https://www.micro1.ai/cortex",
+     "kind": "page",
+     "text": "Cortex The contextual evaluation platform for improving AI agent performance in production"
+    },
+    {
+     "url": "https://www.micro1.ai/realm",
+     "kind": "page",
+     "text": "RealmFrontier evaluations and RL environments for AI Labs"
+    }
+   ]
+  },
+  {
+   "host": "mocha.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://mocha.titan.micro1.ai/login",
+   "title": "Mocha \u2014 Codex Collaboration",
+   "links": []
+  },
+  {
+   "host": "new-stage.admin.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.admin.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.client.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.client.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.company.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.company.micro1.ai/",
+   "title": "Company portal | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.downloader.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.downloader.micro1.ai/",
+   "title": "HLS Downloader",
+   "links": []
+  },
+  {
+   "host": "new-stage.finance.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.finance.micro1.ai/login",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.forms.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.forms.merit.micro1.ai/",
+   "title": "Feedback programs | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.intelligence.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.intelligence.micro1.ai/",
+   "title": "Intelligence portal | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.jobs.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "new-stage.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.merit.micro1.ai/",
+   "title": "Merit \u2014 Data Pipeline Performance Tracking | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.refer.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.refer.micro1.ai/",
+   "title": "Referral dashboard | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.req.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "new-stage.talent.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.talent.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.tc.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.tc.micro1.ai/",
+   "title": "Total comp portal | micro1",
+   "links": []
+  },
+  {
+   "host": "new-stage.ticketing.micro1.ai",
+   "status": "ok",
+   "url": "https://new-stage.ticketing.micro1.ai/",
+   "title": "Ticketing Platform | micro1",
+   "links": []
+  },
+  {
+   "host": "ops.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "payroll.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "phoenix.titan.micro1.ai",
+   "status": "ok",
+   "url": "https://phoenix.titan.micro1.ai/dashboard",
+   "title": "Phoenix Ops Dashboard",
+   "links": []
+  },
+  {
+   "host": "pre-prod.forms.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://pre-prod.forms.merit.micro1.ai/",
+   "title": "Feedback programs | micro1",
+   "links": []
+  },
+  {
+   "host": "pre-prod.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://pre-prod.merit.micro1.ai/",
+   "title": "Merit \u2014 Data Pipeline Performance Tracking | micro1",
+   "links": []
+  },
+  {
+   "host": "prod-api.kai.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "proxy.humandata.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pulse.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "realm.micro1.ai",
+   "status": "ok",
+   "url": "https://realm.micro1.ai/",
+   "title": "Realm - micro1",
+   "links": []
+  },
+  {
+   "host": "recorder-data-videos.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "recorder.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "refer.micro1.ai",
+   "status": "ok",
+   "url": "https://refer.micro1.ai/",
+   "title": "Referral dashboard | micro1",
+   "links": []
+  },
+  {
+   "host": "req.micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/experts/opportunities",
+   "title": "High-paying Remote AI Training Jobs | micro1",
+   "links": []
+  },
+  {
+   "host": "research-fe.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://research-fe.merit.micro1.ai/",
+   "title": "Merit Core - Stage",
+   "links": []
+  },
+  {
+   "host": "research.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "robotics.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "robotics.micro1.ai",
+   "status": "ok",
+   "url": "https://robotics.micro1.ai/",
+   "title": "Robotics - micro1",
+   "links": []
+  },
+  {
+   "host": "seeding.legal.micro1.ai",
+   "status": "ok",
+   "url": "https://seeding.legal.micro1.ai/",
+   "title": "Project Pact | My Submissions",
+   "links": []
+  },
+  {
+   "host": "shelf.micro1.ai",
+   "status": "ok",
+   "url": "https://shelf.micro1.ai/",
+   "title": "Shelf - micro1",
+   "links": []
+  },
+  {
+   "host": "shopping.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://shopping.cortex.micro1.ai/",
+   "title": "Cortex Shopping Platform",
+   "links": []
+  },
+  {
+   "host": "specula.micro1.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-451938959%3A1791344087068306&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=Go_z2jJ7XdptkQ7s7dbJezvWcH4xB9mMd5YiFMWSoc0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEekYjWbThlyDnsTThrdI2wiPove66lgDAAe4SR9lslT3PJPLe4UmhrP_yMUe3nPQYp62_HckTW0s1dCxZybz-kogFgKB62TRIt4qimxMxalkNYUDINsRIje3v-TGxd8Q4uUIm2gkcQ1zfyYTkKVXlfsnGml6xR0Oo2CvmIlNFf7FvaIGN-D8RpVE5CdvtU5fMP07kb1c6ht6bjRyDKlO3dFQHmvU09nScLHOcB1Jy6FwjuaPmSpFpkPvD4myRft28314jTDaj1uNzyEwHNqH4HkSJkDW_7k6NnR4_OIFEZRhZRXWjFFKb7FczKSY1w0PJ-Mq8CmnuQFY3j6n7zB0R5BYhopTyHVVF8Nz_aMaOvU4EWp_NNL2MqJKMOeTORRNZXo2WBrG_3z9blMT_m-U1Pqt6-tA-ICsgxdvenruooX00-WL5rEMrEes3UxC3vGrFAXszGh8nG3SXcV4Hq5BMze4RSl2q7nPiZaVUZcJM38MXhX_gxAAQtKCoD2mDoOU_3Yv8RoR7773ZFfUQ70WZ-GNvIgOpJGqcjC5pWmoSmyq6slebh04juPAEyE1jQLBw-XMrTtn-T_OXO59CsZU6hfSz_YzBEYotVmiJEOburHMf-fm4yUm71Z2ibuu3w53HzLxeUCwri5AUix5QJDQ8QpRBVqSSm4aYxhsAZnpLb2ATxpydKeolDzfI5gPjpJLhS_D7KvWwxmGys9v-yf3KaqNwxj97MYk0y6MPOlO-aycJBbeL6Em4BCCvy1jL8UBNOpeVSyd9HicPfBUJ8KZ98TTSj47xrSUzy2V6-MxGdGmyb86jZZsiXPcwcJ6LCCEFwHXXWooejVcg_MxWrEDciL0qDnleJ9tVz4s0gLHI6zHohE9wzWovvbFb6beBJL5EycxXNnqB6geLvyLdgI1QSJF5Fo31Cao09W5AMlWLIXqETrltw-q_Qyzz3NgGONpMzT66GeqVI8M62Q2bdtyB_8xFYHCVzCq92yNjyKG2Dl9uaxuxdojaYdH3SO0M7wYnQ8p4E0WHeQiTZ95sW28Ws9iAmUmMFg9rcWUpLjMlT0MSnOvtDQRAHxnZe91EO_J_E0C5gwF8MJDsJQXqglwzXFiGKYYeEh3sCanQkoq3iWG92GFpS7V1&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN0TAu4iL_EJbP0YUZVKQu--EPpRB23lhFr-p96ggHlc7SfrX1a-yhMjzcG00UZ9ByaodQzt7E6b1n03-FemFiABOweSo6iGMNjgfav9lebrKGr-0_gpArWTW-I--nuN3YRdn06XMOUgvV0PY40TrRBvIHG5NuqGgrCK66fLIHn_Ct7kDz_jlSL3b2WOoHNJW3p40MIGf775jFpqtJ6FN54wivDtf2_M1AgsG0FieQeXO0MajNov9GBGvbLOi3_aMN0d9Wp_dSgnlqxGbrikysCVqJyf5VKZJgd71onwbjS8MU1g2BwBmEUlgSGhNYIEEOBDF4RxTA0bdxR4C8UT6a9WLnJh-EROlf-QfjzbEplEJc6mtvsHCs1FxPJJybSPgxaE8KOh4CZ9WRX8bk9a7IvYw4A_D6wG8K1EEWKvvI8m6zpMnUHDBBp00YsUDO8DQJMTON6As4AMpUjUrgf5rLvwguK1g%26flowName%3DGeneralOAuthFlow%26as%3DS-451938959%253A1791344087068306%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfJehtx-mJs_HnaRk88aP65ZZjFmT6wQ-b1JpCoS-HOJmUwzQAV5aFx8lnbWn0M7dLkPxDc0oZdPqP-8KcyKVMDZhVhLToHFv1-qY9hC3evzA-Bvkc",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "stage.api.humandata.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "stage.cdp.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.cdp.micro1.ai/",
+   "title": "CDP Platform \u00b7 Corpus",
+   "links": []
+  },
+  {
+   "host": "stage.core.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.core.micro1.ai/",
+   "title": "micro1 \u00b7 Core Platform",
+   "links": []
+  },
+  {
+   "host": "stage.data.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.data.micro1.ai/",
+   "title": "Company Data Platform \u00b7 Transfer Ops",
+   "links": []
+  },
+  {
+   "host": "stage.flow-orchestration.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.flow-orchestration.micro1.ai/",
+   "title": "Flow orchestration",
+   "links": []
+  },
+  {
+   "host": "stage.flow.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.flow.micro1.ai/",
+   "title": "Flow - micro1",
+   "links": []
+  },
+  {
+   "host": "stage.humandata.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stage.kai.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.kai.micro1.ai/",
+   "title": "Kai \u00b7 micro1",
+   "links": []
+  },
+  {
+   "host": "staging-api.lumi.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "staging.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://staging.cortex.micro1.ai/",
+   "title": "Cortex - micro1",
+   "links": []
+  },
+  {
+   "host": "staging.realm.micro1.ai",
+   "status": "ok",
+   "url": "https://staging.realm.micro1.ai/",
+   "title": "Realm - micro1",
+   "links": []
+  },
+  {
+   "host": "staging.robotics.micro1.ai",
+   "status": "ok",
+   "url": "https://staging.robotics.micro1.ai/",
+   "title": "Robotics - micro1",
+   "links": []
+  },
+  {
+   "host": "staging.sunday.robotics.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sunday.robotics.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "synth.micro1.ai",
+   "status": "ok",
+   "url": "https://synth.micro1.ai/auth/login",
+   "title": "Synthetic Content Studio",
+   "links": []
+  },
+  {
+   "host": "synth2.micro1.ai",
+   "status": "ok",
+   "url": "https://synth2.micro1.ai/",
+   "title": "m1 Synth",
+   "links": []
+  },
+  {
+   "host": "talent.micro1.ai",
+   "status": "ok",
+   "url": "https://talent.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "tc.micro1.ai",
+   "status": "ok",
+   "url": "https://tc.micro1.ai/",
+   "title": "Total comp portal | micro1",
+   "links": []
+  },
+  {
+   "host": "telesto.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ticketing.micro1.ai",
+   "status": "ok",
+   "url": "https://ticketing.micro1.ai/",
+   "title": "Ticketing Platform | micro1",
+   "links": []
+  },
+  {
+   "host": "titan.micro1.ai",
+   "status": "ok",
+   "url": "https://titan.micro1.ai/",
+   "title": "Titan - micro1",
+   "links": []
+  },
+  {
+   "host": "trail.micro1.ai",
+   "status": "ok",
+   "url": "https://trail.micro1.ai/",
+   "title": "Custom domain check",
+   "links": []
+  },
+  {
+   "host": "vdb-dev.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://vdb-dev.merit.micro1.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "verdict-v2.neptune.micro1.ai",
+   "status": "ok",
+   "url": "https://verdict-v2.neptune.micro1.ai/tasks",
+   "title": "Negotiation Tasks \u00b7 Verdict",
+   "links": []
+  },
+  {
+   "host": "videos.cdn.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "volt.cortex.micro1.ai",
+   "status": "ok",
+   "url": "https://volt.cortex.micro1.ai/",
+   "title": "Volt Platform",
+   "links": []
+  },
+  {
+   "host": "widget.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "www.admin.micro1.ai",
+   "status": "ok",
+   "url": "https://adm.micro1.ai/",
+   "title": "micro1",
+   "links": []
+  },
+  {
+   "host": "www.captions.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "www.client.micro1.ai",
+   "status": "ok",
+   "url": "https://www.zara.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "www.downloader.micro1.ai",
+   "status": "ok",
+   "url": "https://www.downloader.micro1.ai/",
+   "title": "HLS Downloader",
+   "links": []
+  },
+  {
+   "host": "www.interview.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "www.jobs.micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/experts/opportunities",
+   "title": "High-paying Remote AI Training Jobs | micro1",
+   "links": []
+  },
+  {
+   "host": "www.micro1.ai",
+   "status": "ok",
+   "url": "https://www.micro1.ai/",
+   "title": "Data lab to train frontier models & evaluate agents | micro1",
+   "links": [
+    {
+     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "kind": "page",
+     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "kind": "page",
+     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology-report",
+     "kind": "page",
+     "text": "Realm: Pathology-report reasoning benchmarkAn evaluation of frontier models on extracting pathology-report facts, preser"
+    },
+    {
+     "url": "https://www.micro1.ai/cortex",
+     "kind": "page",
+     "text": "Cortex The contextual evaluation platform for improving AI agent performance in production"
+    },
+    {
+     "url": "https://www.micro1.ai/realm",
+     "kind": "page",
+     "text": "RealmFrontier evaluations and RL environments for AI Labs"
+    }
+   ]
+  },
+  {
+   "host": "www.new-stage.client.micro1.ai",
+   "status": "ok",
+   "url": "https://www.new-stage.client.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "www.talent.micro1.ai",
+   "status": "ok",
+   "url": "https://www.talent.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "www.zara.micro1.ai",
+   "status": "ok",
+   "url": "https://www.zara.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "zara.micro1.ai",
+   "status": "ok",
+   "url": "https://www.zara.micro1.ai/",
+   "title": "Create an account | micro1",
+   "links": []
+  },
+  {
+   "host": "zion.micro1.ai",
+   "status": "ok",
+   "url": "https://zion.micro1.ai/",
+   "title": "Zion VLA - micro1",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://www.micro1.ai/case-study/volume-hiring",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-studies",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/ai-data-provider",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/ai-trainers",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/competitive-programmers",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/business-data",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/enterprise-conversational-ai",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/box",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-tax",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/ai-search",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/case-study/resume-parsing",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-legal",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-financial",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/crosby-micro1-redlinebench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-pathology-report",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/long-extraction",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/leaderboard",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-pathology-report-v2",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/interview-prep/environmental-and-energy-lawyer-interview-questions",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/interview-prep/pricing-analyst-interview-questions",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/research/evaluating-speech-to-text-vs-llm-vs-text-to-speech-combinations-for-ai-interview-systems",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/research/pii-transformation-for-enterprise-datasets",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/research/the-benchmark-ceiling",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/forum/building-trustworthy-ai-agents-the-role-of-contextual-evaluations-in-enterprise-ai",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/forum/contextual-evals-for-enterprise-ai-agents",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/blog/healthcare-ai-evaluation",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/blog/why-the-ai-evaluation-layer-is-your-real-ip",
+   "kind": "page"
+  }
+ ]
+}

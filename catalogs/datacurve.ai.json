@@ -1,0 +1,939 @@
+{
+ "domain": "datacurve.ai",
+ "live_hosts": 214,
+ "pages": [
+  {
+   "host": "accounts.dashboard.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "accountsa.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "albert-workflow.internal.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/albert-workflow.internal.datacurve.ai?kid=e17b20591ba86fe748a629b47d3a230ac11803e585c9d6b2db94bae9ca1ac3e4&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImUxN2IyMDU5MWJhODZmZTc0OGE2MjliNDdkM2EyMzBhYzExODAzZTU4NWM5ZDZiMmRiOTRiYWU5Y2ExYWMzZTQiLCJob3N0bmFtZSI6ImFsYmVydC13b3JrZmxvdy5pbnRlcm5hbC5kYXRhY3VydmUuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDQyNiwibmJmIjoxNzkxMzQ0MTI2LCJpYXQiOjE3OTEzNDQxMjYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI4OWQwYWMyNWE2ZWU1YWM5MmQ1Y2E1NWRmYzY0YmVlNGY3OWE4MTU5ZGU5OGM1YWUyOGVhZjBiNDYyNTBkNjE3In0.hChqQSyU8BAUV0iJ3ojrEZfkQL6UuQIkkQh9AxfsrmtVV3MFPpacLKQMktNDh16J2fTZlWK491N_jTrzBa4KYZjVc3aBoACwKB-YpdbWUHExgkBSEBIL92MNfmMHodM0TE4OCVLY3EpoyxK32tce5JO_sNyM6ycmM4GEk8ZN4Kxga572SXP-GsEFd9mJT6KXn0XWvr2uE2GV19VKlIPe1WHFluQUBzOdcMH1pJZW7bt_CqwWiUS77pb_sfm_hD4Y00VqcZDwd3wuzDUob14lRahvTlO4oqs1XRoalW0Jp2oUUL2cO778SRcb-JqeSI9ni0ulmU7psXMdWU96obtBUg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "api-foundry-pr-1.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-10.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-11.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-3.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-4.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-5.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-6.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-72844.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-7407.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-9.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-foundry-pr-9001.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-v1.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.foundry-staging.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.foundry2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.inspect.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.shipd.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.dashboard.datacurve.ai",
+   "status": "ok",
+   "url": "https://clerk.dashboard.datacurve.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "clerk.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.polaris.datacurve.ai",
+   "status": "ok",
+   "url": "https://clerk.polaris.datacurve.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "coder.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "conductor.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "conductori.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "conductort.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "crm.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dashboard-pr-9001.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "dashboard.datacurve.ai",
+   "status": "ok",
+   "url": "https://dashboard.datacurve.ai/sign-in",
+   "title": "Datacurve Dashboard",
+   "links": []
+  },
+  {
+   "host": "datacurve-inspect-dev-control.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.ai/",
+   "title": "Datacurve | The data engine for frontier AI",
+   "links": [
+    {
+     "url": "https://deepswe.datacurve.ai/",
+     "kind": "page",
+     "text": "IntroducingDeepSWE benchmark"
+    }
+   ]
+  },
+  {
+   "host": "deepswe.datacurve.ai",
+   "status": "ok",
+   "url": "https://deepswe.datacurve.ai/",
+   "title": "DeepSWE",
+   "links": [
+    {
+     "url": "https://deepswe.datacurve.ai/blog/deepswe",
+     "kind": "page",
+     "text": "Read why"
+    },
+    {
+     "url": "https://github.com/SWE-agent/mini-swe-agent",
+     "kind": "hosted",
+     "text": "mini-swe-agent"
+    },
+    {
+     "url": "https://github.com/datacurve-ai/deep-swe",
+     "kind": "hosted",
+     "text": "GitHub"
+    }
+   ]
+  },
+  {
+   "host": "demo.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "elo.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "eng4-martins-macbook-pro-local.inspect-dev-control.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "eris-trajectories.internal.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/eris-trajectories.internal.datacurve.ai?kid=d24fde135116d02bb7e2c5325d0d3fcbb63a5133881704bd6bc6cc239f51738a&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImQyNGZkZTEzNTExNmQwMmJiN2UyYzUzMjVkMGQzZmNiYjYzYTUxMzM4ODE3MDRiZDZiYzZjYzIzOWY1MTczOGEiLCJob3N0bmFtZSI6ImVyaXMtdHJhamVjdG9yaWVzLmludGVybmFsLmRhdGFjdXJ2ZS5haSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxMzQ0NDI4LCJuYmYiOjE3OTEzNDQxMjgsImlhdCI6MTc5MTM0NDEyOCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjM3YjIzYzA1NGEzNzA4NWJkYzVmZWY4MmM3YmRkOTI2NjVjOGY1MGQ5MWNkZjQxMmJhMWM1NmM2YzM2NTY0ZDQifQ.GvZw2g--zjgcSQ85cVLBjtpjhVeK2uf4X0WtFQ3MITko58MYN4FuLtJJEF0WtdrqWEoZ1s3016D5p5NSs2RMxGTZr3DklH3VxuxEQh0SgjXRtfN_AlcRfh3IWxOhBSIRmGIUbox0p6M6O31NMGt5XwlvpR5ZzE_mFi3EJTJO0TzCfDhdJpMf7va_8LPy1cHAvfd6txWt13e6owqZSvLwyfyJH_YIGGfVzLMvOvO5mqWE8U_TZFoy0Y4NVATcwEbN6VfZDiemZzWBmh0Uz8yTKYGT7_R1CKse8MwvPNFxatb0bhRbY4A83vYHy7jTq1dMfm2Ju1CoK9dsjfBNo7L7gg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "everything-viewer.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "executor.internal.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-ecs-prod.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-ecs-stage.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-1.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-10.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-11.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-3.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-4.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-5.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-6.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-72844.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-7407.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-9.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-pr-9001.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry-staging.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "foundry2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-1a3661c9-f055-48fe-87d7-5667b2c49367.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-2131a602-a36f-41f3-9dee-853bc178fa56.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-7e754a7e-316e-4ce3-97c0-ed4f5f380f25.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-81fb14f5-01da-45fb-81f9-a0d0206ec8e9.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-8689dda5-9f19-4bff-a806-3689d5dae94b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-a3ddf984-9967-4eed-a7c4-6103f78139ec.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-aa3c08b9-ea95-4102-90b3-7a095f734e9f.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-b679653a-8704-4d52-a9a8-24d866558043.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-bbad2d86-81fa-4c40-9207-23d0f453f898.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-be386137-54a9-4bc7-b57b-5072870283e8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-data-v1.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-development.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-f3bf1f97-acdd-4468-bfda-d390959c1306.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git-shadow.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "git.polaris.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "growth.internal.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/growth.internal.datacurve.ai?kid=0a1b01f0cf3750e1a84040720faded38d4ed69f4457ca65aaa90a86f372eeb35&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjBhMWIwMWYwY2YzNzUwZTFhODQwNDA3MjBmYWRlZDM4ZDRlZDY5ZjQ0NTdjYTY1YWFhOTBhODZmMzcyZWViMzUiLCJob3N0bmFtZSI6Imdyb3d0aC5pbnRlcm5hbC5kYXRhY3VydmUuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDQzMiwibmJmIjoxNzkxMzQ0MTMyLCJpYXQiOjE3OTEzNDQxMzIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI0M2IwN2M5NzU3ZGRhNmM3ZjRkNzVhYzAyZDcyYzNlODI1ZjY1Y2M2ZGM1MjE4NWJlNjI1YjhhNTZjM2ViOGU1In0.eOn94BQPfouuAnh_uQL_bkKLABtxVLjKbK7msB4xa4Mima26O2430X6PJzdsrsyd9OCPiIGl12SrXpPAvSWr6KiKU_VDmNK83fnzmHXegKPsKtaSJ1nOhi43-Zqw4nv7WhuSjOKXJTRmI0rWG1IBE-_87Bgllt2axMK6ynWw33LSogapf1a-1TzeMVaW0yc77aLz72QDOXnsqEE8Ig_N5xQ8piyX0dE7wzdVR6tWqlpufW-wzX-2joIgRdA9iS6jMPjaZgnlEWtLUjPBZG5BsHlLbDbAPG29xCXt96b1MHs1MZoGukG9rrknGcPjywgWDyOfvb0NxMfOGNZjMvqDxA&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "hello.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hello7.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "heyreach.internal.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ingest.kw.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "inspect.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "james-fixes.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "kw.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/kw.datacurve.ai?kid=eaa99cee48d8176107abbd50645216e94c36e9f967522ba8cac683ac798b1173&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImVhYTk5Y2VlNDhkODE3NjEwN2FiYmQ1MDY0NTIxNmU5NGMzNmU5Zjk2NzUyMmJhOGNhYzY4M2FjNzk4YjExNzMiLCJob3N0bmFtZSI6Imt3LmRhdGFjdXJ2ZS5haSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxMzQ0NDM0LCJuYmYiOjE3OTEzNDQxMzQsImlhdCI6MTc5MTM0NDEzNCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImQ5OTIwMmYyY2I4NGViNDJjMTYxZDdkZTMyNjA4NmZmMGQ1Y2M0NjNjNGE0Yjk5NjY0OTQyODNmYTM5ZmIxNGYifQ.u-FAl3Ho-nRD7Ly920jtSDyD9O7VYZLSzkmxXL0RVoQ6_n2dCMJ_-10NZtpm55mMtJse5SMsnu-hXWwQ1NpZnd5E1Q71OajpV6hycjCB4waBWk-iwiSAAEXGafFdnMVwtp3uYpM5hJpTmQDzgFx4gO1QOkZjLPrWHf_mQckSKBivTl3Qki2-QjyNDeIOvXEOnLrTJ716Y6nf2-0ENB37G4iH6DiJgnuMPzDMs4-8JYT-2Yjv5yIbDed2LhNByxGATUski-0vxPOednTYA4p_QFpwGBk_5ELtgzubCX_fm-c2V13qc0uoeY2NTOf44gF1xAy9DLCctX1U78uNv6qdhg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "link.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ls.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "lyra.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-513.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-516.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-517.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-518.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-522.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-523.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-526.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-527.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira-pr-543.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mira.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "notion-executor-mcp.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "peak-swe.internal.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/peak-swe.internal.datacurve.ai?kid=93834f0b8c08b36188dc67982da886f332bf4c646e1ec9e4c208d7ea3162bf96&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjkzODM0ZjBiOGMwOGIzNjE4OGRjNjc5ODJkYTg4NmYzMzJiZjRjNjQ2ZTFlYzllNGMyMDhkN2VhMzE2MmJmOTYiLCJob3N0bmFtZSI6InBlYWstc3dlLmludGVybmFsLmRhdGFjdXJ2ZS5haSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxMzQ0NDY1LCJuYmYiOjE3OTEzNDQxNjUsImlhdCI6MTc5MTM0NDE2NSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImM0ZDAzODdkZDZmZTYzOGRkMWNmZGI4MmEzYzQ2NmFiMDMzZDllNmM2NTVlYjA1MWU1NmU0NjNlMmY4M2NhNDcifQ.VVReGg3TbyytVp9qz_w8xdHqhqd8g3OKjRqsbEMj950SkCng_vY__19F37CMdWToop_NMWR4QOuSBBuCOFumTK-sdgGrLE_pmT5gEmi-m9ugLis5wHNacyb3Z5iI8LD7MF_UagKdoZ4wcc3eWjN2qO0PbbAzyF2L7G0ro43O_56dog2QO6amsg1-sR4KUqUE6nj9FlEJPVbjNd2cixeDcUKBHgp0oluPAZcHKtTd8k8NP3KnJ05EqfjeieU7tYfqWeOXu4MlXgkR8hgxvy0BLgF3FaXLWf3pbD0F_DCyQjsG9oxD4Yz4iPF---VnWfBtREQ9q9ntd0UMU9vWDQ5Dfw&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "polaris-e2e-00ce30e6-3da5-4bd1-a904-34e68a617f61.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-01ca0fc8-0a07-447f-9072-41f6246ef662.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-051a5691-8e26-4347-8e23-575d797de181.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-0851c4fb-b809-45a1-85e4-e2330870ca8e.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-088e6aed-8e70-4a7d-82da-2c25db7c9b0b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-13421dfe-9a38-4c01-9d25-7f01f1c933be.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-17013641-5c9b-4071-8dc9-98b054270e58.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-1a8aa99b-c369-4a67-8583-bb9bd443f0f3.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-1aac1462-4865-46f2-b35d-048e7a04092d.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-1bfc0c58-41e2-4692-ac91-00b41a100e30.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-20cd6bb3-44cd-41af-82c7-ef7c4656bfad.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-25f8a16a-f1a7-4e3b-9952-fd4b8c456718.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-36378e1c-f0e1-46fa-add2-fff26782e9e7.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-44bea952-d393-47ad-8d3a-716013185f78.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-4a06f69a-ec27-4a65-a6e5-5bffa6b84103.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-5318ff86-b095-4f48-b67d-cd1ce0534b52.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-586b6f32-e03f-46ce-9e35-1354765b12d7.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-605b3f08-95ff-46c7-848b-3a3db4dfacd3.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-625fbb6a-afba-43f0-883e-f8270faf248f.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-6b052364-297d-4f90-b542-55c3c478ea9f.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-6b452b70-27da-4cc4-897d-26ad936a65a4.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-733561ac-a7ef-46da-80fc-e1744d1e9f27.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-73b7adfc-f1b3-489f-907e-8cba0c401804.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-76240793-a154-461a-b1c6-ae8a28f69235.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-78800bdf-4aad-4ced-a9c6-d4f3b2e6442b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-79b83244-41dd-46f0-8b1b-4dc17350e89b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-7adde958-c2a0-4469-8657-371f827f59c8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-7c21d103-3ed7-434e-a3ce-b829829d1f16.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-7e78f5f8-3556-491f-8809-bd2c91f5967a.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-8689dda5-9f19-4bff-a806-3689d5dae94b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-8cf675f3-dd37-4989-8ef7-2f9125c5ab82.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-99c7c39e-03de-4d52-8e18-d06d34f4e1a3.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-9c4bdaa2-d002-4cea-ba61-8b664268bbb2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-a350bf97-eedd-4007-881e-328c731a6f34.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-a731604f-370d-42e3-9d00-397789eabd3b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-a980b03d-11de-4311-b3f4-e25f271e4913.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-ab63e044-4f2e-4962-b2a8-f1cf1a46178e.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-ae9ce349-e0e5-460c-b64e-37c8457412c8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-b0787a7b-fa07-4648-8f77-ed37f0cdc35b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-b80ea66a-ab8c-4042-bf82-2e8661498ab8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-be386137-54a9-4bc7-b57b-5072870283e8.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-ca1b2cad-b5ed-40ff-a9ee-bf1dc82381c9.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d03fbd43-38e3-4e9d-bf22-b1ee0b957515.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d09a64a1-c6a9-4b99-a9c9-d719f8645a6c.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d438d67f-9e20-4fa3-a665-ff18cb7da3ef.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d464d32c-97f5-4f36-8500-93f6bb99e9cd.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d7df8d29-b4f2-4ecf-b0d8-54890467457a.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-d80b9488-37ec-48f6-a035-335683bb92db.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-dd3ef8a6-a549-4330-846b-f1e4bd2d0619.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-e0c74236-4f0d-4d40-a08c-4807cbf77a0b.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-e2724d9a-3c1f-42fb-8449-1b95c7b31de1.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-e4d62dce-0745-4909-a834-f189a280a4e6.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-e88439ff-172e-4d6b-92c1-a54c862ab6c1.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-ec8d1034-2299-45cc-afce-8a66e1abf272.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-f0b6d3ad-4bb8-4cdc-acb1-b53464bf9352.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-f156f3f6-00a8-4615-878a-3d3fe41fce0f.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris-e2e-f539a286-959f-48d4-92b5-fbfb81d57124.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "polaris.datacurve.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fpolaris.datacurve.ai%252F%26nonce%3D2259d6b8edd569e4f9427f7722940cb5238778e1abc982be8f6909f4d11d878d",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "porter.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-297.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-305.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-316.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-390.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-406.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-408.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-410.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-414.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-416.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-417.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-418.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-421.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-513.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-516.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-517.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-518.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-522.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-523.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-527.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-528.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-530.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pr-541.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "preview-smoke.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "production.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ryan.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ryanbug.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "scim-1password.datacurve.ai",
+   "status": "ok",
+   "url": "http://scim-1password.datacurve.ai/app/",
+   "title": "1Password SCIM bridge",
+   "links": []
+  },
+  {
+   "host": "sentry.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shipd-staging.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shipd-streaks-new.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shipd.datacurve.ai",
+   "status": "ok",
+   "url": "https://shipd.ai/",
+   "title": "Shipd - Build training data. Get paid.",
+   "links": []
+  },
+  {
+   "host": "shipd2.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "stage.foundry.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "staging.dashboard.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "swe-distribution.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.cloudflareaccess.com/cdn-cgi/access/login/swe-distribution.datacurve.ai?kid=7b630663bede008be54887ac8a7f005e234dcbfc2f76c51e09d31106597a4605&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk4YzBiYWJkNDJiOTU5NjBhNTNkZjJhOWZlMWQzYmZhMTgwYzI1NDRiMDNlZDcxNzAxYmFhMDg4MDAzMDljYzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjdiNjMwNjYzYmVkZTAwOGJlNTQ4ODdhYzhhN2YwMDVlMjM0ZGNiZmMyZjc2YzUxZTA5ZDMxMTA2NTk3YTQ2MDUiLCJob3N0bmFtZSI6InN3ZS1kaXN0cmlidXRpb24uZGF0YWN1cnZlLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ0NzMsIm5iZiI6MTc5MTM0NDE3MywiaWF0IjoxNzkxMzQ0MTczLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMGEyZGJhOTgwZTRiZGU1ODUxNGM4ODY3M2FiNWFlMTIzMmM0ZGM0OWUwNGJlMDRjYzZlYzRlYWU2NDdmMjJkZCJ9.E4JZ-BQ9ph9Dv59Q9rvCBnddwlcY-Z0Yi7Xb_pZmFVkKIToE-POJZV3UFoJsO1fbUeoku0w2TUZiV0IyNm7ND57AsKURUB6uhYfTd_kvTU47tI-3T5Tl4OUhLJhPIwSWvCJ4jggqsrSmBNw561KuWh7oUIpjDCtbYp4OTkYFPKF3cMjN0XfUvjEFUsmM4oIIQqyAEllcMfUSqO4zmIZWNqPDZjaZn8FAWtwF4rN8CISSfNHW81mAu3HZAmwyUfLTXpfcYcPZ0_NDb2nBu7RWQghAKQVLZf4iA_7JEC5Q4L0PeoLs0zd8S8dhxQCDvY394BAw6c5AojgUM9e0LMy2GQ&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "takehome.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "trust.datacurve.ai",
+   "status": "ok",
+   "url": "https://trust.datacurve.ai/",
+   "title": "Datacurve Trust Center",
+   "links": []
+  },
+  {
+   "host": "viewer.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "viewers.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vista.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vistam.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-513.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-516.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-517.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-518.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-524.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-525.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-pr-527.mira-machine.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.accounts.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.clerk.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.datacurve.ai",
+   "status": "ok",
+   "url": "https://datacurve.ai/",
+   "title": "Datacurve | The data engine for frontier AI",
+   "links": [
+    {
+     "url": "https://deepswe.datacurve.ai/",
+     "kind": "page",
+     "text": "IntroducingDeepSWE benchmark"
+    }
+   ]
+  },
+  {
+   "host": "www.james-fixes.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.ryan.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.ryanbug.datacurve.ai",
+   "status": "no response"
+  },
+  {
+   "host": "zapier.datacurve.ai",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

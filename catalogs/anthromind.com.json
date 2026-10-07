@@ -1,0 +1,42 @@
+{
+ "domain": "anthromind.com",
+ "live_hosts": 3,
+ "pages": [
+  {
+   "host": "anthromind.com",
+   "status": "ok",
+   "url": "https://anthromind.com/",
+   "title": "Anthromind | Scalable Oversight for LLM Evaluation & RLHF",
+   "links": [
+    {
+     "url": "https://anthromind.com/pricing",
+     "kind": "page",
+     "text": "Pricing"
+    }
+   ]
+  },
+  {
+   "host": "narad.anthromind.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.anthromind.com",
+   "status": "ok",
+   "url": "https://www.anthromind.com/",
+   "title": "Anthromind | Scalable Oversight for LLM Evaluation & RLHF",
+   "links": [
+    {
+     "url": "https://www.anthromind.com/pricing",
+     "kind": "page",
+     "text": "Pricing"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://anthromind.com/pricing",
+   "kind": "page"
+  }
+ ]
+}

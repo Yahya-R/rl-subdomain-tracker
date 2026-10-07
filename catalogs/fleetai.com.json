@@ -1,0 +1,206 @@
+{
+ "domain": "fleetai.com",
+ "live_hosts": 34,
+ "pages": [
+  {
+   "host": "admin.fleet-platform.fleetai.com",
+   "status": "ok",
+   "url": "https://app.admin.fleet-platform.fleetai.com:443/",
+   "title": "Fleet Admin",
+   "links": []
+  },
+  {
+   "host": "api.apollo.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.environment.fleet-dev-gcp-uc1.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.fledex-dev.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.fledex.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.galaxy.fleetai.com",
+   "status": "ok",
+   "url": "https://api.galaxy.fleetai.com/",
+   "title": "Antigravity Orbit",
+   "links": []
+  },
+  {
+   "host": "app-explorer.fleet-platform.fleetai.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "app.fleetai.com",
+   "status": "ok",
+   "url": "https://app.fleetai.com/login?next=%2F",
+   "title": "Login | Fleet",
+   "links": []
+  },
+  {
+   "host": "argo.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "argo.fleetai-training-data.fleetai.com",
+   "status": "ok",
+   "url": "https://app.argo.fleetai-training-data.fleetai.com:443/",
+   "title": "Argo CD",
+   "links": []
+  },
+  {
+   "host": "auth.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "book.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "bootstrap.fleetai.com",
+   "status": "ok",
+   "url": "https://bootstrap.fleetai.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "docs.fleetai.com",
+   "status": "ok",
+   "url": "https://fleetai.com/docs-login?redirect=%2F",
+   "title": "Fleet",
+   "links": []
+  },
+  {
+   "host": "envb-dev.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "envb.fleet-platform.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "eu-west-2.fleetai.com",
+   "status": "ok",
+   "url": "https://eu-west-2.fleetai.com/docs",
+   "title": "Fleet Orchestrator - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "fleetai.com",
+   "status": "ok",
+   "url": "https://fleetai.com/",
+   "title": "Fleet",
+   "links": []
+  },
+  {
+   "host": "fullstackbench.fleetai.com",
+   "status": "ok",
+   "url": "https://fullstackbench.fleetai.com/login?next=/",
+   "title": "Login - FullStackBench",
+   "links": []
+  },
+  {
+   "host": "galaxy.fleetai.com",
+   "status": "ok",
+   "url": "https://galaxy.fleetai.com/",
+   "title": "Antigravity Orbit",
+   "links": []
+  },
+  {
+   "host": "instance-telemetry.fleet-platform.fleetai.com",
+   "status": "ok",
+   "url": "https://instance-telemetry.fleet-platform.fleetai.com/login?next=%2F",
+   "title": "Instance Telemetry",
+   "links": []
+  },
+  {
+   "host": "mdm.fleetai.com",
+   "status": "ok",
+   "url": "https://mdm.fleetai.com/",
+   "title": "Fleet",
+   "links": []
+  },
+  {
+   "host": "orbit.fleetai.com",
+   "status": "ok",
+   "url": "https://orbit.fleetai.com/",
+   "title": "Antigravity Orbit",
+   "links": []
+  },
+  {
+   "host": "orchestrator.fleetai.com",
+   "status": "ok",
+   "url": "https://orchestrator.fleetai.com/docs",
+   "title": "Fleet Orchestrator - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "research.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "security.fleetai.com",
+   "status": "ok",
+   "url": "https://security.fleetai.com/",
+   "title": "Fleet AI, Inc. Trust Center",
+   "links": []
+  },
+  {
+   "host": "staging.fleetai.com",
+   "status": "ok",
+   "url": "https://staging.fleetai.com/docs",
+   "title": "Fleet Orchestrator - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "status.fleetai.com",
+   "status": "ok",
+   "url": "https://status.fleetai.com/",
+   "title": "Fleet AI status Better Stack",
+   "links": []
+  },
+  {
+   "host": "us-east-1.fleetai.com",
+   "status": "ok",
+   "url": "https://us-east-1.fleetai.com/docs",
+   "title": "Fleet Orchestrator - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "us-west-1.fleetai.com",
+   "status": "ok",
+   "url": "https://us-west-1.fleetai.com/docs",
+   "title": "Fleet Orchestrator - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "us-west-1.vm.fleetai.com",
+   "status": "ok",
+   "url": "https://us-west-1.vm.fleetai.com/guacamole/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "web-proxy-641cac4f.fleetai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.fleetai.com",
+   "status": "ok",
+   "url": "https://www.fleetai.com/",
+   "title": "Fleet",
+   "links": []
+  }
+ ],
+ "sitemap_hits": []
+}

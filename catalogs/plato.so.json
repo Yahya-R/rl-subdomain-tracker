@@ -1,0 +1,208 @@
+{
+ "domain": "plato.so",
+ "live_hosts": 34,
+ "pages": [
+  {
+   "host": "amazon-2.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "amazon.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "amazon.proxy.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "api.plato.so",
+   "status": "ok",
+   "url": "http://api.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "blog.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "browser.plato.so",
+   "status": "ok",
+   "url": "http://browser.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "cave.plato.so",
+   "status": "ok",
+   "url": "https://cave.plato.so/",
+   "title": "Datagen Agent",
+   "links": []
+  },
+  {
+   "host": "chrome.plato.so",
+   "status": "ok",
+   "url": "http://chrome.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "chronos.plato.so",
+   "status": "ok",
+   "url": "https://chronos.plato.so/",
+   "title": "Chronos",
+   "links": []
+  },
+  {
+   "host": "connect.plato.so",
+   "status": "ok",
+   "url": "http://connect.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "deck.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "dev.sims.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "digest.plato.so",
+   "status": "ok",
+   "url": "https://digest.plato.so/",
+   "title": "Plato Digest",
+   "links": []
+  },
+  {
+   "host": "docs.plato.so",
+   "status": "ok",
+   "url": "https://docs.plato.so/quickstart",
+   "title": "Quickstart - plato.so",
+   "links": [
+    {
+     "url": "https://docs.plato.so/sdk-v2/environments",
+     "kind": "page",
+     "text": "Environments"
+    }
+   ]
+  },
+  {
+   "host": "forge.plato.so",
+   "status": "ok",
+   "url": "https://forge.plato.so/",
+   "title": "Chronos",
+   "links": []
+  },
+  {
+   "host": "gateway.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "gateway.staging.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "hub.plato.so",
+   "status": "ok",
+   "url": "https://hub.plato.so/",
+   "title": "Plato Git Hub",
+   "links": [
+    {
+     "url": "https://github.com/go-gitea/gitea",
+     "kind": "hosted",
+     "text": "contributing"
+    },
+    {
+     "url": "https://github.com/go-gitea/gitea/tree/master/docker",
+     "kind": "hosted",
+     "text": "Docker"
+    }
+   ]
+  },
+  {
+   "host": "linkace.web.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "llm.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "marvin.plato.so",
+   "status": "ok",
+   "url": "https://marvin.plato.so/",
+   "title": "Marvin",
+   "links": []
+  },
+  {
+   "host": "platform.plato.so",
+   "status": "ok",
+   "url": "https://platform.plato.so/",
+   "title": "Plato Platform",
+   "links": []
+  },
+  {
+   "host": "plato.so",
+   "status": "ok",
+   "url": "https://plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "rdp.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "samples.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "sims.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "sky.plato.so",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S570927470%3A1791344671538746&approval_prompt=force&client_id=228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fsky.plato.so%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&service=lso&state=LRPvPHX45_Snh4EIRXIGz0cCAXtb3_oX0Dp_Fl5ZOOo%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOxU3dOp1Y7XWzT3_csIuGjng8oqcVOcsfRsQSCdNBWJtNeGtQWc_sOXsJWo77rLquQZypPvOmRV2RZ5ZL8zMM7PqkECEAhrL5II1EBafGYJoBIfYBE81Nqrop39KUqU62PQ8EQVeD0PbdG4l8wSE98QFKazNIkjn0lD0H_T-UOOWNq4-CI7sFSJ6xhcKDjFWTzICuCIsrMqouRyY9xw3F6TO1DxT-4wvzKf9h_3XY3x7SOXN79imEE_kiKqpTzHtQvELYxuiWkfHd7tJaHJU2JKivPaSatRrJFXsZP9ncyB21Nsvn8RM2Aj1RDy2Hyt67FHnkTzwj4q5R-exoX5a7PHF54eXFqzj5tVnOcrMNRu9lWB983b4duOizILeQVMtURvp5jIqTtKArd1cusZzjC8TSCcA-ZudIObYi_J7ShRbZGl7-K396UAWXkLTih4KoRxVPM-eVctvSMwU7XTzrzcexwLQ%26flowName%3DGeneralOAuthFlow%26as%3DS570927470%253A1791344671538746%26client_id%3D228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsky.plato.so&rart=ANgoxceb25JHWWfM0lQljYAeWdy_CfGGaDkgY35IKwvwk1NC9xnOkSRz-d0KsXVdb7Q7webw0My4y0iBpL9KBdSOM7Vwwo2_1LrfhjeIlD1FPoo9Ap7WtfM",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "staging.plato.so",
+   "status": "ok",
+   "url": "https://staging.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "staging.sims.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "web.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "www.amazon.proxy.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "www.plato.so",
+   "status": "ok",
+   "url": "http://www.plato.so/",
+   "title": "Plato",
+   "links": []
+  },
+  {
+   "host": "www.sims.plato.so",
+   "status": "no response"
+  },
+  {
+   "host": "www.staging.sims.plato.so",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

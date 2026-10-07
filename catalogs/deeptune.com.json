@@ -1,0 +1,46 @@
+{
+ "domain": "deeptune.com",
+ "live_hosts": 6,
+ "pages": [
+  {
+   "host": "api-apac.deeptune.com",
+   "status": "ok",
+   "url": "https://api-apac.deeptune.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "app.deeptune.com",
+   "status": "ok",
+   "url": "https://app.deeptune.com/",
+   "title": "Deeptune | AI Voice Generator",
+   "links": []
+  },
+  {
+   "host": "deeptune.com",
+   "status": "ok",
+   "url": "https://deeptune.com/",
+   "title": "DeeptuneDeeptune",
+   "links": []
+  },
+  {
+   "host": "docs.deeptune.com",
+   "status": "ok",
+   "url": "https://docs.deeptune.com/login?redirect=%2F",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "redash.deeptune.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.deeptune.com",
+   "status": "ok",
+   "url": "https://deeptune.com/",
+   "title": "DeeptuneDeeptune",
+   "links": []
+  }
+ ],
+ "sitemap_hits": []
+}

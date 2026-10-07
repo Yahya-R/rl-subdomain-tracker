@@ -1,0 +1,25 @@
+{
+ "domain": "thetasoftware.com",
+ "live_hosts": 3,
+ "pages": [
+  {
+   "host": "platform.thetasoftware.com",
+   "status": "no response"
+  },
+  {
+   "host": "thetasoftware.com",
+   "status": "ok",
+   "url": "https://thetasoftware.com/",
+   "title": "Theta",
+   "links": []
+  },
+  {
+   "host": "www.thetasoftware.com",
+   "status": "ok",
+   "url": "https://thetasoftware.com/",
+   "title": "Theta",
+   "links": []
+  }
+ ],
+ "sitemap_hits": []
+}

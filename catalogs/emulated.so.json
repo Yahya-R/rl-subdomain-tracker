@@ -1,0 +1,28 @@
+{
+ "domain": "emulated.so",
+ "live_hosts": 3,
+ "pages": [
+  {
+   "host": "datasets.emulated.so",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "emulated.so",
+   "status": "ok",
+   "url": "https://emulated.so/",
+   "title": "Emulated",
+   "links": [
+    {
+     "url": "https://emulated.so/software-development-automation-benchmark",
+     "kind": "page",
+     "text": "Software Development Automation Benchmark"
+    }
+   ]
+  },
+  {
+   "host": "samples.emulated.so",
+   "status": "robots.txt disallows"
+  }
+ ],
+ "sitemap_hits": []
+}

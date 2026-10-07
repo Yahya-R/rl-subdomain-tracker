@@ -1,0 +1,194 @@
+{
+ "domain": "sepalai.com",
+ "live_hosts": 40,
+ "pages": [
+  {
+   "host": "accounts.app-foundry.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.expert-hub.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.nexus-admin.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.nexus.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.demo.nexus.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.nexus.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.stage.nexus.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "app-foundry.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "apply.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "book.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "cal.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.app-foundry.sepalai.com",
+   "status": "ok",
+   "url": "https://clerk.app-foundry.sepalai.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "clerk.expert-hub.sepalai.com",
+   "status": "ok",
+   "url": "https://clerk.expert-hub.sepalai.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "clerk.nexus-admin.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.nexus.sepalai.com",
+   "status": "ok",
+   "url": "https://clerk.nexus.sepalai.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "clerk.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "demo.expert-hub.sepalai.com",
+   "status": "ok",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLdUtswEIVfRaP7WLIJdqqJw5ikLZkCdZOUGbjJqPJSa7Ako5WD06fv4JABLuB2f863u2enZ71pyA48amdzGkecns2mKE3TiqILtV3BYwcYSG8ai2JI5LTzVjiJGoWVBlAEJdbF1aVIIi5a74JTrqFkucjplsdX4yJbzEs%2Byfg8zWK%2Bmpyf3t1mvyi5OWKTiFOyROxgaTFIG3Ka8CQdxXzEsw0%2FEeOxGJ9GWcrvKClfAOfaVtr%2B%2FXyaP4ciFBebTTkqf643lCwAg7YyDOg6hBYFYwa8cj5yD0FGyhkm2%2FYltt2BV9BsYwb9Q8It2H%2BPFm7XbbKPqwlDdOz5LJQUiOCfVefOYmfAr8HvtILfq8tXjuxCHR0UB86xnUmFrK9%2B1On1blJ9uUm%2FmvB9f3KR9EllanrwRAw38m%2FM%2BHx7eZyIzj6UnrI3ykfrr6WB5aJ0jVZ78s15I8PHpDiKh4iuRvdDqegstqD0vYaKkqJp3NPcgwyQ0%2BA7oGx2gL5%2Fsdl%2F&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiJlODVlYzRkZDhhMDQxNDJjOWEyM2M1ZTQzZGNiYTg5ZGFiNTVlNzQwMjJlODg1ZDkzMjBjYjBkZjFjNmRkMzVjMTljNTAwYmQyOTc2N2IwMjdlNTZjNmJlMTgwNzhjYjMyYjQ3MjJhYWUyMjc2OTM1MDE0NGJjZDczMGM4OTYxZDY5MGQ0ZWY5ZDcyYzFkYWQ5ZjE4OTFhMjU2Y2E2YzdhZDdlNmRiZTliNDQ4MzE4ODRlYzcwMjYxYjU1MDk0MjU5ZjUyZTQ0MTE3NWI1NmY0Y2QxODNjOGEyZTljYTRkYWMwNjllY2JiMzRjZDBlMTYzNTk4MTY2YmJkODU3ZWI5OTUwYTdkNGNhMjgwNTI1YTc3NjMyMTA5MDRlMGUzNDU0OWNjZTk1YzhjZGQ2NzUwNzU4OTc3YWY0MDQwMzM1MzJkMjRhMjQ4OWYwYzQ2MmQ3ZDM0Y2U0MTBkYWIzY2MxYWQ5YzdiZjExMGFmYmYyYjgxOTk1ZTQzMDIzMDI2OTE5YTNmMmVhY2Q5NDQ1YTRiNTYwZjUzZjAwMWNlMmNhOGQzYjgwMzI0ZWJlYTYwNDk2YTY4YjMxNzdhMjhjNTA1MDBjZDAzNGI5OTMzMDZlZjEyYjllYWI3MDFlYTRkNjEyYzc0MWIyMGRjOWVlYzE3NGI0NDc0YWVjMDdiOGQ0YzYxZjZhMWVkYTE2OTBlZjRmODQ1NjhiMzcxNzRiMWIzNTFmNTA3ZGJiYTQyNmRiNTNmNmY2ZGM1MmRlZTk0NjNhYjA0ZGRhOTViODQ1YmIwMmJjZDYxNzM3Y2M3MmJkYjI3ZGIxZWNhMjgwODg0NjUwYTBhZmExYjdiZTg1NWU5ZWExMjEzOWQ2ZTE0NmUxOGNhNDM0OGY1MWMiLCJzYW1sX3Nlc3Npb25faWQiOiJzYW1sX3Nlc3Npb25fMDFNNEE3RENQMlFXWFhTRzhDNkdER0pQOVEiLCJjb25uZWN0aW9uX2lkIjoiY29ubl8wMUtGWFFZSFlHUVJSNEQ1SkNTSlowQkJNWCIsImZyb21fcG9ydGFsIjpmYWxzZSwiZnJvbSI6ImFwaSIsImVudmlyb25tZW50X2lkIjoiZW52aXJvbm1lbnRfMDFFUTFGVFhFVFNXWlg5MUJYTlg5M1NBRk0iLCJpYXQiOjE3OTEzNDQ2ODUsImV4cCI6MTc5MTM1OTA4NX0.Xq1JSySawTlls_fz40DabZhqW_xudrML4B2oZSu1kvc",
+   "title": "mercor - Sign In",
+   "links": []
+  },
+  {
+   "host": "demo.nexus.sepalai.com",
+   "status": "ok",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLdUtswEIVfRaP7WLJiQtDEYUzclkyBBpxmBm4yqr3UGizJaOXU6dN3cMhAL%2BB2f863u2dn571pyA48amdTGkecns9nqEzTyqwLtb2D5w4wkN40FuWQSGnnrXQKNUqrDKAMpSyy6yspIi5b74IrXUPJMk%2FplsfXSXaaL24fijxPxnk25hcnZ%2FcbMaVkc8SKiFOyROxgaTEoG1IquJiMYj7ip2s%2Blkkik5NoKpIHSlavgAttK21%2Ffz7Nr0MRysv1ejVa%2FSjWlOSAQVsVBnQdQouSMQO%2BdD5yT0FFpTNMte1rbLsDX0KzjRn0T4JbsH%2BfLdwXrdjH1ZQhOvZyFkoyRPAvqgtnsTPgC%2FA7XcLPu6s3jupCHR0UB86xnakSWV99ryc3u2l1tpl8MeHbfnwpelGZmh48kcON%2FDszPt9eHSei8w%2BlZ%2Byd8tH6G2Vgma9co8s9%2Beq8UeFjUhzFQ0RXo8ehVHYWWyj1o4aKkqxp3J%2BFBxUgpcF3QNn8AP3%2Fxeb%2FAA%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiIzNTEzMTFjOTg0ODcyNGEzZWYyODE2ZTA4ZGEzNWMzZmViNjMyZTM3N2EyYWYxODBmNjU2Njg2M2NjYzM4NzNjYWMyOTQ0OWEwNjA3YTQ1Nzc0MTk0MDdhM2UwNWY4NjM0N2JjOTViZTNlMTRkODk4Y2Y2NzY5M2RlMzgwYjU5ODIyYzFkMzA4ZTQ3OGRkYWMwNTZhOWYyODM2MDUwYjY3ZmQ1MjQ3NDY2ZjA5MWM0MjAzMjg0YzkyZDY0NTdkYjY2YzY3NmM2ZGFhZDhiYmMxNzg4MjI3NmIzOWZlYmE4NjYwZGY2MmM4OGFhMWQ5ZjUyMGZjMmMwYjQzYmE4MDdjYzg4ZTlhYTk3MDYwZWFiMjhjY2QxYWMxMjI0YjM0NDhiZWViZjI2MGM4YTJjZjdlOWVjODkxYzc2YTQwMzA4YTUzMTZhMjJmODk4NDFjNDNjYWEyODMxM2Y3ODI3MDlhNWYxM2ZjNWQwYWUwMzkxMWFkYThjOGUxODYwMWVkODgzMWUyOGQ1Y2M1OWMyMzNmN2FlYmNlZWE2ODk1ODM5Mzk1MTgwNWY0NjllNGU1MWUzNzRjNWZhZGYzZGQyMzY0ZWNlOGRlZTUwYWRkNWQ2OTYzNGJiYTRkNjYyMGMzMTIxYTlmOTUyNzAwMjI1NGE4ZjZhMmNiODJjMGM4OTNlOTZkNmY4YmVlMzFkNzMxMGUwZWMxZTdkZDU2NDA0M2VjYjJhZmFhYTFjODdkMDI4ZWM3MDljOTBhZDg3NTYzZjE3ZGZmNWFiNjAyNDQ3ZjJlNTFlYjI5YmMwZDEyYzlhZTM3Y2U3MzJhYTVlYjE3NzFiY2YyY2RlMmYxZmE3MmRkMTdkOTdjMzZiYjE4ZTc1YyIsInNhbWxfc2Vzc2lvbl9pZCI6InNhbWxfc2Vzc2lvbl8wMU00QTdEQ1IyMlRXWTcwNVpKWldDMFJYViIsImNvbm5lY3Rpb25faWQiOiJjb25uXzAxS0ZYUVlIWUdRUlI0RDVKQ1NKWjBCQk1YIiwiZnJvbV9wb3J0YWwiOmZhbHNlLCJmcm9tIjoiYXBpIiwiZW52aXJvbm1lbnRfaWQiOiJlbnZpcm9ubWVudF8wMUVRMUZUWEVUU1daWDkxQlhOWDkzU0FGTSIsImlhdCI6MTc5MTM0NDY4NSwiZXhwIjoxNzkxMzU5MDg1fQ.8yZenUufZyd-V4sprJ7ogbwvxlPjBHPqx-2hZ--EY2Y",
+   "title": "mercor - Sign In",
+   "links": []
+  },
+  {
+   "host": "expert-hub.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "expert.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "experts.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "feedback.sepalai.com",
+   "status": "ok",
+   "url": "https://feedback.sepalai.com/help",
+   "title": "Sepal AI - Help Center",
+   "links": []
+  },
+  {
+   "host": "forms.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "help.sepalai.com",
+   "status": "ok",
+   "url": "https://help.sepalai.com/",
+   "title": "Sepal AI - Help Center",
+   "links": []
+  },
+  {
+   "host": "marketing.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "nexus-admin.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "nexus.sepalai.com",
+   "status": "ok",
+   "url": "https://nexus.sepalai.com/",
+   "title": "Sepal AI - Loading...",
+   "links": []
+  },
+  {
+   "host": "sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.app-foundry.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.book.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.cal.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.expert-hub.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.expert.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.experts.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.forms.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.nexus.sepalai.com",
+   "status": "ok",
+   "url": "https://nexus.sepalai.com/",
+   "title": "Sepal AI - Loading...",
+   "links": []
+  },
+  {
+   "host": "www.sepalai.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.wildcard.sepalai.com",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

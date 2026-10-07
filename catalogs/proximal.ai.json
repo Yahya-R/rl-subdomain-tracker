@@ -1,0 +1,64 @@
+{
+ "domain": "proximal.ai",
+ "live_hosts": 5,
+ "pages": [
+  {
+   "host": "codebases.proximal.ai",
+   "status": "ok",
+   "url": "https://codebases.proximal.ai/",
+   "title": "Codebase Acquisition | Proximal",
+   "links": []
+  },
+  {
+   "host": "platform.proximal.ai",
+   "status": "ok",
+   "url": "https://platform.proximal.ai/auth/login",
+   "title": "Proximal Labs",
+   "links": []
+  },
+  {
+   "host": "portal.proximal.ai",
+   "status": "ok",
+   "url": "https://portal.proximal.ai/",
+   "title": "MCP Portal - Cloudflare MCP portal",
+   "links": []
+  },
+  {
+   "host": "proximal.ai",
+   "status": "ok",
+   "url": "https://www.proximal.ai/",
+   "title": "Proximal",
+   "links": [
+    {
+     "url": "https://www.proximal.ai/blog/cybergym-cyberrl/",
+     "kind": "page",
+     "text": "Research & Engineering\u20225 min readRobustly Evaluating Cyber CapabilitiesOur investigation into the CyberGym benchmark and"
+    },
+    {
+     "url": "https://www.proximal.ai/blog/frontierswe/",
+     "kind": "page",
+     "text": "Research & Engineering\u20229 min readFrontierSWEOur ultra-long-horizon coding benchmark. Frontier models clear only a fracti"
+    }
+   ]
+  },
+  {
+   "host": "www.proximal.ai",
+   "status": "ok",
+   "url": "https://www.proximal.ai/",
+   "title": "Proximal",
+   "links": [
+    {
+     "url": "https://www.proximal.ai/blog/cybergym-cyberrl/",
+     "kind": "page",
+     "text": "Research & Engineering\u20225 min readRobustly Evaluating Cyber CapabilitiesOur investigation into the CyberGym benchmark and"
+    },
+    {
+     "url": "https://www.proximal.ai/blog/frontierswe/",
+     "kind": "page",
+     "text": "Research & Engineering\u20229 min readFrontierSWEOur ultra-long-horizon coding benchmark. Frontier models clear only a fracti"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

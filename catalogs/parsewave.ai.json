@@ -1,0 +1,145 @@
+{
+ "domain": "parsewave.ai",
+ "live_hosts": 24,
+ "pages": [
+  {
+   "host": "admin.parsewave.ai",
+   "status": "ok",
+   "url": "https://console.parsewave.ai/login?redirect=%2F",
+   "title": "Parsewave Console",
+   "links": []
+  },
+  {
+   "host": "alexandria.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "argus.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ask.parsewave.ai",
+   "status": "ok",
+   "url": "https://ask.parsewave.ai/login?rd=https://ask.parsewave.ai/",
+   "title": "Sign in - Parsewave Docs",
+   "links": []
+  },
+  {
+   "host": "atlas.parsewave.ai",
+   "status": "ok",
+   "url": "https://atlas.parsewave.ai/",
+   "title": "Atlas Parsewave",
+   "links": []
+  },
+  {
+   "host": "auth.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "console.parsewave.ai",
+   "status": "ok",
+   "url": "https://console.parsewave.ai/login?redirect=%2F",
+   "title": "Parsewave Console",
+   "links": []
+  },
+  {
+   "host": "consoles.parsewave.ai",
+   "status": "ok",
+   "url": "https://consoles.parsewave.ai/login?redirect=%2F",
+   "title": "Parsewave Console",
+   "links": []
+  },
+  {
+   "host": "dev.gdpval.parsewave.ai",
+   "status": "ok",
+   "url": "https://dev.gdpval.parsewave.ai/gdpval-login",
+   "title": "Sign In - GDPVal",
+   "links": []
+  },
+  {
+   "host": "docs.parsewave.ai",
+   "status": "ok",
+   "url": "https://docs.parsewave.ai/login?rd=/",
+   "title": "Sign in - Parsewave Docs",
+   "links": []
+  },
+  {
+   "host": "gdpval.parsewave.ai",
+   "status": "ok",
+   "url": "https://gdpval.parsewave.ai/gdpval-login",
+   "title": "Sign In - GDPVal",
+   "links": []
+  },
+  {
+   "host": "lfs.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mm-api.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mm-tasks-api.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mm-tasks.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mm.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "panel.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "parsewave.ai",
+   "status": "ok",
+   "url": "https://parsewave.ai/",
+   "title": "Parsewave - Data That Teaches Models How To Think",
+   "links": [
+    {
+     "url": "https://parsewave.ai/process",
+     "kind": "page",
+     "text": "expert evaluations"
+    }
+   ]
+  },
+  {
+   "host": "qc.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sso.parsewave.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "tb-api.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tb.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "winnie.parsewave.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.parsewave.ai",
+   "status": "ok",
+   "url": "https://www.parsewave.ai/",
+   "title": "Parsewave - Data That Teaches Models How To Think",
+   "links": [
+    {
+     "url": "https://www.parsewave.ai/process",
+     "kind": "page",
+     "text": "expert evaluations"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

@@ -1,0 +1,68 @@
+{
+ "domain": "aviro.ai",
+ "live_hosts": 6,
+ "pages": [
+  {
+   "host": "api.aviro.ai",
+   "status": "no response"
+  },
+  {
+   "host": "app.aviro.ai",
+   "status": "ok",
+   "url": "https://app.aviro.ai/login",
+   "title": "Aviro",
+   "links": []
+  },
+  {
+   "host": "aviro.ai",
+   "status": "ok",
+   "url": "https://www.aviro.ai/",
+   "title": "Aviro",
+   "links": [
+    {
+     "url": "https://www.aviro.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  },
+  {
+   "host": "pay.aviro.ai",
+   "status": "no response"
+  },
+  {
+   "host": "trust.aviro.ai",
+   "status": "ok",
+   "url": "https://trust.aviro.ai/",
+   "title": "Trust center",
+   "links": []
+  },
+  {
+   "host": "www.aviro.ai",
+   "status": "ok",
+   "url": "https://www.aviro.ai/",
+   "title": "Aviro",
+   "links": [
+    {
+     "url": "https://www.aviro.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://aviro.ai/benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://aviro.ai/benchmarks/c4",
+   "kind": "page"
+  },
+  {
+   "url": "https://aviro.ai/benchmarks/c4/rollouts",
+   "kind": "page"
+  }
+ ]
+}

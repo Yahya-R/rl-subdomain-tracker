@@ -1,0 +1,215 @@
+{
+ "domain": "metaphi.ai",
+ "live_hosts": 15,
+ "pages": [
+  {
+   "host": "agent.metaphi.ai",
+   "status": "ok",
+   "url": "https://metaphi.ai/",
+   "title": "Metaphi AI",
+   "links": [
+    {
+     "url": "https://metaphi.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  },
+  {
+   "host": "api.metaphi.ai",
+   "status": "ok",
+   "url": "https://api.metaphi.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "app.metaphi.ai",
+   "status": "ok",
+   "url": "https://app.metaphi.ai/sign-in",
+   "title": "Sign in | Metaphi AI",
+   "links": []
+  },
+  {
+   "host": "creators.metaphi.ai",
+   "status": "no response"
+  },
+  {
+   "host": "docs.metaphi.ai",
+   "status": "ok",
+   "url": "https://docs.metaphi.ai/overview",
+   "title": "Overview - Metaphi AI",
+   "links": []
+  },
+  {
+   "host": "enterprise.metaphi.ai",
+   "status": "no response"
+  },
+  {
+   "host": "environments.metaphi.ai",
+   "status": "ok",
+   "url": "https://metaphi.ai/",
+   "title": "Metaphi AI",
+   "links": [
+    {
+     "url": "https://metaphi.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  },
+  {
+   "host": "evals.metaphi.ai",
+   "status": "ok",
+   "url": "https://metaphi.ai/benchmarks",
+   "title": "Benchmarks | Metaphi AI",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2603.22744",
+     "kind": "hosted",
+     "text": "Paper"
+    },
+    {
+     "url": "https://metaphi.ai/benchmarks",
+     "kind": "page",
+     "text": "Skip to content"
+    },
+    {
+     "url": "https://metaphi.ai/benchmarks/enterpriseswe",
+     "kind": "page",
+     "text": "EnterpriseSWE"
+    },
+    {
+     "url": "https://metaphi.ai/benchmarks/lh-bench",
+     "kind": "page",
+     "text": "LH-Bench"
+    }
+   ]
+  },
+  {
+   "host": "harwell.metaphi.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hum.metaphi.ai",
+   "status": "ok",
+   "url": "https://app.metaphi.ai/sign-in",
+   "title": "Sign in | Metaphi AI",
+   "links": []
+  },
+  {
+   "host": "kennet.metaphi.ai",
+   "status": "no response"
+  },
+  {
+   "host": "metaphi.ai",
+   "status": "ok",
+   "url": "https://metaphi.ai/",
+   "title": "Metaphi AI",
+   "links": [
+    {
+     "url": "https://metaphi.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  },
+  {
+   "host": "research.metaphi.ai",
+   "status": "ok",
+   "url": "https://research.metaphi.ai/",
+   "title": "Metaphi AI",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2603.22744",
+     "kind": "hosted",
+     "text": "LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks"
+    },
+    {
+     "url": "https://enterpriseswe.com",
+     "kind": "page",
+     "text": "EnterpriseSWE: Evaluating agents on long-horizon enterprise software engineering tasks"
+    },
+    {
+     "url": "https://evals.metaphi.ai",
+     "kind": "page",
+     "text": "Agent evaluations"
+    },
+    {
+     "url": "https://evals.metaphi.ai/cobolbench/blog",
+     "kind": "page",
+     "text": "COBOLBench: Measuring Frontier Agents on Enterprise COBOL"
+    },
+    {
+     "url": "https://huggingface.co/metaphilabs",
+     "kind": "page",
+     "text": "Off the shelf datasets"
+    },
+    {
+     "url": "https://kennet.metaphi.ai/whitepaper",
+     "kind": "page",
+     "text": "Environments must evolve with models"
+    }
+   ]
+  },
+  {
+   "host": "work.metaphi.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worlds.metaphi.ai",
+   "status": "ok",
+   "url": "https://worlds.metaphi.ai/",
+   "title": "Metaphi AI",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2603.22744",
+     "kind": "hosted",
+     "text": "LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks"
+    },
+    {
+     "url": "https://enterpriseswe.com",
+     "kind": "page",
+     "text": "EnterpriseSWE: Evaluating agents on long-horizon enterprise software engineering tasks"
+    },
+    {
+     "url": "https://evals.metaphi.ai",
+     "kind": "page",
+     "text": "Agent evaluations"
+    },
+    {
+     "url": "https://evals.metaphi.ai/cobolbench/blog",
+     "kind": "page",
+     "text": "COBOLBench: Measuring Frontier Agents on Enterprise COBOL"
+    },
+    {
+     "url": "https://huggingface.co/metaphilabs",
+     "kind": "page",
+     "text": "Off the shelf datasets"
+    },
+    {
+     "url": "https://kennet.metaphi.ai/whitepaper",
+     "kind": "page",
+     "text": "Environments must evolve with models"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://metaphi.ai/benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://metaphi.ai/benchmarks/enterpriseswe",
+   "kind": "page"
+  },
+  {
+   "url": "https://metaphi.ai/benchmarks/lh-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://metaphi.ai/essays/static-benchmarks",
+   "kind": "page"
+  }
+ ]
+}

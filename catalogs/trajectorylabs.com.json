@@ -1,0 +1,107 @@
+{
+ "domain": "trajectorylabs.com",
+ "live_hosts": 6,
+ "pages": [
+  {
+   "host": "astrolabe.trajectorylabs.com",
+   "status": "ok",
+   "url": "https://astrolabe.trajectorylabs.com/login/?next=%2F",
+   "title": "Sign in \u2014 Astrolabe",
+   "links": []
+  },
+  {
+   "host": "lyon.trajectorylabs.com",
+   "status": "ok",
+   "url": "https://lyon.trajectorylabs.com/login",
+   "title": "Lyon",
+   "links": []
+  },
+  {
+   "host": "platform.trajectorylabs.com",
+   "status": "ok",
+   "url": "https://platform.trajectorylabs.com/",
+   "title": "Trajectory Labs Platform",
+   "links": []
+  },
+  {
+   "host": "terminal.trajectorylabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "trajectorylabs.com",
+   "status": "ok",
+   "url": "https://www.trajectorylabs.com/",
+   "title": "Trajectory Labs, PBC | AI safety evals, red teaming, RL environments",
+   "links": [
+    {
+     "url": "https://ai.meta.com/static-resource/muse-spark-safety-and-preparedness-report/",
+     "kind": "page",
+     "text": "Muse Spark Safety & Preparedness ReportMay 2026We built the Search-PI Complex prompt-injection benchmark in partnership "
+    },
+    {
+     "url": "https://www-cdn.anthropic.com/2f9323abbcc4abe219577539efe19a623c9ca2bd/Claude%20Fable%205%20&%20Claude%20Mythos%205%20System%20Card.pdf",
+     "kind": "file",
+     "text": "Claude Fable 5 & Claude Mythos 5 System CardJune 2026We were the only external team to have bypassed its cyber safeguard"
+    },
+    {
+     "url": "https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf",
+     "kind": "file",
+     "text": "Claude Opus 5 System CardJuly 2026After 100 hours of red-teaming, we were the only external team to complete one of Anth"
+    },
+    {
+     "url": "https://www.trajectorylabs.com/careers/evals-lead-ai-red-teaming",
+     "kind": "page",
+     "text": "Evals Lead, AI Red TeamingFull-time | Berkeley, CA / Remote"
+    },
+    {
+     "url": "https://www.trajectorylabs.com/careers/head-of-evals",
+     "kind": "page",
+     "text": "Head of EvalsFull-time | Berkeley, CA / Remote"
+    }
+   ]
+  },
+  {
+   "host": "www.trajectorylabs.com",
+   "status": "ok",
+   "url": "https://www.trajectorylabs.com/",
+   "title": "Trajectory Labs, PBC | AI safety evals, red teaming, RL environments",
+   "links": [
+    {
+     "url": "https://ai.meta.com/static-resource/muse-spark-safety-and-preparedness-report/",
+     "kind": "page",
+     "text": "Muse Spark Safety & Preparedness ReportMay 2026We built the Search-PI Complex prompt-injection benchmark in partnership "
+    },
+    {
+     "url": "https://www-cdn.anthropic.com/2f9323abbcc4abe219577539efe19a623c9ca2bd/Claude%20Fable%205%20&%20Claude%20Mythos%205%20System%20Card.pdf",
+     "kind": "file",
+     "text": "Claude Fable 5 & Claude Mythos 5 System CardJune 2026We were the only external team to have bypassed its cyber safeguard"
+    },
+    {
+     "url": "https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf",
+     "kind": "file",
+     "text": "Claude Opus 5 System CardJuly 2026After 100 hours of red-teaming, we were the only external team to complete one of Anth"
+    },
+    {
+     "url": "https://www.trajectorylabs.com/careers/evals-lead-ai-red-teaming",
+     "kind": "page",
+     "text": "Evals Lead, AI Red TeamingFull-time | Berkeley, CA / Remote"
+    },
+    {
+     "url": "https://www.trajectorylabs.com/careers/head-of-evals",
+     "kind": "page",
+     "text": "Head of EvalsFull-time | Berkeley, CA / Remote"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://www.trajectorylabs.com/careers/evals-lead-ai-red-teaming",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.trajectorylabs.com/careers/head-of-evals",
+   "kind": "page"
+  }
+ ]
+}

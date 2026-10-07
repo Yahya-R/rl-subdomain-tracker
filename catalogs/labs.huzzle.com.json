@@ -1,0 +1,35 @@
+{
+ "domain": "labs.huzzle.com",
+ "live_hosts": 1,
+ "pages": [
+  {
+   "host": "labs.huzzle.com",
+   "status": "ok",
+   "url": "https://labs.huzzle.com/",
+   "title": "Huzzle Labs \u2014 Where AI makes contact with the real world",
+   "links": [
+    {
+     "url": "https://labs.huzzle.com/enterprise",
+     "kind": "page",
+     "text": "\u2192 Enterprise Custom evals & models"
+    },
+    {
+     "url": "https://labs.huzzle.com/rl-environments",
+     "kind": "page",
+     "text": "RL Environments"
+    },
+    {
+     "url": "https://www.insurebench.com/",
+     "kind": "page",
+     "text": "Leaderboard \u2197"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://labs.huzzle.com/rl-environments",
+   "kind": "page"
+  }
+ ]
+}

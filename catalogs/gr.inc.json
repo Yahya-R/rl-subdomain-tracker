@@ -1,0 +1,132 @@
+{
+ "domain": "gr.inc",
+ "live_hosts": 16,
+ "pages": [
+  {
+   "host": "cdn-media.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "eval-dash.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "gr.inc",
+   "status": "ok",
+   "url": "https://www.gr.inc/",
+   "title": "General Reasoning",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2211.09085",
+     "kind": "hosted",
+     "text": "Galactica"
+    },
+    {
+     "url": "https://arxiv.org/abs/2307.09288",
+     "kind": "hosted",
+     "text": "Llama 2"
+    },
+    {
+     "url": "https://arxiv.org/abs/2407.21783",
+     "kind": "hosted",
+     "text": "Llama 3"
+    },
+    {
+     "url": "https://www.gr.inc/releases/introducing-kellybench",
+     "kind": "page",
+     "text": "9 April 2026ResearchIntroducing KellyBenchA benchmark for long-horizon sequential decision making. Models struggle to be"
+    },
+    {
+     "url": "https://www.gr.inc/releases/introducing-openreward",
+     "kind": "page",
+     "text": "24 March 2026Open SourceIntroducing OpenRewardAn open resource for discovering and experimenting with community RL envir"
+    }
+   ]
+  },
+  {
+   "host": "grafana.gr.inc",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "grafana.nebius.gr.inc",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "infer.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "pretraining-data.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "ray-crusoe.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "ray-nebius.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "ray-serve.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "ray.crusoe.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "ray.nebius.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "rl-dash.crusoe.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "rl-dash.nebius.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "status.gr.inc",
+   "status": "ok",
+   "url": "https://status.gr.inc/",
+   "title": "General Reasoning, Inc. status Better Stack",
+   "links": []
+  },
+  {
+   "host": "www.gr.inc",
+   "status": "ok",
+   "url": "https://www.gr.inc/",
+   "title": "General Reasoning",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2211.09085",
+     "kind": "hosted",
+     "text": "Galactica"
+    },
+    {
+     "url": "https://arxiv.org/abs/2307.09288",
+     "kind": "hosted",
+     "text": "Llama 2"
+    },
+    {
+     "url": "https://arxiv.org/abs/2407.21783",
+     "kind": "hosted",
+     "text": "Llama 3"
+    },
+    {
+     "url": "https://www.gr.inc/releases/introducing-kellybench",
+     "kind": "page",
+     "text": "9 April 2026ResearchIntroducing KellyBenchA benchmark for long-horizon sequential decision making. Models struggle to be"
+    },
+    {
+     "url": "https://www.gr.inc/releases/introducing-openreward",
+     "kind": "page",
+     "text": "24 March 2026Open SourceIntroducing OpenRewardAn open resource for discovering and experimenting with community RL envir"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

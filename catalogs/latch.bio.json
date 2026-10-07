@@ -1,0 +1,295 @@
+{
+ "domain": "latch.bio",
+ "live_hosts": 53,
+ "pages": [
+  {
+   "host": "aboro.latch.bio",
+   "status": "ok",
+   "url": "https://aboro.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "admin.forch.flyte.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "allumiqs.latch.bio",
+   "status": "ok",
+   "url": "https://allumiqs.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "argocd.latch.bio",
+   "status": "ok",
+   "url": "https://argocd.latch.bio/",
+   "title": "Argo CD",
+   "links": []
+  },
+  {
+   "host": "atlasxomics.latch.bio",
+   "status": "ok",
+   "url": "https://atlasxomics.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "auth.latch.bio",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "blog.latch.bio",
+   "status": "ok",
+   "url": "https://blog.latch.bio/",
+   "title": "LatchBio | Substack",
+   "links": []
+  },
+  {
+   "host": "brokenstring.latch.bio",
+   "status": "ok",
+   "url": "https://brokenstring.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "centromere.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "clipper-viz-server.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "conference.latch.bio",
+   "status": "ok",
+   "url": "https://conference.latch.bio/",
+   "title": "Data Platforms for Engineering Biologics",
+   "links": []
+  },
+  {
+   "host": "console.latch.bio",
+   "status": "ok",
+   "url": "https://console.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "custom.pods.eu-central.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "custom.pods.eu-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "custom.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "custom.pods.us-east.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "custom.pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "deseq2-viz-server.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "docs.latch.bio",
+   "status": "ok",
+   "url": "https://docs.latch.bio/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "factorial.latch.bio",
+   "status": "ok",
+   "url": "https://factorial.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "geo.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "git.latch.bio",
+   "status": "ok",
+   "url": "https://git.latch.bio/",
+   "title": "Forgejo: Beyond coding. We Forge.",
+   "links": [
+    {
+     "url": "https://forgejo.org/download",
+     "kind": "page",
+     "text": "packaged"
+    },
+    {
+     "url": "https://forgejo.org/download/",
+     "kind": "page",
+     "text": "run the binary"
+    }
+   ]
+  },
+  {
+   "host": "jlab.pods.eu-central.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "jlab.pods.eu-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "jlab.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "jlab.pods.us-east.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "jlab.pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "latch.bio",
+   "status": "ok",
+   "url": "https://latch.bio/",
+   "title": "LatchBio",
+   "links": [
+    {
+     "url": "https://benchmarks.bio",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
+  },
+  {
+   "host": "pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "rstudio.pods.eu-central.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "rstudio.pods.eu-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "rstudio.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "rstudio.pods.us-east.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "rstudio.pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "salesloft.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "sandbox-router-dev.us-west-2.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "sandbox-router.us-west-2.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "status.latch.bio",
+   "status": "ok",
+   "url": "https://status.latch.bio/",
+   "title": "LatchBio - Status",
+   "links": []
+  },
+  {
+   "host": "takarabio.latch.bio",
+   "status": "ok",
+   "url": "https://takarabio.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "test.pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "trust.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "vacuole.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "vizgen.latch.bio",
+   "status": "ok",
+   "url": "https://vizgen.latch.bio/",
+   "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "wiki.latch.bio",
+   "status": "ok",
+   "url": "https://wiki.latch.bio/start/introduction",
+   "title": "What is LatchBio? - LatchBio",
+   "links": [
+    {
+     "url": "https://github.com/latchbio/wiki/issues/new?title=Issue on docs&body=Path: /start/introduction",
+     "kind": "hosted",
+     "text": "Raise issue"
+    },
+    {
+     "url": "https://latchbio.notion.site/LatchBio-Product-Change-Logs-ca76a6ae05a74a4daf78cb4006ad80ac",
+     "kind": "hosted",
+     "text": "Change Log"
+    }
+   ]
+  },
+  {
+   "host": "wildcard.custom.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.jlab.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.rstudio.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "www.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "www.pods.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "www.pods.us-west.latch.bio",
+   "status": "no response"
+  },
+  {
+   "host": "www.test.pods.us-west.latch.bio",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

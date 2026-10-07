@@ -1,0 +1,1769 @@
+{
+ "domain": "snorkel.ai",
+ "live_hosts": 21,
+ "pages": [
+  {
+   "host": "benchmarks.snorkel.ai",
+   "status": "ok",
+   "url": "https://benchmarks.snorkel.ai/",
+   "title": "Open Benchmarks Grant for Agentic AI | Snorkel AI",
+   "links": [
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": ""
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/apply/",
+     "kind": "page",
+     "text": "Apply now"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/closing-the-evaluation-gap-in-agentic-ai/",
+     "kind": "page",
+     "text": "Blog"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/red-team-application/",
+     "kind": "page",
+     "text": "Red-team your benchmark Helps builders fix evaluation weaknesses, including reward hacking, contamination, and broken ve"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/terms/",
+     "kind": "page",
+     "text": "Terms and conditions"
+    },
+    {
+     "url": "https://senior-swe-bench.snorkel.ai/",
+     "kind": "page",
+     "text": "View Benchmark"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+     "kind": "page",
+     "text": "Agent's Last Exam The largest-scale, broadest-coverage agent evaluation benchmark to date, measuring performance on long"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+     "kind": "page",
+     "text": "Continual Learning Bench A benchmark of expert-validated, difficult tasks for agents that learn and improve across seque"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
+     "kind": "page",
+     "text": "LibraryDesignBench A benchmark measuring library quality by how well libraries designed by one agent help other agents b"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
+     "kind": "page",
+     "text": "OSWorld 2.0 A benchmark for evaluating computer-use agents on long-horizon, real-world workflows with 108 authentic task"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+     "kind": "page",
+     "text": "SlopCode Bench A community benchmark measuring code erosion as agents iteratively extend their own solutions across chec"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
+     "kind": "page",
+     "text": "Terminal-Bench 2.1 A revision of Terminal-Bench 2.0 that fixes 28 of 89 tasks and introduces continuous validation for a"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0 The next frontier benchmark for terminal agents. A harder, more domain-diverse successor to Terminal-"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Terminal-Bench 4.0 A benchmark to measure and evolve with the frontier of agent work. Terminal-Bench 4.0 calibrates task"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+     "kind": "page",
+     "text": "Terminal-Bench-Science A benchmark for evaluating AI agents on workflows from researchers' own work. Scientists, not mod"
+    }
+   ]
+  },
+  {
+   "host": "brand.snorkel.ai",
+   "status": "ok",
+   "url": "https://brand.snorkel.ai/",
+   "title": "Snorkel Brand System",
+   "links": [
+    {
+     "url": "https://brand.snorkel.ai/color/",
+     "kind": "page",
+     "text": "Colors Our palette reflects the aquatic theme inherent in the Snorkel name, Check out and download our color swatches."
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/07/Snorkel_Lockups.zip",
+     "kind": "file",
+     "text": "Download here"
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/07/Snorkel_Mascot.zip",
+     "kind": "file",
+     "text": "Download here"
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/07/Snorkel_Wordmark.zip",
+     "kind": "file",
+     "text": "Download here"
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Color_Stacked_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Color_Stacked_Mid.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Color_Wide_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Color_Wide_Mid.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Mono_Stacked_Darkmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Mono_Stacked_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Mono_Wide_Darkmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Lockup_Mono_Wide_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Mascot_Color.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Mascot_Mono_Darkmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Mascot_Mono_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Wordmark_Darkmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://brand.snorkel.ai/wp-content/uploads/2022/08/Wordmark_Lightmode.zip",
+     "kind": "file",
+     "text": ""
+    },
+    {
+     "url": "https://drive.google.com/drive/folders/1UQcBvMTu1TRzQk5ZI7hZj2s59zGuGNjG",
+     "kind": "hosted",
+     "text": "Templates Snorkel onlyDownload the latest Google slides and docs templates, social to build branded presentations, docum"
+    },
+    {
+     "url": "https://s39591.pcdn.co/wp-content/uploads/2022/07/Snorkel_Wordmark.zip",
+     "kind": "file",
+     "text": "Download logo"
+    },
+    {
+     "url": "https://snorkel.ai/blog/which-is-better-retrieval-augmentation-rag-or-fine-tuning-both/",
+     "kind": "page",
+     "text": "RAG vs. fine-tuning"
+    },
+    {
+     "url": "https://snorkel.ai/large-language-models/rag-retrieval-augmented-generation/",
+     "kind": "page",
+     "text": "Retrieval-augmented generation"
+    }
+   ]
+  },
+  {
+   "host": "cdn.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "customer.support.snorkel.ai",
+   "status": "ok",
+   "url": "https://customer.support.snorkel.ai/servicedesk/customer/user/login?destination=portals",
+   "title": "Jira Service Management",
+   "links": []
+  },
+  {
+   "host": "data.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "datasets.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "devweb26.snorkel.ai",
+   "status": "ok",
+   "url": "https://devweb26.snorkel.ai/",
+   "title": "Expert data development for frontier AI | Snorkel AI",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2602.00456",
+     "kind": "hosted",
+     "text": "Domain AgentsBenchmarking Agents in Insurance UnderwritingEnvironment-first benchmarking for agents in a genuinely high-"
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.01375",
+     "kind": "hosted",
+     "text": "Evaluation ResearchRIFT: Rubric Failure Mode TaxonomyA diagnostic framework for when AI evaluation rubrics break down."
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.18381",
+     "kind": "hosted",
+     "text": "NewRL ResearchRLVR in Low Data & Compute RegimesBetter data beats more compute \u2014 measured across low-resource settings."
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": "Open Benchmarks Grants Funding for open-source AI research"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/blog/terminal-bench-2-0-raising-the-bar-for-ai-agent-evaluation/",
+     "kind": "page",
+     "text": "featured BLOG Terminal-Bench 2.0 Developed by Stanford and Laude Institute with contributions from Snorkel AI, it\u2019s a ma"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/data-development/",
+     "kind": "page",
+     "text": "Overview Expert-curated datasets for frontier AI"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/how-it-works/",
+     "kind": "page",
+     "text": "Research-led data and environment development for the frontier's hardest problems Learn more"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/",
+     "kind": "page",
+     "text": "Leaderboards Compare model performance across benchmarks"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=agentic-coding",
+     "kind": "page",
+     "text": "Agentic Coding"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=capability-efficiency",
+     "kind": "page",
+     "text": "Capability/Efficiency"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=computer-use",
+     "kind": "page",
+     "text": "Computer Use"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=enterprise-environments",
+     "kind": "page",
+     "text": "Enterprise Environments"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=knowledge-work",
+     "kind": "page",
+     "text": "Knowledge Work"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=scientific-research-workflows",
+     "kind": "page",
+     "text": "Science & Research"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/?topic=software-engineering",
+     "kind": "page",
+     "text": "Software Engineering"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/agentic-coding-2/",
+     "kind": "page",
+     "text": "Agentic Coding Agentic Coding 2.0 Evaluating whether coding agents can plan, execute, verify, and recover across complex"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/agents-last-exam/",
+     "kind": "page",
+     "text": "Knowledge Work Agents\u2019 Last Exam Evaluating AI agents on long-horizon, economically valuable professional workflows with"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/category/agenticcoding/",
+     "kind": "page",
+     "text": "Benchmark Agentic coding benchmark: Evaluating AI models on complex, real-world coding tasks"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/continual-learning-bench/",
+     "kind": "page",
+     "text": "Capability/Efficiency Continual Learning Bench Measures improvement across sequential, stateful tasks. Top Systems (Agg."
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/frontier-bench/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 3.0 Evaluates terminal agents on containerized tasks across seven domains. By Resolution R"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/librarydesignbench/",
+     "kind": "page",
+     "text": "Software Engineering LibraryDesignBench Measures how well AI agents design libraries that other agents can use. Pass Rat"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/os-world-2-0/",
+     "kind": "page",
+     "text": "Computer Use OSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. By binary accuracy (500 steps)1Opu"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/senior-swe-bench/",
+     "kind": "page",
+     "text": "Software Engineering Senior SWE-Bench Evaluates coding agents on senior-level software engineering tasks. Tasteful Solve"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/slopcode-bench/",
+     "kind": "page",
+     "text": "Software Engineering SlopCode Bench Measures coding-agent performance across evolving software requirements. Top Models "
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/snorkel-finance-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelFinance 2.0 Evaluates financial workflows requiring evidence gathering, analysis, and com"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/snorkel-legal/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelLegal Evaluates legal workflows requiring evidence, procedure, authority, and action. By "
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/snorkel-manufacturing/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelManufacturing Evaluates manufacturing decisions using fragmented plant-floor, engineering"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/snorkel-revops/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelRevOps Evaluates revenue-operations workflows involving systems, controls, and business-s"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelUnderwrite 2.0 Evaluates auditable insurance underwriting decisions using incomplete, dis"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/swe-bench-cli/",
+     "kind": "page",
+     "text": "Software Engineering SWE-bench CLI Evaluates validated multi-file code changes in open-source repositories. By pass@11Op"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/terminal-bench-science/",
+     "kind": "page",
+     "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/workplace-agents/",
+     "kind": "page",
+     "text": "Knowledge Work WorkplaceAgents Evaluates AI agents on economically valuable professional work and verifiable workplace d"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
+     "kind": "page",
+     "text": "Request dataset samples"
+    },
+    {
+     "url": "https://leaderboard.snorkel.ai/",
+     "kind": "page",
+     "text": "Leaderboards"
+    },
+    {
+     "url": "https://snorkel.ai/blog/chat-with-the-terminal-bench-team/",
+     "kind": "page",
+     "text": "Blog Terminal-Bench 2.0: Raising the bar for AI agent evaluation"
+    },
+    {
+     "url": "https://snorkel.ai/blog/evaluating-ai-agents-for-insurance-underwriting/",
+     "kind": "page",
+     "text": "Blog Evaluating AI agents for insurance writing"
+    },
+    {
+     "url": "https://snorkel.ai/research-paper/automating-benchmark-design/",
+     "kind": "page",
+     "text": "Research Paper BeTaL: Using LLMs to calibrate benchmarking task difficulty automatically"
+    }
+   ]
+  },
+  {
+   "host": "docs.snorkel.ai",
+   "status": "ok",
+   "url": "https://docs.snorkel.ai/",
+   "title": "Data-centric AI for the enterprise | Snorkel AI",
+   "links": [
+    {
+     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/data-management/uploading-a-dataset",
+     "kind": "page",
+     "text": "Uploading a dataset"
+    },
+    {
+     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/evaluation/evaluation-overview",
+     "kind": "page",
+     "text": "Evaluation overview"
+    },
+    {
+     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/evaluation/evaluation-workflow-overview",
+     "kind": "page",
+     "text": "Get started"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/Admin-Guide-for-Snorkel-Flow-25.10.pdf",
+     "kind": "file",
+     "text": "Admin Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/Admin-Guide-for-Snorkel-Flow-25.4.pdf",
+     "kind": "file",
+     "text": "Admin Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/Admin-Guide-for-Snorkel-Flow-25.7.pdf",
+     "kind": "file",
+     "text": "Admin Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/Admin-Guide-for-Snorkel-Flow-26.1.pdf",
+     "kind": "file",
+     "text": "Admin Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/SDK-Reference-for-Snorkel-Flow-25.10.pdf",
+     "kind": "file",
+     "text": "SDK Reference"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/SDK-Reference-for-Snorkel-Flow-25.4.pdf",
+     "kind": "file",
+     "text": "SDK Reference"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/SDK-Reference-for-Snorkel-Flow-25.7.pdf",
+     "kind": "file",
+     "text": "SDK Reference"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/SDK-Reference-for-Snorkel-Flow-26.1.pdf",
+     "kind": "file",
+     "text": "SDK Reference"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/User-Guide-for-Snorkel-Flow-25.10.pdf",
+     "kind": "file",
+     "text": "User Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/User-Guide-for-Snorkel-Flow-25.4.pdf",
+     "kind": "file",
+     "text": "User Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/User-Guide-for-Snorkel-Flow-25.7.pdf",
+     "kind": "file",
+     "text": "User Guide"
+    },
+    {
+     "url": "https://snorkel-docs-downloads.s3.us-west-2.amazonaws.com/pdfs/User-Guide-for-Snorkel-Flow-26.1.pdf",
+     "kind": "file",
+     "text": "User Guide"
+    },
+    {
+     "url": "https://snorkel.ai/large-language-models/rag-retrieval-augmented-generation/",
+     "kind": "page",
+     "text": "Retrieval-augmented generation"
+    },
+    {
+     "url": "https://snorkel.ai/llm-evaluation-primer/",
+     "kind": "page",
+     "text": "LLM evaluation"
+    }
+   ]
+  },
+  {
+   "host": "em.snorkel.ai",
+   "status": "ok",
+   "url": "https://em.snorkel.ai/",
+   "title": "404 - Page not found",
+   "links": []
+  },
+  {
+   "host": "future.snorkel.ai",
+   "status": "ok",
+   "url": "https://www.frontierdatasummit.ai/",
+   "title": "Frontier Data Summit | AI Benchmarks & Research, Oct 2026",
+   "links": [
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": "Open Benchmarks Grants"
+    },
+    {
+     "url": "https://leaderboard.snorkel.ai/",
+     "kind": "page",
+     "text": "Leaderboards"
+    }
+   ]
+  },
+  {
+   "host": "fwtrack.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "go.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "leaderboard.snorkel.ai",
+   "status": "ok",
+   "url": "https://snorkel.ai/leaderboard/",
+   "title": "AI Benchmark Leaderboards for Frontier LLMs | Snorkel AI",
+   "links": [
+    {
+     "url": "http://frontierdatasummit.ai",
+     "kind": "page",
+     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": "Open Benchmarks Grants Funding for open-source AI research"
+    },
+    {
+     "url": "https://leaderboard.snorkel.ai/",
+     "kind": "page",
+     "text": "Leaderboards (opens in a new tab)"
+    },
+    {
+     "url": "https://snorkel.ai/all-models/",
+     "kind": "page",
+     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #2/13 Agents\u2019 Last Exam 38.2% #1/43 SnorkelFi"
+    },
+    {
+     "url": "https://snorkel.ai/data-development/",
+     "kind": "page",
+     "text": "Overview Expert-curated datasets for frontier AI"
+    },
+    {
+     "url": "https://snorkel.ai/how-it-works/",
+     "kind": "page",
+     "text": "Research-led data and environment development for the frontier's hardest problems Learn more"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/",
+     "kind": "page",
+     "text": "Skip to content"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=agentic-coding",
+     "kind": "page",
+     "text": "Agentic Coding"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=capability-efficiency",
+     "kind": "page",
+     "text": "Capability/Efficiency"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=computer-use",
+     "kind": "page",
+     "text": "Computer Use"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=enterprise-environments",
+     "kind": "page",
+     "text": "Enterprise Environments"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=knowledge-work",
+     "kind": "page",
+     "text": "Knowledge Work"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=scientific-research-workflows",
+     "kind": "page",
+     "text": "Science & Research"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=software-engineering",
+     "kind": "page",
+     "text": "Software Engineering"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agentic-coding-2/",
+     "kind": "page",
+     "text": "Learn more about Agentic Coding 2.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agentic-coding/",
+     "kind": "page",
+     "text": "Archived Agentic Coding A benchmark for evaluating AI models on complex, real-world coding tasks that require multi-step"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+     "kind": "page",
+     "text": "Learn more about Agents\u2019 Last Exam"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+     "kind": "page",
+     "text": "Learn more about Continual Learning Bench"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/digital-work-index/",
+     "kind": "page",
+     "text": "See methodology"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/finance-reasoning/",
+     "kind": "page",
+     "text": "Archived Finance Reasoning A benchmark co-created with Snorkel\u2019s financial expert network, to test agents on financial r"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
+     "kind": "page",
+     "text": "Learn more about LibraryDesignBench"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
+     "kind": "page",
+     "text": "Learn more about OSWorld 2.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
+     "kind": "page",
+     "text": "Learn more about Senior SWE-bench"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+     "kind": "page",
+     "text": "Learn more about SlopCode Bench"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-finance-2-0/",
+     "kind": "page",
+     "text": "Learn more about SnorkelFinance 2.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-finance/",
+     "kind": "page",
+     "text": "Archived SnorkelFinance A benchmark of expert-verified financial QA created from financial reports for evaluating AI age"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-graph/",
+     "kind": "page",
+     "text": "Archived SnorkelGraph A procedurally-generated and expert-verified benchmark for evaluating mathematical and spatial rea"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
+     "kind": "page",
+     "text": "Learn more about SnorkelLegal"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+     "kind": "page",
+     "text": "Learn more about SnorkelManufacturing"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
+     "kind": "page",
+     "text": "Learn more about SnorkelRevOps"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-sequences/",
+     "kind": "page",
+     "text": "Archived SnorkelSequences A procedurally-generated and expert-verified benchmark for evaluating mathematical reasoning a"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-spatial/",
+     "kind": "page",
+     "text": "Archived SnorkelSpatial A procedurally-generated benchmark for evaluating allocentric and egocentric spatial reasoning c"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+     "kind": "page",
+     "text": "Learn more about SnorkelUnderwrite 2.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-underwrite/",
+     "kind": "page",
+     "text": "Archived SnorkelUnderwrite An expert-verified frontier benchmark with multi-turn conversations, focused on agentic reaso"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-wordle/",
+     "kind": "page",
+     "text": "Archived SnorkelWordle A benchmark designed to evaluate linguistic reasoning and instruction-following capabilities in l"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
+     "kind": "page",
+     "text": "Learn more about SWE-bench CLI"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-2-0/",
+     "kind": "page",
+     "text": "Archived Terminal-Bench 2.0 89 hard, human-verified terminal agent tasks in containerized environments, evaluated via ta"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
+     "kind": "page",
+     "text": "Archived Terminal-Bench 2.1 Terminal agent evaluation led by Stanford University and Laude Institute. v2.1 fixes 28 task"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+     "kind": "page",
+     "text": "Learn more about Terminal-Bench 3.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Learn more about Terminal-Bench 4.0"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+     "kind": "page",
+     "text": "Learn more about Terminal-Bench-Science"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+     "kind": "page",
+     "text": "Learn more about WorkplaceAgents"
+    },
+    {
+     "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
+     "kind": "page",
+     "text": "Request dataset samples"
+    }
+   ]
+  },
+  {
+   "host": "privacy.snorkel.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "register.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "security.snorkel.ai",
+   "status": "ok",
+   "url": "https://security.snorkel.ai/",
+   "title": "Snorkel AI Security Portal | Powered by SafeBase",
+   "links": [
+    {
+     "url": "https://security.snorkel.ai/?itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
+     "kind": "page",
+     "text": "REPORTSSecurity Whitepaper"
+    }
+   ]
+  },
+  {
+   "host": "senior-swe-bench-sample.snorkel.ai",
+   "status": "no response"
+  },
+  {
+   "host": "senior-swe-bench.snorkel.ai",
+   "status": "ok",
+   "url": "https://senior-swe-bench.snorkel.ai/",
+   "title": "Senior SWE-Bench",
+   "links": [
+    {
+     "url": "https://github.com/PostHog/posthog",
+     "kind": "hosted",
+     "text": "posthog(8)"
+    },
+    {
+     "url": "https://github.com/better-auth/better-auth",
+     "kind": "hosted",
+     "text": "better-auth(4)"
+    },
+    {
+     "url": "https://github.com/electric-sql/electric",
+     "kind": "hosted",
+     "text": "electric(6)"
+    },
+    {
+     "url": "https://github.com/go-gitea/gitea",
+     "kind": "hosted",
+     "text": "gitea(6)"
+    },
+    {
+     "url": "https://github.com/harbor-framework/harbor",
+     "kind": "hosted",
+     "text": "harbor(4)"
+    },
+    {
+     "url": "https://github.com/snorkel-ai/senior-swe-bench-v2026.06",
+     "kind": "hosted",
+     "text": "Dataset on GitHub"
+    },
+    {
+     "url": "https://hub.harborframework.com/datasets/snorkel-ai/senior-swe-bench-v2026.06/latest",
+     "kind": "page",
+     "text": "Dataset on Harbor Hub"
+    }
+   ]
+  },
+  {
+   "host": "snorkel.ai",
+   "status": "ok",
+   "url": "https://snorkel.ai/",
+   "title": "Expert data development for frontier AI | Snorkel AI",
+   "links": [
+    {
+     "url": "http://frontierdatasummit.ai",
+     "kind": "page",
+     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
+    },
+    {
+     "url": "https://arxiv.org/abs/2602.00456",
+     "kind": "hosted",
+     "text": "Domain AgentsBenchmarking Agents in Insurance UnderwritingEnvironment-first benchmarking for agents in a genuinely high-"
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.01375",
+     "kind": "hosted",
+     "text": "Evaluation ResearchRIFT: Rubric Failure Mode TaxonomyA diagnostic framework for when AI evaluation rubrics break down."
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.18381",
+     "kind": "hosted",
+     "text": "NewRL ResearchRLVR in Low Data & Compute RegimesBetter data beats more compute \u2014 measured across low-resource settings."
+    },
+    {
+     "url": "https://arxiv.org/abs/2606.05405",
+     "kind": "hosted",
+     "text": "Research Paper Agents' Last Exam: Challenge and measure AI agents on economically valuable and real-world tasks"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": "Open Benchmarks Grants Funding for open-source AI research"
+    },
+    {
+     "url": "https://leaderboard.snorkel.ai/",
+     "kind": "page",
+     "text": "Leaderboards (opens in a new tab)"
+    },
+    {
+     "url": "https://s46486.pcdn.co/wp-content/uploads/2022/01/OSWorld2.0.pdf",
+     "kind": "file",
+     "text": "Research Paper OSWORLD 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks"
+    },
+    {
+     "url": "https://snorkel.ai/blog/chat-with-the-terminal-bench-team/",
+     "kind": "page",
+     "text": "Blog Terminal-Bench 2.0: Raising the bar for AI agent evaluation"
+    },
+    {
+     "url": "https://snorkel.ai/data-development/",
+     "kind": "page",
+     "text": "Overview Expert-curated datasets for frontier AI"
+    },
+    {
+     "url": "https://snorkel.ai/how-it-works/",
+     "kind": "page",
+     "text": "Research-led data and environment development for the frontier's hardest problems Learn more"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/",
+     "kind": "page",
+     "text": "Leaderboards Compare model performance across benchmarks"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=agentic-coding",
+     "kind": "page",
+     "text": "Agentic Coding"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=capability-efficiency",
+     "kind": "page",
+     "text": "Capability/Efficiency"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=computer-use",
+     "kind": "page",
+     "text": "Computer Use"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=enterprise-environments",
+     "kind": "page",
+     "text": "Enterprise Environments"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=knowledge-work",
+     "kind": "page",
+     "text": "Knowledge Work"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=scientific-research-workflows",
+     "kind": "page",
+     "text": "Science & Research"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=software-engineering",
+     "kind": "page",
+     "text": "Software Engineering"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agentic-coding-2/",
+     "kind": "page",
+     "text": "Agentic Coding Agentic Coding 2.0 Evaluating whether coding agents can plan, execute, verify, and recover across complex"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+     "kind": "page",
+     "text": "Knowledge Work Agents\u2019 Last Exam Evaluating AI agents on long-horizon, economically valuable professional workflows with"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/category/agenticcoding/",
+     "kind": "page",
+     "text": "Benchmark Agentic coding benchmark: Evaluating AI models on complex, real-world coding tasks"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+     "kind": "page",
+     "text": "Capability/Efficiency Continual Learning Bench Measures improvement across sequential, stateful tasks. By Agg. Reward1So"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
+     "kind": "page",
+     "text": "Software Engineering LibraryDesignBench Measures how well AI agents design libraries that other agents can use. Pass Rat"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
+     "kind": "page",
+     "text": "Computer Use OSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. By Binary Accuracy (500 steps)1Opu"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
+     "kind": "page",
+     "text": "Software Engineering Senior SWE-bench Evaluates coding agents on senior-level software engineering tasks. Tasteful Solve"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+     "kind": "page",
+     "text": "Software Engineering SlopCode Bench Measures coding-agent performance across evolving software requirements. By Iso Solv"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-finance-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelFinance 2.0 Evaluates financial workflows requiring evidence gathering, analysis, and com"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelLegal Evaluates legal workflows requiring evidence, procedure, authority, and action. By "
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelManufacturing Evaluates manufacturing decisions using fragmented plant-floor, engineering"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelRevOps Evaluates revenue-operations workflows involving systems, controls, and business-s"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelUnderwrite 2.0 Evaluates auditable insurance underwriting decisions using incomplete, dis"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
+     "kind": "page",
+     "text": "Software Engineering SWE-bench CLI Evaluates validated multi-file code changes in open-source repositories. By pass@11Op"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 3.0 Evaluates terminal agents on containerized tasks across seven domains. By Resolution R"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+     "kind": "page",
+     "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+     "kind": "page",
+     "text": "Knowledge Work WorkplaceAgents Evaluates AI agents on economically valuable professional work and verifiable workplace d"
+    },
+    {
+     "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
+     "kind": "page",
+     "text": "Request dataset samples"
+    }
+   ]
+  },
+  {
+   "host": "support.snorkel.ai",
+   "status": "ok",
+   "url": "https://customer.support.snorkel.ai/servicedesk/customer/user/login?destination=portals",
+   "title": "Jira Service Management",
+   "links": []
+  },
+  {
+   "host": "www.snorkel.ai",
+   "status": "ok",
+   "url": "https://snorkel.ai/",
+   "title": "Expert data development for frontier AI | Snorkel AI",
+   "links": [
+    {
+     "url": "http://frontierdatasummit.ai",
+     "kind": "page",
+     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
+    },
+    {
+     "url": "https://arxiv.org/abs/2602.00456",
+     "kind": "hosted",
+     "text": "Domain AgentsBenchmarking Agents in Insurance UnderwritingEnvironment-first benchmarking for agents in a genuinely high-"
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.01375",
+     "kind": "hosted",
+     "text": "Evaluation ResearchRIFT: Rubric Failure Mode TaxonomyA diagnostic framework for when AI evaluation rubrics break down."
+    },
+    {
+     "url": "https://arxiv.org/abs/2604.18381",
+     "kind": "hosted",
+     "text": "NewRL ResearchRLVR in Low Data & Compute RegimesBetter data beats more compute \u2014 measured across low-resource settings."
+    },
+    {
+     "url": "https://arxiv.org/abs/2606.05405",
+     "kind": "hosted",
+     "text": "Research Paper Agents' Last Exam: Challenge and measure AI agents on economically valuable and real-world tasks"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/",
+     "kind": "page",
+     "text": "Open Benchmarks Grants Funding for open-source AI research"
+    },
+    {
+     "url": "https://leaderboard.snorkel.ai/",
+     "kind": "page",
+     "text": "Leaderboards (opens in a new tab)"
+    },
+    {
+     "url": "https://s46486.pcdn.co/wp-content/uploads/2022/01/OSWorld2.0.pdf",
+     "kind": "file",
+     "text": "Research Paper OSWORLD 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks"
+    },
+    {
+     "url": "https://snorkel.ai/blog/chat-with-the-terminal-bench-team/",
+     "kind": "page",
+     "text": "Blog Terminal-Bench 2.0: Raising the bar for AI agent evaluation"
+    },
+    {
+     "url": "https://snorkel.ai/data-development/",
+     "kind": "page",
+     "text": "Overview Expert-curated datasets for frontier AI"
+    },
+    {
+     "url": "https://snorkel.ai/how-it-works/",
+     "kind": "page",
+     "text": "Research-led data and environment development for the frontier's hardest problems Learn more"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/",
+     "kind": "page",
+     "text": "Leaderboards Compare model performance across benchmarks"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=agentic-coding",
+     "kind": "page",
+     "text": "Agentic Coding"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=capability-efficiency",
+     "kind": "page",
+     "text": "Capability/Efficiency"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=computer-use",
+     "kind": "page",
+     "text": "Computer Use"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=enterprise-environments",
+     "kind": "page",
+     "text": "Enterprise Environments"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=knowledge-work",
+     "kind": "page",
+     "text": "Knowledge Work"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=scientific-research-workflows",
+     "kind": "page",
+     "text": "Science & Research"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/?topic=software-engineering",
+     "kind": "page",
+     "text": "Software Engineering"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agentic-coding-2/",
+     "kind": "page",
+     "text": "Agentic Coding Agentic Coding 2.0 Evaluating whether coding agents can plan, execute, verify, and recover across complex"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+     "kind": "page",
+     "text": "Knowledge Work Agents\u2019 Last Exam Evaluating AI agents on long-horizon, economically valuable professional workflows with"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/category/agenticcoding/",
+     "kind": "page",
+     "text": "Benchmark Agentic coding benchmark: Evaluating AI models on complex, real-world coding tasks"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+     "kind": "page",
+     "text": "Capability/Efficiency Continual Learning Bench Measures improvement across sequential, stateful tasks. By Agg. Reward1So"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
+     "kind": "page",
+     "text": "Software Engineering LibraryDesignBench Measures how well AI agents design libraries that other agents can use. Pass Rat"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
+     "kind": "page",
+     "text": "Computer Use OSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. By Binary Accuracy (500 steps)1Opu"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
+     "kind": "page",
+     "text": "Software Engineering Senior SWE-bench Evaluates coding agents on senior-level software engineering tasks. Tasteful Solve"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+     "kind": "page",
+     "text": "Software Engineering SlopCode Bench Measures coding-agent performance across evolving software requirements. By Iso Solv"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-finance-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelFinance 2.0 Evaluates financial workflows requiring evidence gathering, analysis, and com"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelLegal Evaluates legal workflows requiring evidence, procedure, authority, and action. By "
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelManufacturing Evaluates manufacturing decisions using fragmented plant-floor, engineering"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelRevOps Evaluates revenue-operations workflows involving systems, controls, and business-s"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+     "kind": "page",
+     "text": "Enterprise Environments SnorkelUnderwrite 2.0 Evaluates auditable insurance underwriting decisions using incomplete, dis"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
+     "kind": "page",
+     "text": "Software Engineering SWE-bench CLI Evaluates validated multi-file code changes in open-source repositories. By pass@11Op"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 3.0 Evaluates terminal agents on containerized tasks across seven domains. By Resolution R"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+     "kind": "page",
+     "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+     "kind": "page",
+     "text": "Knowledge Work WorkplaceAgents Evaluates AI agents on economically valuable professional work and verifiable workplace d"
+    },
+    {
+     "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
+     "kind": "page",
+     "text": "Request dataset samples"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://snorkel.ai/blog/stanford-professor-discusses-exciting-advances-in-foundation-model-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/how-mlcommons-is-democratizing-data-with-public-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/dataset-cartography-a-data-science-lesson-from-capital-one/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/edited-dataperf-benchmarks-for-data-vijay-janapa-reddi/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/new-benchmark-results-demonstrate-value-of-snorkel-ai-approach-to-llm-alignment/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/how-snorkel-topped-the-alpacaeval-leaderboard-and-why-we-re-not-there-anymore/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/which-is-better-retrieval-augmentation-rag-or-fine-tuning-both/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/how-to-build-production-grade-rag-retrieval-with-snorkel-flow/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/retrieval-augmented-generation-s-rag-a-conversation-with-its-creator/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/crfm-s-helm-and-enterprise-llm-evaluation-beyond-accuracy/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/generative-ai-evluation-genai-evaluation-suite-snorkel-flow-2024-r3/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/how-data-slices-transform-enterprise-llm-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/long-context-models-in-the-enterprise-benchmarks-and-beyond/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/retrieval-augmented-generation-rag-failure-modes-and-how-to-fix-them/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/call-center-ai-a-new-efficient-frontier-in-customer-experience-management-with-snorkel-ai-a-case-study/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/snorkel-teams-with-microsoft-to-showcase-new-ai-research-at-nvidia-gtc/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/10-ks-information-extraction-case-studies/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/building-better-datasets-with-snorkel-flow-error-analysis/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/large-language-models/rag-retrieval-augmented-generation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/what-is-specialized-genai-evaluation-and-why-is-it-so-critical-to-enterprise-ai/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/why-genai-evaluation-requires-fine-grained-metrics-to-be-insightful/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/why-genai-evaluation-requires-sme-in-the-loop-for-validation-and-trust/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/llm-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/genentech-clinical-trial-analytics-case-study/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/evaluating-ai-agents-for-insurance-underwriting/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/parsing-isnt-neutral-why-evaluation-choices-matter/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/snorkeling-in-rl-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/2026-the-year-of-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/benchtalks-alex-shaw-terminal-bench-harbor-building-the-benchmark-factory/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/introducing-the-snorkel-agentic-coding-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/benchmarks-should-shape-frontier-not-just-measure-it/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/collaborative-gym-a-framework-for-enabling-and-evaluating-human-agent-collaboration/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/judgment-bench-comparing-rubric-and-preference-evaluation-for-quality-assessment-legal-ai/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/closing-the-evaluation-gap-agentic-ai-alex-ratner/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/building-the-benchmark-inside-our-agentic-insurance-underwriting-dataset/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/terminal-bench-2-0-raising-the-bar-for-ai-agent-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/closing-the-evaluation-gap-in-agentic-ai/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/senior-swe-bench-evaluating-coding-agents-like-senior-engineers/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/building-finqa-an-open-rl-environment-for-financial-reasoning-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/coding-agents-evals/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/cua-bench-benchmarking-computer-use-agents-on-professional-software/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/the-art-and-science-of-building-benchmarks-that-shape-the-field/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/long-horizon-ai-agent-evaluation-training/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/enterprise-environments-ai-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/evaluating-coding-agent-capabilities-with-terminal-bench-snorkels-role-in-building-the-next-generation-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/opus-5-5-vs-opus-5-vs-fable-5-1-coding-benchmark-results/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/rl-environments-for-llm-agents-design-rewards-and-validation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/fable-5-1-vs-opus-5-coding-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/snorkel-custom-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/free-llm-evaluation-terms-and-conditions/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/category/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/data-series/enterprise-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/agentic-coding-benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/physion-evaluating-physical-prediction-from-vision-in-humans-and-machines/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/reasoning-over-public-and-private-data-in-retrieval-based-systems/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/inspect-a-multimodal-dataset-for-pulmonary-embolism-diagnosis-and-prognosis/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/resonant-anomaly-detection-with-multiple-reference-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/nas-bench-360-benchmarking-neural-architecture-search-on-diverse-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/datacomp-in-search-of-the-next-generation-of-multimodal-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/medalign-a-clinician-generated-dataset-for-instruction-following-with-electronic-medical-records/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/ehrshot-an-ehr-benchmark-for-few-shot-evaluation-of-foundation-models/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluation-of-domain-generalization-and-adaptation-on-improving-model-robustness-to-temporal-dataset-shift-in-clinical-medicine/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/fairness-via-explanation-quality-evaluating-disparities-in-the-quality-of-post-hoc-explanations/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluation-of-feature-selection-methods-for-preserving-machine-learning-performance-in-the-presence-of-temporal-dataset-shift-in-clinical-medicine/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/anomaly-detection-with-multiple-reference-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/autows-bench-101-benchmarking-automated-weak-supervision-with-100-labels/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/dataset-debt-in-biomedical-language-modeling/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/systematic-review-of-approaches-to-preserve-machine-learning-performance-in-the-presence-of-temporal-dataset-shift-in-clinical-medicine/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/mandoline-model-evaluation-under-distribution-shift/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/wrench-a-comprehensive-benchmark-for-weak-supervision/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/snorkel-drybell-a-case-study-in-deploying-weak-supervision-at-industrial-scale/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/a-systematic-review-of-testing-and-evaluation-of-healthcare-applications-of-large-language-models-llms/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/learning-to-generate-instruction-tuning-datasets-for-zero-shot-task-adaptation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/planetarium-a-rigorous-benchmark-for-translating-text-to-structured-planning-languages/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/promptsource-an-integrated-development-environment-and-repository-for-natural-language-prompts/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/wonderbreada-benchmark-for-evaluating-multimodal-foundation-models-on-business-process-management-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/terminal-bench-benchmarking-agents-on-hard-realistic-tasks-in-command-line-interfaces/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluating-language-model-context-windows-a-working-memory-test-and-inference-time-correction/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/automating-benchmark-design/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/liveresearchbench-a-live-benchmark-for-user-centric-deep-research-in-the-wild/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/care-confounder-aware-aggregation-for-reliable-llm-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/benchmarking-agents-in-insurance-underwriting-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/theoretical-physics-benchmark-tpbench-a-dataset-and-study-of-ai-reasoning-capabilities-in-theoretical-physics/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/slopcodebench-benchmarking-how-coding-agents-degrade-over-long-horizon-iterative-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/continual-learning-bench-evaluating-frontier-ai-systems-in-real-world-stateful-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/judgmentbench-comparing-rubric-and-preference-evaluation-for-quality-assessment/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluating-sample-utility-for-efficient-data-selection-by-mimicking-model-weights/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/customer-story/how-rox-achieved-99-accuracy-with-snorkel-evaluate/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/webinar/how-to-evaluate-llm-accuracy-for-domain-specific-use-cases/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/webinar/evaluating-enterprise-genai-apps-with-snorkel-fast-actionable-and-aligned/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-sequences/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-graph/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-underwrite/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-wordle/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-spatial/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/finance-reasoning/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-finance/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/agentic-coding/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/digital-work-index/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-finance-2-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/agentic-coding-2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/judgmentbench-rubric-vs-preference-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/cua-bench-computer-use-agent-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/intelligence-per-watt-ai-efficiency-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/paperbench-ai-research-replication-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/agentic-coding/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/capability-efficiency/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/computer-use/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/enterprise-environments/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/knowledge-work/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/scientific-research-workflows/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_domains/software-engineering/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/benchmark_attributes/proprietary/",
+   "kind": "page"
+  }
+ ]
+}

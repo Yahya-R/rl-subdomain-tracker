@@ -1,0 +1,672 @@
+{
+ "domain": "quesma.com",
+ "live_hosts": 11,
+ "pages": [
+  {
+   "host": "api.quesma.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.charts.quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  },
+  {
+   "host": "app.quesma.com",
+   "status": "ok",
+   "url": "https://app.quesma.com/",
+   "title": "Agent Statements \u2014 Quesma",
+   "links": []
+  },
+  {
+   "host": "auth.app.quesma.com",
+   "status": "ok",
+   "url": "https://auth.app.quesma.com/?client_id=client_01M2FW3ADK31GPZ7X6VNW97MND&redirect_uri=https%3A%2F%2Fapp.quesma.com%2Foauth2%2Fcallback&state=kHNX2a7Zzb2asBOLIjcABwiA2zwdQHphlN5OB5CDNoc&authorization_session_id=01M4A6YP2G7F0DDXCN2KP5ZTRM",
+   "title": "Sign in",
+   "links": []
+  },
+  {
+   "host": "auth0.quesma.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "charts.quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  },
+  {
+   "host": "docs.quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  },
+  {
+   "host": "eap.quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  },
+  {
+   "host": "licensing.quesma.com",
+   "status": "no response"
+  },
+  {
+   "host": "quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  },
+  {
+   "host": "www.quesma.com",
+   "status": "ok",
+   "url": "https://quesma.com/",
+   "title": "AI Coding Agent Analytics & Cost Intelligence | QuesmaGitHubX",
+   "links": [
+    {
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "kind": "page",
+     "text": "OpenAI-cited researchOpenAI cited our Baba Is Bench work while examining what makes agent evaluations succeed.Read the c"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
+     "url": "https://quesma.com/benchmarks/binaryaudit/",
+     "kind": "page",
+     "text": "BinaryAuditCan coding agents find backdoors in compiled binaries using Ghidra and radare2?"
+    },
+    {
+     "url": "https://quesma.com/blog/verifying-blitzy-swe-bench-pro/",
+     "kind": "page",
+     "text": "Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final "
+    },
+    {
+     "url": "https://www.frontierbench.ai/contributors",
+     "kind": "page",
+     "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://quesma.com/benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/babaisbench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/claude-haiku-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/claude-opus-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/claude-opus-4.6/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/claude-sonnet-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/claude-sonnet-4/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/deepseek-v3.2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gemini-2.5-pro/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gemini-3-flash-preview/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gemini-3-pro-preview/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gemini-3.1-pro-preview/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/glm-4.7/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/glm-5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.2-codex-high/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.2-codex-xhigh/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.2-codex/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.3-codex-high/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.3-codex-xhigh/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.3-codex/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.4-high/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.4-xhigh/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5.4/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/gpt-5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/grok-4.1-fast/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/grok-4/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/models/kimi-k2.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-execvp-obfuscated/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-negative/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-negative2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-obfuscated/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-posix-spawn-obfuscated/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-posix-spawn/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-printf/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-syscall-obfuscated/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect-syscall/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dnsmasq-backdoor-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dropbear-brokenauth-detect-negative/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dropbear-brokenauth-detect-negative2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dropbear-brokenauth-detect-nologline/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dropbear-brokenauth-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/dropbear-brokenauth2-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/ghidra-decompile-pyghidra-jq/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/ghidra-decompile-pyghidra/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/ghidra-decompile-vanilla-jq/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/ghidra-decompile-vanilla/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-detect-negative/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-detect-negative2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-detect-open/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-detect-proc-obfuscated/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-multiple-arch-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-backdoor-multiple-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/lighttpd-timebomb-multiple-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/radare2-decompile-jq/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/radare2-decompile/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/sozu-backdoor-detect-negative/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/sozu-backdoor-detect-negative2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/sozu-backdoor-multiple-arch-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/sozu-backdoor-multiple-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/binaryaudit/tasks/sozu-timebomb-multiple-binaries-detect/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/claude-haiku-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/claude-opus-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/claude-sonnet-4.5/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/deepseek-v3.2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gemini-3-flash-preview/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gemini-3-pro-preview/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/glm-4.7/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gpt-5.1-codex-max/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gpt-5.1/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gpt-5.2-codex/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/gpt-5.2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/grok-4.1-fast/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/grok-4/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/models/kimi-k2-thinking/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/cpp-advanced/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/cpp-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/cpp-simple/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/erlang-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-grpc-fix/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-microservices-logs/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-microservices-traces-simple/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-microservices-traces/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/go-workflow-tracing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/java-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/java-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/js-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/net-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/php-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/php-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/python-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/python-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/ruby-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/rust-distributed-context-propagation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/rust-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/benchmarks/otel/tasks/swift-microservices/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/clickhouse-pricing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/codex-pricing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/elastic-pricing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
+   "kind": "page"
+  },
+  {
+   "url": "https://quesma.com/blog/tau2-from-llm-benchmark-to-blueprint-for-testing-ai-agents/",
+   "kind": "page"
+  }
+ ]
+}

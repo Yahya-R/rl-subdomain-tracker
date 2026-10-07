@@ -1,0 +1,53 @@
+{
+ "domain": "mechanize.work",
+ "live_hosts": 5,
+ "pages": [
+  {
+   "host": "mdm.mechanize.work",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1709114499%3A1791344179720806&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=mvkgOEX2hfAfylgQVDWMEdsR3Bo21NKMYSu8xEhVU0o&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEsYojh2dZUGEt0t1OBzCDhkaMIDG3k1T78nKeLGHQkv2Bs3LubeHVgQRl_Fl2vSOAoTgZNV6bnHDii2mD9gSwEv2_uzAsZvBRawSuiKgY8B1OY2b637N1fAH06D4U9KGv9ZMcASSsQDeP5CkMulELn3dd6h1pWcXssqicjc7estAL4lKb36i_tKURGTE-LUwOBz0ox8ByovdS0PcjcqTSwh5Yy2gi3K8VgQAtK9YEO8muAZfSbCABlkoRlKd1pgBf6BJduEZnSRGCV-IZk3Hh8vRlCcITA8qdbi648bd04wV3CE3kLZQK4cPdnceqr0IgGP-_Ygak42XxzSub6jw0WpFrlZ3n2j7rqXgaAYXRwV2Vv2wJXGz5xWPZicAEJOn-HajZSPwPaqMMdcztIo3ysJ-D7hmb_mCb0dwilVZjx_9FN_ZGJ5xVd39_gbPISmGmBkRwqfGi8LH2LW3GlXgfyTp7QmfSz7D0atLUE0p6rm-nOb2K9ZRrE0rlSXdQXW6QYIVVYWNqgybr6JTCrzR1fGFqbSEOGW6T5JBr773d_r-mdcLAKqh6LHtkdnNZZPUw5mSZ-0YHj1cm2L-4PrFi8rmMjTPgw5seHBRxFK06yp5F8MAbdBd4q6GqBszQrj6lZyXuLchMR_6Onbk_0V-CU8-VlxB94SMYZ5r3ZYc1ackMIamY9CgJn-5O9QMgXfDLDXBtdezuRLo00t6iYV5AqfO02QOw-rw3T7n9sKeEDi7nTjUAKGKoe5WVmFc5s3iqBkAFE5EIkReE2t_sPy-x3nMIo4C7ckcIGzRrMsr1f9sjERFvBOUjV2h4zx-yTZaACJIrygps-e-XyMks4hIv3eVO5UcKYLV1UvhHsNfzEbJfghkIbphXwQ_LPAc9Val8BxcRjqH7rRL-J3GVddSAfNQSziIUMAhLrCp6bL2GfhH32mllmMrG7fzbhvEM3NIZnUgSaRA11NuGiumd1JL6HGFf9d-MCVOQf8z5FpctnX4WPR31R-v4ifbGlRjApu0x0WxvSm-wFPoWwumUnxIVbT5wiumLht4d0vvQOnjToyTf-LA9nswLxyfg8ManoGuJnn4BcDdH7oqHPkk8QGSd2w7qGr9WOsde3flOui8qa41jSzkEqVQXS15vcA&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOl1C5WCZCaX7nuZtTI1yTxREWnf88iRp-QbHxXzlir9ymbU4av4hVAXkHsPRiYirkqcnnsk8scJDcBdZt5XlkOQqHR0o-OP_e0YL0gO7al1-5GwMyfqVrw9nACdvGV4mKpqNQ9yTPpz1cYmHfHqn4nnQ4RZhWgivyxYF-pqS8qfISQN_LqOliFitFPEvuc1J0aNNUTExc0kMpZ0qNCTbSceeVb468f0Kiog6zGgP5MJz7c63viuCrRaRCba6uUvK-UpL-m_6U_eECYsWAk_I6gq2TBRG6-Eh4FRlE9lmxVeBR2p3149Z5aS6qxGgS26US6G0COj_yuXsJdbVb6dewSzr5W_ydZL_wtSjnulp7d12GrEgiEWUffoGrE9u31Sm7FZjRS4rB_ZJudYv5ax2P0L_D9tjlw9Ex8pt6wsT9EJpZLTGjqsJ9CCjXwhEWkg8lBHjkh9Yr1Z9ZAEscVsinK3feKPA%26flowName%3DGeneralOAuthFlow%26as%3DS-1709114499%253A1791344179720806%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdrDnolfw88aTT11_0_xwI4nquHN42gp0w6UyhDjF1N0ekdgc41dLiNlUjNf6z93z8GjGEPuYgo_GPlrOkBrwzRr3_I-WKc9ZO0GwOGNQdLUsUyEFw",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "mechanize.work",
+   "status": "ok",
+   "url": "https://www.mechanize.work/",
+   "title": "Mechanize, Inc.",
+   "links": [
+    {
+     "url": "https://gbaeval.com/",
+     "kind": "page",
+     "text": "view more here"
+    }
+   ]
+  },
+  {
+   "host": "pay.mechanize.work",
+   "status": "no response"
+  },
+  {
+   "host": "recruiting.mechanize.work",
+   "status": "no response"
+  },
+  {
+   "host": "www.mechanize.work",
+   "status": "ok",
+   "url": "https://www.mechanize.work/",
+   "title": "Mechanize, Inc.",
+   "links": [
+    {
+     "url": "https://gbaeval.com/",
+     "kind": "page",
+     "text": "view more here"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://www.mechanize.work/technical-blog/introducing-gba-eval/",
+   "kind": "page"
+  }
+ ]
+}

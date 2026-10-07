@@ -1,0 +1,87 @@
+{
+ "domain": "refresh.dev",
+ "live_hosts": 11,
+ "pages": [
+  {
+   "host": "api.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "auth.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "dev.api.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "dev.refresh.dev",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fdev.refresh.dev%252F%26nonce%3D9f1e0f5e97a5c1ff81044574087df607cb1b38505aeb727cd5f49a1e65a7a7fb",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "preview.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "refresh.dev",
+   "status": "ok",
+   "url": "https://refresh.dev/",
+   "title": "Refresh",
+   "links": [
+    {
+     "url": "https://refresh.dev/",
+     "kind": "page",
+     "text": "Explore our environments"
+    }
+   ]
+  },
+  {
+   "host": "staging.api.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "staging.refresh.dev",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.refresh.dev%252F%26nonce%3Dc9c09f1952d8838cd749e59fde5d658e8af0c4bd7fd8e9f0ed0aa8bd780264e7",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "traces.refresh.dev",
+   "status": "ok",
+   "url": "https://traces.refresh.dev/",
+   "title": "Refresh | Traces",
+   "links": []
+  },
+  {
+   "host": "trajectories.refresh.dev",
+   "status": "no response"
+  },
+  {
+   "host": "www.refresh.dev",
+   "status": "ok",
+   "url": "https://www.refresh.dev/",
+   "title": "Refresh",
+   "links": [
+    {
+     "url": "https://www.refresh.dev/",
+     "kind": "page",
+     "text": "Explore our environments"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://refresh.dev/one-pager",
+   "kind": "page"
+  },
+  {
+   "url": "https://refresh.dev/careers/research-engineer-benchmarking",
+   "kind": "page"
+  }
+ ]
+}

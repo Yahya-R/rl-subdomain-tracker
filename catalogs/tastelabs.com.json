@@ -1,0 +1,337 @@
+{
+ "domain": "tastelabs.com",
+ "live_hosts": 49,
+ "pages": [
+  {
+   "host": "api-portal.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.staging.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.symphony.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S1764485168%3A1791344623962648&client_id=296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com&code_challenge=0xdML4_IWZu3mXFuGD29ZfEWuCbmwEqQ88Ncs7o0Ll0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEfMGz2PT57OQEIhDUcfAdmc_f-oQTQGIEvoVwwdzb0_yzegx8Nwjb2FBBpxjJUkLuy1PK5q7c4HxlGbbJi-uPTs9hdj_QaYwg-L5jm3NyU6UMry_FypyKDe7eS2r5AHVsUnZ4ayW6gylrfK02PzysWKALt0TH1kwbK2BTIJepU9AjwbKhkJmbRLoqLfBlebxR-0VvQvmuRPUYUa1RSoZBTDFjf3pVrY5r8cGZd0aSQqDxvO9NtSk7TdasTNuYqWCi2EDKkd-gUgwwDfe2WK72c3tAcAjM7FJqaPAG9JHeCb8ILF9cHWwcNOkTscBGFsxvyMFObJy32yYJvJA2sgPSWm5fP-BugjQNjkN63uNlInLW191cby5pqj_uKDyCzc52BUU4P7_rt1wWsuB1vdl5qHTODrF_bhdSQHNVA5tTUJ_RvPW_TQO0lJN9yr1nr8YpPpyOUoId_1IJPB39GbHeYlTV4QRbH1KLzjCE7LgtHyvRtdoO_LKy8EAR7ckFh_DExueZ9Sf2qSis269uWKYuQKOSzslSOPCoroxs-iXnGjstASj2XjhyYsW7udfM4w7eIAAAQ7LCSCIfo9uum96yl6I-Ffv9ZIQRE1Kpp45khXYsj1oCwTBfC3Q1LHQsSik5siac4G0Gk8KLZ-cH6aov14msHrb0FK9N70HzMCfhrqQ9cMpbbsgDPI2THGp1OGQZkEVyGQdVPQe6R4EIxYF_Xzusoeg3Z0zAnuQCSEFRNNkh1aK06pxnXR7uZjRUOw-lGr5kS2i4cz8L0L3dBQZRMPO9bZ5CQfYLsFtnlUdHh4pdQuR2yDNvCZorMXGnQpTTGJifEg1bRw8uxPx57J8N7APwXTPTftwwjioUHDuiUGZL0pj5n7UOOa8KRE0q3J4I2yqJjJ-K68mQp3oCdcsyKwqsgjIetb8swMRzq94xXxV-5lMQow4231nt8Br_ueWOUHUE407-92qzlzs0MKaz5VYfAFXDlEfDMZFtda4EU_r1158c7mr4Knw2MwgqKkprW43k77wTrSGPqoXBZtE2oZ356IrM5dqH_6qMPCAfwd6yFtgqWKFatj_ooElRwtv6VUwcbxM8TO268Xfz6EqQl-wPm5fUAL9VZQ2AuWKqq4sNb3dd60vD&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPsEN2qy-f3jTOBXicjUQqUESKbM716LeesdV9EWHtt_xQ0iP7jDeYP9DiK7lrOLu03uVAj9-7R9Qp3_OHS9jQ_H1pR6gq9PnSFlBVLs38f-47TQrYuzz4nPT2ArghbpkfMXztDVT8C3froVGQQNq49WKrDutsByzlK2dToA2yYCBRf8PPUvwi2i61mccx7nuW6my5TEPCU9NR40XlTq5w4wmPbfgLOsaSTmjbvkmv3BXZnJTg4IP97NoGirswT47GvYKWemk4Udb-rUmFlUpP2EO_BmKe9-n-83HOx7Z66m7DzL-Rwv7E49fjV24cJx0ceCvZRuikn3KKzI5MTfYx9g58xU8iuVlo6G-d9hQ9jj-p1fcTsbrzLxzIkIg97NX9x0MPvUmklagOp6Wec452uKdW8x6Cs2zrG5z4Aoxdnv79cezEhq6E_OxrNs_C7Wh7oqKVFlZ1WuudLrN6CRB4pYyIDgQ%26flowName%3DGeneralOAuthFlow%26as%3DS1764485168%253A1791344623962648%26client_id%3D296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfHNmihr-7B2MSKhmR1gWUjTbhT6zPPGed6qzOgFbjhOOSvlNALy9TARns0kleNj6KKvUiBe46bArHoAy4d0UCp1yx5I_j-3wwL0QaF4bNM5yd7f94",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "api.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "apply.tastelabs.com",
+   "status": "ok",
+   "url": "https://apply.tastelabs.com/",
+   "title": "APPLY.TASTELABS.COM - A Dub Custom Domain | Dub",
+   "links": [
+    {
+     "url": "https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Footer&utm_campaign=apply.tastelabs.com&utm_content=Pricing",
+     "kind": "page",
+     "text": "Pricing"
+    },
+    {
+     "url": "https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Navbar&utm_campaign=apply.tastelabs.com&utm_content=Pricing",
+     "kind": "page",
+     "text": "Pricing"
+    },
+    {
+     "url": "https://github.com/dubinc/dub",
+     "kind": "hosted",
+     "text": "GitHub"
+    }
+   ]
+  },
+  {
+   "host": "auth.staging.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "engine.tastelabs.com",
+   "status": "ok",
+   "url": "https://engine.tastelabs.com/",
+   "title": "Taste Engine",
+   "links": []
+  },
+  {
+   "host": "goldenstone-preference.tastelabs.com",
+   "status": "ok",
+   "url": "https://goldenstone-preference.tastelabs.com/login",
+   "title": "GoldenStone",
+   "links": []
+  },
+  {
+   "host": "grafana.tastelabs.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "h.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "hdp-mcp.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "hdp.staging.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-451938959%3A1791344624107047&client_id=946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com&code_challenge=w65BxV11_f1WGHezAso3LD-z2jVBRltBfpjrBG45AKw&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEKEpHwZDwfFLZK2tBQVY5EEWyff90DAgaVTlSODsmDIpMlX3p1qDJ38pxPZeAM1nt9TYFT3cHDNnTjFcN_KvQ_52a2Q-45ASZkgauMcvfeBbiQqvmN2BJ-yg-6ULsPLFrLrzMYsEoToGbpqsm8wX9VHCkS9wOsTwQq9MWf2L0N59dF1znuxKAmkc5R-ENE6zByoZ9ii4Y4Fq5_qDVRWaabb3QLEk6gvp_uAMSSNZrdIwDkHRsXkqP_o9oJga5OltkmIW6YZpS1BMXqLltihRKHwhBik6xNG3BJ3kPSZxSE8YmMVCqpBRqqRRNh704hV1KRXxRJCxr5FuomZIOXF-m4OpGH-5FoE5DlkVInoB1cvRtq6Pcleu5rLDlshys_JSP9GKsrqhrjbI--CvAyd_XEDFeI0zx1lJ7CDjv0CdNuHe4N4GATGCUkiTrGMzL_kdFCKgrPiUD1ePYErW8H4WxcqS877TyboXqIdV9UKgKL4kIBbXQhiAsrGnY_pxjLXL8_XY69xt4yvtIryhsqWgOGNS5h5RWdt_3IjnelXQ4cW4Ou-tLE15cmms1OrqrWXOcYtJoycy-se95gT2AhPW9w1_ME2ue-nGxSx7KdUOCzyLayg4eq3Hs-Io6mcQwUT7YiOOiej-PYs4bSeDwRgRglPA2mSbRw6eZtzBjtI9NHDzM2H7GBaZz2wOw6kQ1rAdQfQ5PQ_aclKz6OR2_1Dj1Ij-MnnDCdIQgnVraJiR-19K_4VYsve-wvCGesZ9I9ogfXI1aoqjpLH2QEy45l8lResLYykygnjgTwBDqp3cSPuZonFtXzudshe76x98ehPna24nVfs0LHdLGxGPwF-Nd76ukzg0thIWkhdHVv6GnppPZx67o-Tup4_9K6TZSZW6IOXHlLBNR89Ohm3vRAPYEfTVXiiMR4dWr8rFIJzDoVF0kCA3zhdkoRPlBa0SiaSIQrzn86eqwYhYiI240Gn9dUdbH-BJGp9u2-2Topp_xYWjCi8y-aqF86wR0dDjQ5Y2UFNEa3_vyF3vTB6opLXz4aENreYxbu-s1I2odpYRlaxgrXWGQ_4ZzwowG25DkAf3ehc3mUst0QxSo1t5a8b_ULN1w5WQbqutT4YW-vG3I2aEpfx-mSxCIl-hLm-o15Raj6MvvoJvNoahu67CwX1sFl5N-M9QJnIo&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPc1xsNqfZ2gF9-1Y34Fui2RBNgOnEUUP7NJryaiFp_wGYz8682T0yDZdNO9i0dV69-uei0GeDhEwlIQ6U3NOi8LLb3UFT-dBtKD6R_awhmhs5F0w3qY3wMLRNiN5ct2MyeJINSpM1FlOZqESJ423pCjxs6IatbN_jA9Qwgs3oe9L0T6bQ7bSoMf6HmaKbBAZvFprHrSRK17-An1SfQFoz6M12Vj2DJG1crBn8HXeEWNAM9ipvL8j94FsxCaPc4oD3Ks8rMhWJwdC1Ku0lkGV_fP6cnlP6YhSHq8OPyq5FB0DkfX7MRanoTAXcOuQjKKd2nRaTaDcty-2aHegnKwrE3LvuiGDE3yQxUZgvwXkncmYn-NyZE0tP4vlICQ1MpZPCnGjfYd7FjAA846VuPO9fV650EG3T7Hn95QnQeQ9_ZxRjIajnbdh3vz3kevu6XdIs5RJRaXCe4naAcbbfimkMHc3IN-A%26flowName%3DGeneralOAuthFlow%26as%3DS-451938959%253A1791344624107047%26client_id%3D946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceHEd2qaWvJBItQYqb7nXee9FJuS4o20xMHFDmiM0tZNSUzbNpecOpw9Djb2cOkzAa457BreS6-yWqxU8H-gzCe2gA-gV-AdOkBVCiGgUp-OnfeaEM",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "hdp.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S739629877%3A1791344624190933&client_id=296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com&code_challenge=TWq9hWhQNLeZb9k93JeJpCROrIHKlN5kgPU3yEvEy4k&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREENJPqkLyEWtGjwNxFW8N_Zlnj8nKX6jMoAIoe3HcjiqQW8Rv-mEvCYg6aY9B9LQ3BFZLHsZnluqhdcf_nnoCKTBEotJas6jpHeeIqJ54dQanV1U297-DL8bGo_NxkxcJO48T5dPoOlm8tl-0iNKN_LLegMHQ2jE4tj7DCp213Jb0sAw7V9iap2VcPM-4b8M37DcSeU4kIj9n_oqDJYiH9lXgxXtdNTWCuyoZvowI0dBZ8_TYEdWOGQoUrUVFjeF7uJDHcHvYSMkfuM_2I1QPFpsbwpk_1geRTkG17NlRXnH4v-SwYcIWERD9cMJeropmSlaFCkxgWRv6SuHm8y160rhfepM5LWi8R2oG8lWqnWdIx17iks54po0p_TJ_kLxU1N55xdPrhQrEmxPrlviraFmNQQVCj2uwXpUEIhMghf8dJLSHDaoib5XUn6TdE7n917qs6qfOiwM91g8O9zXP3y82nMu9wlm60S4ZVxvsMK43juYxwPrqvODlul0VIO0Vp04DNo-dCsHipdWuWX4qZPBRtngy1qbotApYkBZ8tP5Hma9aCvdDn3hknKJc_BLHFIBSSr0E41DqLXbAGH3hZn3NUQvpDYvCLq2QizvUgk0H9znMsBRxO9gn3urTsejObxWhovkaql2gW3FIAYJaZ1ICeOqRMT_wfENSDUss0lz8F6XW_8f1j3EwWYujRBdoo_vTW2CykO-4GgIz_MmXu-85o9IPtVMRGDLhBiRK9xzUfM5yMWIjCvCqaFcmWTMQTKqj5e5bYzpl1BwdFoYuAu2Gyuh3pblS61LukQtcYC9DvDJVzhDsR-3gGozwllHwg0U8Okvkf9XHsVvQXpkrX4PcNI6Y-5CppkdeeY9rvzifuvuyUfvh2JAO9qet6h2WUofOJmhG5qOsJr8yxO1xiNsBb1QfonnWKl5ZitnlljxZKT0nMtvAesYMFY3bZ77mtzzmuDZSXIcpTZifrBYMYLb3km8kxo4Iu8rftJDm8cZpLpumdlGzZjmAX6pyS7_8ZVCGmuUHfn9l26WunbFvTyMfaXWOSSH8shNTNvfn6UlvZzV-OGsHJuBGJIJw0I8_jhelLy1ezKUVj6QYzEHByjX-tKxDEp_tulM0V7RdNxIpM3Yno2Iy4&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMiMEyRUpY3WVQ2PAnvNIrHKz2ALWG7ZGZ3ni1H6Y-V0vhHbfRf2OKp3lFKT0H6ilawtagUdNk_UMKWYAqXKMGrJgPRXyOSfsxOPNsccgP1VNmwKKijPeWgShLbroUhBPiTDdplrfmvsdaqrKYuaJTcgi9l6u33T6uyzHAE3TVuyZy3jcowDOu3JItVUeZfp-t_-GV-4ZVbGnOZ85v5mxQ6Ry2X8jSinoX8skS2kO56Cd1aIAlaZbM8ZsDL8UKkfFawC7VnBzTpsVpeIEyzNZaUUxovEra07Ola_o56FIEzdpPYnOs3gNHvi2jMc-OiHqbP-VuwisJFaFI96w2LzvaGzRiNU1jiJQTkRMNbMuPJz_Vci_gALSJ50M1xbvS7Mbvpc74TI4842SmTb_PwwjlXwDcJ8b90jvWMFaERXe9njUxnhITLcxNVlNBhgJSdHtQz6jC8lhDu6ROXkwqzl1qa7tXLmQ%26flowName%3DGeneralOAuthFlow%26as%3DS739629877%253A1791344624190933%26client_id%3D296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceznru9pu4S9pZi5ASGS5LyuqK0MoQ969HHRc1K_uicOaKJGeCOWnJ6iXIlUiGL2QNr1PFzqrjBCTACuJIh24UNey5K58Il8BmTO36Qrh8791zfF2M",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "hfi-summer.tastelabs.com",
+   "status": "ok",
+   "url": "https://hfi-summer.tastelabs.com/",
+   "title": "HFI Summer",
+   "links": []
+  },
+  {
+   "host": "index.engine.tastelabs.com",
+   "status": "ok",
+   "url": "https://tasteai.cloudflareaccess.com/cdn-cgi/access/login/index.engine.tastelabs.com?kid=5884a78d45423e56495fd91fa5a069110d26fbc76e24c89970604a146c941366&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRiZGU3OTVlMjA5OGIzY2FlMDEzNGJiZjJlYjNiYThkNjI4YWNhZTEwYjJiYTgzMjUwNDRiOGFiYWMwNjljODIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU4ODRhNzhkNDU0MjNlNTY0OTVmZDkxZmE1YTA2OTExMGQyNmZiYzc2ZTI0Yzg5OTcwNjA0YTE0NmM5NDEzNjYiLCJob3N0bmFtZSI6ImluZGV4LmVuZ2luZS50YXN0ZWxhYnMuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5MjQsIm5iZiI6MTc5MTM0NDYyNCwiaWF0IjoxNzkxMzQ0NjI0LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOGQwZTRjODI2ZjYyNjYyNmRhMTJkNGI2MGEyYjg2NzA0MWI3NzM2MTY4YTAzY2ExZGQ1MTAyMmY0M2M0YjE1MSJ9.IqhUmuBb2OgqgdCk2HcdH37dyxkDW_Xuk483Leilm17f5zXxu0b0mhEI9LNT6jeyA3T6SYQhICGwpKrnOgeOFAKmkm4huSgASxPiLiwwjc6D3BZY-70RXsLtD_2mfhs_p_SkmX-hgw4U-jFlRot_sHG8ZUL1IZ_iZKHshQ_DUEsJFZr4Mfny_5vhO5arCC3rMAxH4SHYC6bnR3OIPN2LkoudkEXxPMgV5lU8nd-UIEdtHYFbKCHkHUsKgNWPrefD0NuAptcw7QPHgwMPkqlzMSWY66HcWCcLadt3hi7Mdc-H9oPUKNGgFbp7JlWr43Feb0TWWWMDTgXhaGc__yKSIQ&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "ingest.webapp-capture-api.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "judge.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1996279730%3A1791344624614446&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=YmF5fnVF_MY9eThjovVrlgVZsid6F7wtzBy9W3Ut-Bo&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE1YcPiYZ-DalQ1CPHakNSpjZXNxQXblFkR1QHbHJ7kG7OwgUbkfTh5ZQVcXbO4BA0Fau2vca-5wIEo52ZGFUYy0IZW-Azz_Y137rehnwLxbNG-P-dEfzo1_cCDfoFw8c10yxDxMI2KkxxFnNV-qp5mkwKft2fWXJTCfnjey_s966wbwdJxNRkDLJBm9cNUzeyBsZR_iKGiNJ97QmX1DWpHYwARXHHOCKE07QCxMlw0JKed92JI7iH7WePLWvrgFEUQ00Ta5qkPkca2zLDk9BjrdCyxD8o7B-InPerFxvbmMAtcaKGfgqrdWDBHNTmzaoS2fpkETURTy0P2DmcDdMCkyYmjJwKUu_1YdijT05kRMlCuW4AcOPAk57gUQ1XWhZOVbjGaIHVpjOGGI9Fo9ALqAT5k_sbSG_7tBhsYmSHG4zl5A9gG_wV80ZDLhDzPiQQ0nVptmp41vXewI6hciv-g0a8COzWNnAaF4-2G-11CPpJLp4pTJRJRu6lg7UjFzcNYg1T_sQbmvcuhsfKVdRXYiAZlE_rUJLb6nIpjRwapZ5W5RdvAOXO9xGXMqSmJuiAB6slms12fMs8zbTlpolbrRYluBHqSyxpFwncAEQWlMb7N__a8L8tiNRi1t0FeOUMQs47_H1S5W0fpdfvNKu0W07Aa7eN4sMvMUPbCeaxQeTtPA_8y5q_WPAL0nBEW-Vz5lkfW4D3_ZL2wsMxQU7vXkhLyF97NJUzn6bwguSQ3l2R8B8UYV1BXHg7n2snN8jkozreP3hSzX3RmK3JLW81K8AX3f-sY2__0b85hbmvF-3h2Zu8bziAnb2MAtDzc8LrjLX1KNYyJc5YB7hVykRM7t729_AhStqD6bpP10cP6VpGUmkQgp6EujymB-NtQl5yniKjnkEZl_cx-WaFyL6ZW__YyF1GMhkMWiLJMgkeFEKvu4PwPATH7tVankwOzpfvNYfCPnUDwHc7Lu1qbr8pXAoraCEG9RZAltaSSmGrtXLrfydFiWzLST6FqqHHAWbhkdT7XEIIsJxVwsV4gpmpw7ru08HLVmg3JamiYMsSvD6OfYRu1A3L4Ni1jaoThRwCu4AxQEkcpdG-FJu7SQn1wbCMQDU7WWgKqXDYEPCk1vx-vGLpNR1oc9Fohtg93Ss&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO5LMnbyN5wYOu19KuxE3wRFx42vP2qhA8tuNNualEND-GQkSRUuBBE3qDC0TaEBhW9q9zHGDN2UeojqImDxUdEWNqMCsz9XCIcEI8s7cZP0ONh9L2skMIqAZN85KEAesFWBO-GbJ3eBirOtb4LPXWemp8fHVNyKkOi9XHKM-JwfiLY1_p0zL1RcvYDvhx-9eRefEOV7Id2cetX8zoemfeneXivofMvMCKef_ct2_N2HF-s9f1Vd4hETDnKijLN8H6w8An53mZiYeeaILJTL_xV75xQMOpGMfF3An-E0RDM4NogFrmDlKewLPUPaeIbHQba7Jw9xN8XU-XggtzcxnXk9LoF6RLrO6r9P8SooJ_RDxXWIS_tfpt-Tp88pXdL-8nA6_SxW-Tcsz-3So9xkCHVq8QyqEZ-d_Pk2FOl75aS7TtUusah_6yK39lJxkpunBW0TFOBB2ERcVvXR4lkapENGomJQQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1996279730%253A1791344624614446%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfG1KR-hKlwPXyneBCSOmvnoDlNQr79AmQ3Y5aTWa7ScvC9iTsmhbX0NS8a6KoZL89VtCQLF9gSTgu3XVHfmwE4kSl6kunROoa-hVJQTHQN_HFPLw8",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "links.recruiting.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "metabase.tastelabs.com",
+   "status": "ok",
+   "url": "https://metabase.tastelabs.com/",
+   "title": "Metabase",
+   "links": []
+  },
+  {
+   "host": "portal.tastelabs.com",
+   "status": "ok",
+   "url": "https://portal.tastelabs.com/",
+   "title": "Taste Makers | Taste",
+   "links": []
+  },
+  {
+   "host": "preview.rle.staging.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "preview.rle.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "proxy.staging.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "proxy.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "r2.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "reports.tastelabs.com",
+   "status": "ok",
+   "url": "https://reports.tastelabs.com/",
+   "title": "Launch Sentiment \u00b7 Taste",
+   "links": []
+  },
+  {
+   "host": "rle.staging.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S555896427%3A1791344625426618&client_id=946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com&code_challenge=C58JVMFaWoSdoaPWn4FMNzLtelBJmTmvYx0sf6PsbfU&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE3HY0Ep-SaJfnFwUTqeu7S8_0NSfMAI32m1CjcygBPRJQcSy6mudNWgH8M7nHQJqMlIVw9XJJ_gnPnNEKTXuEV39lwXupHSJS4updgq1YCTi9CjuEHq2B30hj8xzo6yhJdM0KuBQiLCuc-j2Yr999XdXvbYsyOhEMJBjf16k9BKWctMq_UygL6l8dswCSJGq5tJZ1je69fPrxL8k9fTvQKG4B5ZRShVChHWwfTnlkWjLKa3AX4zim9MWY4esOB0dfjIciq0FB-LoujBNC4l-kLjdhoCaxlDLsgKpH7raC3VdUT4uYUvMma78fQ3RB1STmL70wC95SgiJrs5lTCw5-krnDmajCsC8Qg_RPFkvey4HAvW5igderbjYv-wPNhbBLeqHF7OiAK77GOnBYiOSEIIJ6PUFfFJvEePDXuwC08Y7UbXqbHyrb550JbcsNkYXHT-SCJP-gu05_GKR96lNCE_BdEeEpXf_-ziCczxANVeSjOuO-4Y24OddKRyDdj3LR39AdUfqD2PAUCfL3DcKe6JozcEZDWb7MXHXibcwGrNs0XEXoo6nqIB0Cye0Y_AVkVBjfr4vkLj1a5tlaqijqQD8HaXkz8kSKTXePVVdNtfgtO8amQfyJsg2W_FOtvxw5VEh2rwEJsRiYiD6MSI8F-EZhBya6y993zRJEVBqTPqT82S_mPJeQv0mcZR0atXGzNpKY1FOqGTB-xq3apTeM8As1vhIl5T_Vjte2gc3fhjhwRYBXDEqhwiW79PMAJNBxNeQ2969DxGUzCdkPAhh7OqP4CmMJscnFyKLQk47Z9pXLYILo6LT6ZuW5ziOkI2ukDCpjRHQK1HJduLvExF4YJ2eEObgemuiRoCGPjv1aOQH1rHzD5ZMZtdw9vf4okRHLEYWt9Vwl3jNo5Uu6uJlppbJxYUf2bqFtKBcJa2eNG6gR3ZaoLCF2rIDAVc0KZCLobJI0vx8jp16s8PAf_MwwJa-wcei81HmRkKpt5xEwhUgHeP8X3AZ2sictpd1nyWOfvIErZSqGA-oBGz2or8ckxRbbudvLQEOwQ_D88xR2iW36S8115A_-Y2ZWusPgOQFNQKAEpVOfw_LKvxgVz-m6uO7O6copPpEIYXoNlYZO0cRCwS3b0EErJZNzpCIgRiWEC5hmsJNSR9cuTAnqiHNb2si9CHBGouA&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOWs4RosYrUuu8VIor8Sf2qNHfChC2N-94M3Q2wQU36RaJvx2lzKJ8HmvHoD1ABLMpU9Dfxc6zU48fwEFv68U56SmKhB1v0TlYLK7orwQs7gXw88GxlCUmThyu2FqetQ9SjWYGEFaprg5EiS3CcoX8OjXJCUgK8uTtAs-xKnMi9xn44YZzHjbN6NhYPM667doBgeAyzLbOFt7im_USXCZAp54Ixwt7CdyqNycDh0R_YxCigPTTebHXjZ9UPMmZ8RPNgVD_oZTRiZGHsLr9xliRL1_aKt2A5OnWdGh4o-2lBRmkTa8aTyzIx0l6KvjngbP3fJke40bG9wPfteePhdLfrN6FIMPl4HXdUm1kKQUBY547HDPT2Q3KmTxWOJRVZSNAZT79UODShIS7h4-BUZiBjnnvW2bLkZQeOiAat9bYOsy8C1m2XsTFoAPkdV_4szYLFONT8U0yLmeA7hI2zS6qyKtoB3g%26flowName%3DGeneralOAuthFlow%26as%3DS555896427%253A1791344625426618%26client_id%3D946373695592-aqhn30ogcj48i83da5jreelr8og55s77.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfqfwd9Ax_IQizHXom26ReNiP7rHUVPE3zVjF9Z4ml03KHzHvM0UW8YG_hQuKF0bVmWvSy0hH3GTLSoxGHMyyk9PDa2zQgUPrGy--uN5LlJt_Q1MH0",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "rle.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1758264036%3A1791344625404146&client_id=296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com&code_challenge=eDTzkEl8hQGXshYuO-xHL7c-YI4wyL-9O7yhOnkPUho&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREECePMHgu_9V1RdWkleqP4j-YW7zn0H0mxfOZC_JdHj8dLr4py2bCAgLIjAJpOCP_NFIChwi6WTnXlYvqW4Dax3GQCBZabW39E7IyELj6UYVFLtdI1yBRXP31bc_NVNBwQCWk75jJhHNzEDurLaEOx0zxMMIUUp80j7eQRjMl0spxcitAZXW8uwN7-_qy6DsHPOtGRrWsdM0ZuTUbNKQxSebKffUJJiWMhFjfiJPeoxHmdKexDRfrhnRmCefnZV2W1pUIWl6drU7lYlgTvJKfm8Uf4IIVEtx_EbATkpXL77ycRz2S0F6idUmqpuEkEWcJrjOg1K2RGW8_wC1IGiKN5KZcmoeRhbKOwVyudTEZLNA1yCyrmLMvTYMDaBbAC7gx8gQQe8gn4kSWti8pGm1aHN_8By9erhi9W50NPW1earm-5keP46Ku1FETsNfNPrJQWbxGVjy0i1FK99PsqSi4dahgj3ZYKzH1C6CwwSd74HqhUqMZf33ZZa527uHji4IWaKaDeMjZwa8RBxtgAZ6YQqvA69oegri9XKxSOi8xkIqyLFbsgWiS8TIA7EIfjkR-AfaI7Pmh1WAhGQ_u4N0c-9CTdH6hnXDacTXy1KQpOdXzDiARS7U3RMJUVYP4TmsdGGM7jLT1vLdsNaLSh9vEYd-Dm6yTuX7Aj38dyPZLeJNyltg4kNWxcrfqUHVt3BervIxbq59-End0vj5tYs31VOBIabt03qWwjhm3mSQTFS0eDn3lk3YUhFGP6monEwc-GzMe1CSoHnKN0Ag_ktlL00WClg81xGgP4PbXhpN9lvMGqsA3V8MctPkQs3Iw2uWET9h-l6_SCj6Ec40z9u0xqQ4xqu6enVvW9Cnv1b3oQbNowUkfR43YvWdUq5lHhihM8zCT5RiBAFaoBw82Z0qgEbD_edIQjmzG-zsrD6pqNdnD9F9R048Qwz7am1Mr5tMUHsOiIVp4eP6YmdyoROxVp4GrC78PYNMk8dyuImHJQm2UiJ-X_ekFkqvZJqtXI5td7lTU4jybMYGNjschJ1uApqnIUJ801hKDG7VpzVdpCYvFLnzcisMyFM9xu19CkpHHw3XYGyN4Wpk9RWJ75QORqK9j7-5ZAua_B7JdZqicKs7kRUzgUjaa8&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPIYaE0Fcv4SqlmnCfxfQNxhQ95ESZTsTYTsIuoTTMjk-fUy6TdAwB7UyoTEg6Wb9JTHy9lL_91IW_tNTH9bYGeAQGhZF5Sw802p39PoISbS58Nc3EySVDrf53hmMpbKXlbU9775NpgTefLa7hLjEX9fRu18kg0kNzxHpuWjw_qui_u_5cLE3FJ4g6Yj-3fF97-nmaHl_MzK5VjMQRSEbyl2w9yHo3pftkXRSDpllx19ECV_bTlWaDetNom2YRZNY3Z_uJaxVJ-b83sMmrKhqZm69nvvvuGFDtFR32zT4vbwk-mJFSG0CjMgtqZW9V-WWgtXbEVnAgK5VXqdoW0Oz_wLTV8oMCuKkappzlq9bI8_Y-9rRgZAqMVaUD0FrN4JL4R1V69r2B82F0im2hURdUQ5gNNP4O6f7FVuZGI3Yw9FSBXafs8t1LZUYS4Njw6Y9s2nIu592ercCK_AzXEWyju0g3bVg%26flowName%3DGeneralOAuthFlow%26as%3DS-1758264036%253A1791344625404146%26client_id%3D296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdqp5CCfrPkb1hN4_U2lYFAmgSwYCVlIRu6xRvyXc7tgFGTaN8dUCYIH-EGwokK8oQ2J2hJQReTC7CSDcFjWgyFcrfD8ESD7hq3ByabWfvQVRC1-ZU",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "running.tastelabs.com",
+   "status": "ok",
+   "url": "https://running.tastelabs.com/",
+   "title": "Taste Run Club",
+   "links": []
+  },
+  {
+   "host": "slop-bench.tastelabs.com",
+   "status": "ok",
+   "url": "https://slop-bench.tastelabs.com/",
+   "title": "Benches \u00b7 S.L.O.P. WorkBench",
+   "links": []
+  },
+  {
+   "host": "staging-api-portal.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "staging-grafana.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "staging-portal.tastelabs.com",
+   "status": "ok",
+   "url": "https://staging-portal.tastelabs.com/",
+   "title": "Taste Makers | Taste",
+   "links": []
+  },
+  {
+   "host": "status.engine.tastelabs.com",
+   "status": "ok",
+   "url": "https://status.engine.tastelabs.com/",
+   "title": "Taste Engine status Better Stack",
+   "links": []
+  },
+  {
+   "host": "status.rle.staging.tastelabs.com",
+   "status": "ok",
+   "url": "https://status.rle.staging.tastelabs.com/",
+   "title": "Symphony RLE Status",
+   "links": [
+    {
+     "url": "https://status.rle.staging.tastelabs.com/board.json?minutes=120",
+     "kind": "file",
+     "text": "/board.json"
+    }
+   ]
+  },
+  {
+   "host": "status.staging.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "status.symphony.tastelabs.com",
+   "status": "ok",
+   "url": "https://status.rle.tastelabs.com:443/",
+   "title": "Symphony RLE Status",
+   "links": [
+    {
+     "url": "https://status.rle.tastelabs.com:443/board.json?minutes=120",
+     "kind": "file",
+     "text": "/board.json"
+    }
+   ]
+  },
+  {
+   "host": "symphony.tastelabs.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1844409358%3A1791344626244616&client_id=296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com&code_challenge=I5iR3TCL5z-Esod8xmdOrL1lhRea4S--OtWYVZfX5ck&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE28U5YeHrc1F0zT6wKesw89D4yVinKRyx8QF1LmanpMz69hAp4PSRRER0e3nsAs5bFx4Q9qlg0qEm-P8pK2EfMM3nFJv0ihQX_zG5OsHjE1qU7lYhcAgcf6NXQ9HCwtrMSV5-bRDZJ7KaEKx0baBMUlQyd6ollBig9b-irx5oUubkzWEZCRSkO-6ZEHQZtMrK2YN4ygKgeKRQA3m9JcSaEQwJhISy0ZZMzwBf1I-dZbwpgiiP6fUjTb9a3Ny1NdFwy3RCron5mMkwWSdoNEmTiYZ5sQWfNo4FTDO24bOc-jvrzcNy4jZTolCDLejl4WtMQL-ADQFR5ioOulYpAcxKCmFCNiNo_ml4wJVH18OXesZVfXDjG8xlTUBb7K02sPTkM3c2epDqlx4Ad0aVzs_Xc7RHA50sgmfqv-bkkChcxExankxyQ55MlYxGzGTGV8T_JAnSwhMxn8RXVsVbQ_zx81k-8Ut_VEEIfhcnhGuADzw7uK_iYEPOhQ2nV3SmoNrBSJYQ69gSUHHhroYsvPCVaMxuQAvISyYosKRSxlhJ3LCfhib2S2rMhAZaYbZ0nl_Tn9TCLWRQYE9E8isgVJAzRjNYtLpIFDd62mwerRSOzfZzezXVXf7xxB5ajI_nE0ZhtuUg-U0KSHYcW_uGiQ5fqoAlpT10rOFA6tYijhgj019LqUwJYUiyJLXOSVvuqmyJ0TU5IsjvTFEUNV5CMwxlNQ2no48axt0LJ_L9D3RFwbAZkHx07oupRB3gftoZ1FKx5iwYnnIbym3eDKbscGqNWGihSPtc27QmL8X5-w76BIq8U3u-4ETJ8zatBdLFHIvWSc_zYjXhPGnEWlB8LErxarP5ktNx5vBa6YAa-DveoMk5HX4T_UJfdlGNgv7ObUHTUGFWWh1FGv1jEZrPMe7r0KXYF3Yw9I2TNZsKHLsEUVY0JYUB-gkZDICKju1rhudIbjza58am8Z3WoS4_iYNAEymJN2haJDDV1wSggml1GRmYhgKiIrunjY6yaoDXzgUBF5yVi7VLs8PQ3kYp85usNreeSCEJBS9OSFobE1vHBM5rg0ApqWenU8QRMccHMc8DxP1FYQh9Cm_0tmNGRUb2Os61bbg0wDmuzJ2mP7h7zJGNsn7UyyqC&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO3nGghmUsMfgBN4GE8gbmtSeEOmW7uFwcl_1k4SED0j1JwAjjtjkzCI8GWSMqQ9yWWyCrnpnk8JJDIbIai1xNSKrcWLlh7irO-wgRW8B3veDqGi623NI1DKs3Ilta6BPqjHDjMaazqwR05Na4jKb2YWRuQSUm2C3E7tdKJ08QKBtkxpDjneQojauCR-eyNbeQCMB6eoQzEXsW0vBvfD1WagIjV-KBqOkw845xA3fBBbejQhQXTadnVVbNdnVd1GTHNmKZWk3-JZP7GeeaxNjPUurF1TvIu-VHiqNgtP_c02PtI_xlriwJF1f0wxH7GFCOY87HFEcaQjbR1xntjKNocfD8HKWSqXJ84VqQOGlctPrdChRf4hqPxDGcN0SLdIC_z23C0dWFJ6ncUJd3R1WKtr3kyR_kt25fNZ-WIuB4eLZRIY69Y0Xxml0jLpVg-0DvIajt6U4_jg4rFd1Q2WspVEe2wbw%26flowName%3DGeneralOAuthFlow%26as%3DS-1844409358%253A1791344626244616%26client_id%3D296871097007-hfmnku09e1knli39dujdcdk0vpkndrnd.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdsq-6QzieIyP6RyVpZ3FvE4U9wXEqgr1O87gvn82Itws-Ln2IAlAqge_TXKnkDYIzK8FeTZYdBh8i2efbEjfdqEs_4PHlYryGgguafkbz3HDe1lOI",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "taste-portal.mcp-portal.cf.tastelabs.com",
+   "status": "ok",
+   "url": "https://taste-portal.mcp-portal.cf.tastelabs.com/",
+   "title": "Taste Portal - Cloudflare MCP portal",
+   "links": []
+  },
+  {
+   "host": "tastelabs.com",
+   "status": "ok",
+   "url": "https://tastelabs.com/",
+   "title": "Taste Labs - The taste layer for AI",
+   "links": [
+    {
+     "url": "https://tastelabs.com/case-study/general-intelligence-company",
+     "kind": "page",
+     "text": "Case StudyProduct"
+    }
+   ]
+  },
+  {
+   "host": "tastemakers.tastelabs.com",
+   "status": "ok",
+   "url": "https://portal.tastelabs.com/",
+   "title": "Taste Makers | Taste",
+   "links": []
+  },
+  {
+   "host": "traces.hdp.staging.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "traces.symphony.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "webapp-capture-api.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "webapp-capture.tastelabs.com",
+   "status": "ok",
+   "url": "https://webapp-capture.tastelabs.com/",
+   "title": "TasteAI WebApp Capture Platform",
+   "links": []
+  },
+  {
+   "host": "website-reconstruction-console-api.tastelabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "website-reconstruction-console.tastelabs.com",
+   "status": "ok",
+   "url": "https://website-reconstruction-console.tastelabs.com/",
+   "title": "Reconstruction Console",
+   "links": []
+  },
+  {
+   "host": "www.tastelabs.com",
+   "status": "ok",
+   "url": "https://tastelabs.com/",
+   "title": "Taste Labs - The taste layer for AI",
+   "links": [
+    {
+     "url": "https://tastelabs.com/case-study/general-intelligence-company",
+     "kind": "page",
+     "text": "Case StudyProduct"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://tastelabs.com/benchmark/overview",
+   "kind": "page"
+  },
+  {
+   "url": "https://tastelabs.com/benchmark/demo",
+   "kind": "page"
+  },
+  {
+   "url": "https://tastelabs.com/case-study/general-intelligence-company",
+   "kind": "page"
+  }
+ ]
+}

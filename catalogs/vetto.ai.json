@@ -1,0 +1,529 @@
+{
+ "domain": "vetto.ai",
+ "live_hosts": 92,
+ "pages": [
+  {
+   "host": "anetto.vetto.ai",
+   "status": "ok",
+   "url": "https://journey.vetto.ai/login",
+   "title": "Vetto Journey",
+   "links": []
+  },
+  {
+   "host": "api.hub.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.payments.vetto.ai",
+   "status": "ok",
+   "url": "https://api.payments.vetto.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "aplique.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "app.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "apply.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "arena.vetto.ai",
+   "status": "ok",
+   "url": "https://arena.vetto.ai/login?redirectTo=%2F",
+   "title": "Vetto Arena \u2014 Shape frontier AI",
+   "links": []
+  },
+  {
+   "host": "assets.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "atlas.vetto.ai",
+   "status": "ok",
+   "url": "https://atlas.vetto.ai/sign-in",
+   "title": "Vetto \u00b7 Atlas",
+   "links": []
+  },
+  {
+   "host": "auth.ops.vetto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "backoffice.sandbox.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "backoffice.vetto.ai",
+   "status": "ok",
+   "url": "https://backoffice.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "chat.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "community.vetto.ai",
+   "status": "ok",
+   "url": "https://arena.vetto.ai/login?redirectTo=%2Fapi%2Fauth%2Fbettermode-sso%3Freferrer_uri%3D%252F",
+   "title": "Vetto Arena \u2014 Shape frontier AI",
+   "links": []
+  },
+  {
+   "host": "cua.vetto.ai",
+   "status": "ok",
+   "url": "https://cua.vetto.ai/",
+   "title": "Vetto AI \u2014 Computer Use",
+   "links": []
+  },
+  {
+   "host": "dashboard.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "data.vetto.ai",
+   "status": "ok",
+   "url": "https://data.vetto.ai/",
+   "title": "Vetto - Data Visualization",
+   "links": []
+  },
+  {
+   "host": "decapod.vetto.ai",
+   "status": "ok",
+   "url": "https://decapod.vetto.ai/auth/signin?callbackUrl=https%3A%2F%2Fdecapod.vetto.ai%2F",
+   "title": "Sign In | Decapod",
+   "links": []
+  },
+  {
+   "host": "design-system.vetto.ai",
+   "status": "ok",
+   "url": "https://design-system.vetto.ai/",
+   "title": "@storybook/cli - Storybook",
+   "links": []
+  },
+  {
+   "host": "ds-vetto.vetto.ai",
+   "status": "ok",
+   "url": "https://ds-vetto.vetto.ai/",
+   "title": "@storybook/core - Storybook",
+   "links": []
+  },
+  {
+   "host": "education.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "email.communication.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "email.comunicados.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "email.notify.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "empresa.sandbox.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "empresa.vetto.ai",
+   "status": "ok",
+   "url": "https://empresa.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "entrevistas.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "estudante.sandbox.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "estudante.vetto.ai",
+   "status": "ok",
+   "url": "https://estudante.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "facaparte.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "fin.arena.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "fin.vetto.ai",
+   "status": "ok",
+   "url": "https://fin.vetto.ai/",
+   "title": "Vetto Finance",
+   "links": []
+  },
+  {
+   "host": "finance.api.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "finance.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "forms.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "formulario.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "gtm-preview.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "gtm.vetto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "guides.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "headroom.vetto.ai",
+   "status": "ok",
+   "url": "https://headroom.vetto.ai/sign-in",
+   "title": "Headroom",
+   "links": []
+  },
+  {
+   "host": "health.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hub.vetto.ai",
+   "status": "ok",
+   "url": "https://hub.vetto.ai/",
+   "title": "Vetto Hub",
+   "links": []
+  },
+  {
+   "host": "iclr.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "iclr26.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "inscricao.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "join.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "journey.vetto.ai",
+   "status": "ok",
+   "url": "https://journey.vetto.ai/login",
+   "title": "Vetto Journey",
+   "links": []
+  },
+  {
+   "host": "kitchen.vetto.ai",
+   "status": "ok",
+   "url": "https://kitchen.vetto.ai/login",
+   "title": "Vetto Kitchen",
+   "links": []
+  },
+  {
+   "host": "label.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "onyx.vetto.ai",
+   "status": "ok",
+   "url": "https://onyx.vetto.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "oportunidade.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ops.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pagamentos.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "parceiro.sandbox.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "parceiro.vetto.ai",
+   "status": "ok",
+   "url": "https://parceiro.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "planning.vetto.ai",
+   "status": "ok",
+   "url": "https://planning.vetto.ai/",
+   "title": "Planning \u2014 Path Builder",
+   "links": []
+  },
+  {
+   "host": "poc.arena.vetto.ai",
+   "status": "ok",
+   "url": "https://poc.arena.vetto.ai/",
+   "title": "Vetto Arena - Avalie LLMs e Ganhe Pontos",
+   "links": [
+    {
+     "url": "https://poc.arena.vetto.ai/battle",
+     "kind": "page",
+     "text": "Evals"
+    },
+    {
+     "url": "https://poc.arena.vetto.ai/leaderboard",
+     "kind": "page",
+     "text": "Leaderboard"
+    }
+   ]
+  },
+  {
+   "host": "preview.arena.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "project.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "projeto.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "research.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "researcher.vetto.ai",
+   "status": "ok",
+   "url": "https://atlas.vetto.ai/sign-in",
+   "title": "Vetto \u00b7 Atlas",
+   "links": []
+  },
+  {
+   "host": "sales.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sandbox.arena.vetto.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3D742e9f3bca83336fa56beb19d854418ceb99d862d1bf1725c1bcf083c7b9de88",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "sandbox.ops.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shop.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shopping.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "studio.api.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "studio.vetto.ai",
+   "status": "ok",
+   "url": "https://studio.vetto.ai/",
+   "title": "Vetto AI",
+   "links": []
+  },
+  {
+   "host": "subscribe.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tasks.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tech.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tmp.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "travel.arena.vetto.ai",
+   "status": "ok",
+   "url": "https://travel.arena.vetto.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "travel.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "traveleres.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tst.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "universidade.sandbox.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "universidade.vetto.ai",
+   "status": "ok",
+   "url": "https://universidade.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "vbrain.api.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vbrain.vetto.ai",
+   "status": "ok",
+   "url": "https://vbrain.vetto.ai/",
+   "title": "vbrain",
+   "links": []
+  },
+  {
+   "host": "vetto.ai",
+   "status": "ok",
+   "url": "https://vetto.ai/companies/",
+   "title": "Vetto \u2014 Data is an interface",
+   "links": [
+    {
+     "url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
+     "kind": "page",
+     "text": "The Difficulty of Creating Hard, Fair, and Valid Benchmarks"
+    },
+    {
+     "url": "https://vetto.ai/companies/leaderboards/",
+     "kind": "page",
+     "text": "leaderboards"
+    }
+   ]
+  },
+  {
+   "host": "well.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "wellness.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "work.vetto.ai",
+   "status": "ok",
+   "url": "https://work.vetto.ai/",
+   "title": "Vetto",
+   "links": []
+  },
+  {
+   "host": "workforce.vetto.ai",
+   "status": "ok",
+   "url": "https://workforce.vetto.ai/",
+   "title": "Workforce",
+   "links": []
+  },
+  {
+   "host": "www.api.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.app.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.forms.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.vbrain.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.vetto.ai",
+   "status": "ok",
+   "url": "https://vetto.ai/companies/",
+   "title": "Vetto \u2014 Data is an interface",
+   "links": [
+    {
+     "url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
+     "kind": "page",
+     "text": "The Difficulty of Creating Hard, Fair, and Valid Benchmarks"
+    },
+    {
+     "url": "https://vetto.ai/companies/leaderboards/",
+     "kind": "page",
+     "text": "leaderboards"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-gullibench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-plot-twist-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-programbench-vetted/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-terminal-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboards/",
+   "kind": "page"
+  }
+ ]
+}

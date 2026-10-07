@@ -1,0 +1,1629 @@
+{
+ "domain": "mercor.com",
+ "live_hosts": 241,
+ "pages": [
+  {
+   "host": "abhishek.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "accounts.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "acme.tenants.enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://plentiful-sprite-13-enterprise-acme.authkit.app/?client_id=client_01M3Z5D9TM9DWJBC0G70GCHDXE&redirect_uri=https%3A%2F%2Facme.tenants.enterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*676ce539ba175d3174a63e17810e5ae5c279ee9d7683d0be08c2b602650b4364*ZBA6XmyhuHjqHifL3ndupw*OeqfKem7_5UlfVsgte4TN-CFQ6nTCwhMVuKxujXX7MWVrs3eielKBGOvWc-ikUEurRTzbK_jFnpuwfMPASoL_SPkzsTAMpL4qKMCVpTnboC98TB7pQtJ1L1ec2EUPTKCgvz2hJzF6CWXu6PjehQotZ9uXs0h9FbPifLGgg1bbxzg70kARKKH_znP3V9pEzFV*1791344659900*6e88b1714b46807d50a8a6227f242a405f213193f2b7722efab30d06571e5d3b*1vKZf5s9BDSwXgfaW75nSyiFbmZG4xcNRmCMbcI3yAA%7E2&authorization_session_id=01M4A6T9KFHBAP2JZ49GY4TQN0",
+   "title": "Sign in",
+   "links": []
+  },
+  {
+   "host": "admin.companydata.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.preview.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "agent-observability-native.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "agent-observability.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "agents-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "agents-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "agents-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "anurag.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api-acme.tenants.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.companydata.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.data.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.dev.studio.mercor.com",
+   "status": "ok",
+   "url": "https://api.dev.studio.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "api.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.nango.mercor.com",
+   "status": "ok",
+   "url": "https://api.nango.mercor.com/",
+   "title": "Nango",
+   "links": []
+  },
+  {
+   "host": "api.novu.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.preview.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.studio.mercor.com",
+   "status": "ok",
+   "url": "https://api.studio.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "argocd.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "argocd.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "argocd.monk.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "argocd.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "assessments-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "atlas.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "austin.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.data.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.mercor.com",
+   "status": "ok",
+   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*47b9ff069e3049108cbab2f8d59eea4d8ad228d8304196d127ea1d08a6ae734f*9AI7x65Lndb2hl3hbCjBIA*K1eGfgNu1H4GYa_nWpfH97-toROSe3LzhL6hKNhR1N2qhtIQrp0UWOs29Dz25h8bCElUmzZJOj9xTDJinOJ-xDgLhVFrYyYckV7vPorMxdTTdw11NHpwaXgkMY-MitOmSRcTSqK5kaEYOBr3A_eJXw*1791344964399*4aa94d1692fefe06592322a9de3635c8acc51bcc1c67c3bff2fc34c79ec3e0a6*qJgWb8bzyntjMmJl20mlJdnwcjC3Ay8swgEQcqCFLmg%7E2&authorization_session_id=01M4A73K254NNQJYV79ASYTQBV",
+   "title": "Sign in",
+   "links": []
+  },
+  {
+   "host": "automations-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "automations-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "automations-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "aws.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "aws.go.mercor.com",
+   "status": "ok",
+   "url": "https://aws.go.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "cas.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "cas.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "cas.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "catalog-agent.internal.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "central-code-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "central-code-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "central-code-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.mercor.com",
+   "status": "ok",
+   "url": "https://clerk.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "coil.mercor.com",
+   "status": "ok",
+   "url": "https://coil.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "connect.nango.mercor.com",
+   "status": "ok",
+   "url": "https://connect.nango.mercor.com/",
+   "title": "Nango Connect",
+   "links": []
+  },
+  {
+   "host": "contracts-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "contracts-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "contracts-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "contracts.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "contracts.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "contracts.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data-gateway.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data-gateway.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data-gateway.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.internal.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.internal.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.internal.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.mercor.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "data.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "datadelivery.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default-v2.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.preprod.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.stage.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "default.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "delivery-api.mercor.com",
+   "status": "ok",
+   "url": "https://delivery-api.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "demand-gen-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "demand-gen-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "demand-gen-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.preview.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.studio.mercor.com",
+   "status": "ok",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLdUtswEIVfxaP7WLKSiV1NHMaQ0qSF1IPTtOUmo9pLrcGSjFYOTp%2BewSEDvYDb%2FTnf7p6dnfW6CfbgUFmTkihk5Gw%2BQ6mbVmSdr80NPHSAPuh1Y1AMiZR0zggrUaEwUgMKX4oiu74SPGSiddbb0jYkWC1SsmPR9SSLl19%2FbZNpnF3GxXmS%2F7xdrscTEmxPWB4yEqwQO1gZ9NL4lHDGp6OIjVi8YWMxiQUbh5wntyTIXwDnylTK%2FP14mj%2FHIhTLzSYf5d%2BLDQkWgF4Z6Qd07X2LglINrrQutPdehqXVVLbtS2y3B1dCs4so9PecGTD%2FHgz8Llp%2BiKqEIlr6fBYSZIjgnlUvrMFOgyvA7VUJP26uXjmy83V4VBw4p3YqS6R99a2ervdJ9Wk7%2Faz9l8N4yXte6ZocPRHDjdwbMz7eXp4mIvN3pWf0jfLJ%2BrXUsFrktlHlIbi0Tkv%2FPikKoyGiqtHdUCo6gy2U6k5BRYKsaezjhQPpISXedUDo%2FAj9%2F8XmTw%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiJkZDQ0ZjI2MGNhZGNiYWIwYzY0MDY2Zjk2MWM3YWZkNTIzZmJkOWJiZjBiYTY2MzcxZGIwY2M0ODgxM2I1MjU1NzBlYWNhMWNmODA3YmY5ZDY5NzE0NzYwNTUzNjE2ZmE5NjA5YzVmMzEyZGZlMGY1OTcxYmU3YzA5MGEwYWZkMjJmOTNjNWRmYzJkNWEzODY4MTM4ZWVlNmZkOGQyMDdhNjkyYzYzY2ViM2MyNjc3M2JkNWM1NDhmYWE2ZDVhOWUwZDYzMzcwZjRkYTJkZTNhMmVlMDVmYTdiMDYyZTgwNmJkN2Q3YTI0NWI3YTdlMGNiNjYwZTYwYmRhNWJjMTQwODkzODhkMDI1OTg2NGEyOGM2OGY2YTUyNmRkYzdiYWI1NDExNjM0OTE5YjFmNWU1ZWNlZjdiMDlmMmY2NzY2Mzc3M2U0ZTgzNWY3M2ZhMGJjN2M1OTRiMjZhZGIzOTYxYjJkNzZmNDNmNmU0ZWMyYzNhMjFmZGRkN2U1NzliOTkwOTg1ZmU3YWI4NmJjOTE4NGE2NDc2ZTBlNTJiNzY3NTdiMWEyOGM0NjdkZWE2Nzk2ZDQ2Njc4OTVmYzBmNDBjNDg2OTc5MGViMDljMmVmMWQ1MjRmYzk0MjcwYWI2YTRlZjhiYjI0MGQwMmE1ODg1OTUxMDY5YmZmOTU1NDNhY2UxYTdmNzk3OGFhYTE3NzRkM2RkZTcyYTM2Y2ZmMzZmNTBhYmNjODY1M2Y0NTI2ZjNkZWNjOGE4MDJhY2VkZmVhMTc5ZjVlODFkMDJiZmJlM2E3MjVkNGZjYjA0ODdlY2NjMzY5OTI2ZjUwYmRiNWNlNDJlOTk2ZmI0MWVlNjY1YWZlOWUxYTMwZDFkMDIiLCJzYW1sX3Nlc3Npb25faWQiOiJzYW1sX3Nlc3Npb25fMDFNNEE3SEpYWVM2QUszTTRGSEU3WEJKMksiLCJjb25uZWN0aW9uX2lkIjoiY29ubl8wMUtGWFFZSFlHUVJSNEQ1SkNTSlowQkJNWCIsImZyb21fcG9ydGFsIjpmYWxzZSwiZnJvbSI6ImFwaSIsImVudmlyb25tZW50X2lkIjoiZW52aXJvbm1lbnRfMDFFUTFGVFhFVFNXWlg5MUJYTlg5M1NBRk0iLCJpYXQiOjE3OTEzNDQ4MjMsImV4cCI6MTc5MTM1OTIyM30.h8wQkwcUmoVDMtzVdreX-8cNO0mboHXsfewowaqYCPw",
+   "title": "mercor - Sign In",
+   "links": []
+  },
+  {
+   "host": "dev.team.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.ui.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev.work.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "dharminder.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "docs.mercor.com",
+   "status": "ok",
+   "url": "https://docs.mercor.com/login?redirect=%2F",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*93953e840a068a62c97a77cb47bc2430ee6ea10bad1924da0611871b9f4e9a67*ZG0uOqYXyw0Us0ZtpSljWQ*E-Dke4Dg5g9xJv3Sv4FenQBuGygh1422pceXC6faUrIklhk7zPZnyY-_WlMsOc1_Rg3-54O1FVWO6r-s4wwrink0zbZogKkatJDI8MktEFI5JYVsZEz9z3dT6xepjtTixbKcOhp0petjJ9gEAAfeJCt06vuGFrQypivOP41eGsJvVQ8rnxFS6hi6Y-GBMaze*1791345438672*2caef3adb899481f90f9e4206a085a8602a90b218fc22cdfc90edef7905c2852*UquHqMtmEW1WRjXfpPcNr8yVvcsZegp9YFxDmdwYP8c%7E2&authorization_session_id=01M4A7J2475CETNCN06W9EQVZQ",
+   "title": "Sign in",
+   "links": []
+  },
+  {
+   "host": "events.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "events.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fleet.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "fraud-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "growth-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "gws-mcp.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "hidden.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "humandata.mercor.com",
+   "status": "ok",
+   "url": "https://humandata.mercor.com/mercors-approach/black-box-vs-open-box",
+   "title": "Black Box vs. Open Box - Mercor",
+   "links": [
+    {
+     "url": "https://humandata.mercor.com/how-to/design-a-data-pipeline",
+     "kind": "page",
+     "text": "A Guide to Evaluating and Improving Your LLM"
+    }
+   ]
+  },
+  {
+   "host": "iam-service.aws.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "iam-service.preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "iam-service.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "idp-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "indigo.mercor.com",
+   "status": "ok",
+   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Findigo.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*0dc97850d1bc5ff3edfc6e856bd80e9788bc461a848a86e08785abfc84420b43*BJEA-eAFk-mVSqgduSUvGA*YQd1Ce5jKrzCkGQf4k--6WIvyy69F44Kx4uJb6ODkpyMSTowjPN1uVatR8cAlIzuSZtcFRG7RT7ncz3-OMgJosxFxdZJ5SfsJbzSEcAnfOETG4eY2Er9Hlrn2-lRQT80GqEBPUSxwPyVp9Gjixq4A1ZyIvADj-eSmaPdwoZbyXk35fPQvKIDq7eM4KKJGDqD*1791345767106*7730ef74d6e80cb767638e5db3febb460f351f581a4de6a64f6594232028dca0*scoKf406mM3thvnLh5glli8COuU5PVM9k7y3Fjzfhb8%7E2&authorization_session_id=01M4A7W2YPNNC8DV9J1FGH0NB4",
+   "title": "Sign in",
+   "links": []
+  },
+  {
+   "host": "insightful-ss.aws.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "insightful-ss.preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "insightful-ss.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "intelligence-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "intelligence-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "intelligence-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "internal-api.data.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "internal.data.mercor.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "internal.docs.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "internal.preprod.data.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "internal.stage.data.mercor.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "learninghub.mercor.com",
+   "status": "ok",
+   "url": "https://learninghub.mercor.com/",
+   "title": "spl-learning-hub",
+   "links": []
+  },
+  {
+   "host": "learninghub.stage.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "litellm.dev.studio.mercor.com",
+   "status": "ok",
+   "url": "https://litellm.dev.studio.mercor.com/",
+   "title": "LiteLLM API - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "litellm.studio.mercor.com",
+   "status": "ok",
+   "url": "https://litellm.studio.mercor.com/",
+   "title": "LiteLLM API - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "livekit-acme.tenants.enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://livekit-acme.tenants.enterprise.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "livekit.enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://livekit.enterprise.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "livekit.stage.enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://livekit.stage.enterprise.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "llm-api.mercor.com",
+   "status": "ok",
+   "url": "https://llm-api.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "llm-gateway.preprod.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "llm-gateway.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp.novu.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "mercor.com",
+   "status": "ok",
+   "url": "https://www.mercor.com:443/",
+   "title": "Mercor | Organizing human intelligence to power the AI economy",
+   "links": [
+    {
+     "url": "https://www.mercor.com:443/apex/",
+     "kind": "page",
+     "text": "Evaluate AISee how AI performs on valuable work"
+    },
+    {
+     "url": "https://www.mercor.com:443/apex/apex-accounting-leaderboard/",
+     "kind": "page",
+     "text": "APEX-Accounting"
+    },
+    {
+     "url": "https://www.mercor.com:443/apex/apex-agents-leaderboard/",
+     "kind": "page",
+     "text": "APEX-Agents"
+    },
+    {
+     "url": "https://www.mercor.com:443/apex/apex-swe-leaderboard/",
+     "kind": "page",
+     "text": "APEX-SWE"
+    },
+    {
+     "url": "https://www.mercor.com:443/blog/ai-due-diligence-case-study/",
+     "kind": "page",
+     "text": "Aug 8, 2026Part 3: When AI Strengthens the Investment ThesisEnterprise"
+    },
+    {
+     "url": "https://www.mercor.com:443/blog/ai-underwriting-evals/",
+     "kind": "page",
+     "text": "Aug 27, 2026Your AI should earn underwriting authority the way a new underwriter doesEnterprise"
+    },
+    {
+     "url": "https://www.mercor.com:443/enterprise-evals/",
+     "kind": "page",
+     "text": "Build evalsEvaluate AI against professional standards"
+    }
+   ]
+  },
+  {
+   "host": "microsoft-office-plugin.stage.enterprise.mercor.com",
+   "status": "ok",
+   "url": "https://microsoft-office-plugin.stage.enterprise.mercor.com/",
+   "title": "Mercor",
+   "links": []
+  },
+  {
+   "host": "modal-gateway.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "modal-gateway.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "modal-gateway.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "monk.mercor.com",
+   "status": "ok",
+   "url": "https://monk.mercor.com/",
+   "title": "Monk Dev",
+   "links": []
+  },
+  {
+   "host": "nango.companydata.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "nango.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "nexus.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "novu.mercor.com",
+   "status": "ok",
+   "url": "https://novu.mercor.com/",
+   "title": "Novu Cloud Dashboard",
+   "links": []
+  },
+  {
+   "host": "oidc-discovery.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "oidc.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "oidc.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "partner.mercor.com",
+   "status": "ok",
+   "url": "https://partner.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "payments.internal.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "pic-gen.r2.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.data.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.llm-api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.short.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.team.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preprod.work.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "preview.studio.mercor.com",
+   "status": "ok",
+   "url": "https://preview.studio.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "project-engine.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "project-engine.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "project-engine.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "projects-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "projects-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "projects-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals.aws.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals.preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "referrals.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "riteka.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "rl.envs.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "rlstudio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "sftp.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "signin.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "signin.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "sims.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "slack-gateway.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "slack.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "slack.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.data.mercor.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stage.delivery-api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.indigo.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.partner.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.team.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.timely.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "stage.work.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "staging.short.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "studio-tutorial.mercor.com",
+   "status": "ok",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLbUtswEIZfRaP7WLJw46CJwziYQsqhKU6ZSW8yqr00GizJaOXU6dN3cMiUXsDtHv5vd%2F%2BdnvWmITvwqJ3NaBxxejabojJNK%2FMubO09PHeAgfSmsSiHREY7b6VTqFFaZQBlqGSZ395IEXHZehdc5RpKFkVGNzy%2BTfLJdVKcphfr%2BZf0G08u06Kcz9eUPByxIuKULBA7WFgMyoaMCi7Go5iPeLriieSfpBBRkp78oGT5CphrW2v76%2BNpfh6KUF6tVsvR8mu5oqQADNqqMKC3IbQoGTPgK%2Bcj9xRUVDnDVNu%2BxjY78BU0m5hB%2FyS4Bfvn2cK6bMU%2BricM0bGXs1CSI4J%2FUT13FjsDvgS%2F0xV8v7%2F5x1Fd2EYHxYFzbGeqQtbX19vx3W5Snz6ML0y43J9ciV7UZksPnsjhRv6NGR9vr44T0dm70lP2Rvlo%2FZ0ysCiWrtHVnnx23qjwPimO4iGi69HjUCo7iy1U%2BlFDTUneNO73uQcVIKPBd0DZ7AD9%2F8VmfwE%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiI5ZWY2NGM2ODQ4MjVmMDViMDliN2ZkOWQ0MTZmNWExN2JkZWZjOWYyMjIzMDlhYTljZWI5NzExMmVlNjY2ZGVmYzA5YjA1NDFmYjI0OWU5MDMzNmJlYTg1MDNmN2EyOWNlYjcyOTExODMzZmM2OGVlYTJlMmViOTIzNGQzMGFkMDNlMzBiNWY1NWJhZDMyNTBmMzBjYzZmZTcwYTkzNGUyY2RjYWJmMDM3NDliODE4MmQ0MGRiZmY0YmM0NWQ1ZTBlMzFlNmQ1N2FhYjRjYTczZjRiODExZTFmMDI1YTZjZGJhZDA4ZmIwMTJlMmU2ZDQxNzExZWJhYWEyOWM0NjQ5NmQ5YTU0OGRmNTE0OTdhNTk4NDg5NDExNjRmYjk3OGYyZGFmN2ZjYmQ0OGIxOGNkNGY5NDlhYTYyOTYwYWEyOTRjOGUwMDFmZWFkOGM2MDk2NmU1ZjI5NGVkNDk3ZjM5MWE5ZDY5ZDM4MzhmNWFmOWFiZGU4NThmY2VmNjc0NWYzMjk2ZjBhOTc3MjcxNDIyM2IwZmY1ODE0Y2QwYTViNDZmNjdiNmRmYTExMTg4NjlkNTMyMDI2ZTNlMTc2MzM5OTJlNjYwNWMxZDQ2OGViYzNhZmYwNTNkMDIyMTVkMjA5ODc2NzU2OTUyNjk1ZGY4ZjExNTBjZTdiYzdiYzgyNWViODkzMjY1YTVlYzhmM2E5NzM2ODg5NzkzMTE3NGE0MmIxNjg4NWM0YjY4Njg4OTYwMTk5MTU0ZmRhNzI3Y2M2MGI4ZjRjYzg5NTBkNDgwN2Y5YTFlZDM3YmZhZTI4ZTczZDMxYzBjYjZiNDM0MGNmOTg3NDQyYmQ5ZWQ4ZjEzMGQyMGM1OWZhN2FmOWVjNDYwMmUzNjk5Iiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTRBOEs0REM1NEJLQzA0TTBDWDA2NEVSIiwiY29ubmVjdGlvbl9pZCI6ImNvbm5fMDFLRlhRWUhZR1FSUjRENUpDU0paMEJCTVgiLCJmcm9tX3BvcnRhbCI6ZmFsc2UsImZyb20iOiJhcGkiLCJlbnZpcm9ubWVudF9pZCI6ImVudmlyb25tZW50XzAxRVExRlRYRVRTV1pYOTFCWE5YOTNTQUZNIiwiaWF0IjoxNzkxMzQ1OTIyLCJleHAiOjE3OTEzNjAzMjJ9.H8igVT8-zZ_NWdbA_dQtibnotl43C-t388uw1t_gLxc",
+   "title": "mercor - Sign In",
+   "links": []
+  },
+  {
+   "host": "studio.mercor.com",
+   "status": "ok",
+   "url": "https://studio.mercor.com/",
+   "title": "Mercor Studio",
+   "links": []
+  },
+  {
+   "host": "switchboard.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "t.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success.aws.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent-success.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talent.docs.mercor.com",
+   "status": "ok",
+   "url": "https://talent.docs.mercor.com/welcome",
+   "title": "Welcome to Mercor - Mercor",
+   "links": []
+  },
+  {
+   "host": "talex-coil.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-coil.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-coil.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-event-consumer.aws.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-event-consumer.preprod.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-event-consumer.stage.go.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-mercor-api.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-mercor-api.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "talex-mercor-api.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "team.mercor.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "teams.stage.enterprise.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "tong.llm-gateway.dev.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "trust.mercor.com",
+   "status": "ok",
+   "url": "https://trust.mercor.com/",
+   "title": "Mercor Trust Center",
+   "links": []
+  },
+  {
+   "host": "vertex-usage.mercor.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-851777464%3A1791346112514185&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=cDztz72mrmSpmZyaCXfuuOSb-ewalKECWLA6u5LaIeU&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEZakB8_q2d86BdgOBZ7Pk1q3ObIp2wYpRGWTzyUrmYzwOr_GxjoS8YTTCeglFthGUvIlQoEfnnYQqf5mKp5KUVfd61u2pWvsjk1l1wBHO8hGfeLqpzA4suwrWYfFKUl3xe08Ry-fRLSWAdKMISsp5U0esLMvNGjG0VraSqEnB4clNv05X-Ej2z9YmtToPjtVgkvGWzbSnOaGFJWvTKtLnx17zde7XLApcl6SGpexIqZrmk8GB2E0QwmJg08XGjiB0VMGPKQoi8TIZS6fSopsj3n4UxTf504qDh7XEx-G3-IuBAntEZI2_0-ndKU4G0lzaRikjjVaNKYXG9tWEAAFblvfNPm52K7lLw2xskMCD2WTpS_dFi4iHJYQcj52lcYiihV-5Gj1nZmXJUfjGXLLxX6L9bHugeAiRe_SNl6fQ3uCFbRn0sk0ih5BgkdSTb5Czv0fr6fWyMfevSEzHqcpKQ5YMib70k4_YOidzhF1jfV8cWPH_oXOm87NT4RdZHGRUmtVohICQ6KRPqlH82Hq2fGPbhoxi-lzcVI5OisILqw-vMjPdspJHCWyd1WMk8-MY00ZCFQzU3JHyhgaYl9HnzAQxVm-IC1hb7iwpsW_pdrVpMdwDLO4D_7MREFtc3gpnfmUIsI_mN9Xmm6HwrbQ-8HZUyvK02FX4ps2JlZaUZg9dDwM4VGqWOXWZHZBsR8utiHqZp3P1Jc8kTcHtjmzP18Haj6jzrV_NWpypQfusaTH6efNNwIIMV9s_4t6ev9KOsrZyBZxZuBzGaBZaggSWn3gLmTiv414GSyqwvJJlKoUmiYKTfo8xrfpq0MLJTHUS0icA62R43CvEiBjs7fjjBxslProyQUJM3VQ0EIlvYhVlb9U6pl0ygsN1N3uTDYdv0CXrAVcVZG_ONEBHGEWEJf8iXd6OHaxBQhgiu058dN_KjQup91i6imURfRxQKEIxNHn_cQa1eTjhFRWZdgLTVeE4tkpW5rRx5j_LTL57v5oQ8pdSwFie0grb1PsrYfVdfqYjLhLl1G3KAN7FZCOsjWFW8JdgP8HbO7UvIALBg4Zg1X5wZP6P75edpSOM6D9BVS5WWAGA3XhmlaVM7iAoXwa6vOiEb78W9dpASuf0OqW3jZTgOUyyVbGpf2a-Tn4xuIfELQWtcYFT2daVeY4g&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPS1ge7vc7h2judAtHOfKYLVgnMOOg3SVLbEwxXvGC0xuwjIK4oQ18q3bqCRlgqOle78S04ZWtbSdAMoNsG17RP3k0GZNZ_rNApMmiTLD8aXQzpTg6EXvPmCEIeyylkA4z4YMC1zPNbmvETDEasaCvKVJocPT49QKWVVlHuTjnEhUiFc3Gzx31Ooj27UwlMqErqDa-PoQS6r6VXCOvbfdTQM6XMm8XbylV86Zxgq-M0TxrLl7yruKq-d0uyQ3GBOR8Mh2w9tOmqGCO5swePgvlQWjNmMO2FnsNu8kGg6S6NcLomOyuSMfUZeU2pWKDWMeSw05npno3MxlTrEd-5YB6mcezT0N6aAbHljnVUJWqwY44N31eA4wZVi3Ed4KgfjeEgqPG7tDFd_L1VVb-Q9mcMnRuEWfUkiSuVpHQHTF6765SFDm0S6Ky5ABHuSdc21_FIlQNjUxh_-80bTyYYRszy_5SCpw%26flowName%3DGeneralOAuthFlow%26as%3DS-851777464%253A1791346112514185%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfcc3J5AG7t9Yrc0SCG9pCgWV2VHHV-gYN8p8vTLngq9IDQR5cTrb_5HEhLqvttkHdvJN58Pc1_nG4suYdWH-vm2ATUywb7JYeKiXCvALBsYZZ7g3c",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "vllm.studio.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "webhooks.stage.coil.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "work.mercor.com",
+   "status": "ok",
+   "url": "https://work.mercor.com/",
+   "title": "Mercor | Find Remote Work Opportunities",
+   "links": []
+  },
+  {
+   "host": "work.stage.api.mercor.com",
+   "status": "no response"
+  },
+  {
+   "host": "ws.novu.mercor.com",
+   "status": "ok",
+   "url": "https://ws.novu.mercor.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "www.mercor.com",
+   "status": "ok",
+   "url": "https://www.mercor.com/",
+   "title": "Mercor | Organizing human intelligence to power the AI economy",
+   "links": [
+    {
+     "url": "https://www.mercor.com/apex/",
+     "kind": "page",
+     "text": "Evaluate AISee how AI performs on valuable work"
+    },
+    {
+     "url": "https://www.mercor.com/apex/apex-accounting-leaderboard/",
+     "kind": "page",
+     "text": "APEX-Accounting"
+    },
+    {
+     "url": "https://www.mercor.com/apex/apex-agents-leaderboard/",
+     "kind": "page",
+     "text": "APEX-Agents"
+    },
+    {
+     "url": "https://www.mercor.com/apex/apex-swe-leaderboard/",
+     "kind": "page",
+     "text": "APEX-SWE"
+    },
+    {
+     "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+     "kind": "page",
+     "text": "Aug 8, 2026Part 3: When AI Strengthens the Investment ThesisEnterprise"
+    },
+    {
+     "url": "https://www.mercor.com/blog/ai-underwriting-evals/",
+     "kind": "page",
+     "text": "Aug 27, 2026Your AI should earn underwriting authority the way a new underwriter doesEnterprise"
+    },
+    {
+     "url": "https://www.mercor.com/enterprise-evals/",
+     "kind": "page",
+     "text": "Build evalsEvaluate AI against professional standards"
+    }
+   ]
+  },
+  {
+   "host": "www.work.mercor.com",
+   "status": "ok",
+   "url": "https://work.mercor.com/",
+   "title": "Mercor | Find Remote Work Opportunities",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://www.mercor.com/apex/apex-accounting-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-accounting-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-v1-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/enterprise-evals/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/frontiercode-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-medxpertqa-mm-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-tau-3-banking-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-gdpval-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-mmmu-pro-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-deepresearch-bench-ii-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-medxpertqa-mm-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-cvdp-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-super-chem-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-hle-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-4-0-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-charxiv-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-redlinebench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-hle-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-mmlu-pro-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-mmmu-pro-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-bench-verified-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-atlas-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-swe-bench-verified-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-swe-atlas-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-gpqa-diamond-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-program-bench-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-2-1-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-gdpval-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-scicode-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-aa-lcr-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-bench-multilingual-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-deep-swe-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-frontier-swe-v2-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-advanced-if-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-aime-2025-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-browsecomp-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-charxiv-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-aa-lcr-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-terminal-bench-2-1-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-browsecomp-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-medxpertqa-mm-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-tau-3-banking-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-gdpval-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-mmmu-pro-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-deepresearch-bench-ii-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-medxpertqa-mm-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-cvdp-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-super-chem-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-hle-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-4-0-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-charxiv-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-redlinebench/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-hle-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-mmlu-pro-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-mmmu-pro-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-bench-verified-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-atlas-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-swe-bench-verified-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-swe-atlas-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-gpqa-diamond-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-program-bench-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-2-1-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-gdpval-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-scicode-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-aa-lcr-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-swe-bench-multilingual-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-deep-swe-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-frontier-swe-v2-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-advanced-if-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-aime-2025-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-browsecomp-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-charxiv-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-aa-lcr-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-terminal-bench-2-1-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-browsecomp-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard/corporate-lawyer-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard/management-consultant-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard/investment-banking-analyst-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/integration-swe/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/observability-swe/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-v1-leaderboard/big-law-associate/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-v1-leaderboard/consulting-associate/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-v1-leaderboard/general-practitioner-md/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-v1-leaderboard/investment-banking-analyst/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/ai-underwriting-evals/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/mercor-model-routing-eval-problem/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/how-we-20x-llm-eval-throughput/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/agent-eval-systems/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/the-economy-will-become-an-rl-environment-machine/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/blog/welcome-to-the-era-of-evals/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/experts/what-is-ai-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/evaluation-concepts/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/what-is-llm-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/what-are-llm-benchmarks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/how-to-evaluate-ai-models/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/how-to-evaluate-ai-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/newsletter/benchmark-updates/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/newsletter/opus-5-tops-the-apex-agents-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-tau-airline-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/ace-leaderboard/diy/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/ace-leaderboard/gaming/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/ace-leaderboard/food/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-post-train-bench-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-tau-3-banking-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-tau-retail-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard-1-0/management-consultant-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard-1-0/investment-banking-analyst-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-agents-leaderboard-1-0/corporate-lawyer-agent/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/oss-benchmarks/oss-tau-2-telecom-leaderboard/sample-task/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/ace-leaderboard/shopping/",
+   "kind": "page"
+  }
+ ]
+}

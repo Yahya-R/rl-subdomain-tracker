@@ -1,0 +1,261 @@
+{
+ "domain": "pareto.ai",
+ "live_hosts": 44,
+ "pages": [
+  {
+   "host": "api-staging.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "assets.kikuyu.preview.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "augmentations.pareto.ai",
+   "status": "ok",
+   "url": "https://augmentations.pareto.ai/",
+   "title": "Augmentations Platform",
+   "links": []
+  },
+  {
+   "host": "auth.pareto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "auth.staging.pareto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "beta-development.pareto.ai",
+   "status": "ok",
+   "url": "https://forte-staging.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "beta-test.pareto.ai",
+   "status": "ok",
+   "url": "https://beta-test.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "beta.pareto.ai",
+   "status": "ok",
+   "url": "https://forte.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "discourse.pareto.ai",
+   "status": "ok",
+   "url": "https://discourse.pareto.ai/",
+   "title": "Pareto",
+   "links": []
+  },
+  {
+   "host": "feedback-development.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "feedback.pareto.ai",
+   "status": "ok",
+   "url": "https://feedback.pareto.ai/",
+   "title": "Pareto Expert Feedback",
+   "links": []
+  },
+  {
+   "host": "forte-development.pareto.ai",
+   "status": "ok",
+   "url": "https://forte-staging.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "forte-staging.pareto.ai",
+   "status": "ok",
+   "url": "https://forte-staging.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "forte.pareto.ai",
+   "status": "ok",
+   "url": "https://forte.pareto.ai/",
+   "title": "Pareto.AI | Forte",
+   "links": []
+  },
+  {
+   "host": "forte.preview.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "gdm.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "genesis.research.pareto.ai",
+   "status": "ok",
+   "url": "https://genesis.research.pareto.ai/",
+   "title": "genesis \u00b7 new idea",
+   "links": []
+  },
+  {
+   "host": "googleadsconversion.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "gym-factory.pareto.ai",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Flibrary_name%253DAuth0%2526hd%253Dpareto.ai&dsh=S1764485168%3A1791344183178825&client_id=854906245304-abnep0l4gkipk8ej35vjf9g7rl510lbf.apps.googleusercontent.com&hd=pareto.ai&o2v=1&redirect_uri=https%3A%2F%2Fpareto-internal-tools-sso.us.auth0.com%2Flogin%2Fcallback&response_type=code&scope=email+profile&service=lso&state=v6lRopMrZpCQ_wXiCxZrbI_aCehKoWPl&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMpf3CnUIycQ1v11qCPl3pNYwtNK2AmHSAIrL8usfpqr65EnkrmSITkuEyZPTWW_dQ9ltGT6ejaTU6BWo9ZoguwJtsgOAXPieDCWyndKyOfTxUnnSLPzNFNlPyDaUuLd_Jb0LAjsRKAbs6zxB1nUiPiTEguGJghY48iN3ET6bieUs_g4wI3LfO_nTA-aBogMO08NUQaFbiTNT8dO1ioGybBYc1gDhaTOHXlYRXUONWQFizPnSSab7Kr7Pr8I1oN1ehoSUjoCRxuxD38XCCQED8HlkfR2-P0D-sg_7TLxWewRHTuzyrDwEhS1puZc-QLv37Vjnke5JEHOTxow7NgUeCLhLtC0MmndwJOnCqNFYbajB2CkXUZuomD-y6-M2CJW2k3xCQKEjOwUt2wLj1hNfy4-PCcZ54Kbt-adtXHTaUpE7Flg3r0iXVOsug_NuWHT4VUpLRiT1oH4yjnMjRYofOrRbuHLoepTZ7P2MdVeOiy4sti-uL2Az_hPnSBA-Brdy_jkxkq%26flowName%3DGeneralOAuthFlow%26as%3DS1764485168%253A1791344183178825%26client_id%3D854906245304-abnep0l4gkipk8ej35vjf9g7rl510lbf.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fpareto-internal-tools-sso.us.auth0.com&rart=ANgoxcduiDyK7M1cUA-PDYJsF8weEPlTXJ7Tpo-KowrGCJ3iFup-RVHHkHH7LxBSAbe8iHpCvGm6l6P9U6Pb7k-CSJZCXASqroHYRKDfh_x82qalFZezyAw",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "hash.pareto.ai",
+   "status": "ok",
+   "url": "https://hash.pareto.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "kikuyu.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "kikuyu.staging.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "llm-gateway.staging.pareto.ai",
+   "status": "ok",
+   "url": "https://llm-gateway.staging.pareto.ai/",
+   "title": "LiteLLM API - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "luna.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "luna.staging.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "neptune.pareto.ai",
+   "status": "ok",
+   "url": "https://neptune.pareto.ai/",
+   "title": "Carbon",
+   "links": []
+  },
+  {
+   "host": "og-image.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "ots.pareto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "pareto.ai",
+   "status": "ok",
+   "url": "https://pareto.ai/",
+   "title": "Pareto AI | Expert data for AGI",
+   "links": []
+  },
+  {
+   "host": "research.pareto.ai",
+   "status": "ok",
+   "url": "https://research.pareto.ai/",
+   "title": "Pareto Research",
+   "links": [
+    {
+     "url": "https://research.pareto.ai/leapbench",
+     "kind": "page",
+     "text": "LEAPBench Evaluating how efficiently frontier LLMs learn across optimization tasks. Explore results\u2192 /leapbench"
+    }
+   ]
+  },
+  {
+   "host": "rl-samples.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "samples.pareto.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sandbox.sentinel.pareto.ai",
+   "status": "ok",
+   "url": "https://sandbox.sentinel.pareto.ai/",
+   "title": "Sentinel Dashboard",
+   "links": []
+  },
+  {
+   "host": "sentinel.pareto.ai",
+   "status": "ok",
+   "url": "https://sentinel.pareto.ai/",
+   "title": "Sentinel Dashboard",
+   "links": []
+  },
+  {
+   "host": "staging.discourse.pareto.ai",
+   "status": "ok",
+   "url": "https://staging.discourse.pareto.ai/",
+   "title": "Pareto",
+   "links": []
+  },
+  {
+   "host": "staging.eqbench.pareto.ai",
+   "status": "ok",
+   "url": "https://staging.eqbench.pareto.ai/",
+   "title": "Project EQB - Emotional Intelligence Benchmarking",
+   "links": []
+  },
+  {
+   "host": "static.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "twilio-slack-sms.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "work-development.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "work-staging.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "work.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.forte.preview.pareto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.pareto.ai",
+   "status": "ok",
+   "url": "https://pareto.ai/",
+   "title": "Pareto AI | Expert data for AGI",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://pareto.ai/blog/designing-robust-human-studies-for-ai-safety-evaluations",
+   "kind": "page"
+  },
+  {
+   "url": "https://pareto.ai/blog/the-ultimate-guide-to-retrieval-augmented-generation-rag",
+   "kind": "page"
+  }
+ ]
+}

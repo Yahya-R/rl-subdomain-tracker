@@ -1,0 +1,359 @@
+{
+ "domain": "risedatalabs.com",
+ "live_hosts": 20,
+ "pages": [
+  {
+   "host": "accounts.comet.risedatalabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "alps.risedatalabs.com",
+   "status": "ok",
+   "url": "https://alps.risedatalabs.com/auth/signin",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "annotations.risedatalabs.com",
+   "status": "ok",
+   "url": "https://annotations.risedatalabs.com/auth/signin",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "arenas.risedatalabs.com",
+   "status": "ok",
+   "url": "https://arenas.risedatalabs.com/login",
+   "title": "RDL ArenaHub",
+   "links": []
+  },
+  {
+   "host": "assistant.risedatalabs.com",
+   "status": "ok",
+   "url": "http://assistant.risedatalabs.com/",
+   "title": "Painel de Gest\u00e3o de Tarefas",
+   "links": []
+  },
+  {
+   "host": "clerk.comet.risedatalabs.com",
+   "status": "ok",
+   "url": "https://clerk.comet.risedatalabs.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "comet.risedatalabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "doom.risedatalabs.com",
+   "status": "ok",
+   "url": "https://doom.risedatalabs.com/auth/signin",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "experts.risedatalabs.com",
+   "status": "ok",
+   "url": "https://experts.risedatalabs.com/",
+   "title": "Talent - Join the world's most innovative AI projects",
+   "links": [
+    {
+     "url": "https://experts.risedatalabs.com/jobs/biology-advanced-life-sciences-ai-evaluation-expert-gutjp",
+     "kind": "page",
+     "text": "apply"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/finance-expert-ai-training-evaluation-global-jvaaq",
+     "kind": "page",
+     "text": "apply"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/finance-expert-ai-training-evaluation-us-canada-europe-8vc04",
+     "kind": "page",
+     "text": "apply"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/math-statistics-ai-evaluation-expert-1u9fj",
+     "kind": "page",
+     "text": "apply"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/media-information-ai-training-specialist-\u2014-task-creation-model-evaluation-piy5c",
+     "kind": "page",
+     "text": "apply"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/physics-chemistry-ai-evaluation-expert-9lvpl",
+     "kind": "page",
+     "text": "apply"
+    }
+   ]
+  },
+  {
+   "host": "experts.staging.risedatalabs.com",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fexperts.staging.risedatalabs.com%252F%26nonce%3Db07da44534540680f3a837818e5e9690af974944e7040a3fc87b969db627d261",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "karakoram.risedatalabs.com",
+   "status": "ok",
+   "url": "https://karakoram.risedatalabs.com/auth/signin",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "risedatalabs.com",
+   "status": "ok",
+   "url": "https://risedatalabs.com/",
+   "title": "Rise Data Labs - High-fidelity data for the real world",
+   "links": []
+  },
+  {
+   "host": "staging-annotations.risedatalabs.com",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging-annotations.risedatalabs.com%252F%26nonce%3Da35194b357291630f03d2d6f89571dbf5a0cd8ce678c568f9f48a3a28569f8f4",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "staging.comet.risedatalabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "staging.risedatalabs.com",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.risedatalabs.com%252F%26nonce%3De2f80f1c7c3cd2834385643fc47be75f29f06569a83abaa0ac441d755afe45b7",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "team.risedatalabs.com",
+   "status": "ok",
+   "url": "https://team.risedatalabs.com/admin",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "team.staging.risedatalabs.com",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fteam.staging.risedatalabs.com%252F%26nonce%3D498bf849323e6f635277512575a5a563816730bc739b85e792ffdcdafed9df82",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "testing.comet.risedatalabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "training.risedatalabs.com",
+   "status": "ok",
+   "url": "https://training.risedatalabs.com/auth/signin",
+   "title": "RDL Academy \u2014 Certifiable training for AI trainers",
+   "links": []
+  },
+  {
+   "host": "www.risedatalabs.com",
+   "status": "ok",
+   "url": "https://risedatalabs.com/",
+   "title": "Rise Data Labs - High-fidelity data for the real world",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://risedatalabs.com/talent/jobs/japanese-language-evaluator-mc0et",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/swedish-language-evaluator-zsgbx",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/portuguese-language-evaluator-abrku",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/biology-advanced-life-sciences-ai-evaluation-expert-gutjp",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/retail-operations-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-aprp0",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/german-language-evaluator-dd7bj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/real-estate-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-2fabh",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/italian-language-evaluator-37fgx",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/math-statistics-ai-evaluation-expert-1u9fj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/turkish-language-evaluator-fy5mt",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert---ai-training-evaluation-global-67822",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/professional-services-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-9a209",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/manufacturing-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-6xke8",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/physics-chemistry-ai-evaluation-expert-9lvpl",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/healthcare/nursing-ai-training-specialist-\u2014-task-creation-model-evaluation-8zl0v",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/government-public-sector-ai-training-specialist-\u2014-task-creation-model-evaluation-wku49",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert-ai-training-evaluation-us-canada-europe-8vc04",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/media-information-ai-training-specialist-\u2014-task-creation-model-evaluation-piy5c",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert-ai-training-evaluation-global-jvaaq",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/french-language-evaluator-hfwbj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/spanish-language-evaluator-zxuca",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/wholesale-sales-operations-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-o8epo",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/solutions/rl-environment",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/solutions/model-evaluation-benchmarking",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/japanese-language-evaluator-mc0et",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/swedish-language-evaluator-zsgbx",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/portuguese-language-evaluator-abrku",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/biology-advanced-life-sciences-ai-evaluation-expert-gutjp",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/retail-operations-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-aprp0",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/german-language-evaluator-dd7bj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/real-estate-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-2fabh",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/italian-language-evaluator-37fgx",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/math-statistics-ai-evaluation-expert-1u9fj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/turkish-language-evaluator-fy5mt",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert---ai-training-evaluation-global-67822",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/professional-services-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-9a209",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/manufacturing-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-6xke8",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/physics-chemistry-ai-evaluation-expert-9lvpl",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/healthcare/nursing-ai-training-specialist-\u2014-task-creation-model-evaluation-8zl0v",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/government-public-sector-ai-training-specialist-\u2014-task-creation-model-evaluation-wku49",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert-ai-training-evaluation-us-canada-europe-8vc04",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/media-information-ai-training-specialist-\u2014-task-creation-model-evaluation-piy5c",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/finance-expert-ai-training-evaluation-global-jvaaq",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/french-language-evaluator-hfwbj",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/spanish-language-evaluator-zxuca",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/talent/jobs/wholesale-sales-operations-ai-training-specialist-\u2014-task-creation-model-evaluation-contract-o8epo",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/solutions/rl-environment",
+   "kind": "page"
+  },
+  {
+   "url": "https://risedatalabs.com/solutions/model-evaluation-benchmarking",
+   "kind": "page"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "domain": "idler.ai",
+ "live_hosts": 9,
+ "pages": [
+  {
+   "host": "api.idler.ai",
+   "status": "ok",
+   "url": "https://api.idler.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "idler.ai",
+   "status": "ok",
+   "url": "https://idler.ai/",
+   "title": "idler",
+   "links": [
+    {
+     "url": "https://airtable.com/appeUzyjnYb9U5jhE/pagBHV2YbO8vu2qsL/form",
+     "kind": "hosted",
+     "text": "Contact"
+    }
+   ]
+  },
+  {
+   "host": "llm.idler.ai",
+   "status": "ok",
+   "url": "https://llm.idler.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "looky.idler.ai",
+   "status": "ok",
+   "url": "https://white-cell-6563.cloudflareaccess.com/cdn-cgi/access/login/looky.idler.ai?kid=574f6a5a24e5f236c2291b522b298308b8583e3324b5f8d6b56ce4783eeb7736&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjYyNjM2YzYxYjkzMTVkMTIwNGZhMTQwYzgyZjI5NjAxZGNlMTJjZjFmODEwMGFjZjZiMjUwNTc3ZWZlNTZlYmEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU3NGY2YTVhMjRlNWYyMzZjMjI5MWI1MjJiMjk4MzA4Yjg1ODNlMzMyNGI1ZjhkNmI1NmNlNDc4M2VlYjc3MzYiLCJob3N0bmFtZSI6Imxvb2t5LmlkbGVyLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5MTQsIm5iZiI6MTc5MTM0NDYxNCwiaWF0IjoxNzkxMzQ0NjE0LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMjJlZTg0Y2FiMTFiNzZhNmIxZmY3ZDE4ZTU5NjBkYjJlNjVkZmJhMWIwOWJiNGUzYWFhY2IzYmY4MWVkZWVhYyJ9.T5RBjPwT6uMjUCS3dlNIw5MtMyxbeCbnglh2kOe2qaWolyqwnqhlgbsCQ6HGONxbwIjiN0XwldFFx386vmCrarEUCVqMk6LzCH_61as4iqHz_UZf5lTpO68NszWIl2hH4WdRs_vQNkWI7RkW0oQ_4-PPGWpyIa2sdqYWTvrQhM46IpeiSW8xEbqsbuUyRqi9MSezdnO26qXxeO6HTQ-37pm9CMAHTcu6VtpTkOjmQaoNNJfkKiYIXST1MCwu5xPPtvmFaSsLALHK8nFYQRo0ixIfgGHjzc4Z8DPOTkFaVKwnKIyUDi6JkOdfRXWIPsEhD_dzcys74CPbAcu2Y8BI7w&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "outreach.idler.ai",
+   "status": "no response"
+  },
+  {
+   "host": "pages.idler.ai",
+   "status": "ok",
+   "url": "https://pages.idler.ai/",
+   "title": "Notion",
+   "links": []
+  },
+  {
+   "host": "security.idler.ai",
+   "status": "ok",
+   "url": "https://security.idler.ai/",
+   "title": "Trust center",
+   "links": []
+  },
+  {
+   "host": "staging.idler.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.idler.ai%252F%26nonce%3D59ad160e2ffb8f8e83e0a2176f2e39e60ef1d60d4ea813b6dce32a0beeabf5ed",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "www.idler.ai",
+   "status": "ok",
+   "url": "https://idler.ai/",
+   "title": "idler",
+   "links": [
+    {
+     "url": "https://airtable.com/appeUzyjnYb9U5jhE/pagBHV2YbO8vu2qsL/form",
+     "kind": "hosted",
+     "text": "Contact"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

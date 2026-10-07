@@ -1,0 +1,78 @@
+{
+ "domain": "normal.ai",
+ "live_hosts": 8,
+ "pages": [
+  {
+   "host": "app.normal.ai",
+   "status": "ok",
+   "url": "https://cadquests.com/",
+   "title": "Quests",
+   "links": []
+  },
+  {
+   "host": "auth.normal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "new.normal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "normal.ai",
+   "status": "ok",
+   "url": "https://normal.ai/",
+   "title": "Normal | Applied research for hardware design",
+   "links": [
+    {
+     "url": "https://normal.ai/leaderboard/cad-arena",
+     "kind": "page",
+     "text": "Leaderboard"
+    }
+   ]
+  },
+  {
+   "host": "portal.normal.ai",
+   "status": "ok",
+   "url": "https://portal.normal.ai/login?next=%2F",
+   "title": "Client portal \u00b7 Normal",
+   "links": []
+  },
+  {
+   "host": "quest.normal.ai",
+   "status": "ok",
+   "url": "https://cadquests.com/",
+   "title": "Quests",
+   "links": []
+  },
+  {
+   "host": "quests.normal.ai",
+   "status": "ok",
+   "url": "https://cadquests.com/",
+   "title": "Quests",
+   "links": []
+  },
+  {
+   "host": "www.normal.ai",
+   "status": "ok",
+   "url": "https://normal.ai/",
+   "title": "Normal | Applied research for hardware design",
+   "links": [
+    {
+     "url": "https://normal.ai/leaderboard/cad-arena",
+     "kind": "page",
+     "text": "Leaderboard"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://normal.ai/leaderboard/cad-arena",
+   "kind": "page"
+  },
+  {
+   "url": "https://normal.ai/leaderboard/cad-arena",
+   "kind": "page"
+  }
+ ]
+}

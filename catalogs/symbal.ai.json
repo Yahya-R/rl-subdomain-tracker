@@ -1,0 +1,184 @@
+{
+ "domain": "symbal.ai",
+ "live_hosts": 25,
+ "pages": [
+  {
+   "host": "ai-texting.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "audio.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "auth.symbal.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "data.symbal.ai",
+   "status": "ok",
+   "url": "https://data.symbal.ai/",
+   "title": "Symbal Voice Collection",
+   "links": []
+  },
+  {
+   "host": "dataset-collection-prod.symbal.ai",
+   "status": "ok",
+   "url": "https://dataset-collection-prod.symbal.ai/",
+   "title": "Symbal Voice Collection",
+   "links": []
+  },
+  {
+   "host": "dataset-collection-qa.symbal.ai",
+   "status": "ok",
+   "url": "https://dataset-collection-qa.symbal.ai/",
+   "title": "Transcript QA Workbench",
+   "links": [
+    {
+     "url": "https://dataset-collection-qa.symbal.ai/analytics",
+     "kind": "page",
+     "text": "Analytics View reports and analytics"
+    },
+    {
+     "url": "https://dataset-collection-qa.symbal.ai/qa",
+     "kind": "page",
+     "text": "QA Tasks Review and manage transcript tasks"
+    }
+   ]
+  },
+  {
+   "host": "dialogue-tree.symbal.ai",
+   "status": "ok",
+   "url": "https://dialogue-tree.symbal.ai/",
+   "title": "Symbal Dialogue Tree",
+   "links": []
+  },
+  {
+   "host": "influencer.symbal.ai",
+   "status": "ok",
+   "url": "https://influencer.symbal.ai/",
+   "title": "Symbal AI \u2014 Nepali Influencer Research",
+   "links": []
+  },
+  {
+   "host": "integration-engine.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "legacy-calling.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "llm.symbal.ai",
+   "status": "ok",
+   "url": "https://symbal.cloudflareaccess.com/cdn-cgi/access/login/llm.symbal.ai?kid=1ca1ee6e76866c82360e9ca57cd9da6de920b60c23e203c7e0b6cccc282764a3&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFmODEzZWEwZTFhM2FiZGZiOGZjNTQ3NGVmMTNlNDFkNzY5Mzg0NjA1YThjOTI2OWU5NGY1ZTc0NzYwNThkNjMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMiLCJob3N0bmFtZSI6ImxsbS5zeW1iYWwuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDkxOSwibmJmIjoxNzkxMzQ0NjE5LCJpYXQiOjE3OTEzNDQ2MTksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJiZmZkZDJlZDdjMGZjNjUzZjVkMWMwMWMzMmMzYWYyNzA2NjcwNGI1ZjQ0ZTQ5NDA0NDBmY2RmZjkyMTdjYTE5In0.Yjdr7BULaYzVBODsKgcuOdQuzuKvKyc2v5B5PBRBNgw7OwIZLOMze1fW3JwqhZI6C0y18kX-6M959HgXneysmWfOqWS1GWIMLWz1p0d8x_LziG9SFsrzSoRMXBUvRFE14Lpp3X78bAPMm6a-sc7tvL1CYQd_vCqxh-9SGfJ7I8n2AYkTe-0hb-0dwvVDbhQgfVSp7aHybgb2Gr4TAm_gfixhLf-TI-aTr2OQdnMsXb-_7sBWtT5XFsodqBCU5VOn6o2qUz94eLbN83fHzYWPfIz-eWpJAK1i6NulynL8FOTsOOVD3MWB3vc6mL8UKiHvCKX6608yJmMrT9zNOubfuw&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": [
+    {
+     "url": "https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=3f116af057f45b81ef604c9465434870759e812a9e73f0ebe4df9e1e363a269b.JTdCJTIyaWF0JTIyJTNBMTc5MTM0NDYyMCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMmxsbS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybjFzMTFMSEt1bkQ1c0VkWm0lMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJiZmZkZDJlZDdjMGZjNjUzZjVkMWMwMWMzMmMzYWYyNzA2NjcwNGI1ZjQ0ZTQ5NDA0NDBmY2RmZjkyMTdjYTE5JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYmMyMDViN2ItM2E3NC00M2JjLWExODAtYzk5MWQzODdmYjNjJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D",
+     "kind": "hosted",
+     "text": "GitHub \u30fb GitHub"
+    }
+   ]
+  },
+  {
+   "host": "nepaliproject.symbal.ai",
+   "status": "ok",
+   "url": "https://nepaliproject.symbal.ai/",
+   "title": "Lovable App",
+   "links": []
+  },
+  {
+   "host": "platform.dev.symbal.ai",
+   "status": "ok",
+   "url": "https://symbal.cloudflareaccess.com/cdn-cgi/access/login/platform.dev.symbal.ai?kid=8cfdc020c0a314fd942cf11fbcd0a68cf067205c9db757eedd6a20503bd9bc1c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFmODEzZWEwZTFhM2FiZGZiOGZjNTQ3NGVmMTNlNDFkNzY5Mzg0NjA1YThjOTI2OWU5NGY1ZTc0NzYwNThkNjMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMiLCJob3N0bmFtZSI6InBsYXRmb3JtLmRldi5zeW1iYWwuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDkxOSwibmJmIjoxNzkxMzQ0NjE5LCJpYXQiOjE3OTEzNDQ2MTksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJlNjY4YWE1OTU4ZTYzMmY2NTJjOGM5OTQzNGM2MGQ4ZWJkNGU3MWY5YzIwOTMyNGJkN2M3MGEwNDJiZGUyYmQ3In0.huSfTE6LvmjGqzJhKWpHxappZPHxGKcWJgoQuKqWrtfSERAgrFqALRkvUNAoF7BCRjXDFtaBgk6RS52w-qDdP7clvnuYv--zy0p89oNqqtSHCAFGnh8WR0HLToCiEnAz1zRA8d_0-Fyt8OHP42Zx8o9z0IDCQOuYw2IEB3cM5tDCT4KBGprBp1Cp4p7wN40hu7c57vw52kpGogswDMIjrzZ5iK9vg1f_goJYo7CE8Ls8LaJNRHvrJtXMV-Fg_GKJ5baQUaQZsMg-5XkW-yEQqkqNliHHdl1buUDwlEWDz-Q13O423hV4cagl2yM07AvR7DyLZr4D0sBT_jajo5Ix2A&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": [
+    {
+     "url": "https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=e293e11a338527d2213a54240f971c5ed97ecf054c530c8b7c616d6e086038f9.JTdCJTIyaWF0JTIyJTNBMTc5MTM0NDYyMCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnBsYXRmb3JtLmRldi5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybnJrc0J3S29va29OeEMxdTclMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJlNjY4YWE1OTU4ZTYzMmY2NTJjOGM5OTQzNGM2MGQ4ZWJkNGU3MWY5YzIwOTMyNGJkN2M3MGEwNDJiZGUyYmQ3JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyMGUyNzcwMzgtMWEyNi00NmU3LTllMDMtMDI2YmJmOWJjZTIwJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D",
+     "kind": "hosted",
+     "text": "GitHub \u30fb GitHub"
+    }
+   ]
+  },
+  {
+   "host": "platform.symbal.ai",
+   "status": "ok",
+   "url": "https://platform.symbal.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "realworldfinance.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-api-development.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-api.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-platform-dev.symbal.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sourcing-platform.symbal.ai",
+   "status": "ok",
+   "url": "https://sourcing-platform.symbal.ai/",
+   "title": "query-refine-reveal",
+   "links": []
+  },
+  {
+   "host": "symbal.ai",
+   "status": "ok",
+   "url": "https://www.symbal.ai/",
+   "title": "Symbal - Frontier AI from Data to Deployment",
+   "links": []
+  },
+  {
+   "host": "task-factory.symbal.ai",
+   "status": "ok",
+   "url": "https://symbal.cloudflareaccess.com/cdn-cgi/access/login/task-factory.symbal.ai?kid=6398444c32ab459cb331939ccd57054fa07019fd1ecf0dfafbdd0c1974e51a4d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFmODEzZWEwZTFhM2FiZGZiOGZjNTQ3NGVmMTNlNDFkNzY5Mzg0NjA1YThjOTI2OWU5NGY1ZTc0NzYwNThkNjMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQiLCJob3N0bmFtZSI6InRhc2stZmFjdG9yeS5zeW1iYWwuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDkyMCwibmJmIjoxNzkxMzQ0NjIwLCJpYXQiOjE3OTEzNDQ2MjAsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIxNDE0MzcxZDBjNTJhZmQ2NDc3ODBlYWY2ZmEwNTkyN2JjMTBjYmQzMDMzOGRmOTgzYzk4M2YwMTBmODc5ZmZhIn0.l5Hhg4C1OloLvd1x68qdDMp8yUOnzPCtlKBA9kSeOJ6RVJokB-rJQQUsrxJByJjxOLSTFTemZGrFEAWADD3cSRxtdQmdOQuW2iV5Bi125O5HY3N6r5FUA4xBPehjoXQefDcJP0TxTLqG3qR3Euw0B43AUIL64omZpU29RBNNDqQnglFc_jrykK5LSdlw2U-NceP1gctKMNb4woDvbf8M_nG-X5ofQjdyaRvnITndA736axZZ0iuZRvcvNMwlS3SD5IYLMipCof3G8tlSOUokKC29rVGPqOy_KE-48qw35ugmY83Gk7B1hkKihQgKzD1dOPSxL-OOBTQ5iFQbMp3emA&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": [
+    {
+     "url": "https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=ad4197fbcd5fc11fd44790b5985c902caee47a643538f666c716919542d39368.JTdCJTIyaWF0JTIyJTNBMTc5MTM0NDYyMSUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnRhc2stZmFjdG9yeS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybkdUTEcweFlScDhyU3NWTmMlMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjIxNDE0MzcxZDBjNTJhZmQ2NDc3ODBlYWY2ZmEwNTkyN2JjMTBjYmQzMDMzOGRmOTgzYzk4M2YwMTBmODc5ZmZhJTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyOWY4ZmFmMTItNGExNy00ODRkLWExMDItNzAyYzYxZDAwYWIzJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D",
+     "kind": "hosted",
+     "text": "GitHub \u30fb GitHub"
+    }
+   ]
+  },
+  {
+   "host": "trust.symbal.ai",
+   "status": "ok",
+   "url": "https://trust.symbal.ai/",
+   "title": "Symbal AI | Trust Center | Powered by Akitra",
+   "links": []
+  },
+  {
+   "host": "url.symbal.ai",
+   "status": "ok",
+   "url": "https://url.symbal.ai/docs",
+   "title": "Scalar API Reference",
+   "links": []
+  },
+  {
+   "host": "voice-chatbot.symbal.ai",
+   "status": "ok",
+   "url": "https://voice-chatbot.symbal.ai/",
+   "title": "RAG VOICE AI",
+   "links": []
+  },
+  {
+   "host": "www.symbal.ai",
+   "status": "ok",
+   "url": "https://www.symbal.ai/",
+   "title": "Symbal - Frontier AI from Data to Deployment",
+   "links": []
+  }
+ ],
+ "sitemap_hits": []
+}

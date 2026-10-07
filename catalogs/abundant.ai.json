@@ -1,0 +1,67 @@
+{
+ "domain": "abundant.ai",
+ "live_hosts": 10,
+ "pages": [
+  {
+   "host": "abundant.ai",
+   "status": "ok",
+   "url": "https://www.abundant.ai/",
+   "title": "abundant",
+   "links": []
+  },
+  {
+   "host": "api.abundant.ai",
+   "status": "no response"
+  },
+  {
+   "host": "audio.abundant.ai",
+   "status": "ok",
+   "url": "https://audio.abundant.ai/",
+   "title": "audio-score-showdown",
+   "links": []
+  },
+  {
+   "host": "blog.abundant.ai",
+   "status": "ok",
+   "url": "https://blog.abundant.ai/",
+   "title": "Abundant \u2014 Blog",
+   "links": []
+  },
+  {
+   "host": "docs.abundant.ai",
+   "status": "no response"
+  },
+  {
+   "host": "platform.abundant.ai",
+   "status": "no response"
+  },
+  {
+   "host": "review.abundant.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sim.abundant.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tasking.abundant.ai",
+   "status": "ok",
+   "url": "https://tasking.abundant.ai/",
+   "title": "Abundant Tasking Platform",
+   "links": []
+  },
+  {
+   "host": "www.abundant.ai",
+   "status": "ok",
+   "url": "https://www.abundant.ai/",
+   "title": "abundant",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://abundant.ai/blog/swe-benchmark-state/",
+   "kind": "page"
+  }
+ ]
+}

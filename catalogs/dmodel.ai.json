@@ -1,0 +1,40 @@
+{
+ "domain": "dmodel.ai",
+ "live_hosts": 3,
+ "pages": [
+  {
+   "host": "dmodel.ai",
+   "status": "ok",
+   "url": "https://dmodel.ai/",
+   "title": "dmodel.ai",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLScyJSOpvINAfKiqBS-llUJu0eP6JvVtbA9D3JsYmwwlHJyqxA/viewform?usp=preview",
+     "kind": "hosted",
+     "text": "Hiring Interest Form"
+    }
+   ]
+  },
+  {
+   "host": "fleet.dmodel.ai",
+   "status": "ok",
+   "url": "https://fleet.dmodel.ai/",
+   "title": "Fleet",
+   "links": []
+  },
+  {
+   "host": "www.dmodel.ai",
+   "status": "ok",
+   "url": "https://dmodel.ai/",
+   "title": "dmodel.ai",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLScyJSOpvINAfKiqBS-llUJu0eP6JvVtbA9D3JsYmwwlHJyqxA/viewform?usp=preview",
+     "kind": "hosted",
+     "text": "Hiring Interest Form"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

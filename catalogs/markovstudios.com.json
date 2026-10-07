@@ -1,0 +1,81 @@
+{
+ "domain": "markovstudios.com",
+ "live_hosts": 4,
+ "pages": [
+  {
+   "host": "cdn.markovstudios.com",
+   "status": "no response"
+  },
+  {
+   "host": "markovstudios.com",
+   "status": "ok",
+   "url": "https://www.markovstudios.com/",
+   "title": "Markov | Data for Computer-Use AI",
+   "links": [
+    {
+     "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
+     "kind": "hosted",
+     "text": "10,000+ hoursComputer-use recordingsReal workflows across Salesforce, Blender, Photoshop, and more.View dataset"
+    },
+    {
+     "url": "https://huggingface.co/datasets/markov-ai/gaming-500-hours",
+     "kind": "hosted",
+     "text": "500+ hoursGaming dataScreen recordings with synchronised mouse and keyboard inputs across Valorant, Minecraft, GTA, and "
+    },
+    {
+     "url": "https://huggingface.co/markov-ai",
+     "kind": "page",
+     "text": "150k+ downloads on HuggingFace"
+    },
+    {
+     "url": "https://www.markovstudios.com/research/cad-environments",
+     "kind": "page",
+     "text": "Samples"
+    },
+    {
+     "url": "https://www.markovstudios.com/workflow_samples",
+     "kind": "page",
+     "text": "Data samples"
+    }
+   ]
+  },
+  {
+   "host": "samples.markovstudios.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.markovstudios.com",
+   "status": "ok",
+   "url": "https://www.markovstudios.com/",
+   "title": "Markov | Data for Computer-Use AI",
+   "links": [
+    {
+     "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
+     "kind": "hosted",
+     "text": "10,000+ hoursComputer-use recordingsReal workflows across Salesforce, Blender, Photoshop, and more.View dataset"
+    },
+    {
+     "url": "https://huggingface.co/datasets/markov-ai/gaming-500-hours",
+     "kind": "hosted",
+     "text": "500+ hoursGaming dataScreen recordings with synchronised mouse and keyboard inputs across Valorant, Minecraft, GTA, and "
+    },
+    {
+     "url": "https://huggingface.co/markov-ai",
+     "kind": "page",
+     "text": "150k+ downloads on HuggingFace"
+    },
+    {
+     "url": "https://www.markovstudios.com/research/cad-environments",
+     "kind": "page",
+     "text": "Samples"
+    },
+    {
+     "url": "https://www.markovstudios.com/workflow_samples",
+     "kind": "page",
+     "text": "Data samples"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": []
+}

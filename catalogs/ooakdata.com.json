@@ -1,0 +1,183 @@
+{
+ "domain": "ooakdata.com",
+ "live_hosts": 21,
+ "pages": [
+  {
+   "host": "admin.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/admin.ooakdata.com?kid=6e01b54d027dbed90f3eaee4dc268fffc877741e8dd8e9caf43448e1c2c60415&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjZlMDFiNTRkMDI3ZGJlZDkwZjNlYWVlNGRjMjY4ZmZmYzg3Nzc0MWU4ZGQ4ZTljYWY0MzQ0OGUxYzJjNjA0MTUiLCJob3N0bmFtZSI6ImFkbWluLm9vYWtkYXRhLmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxMzQ0OTY2LCJuYmYiOjE3OTEzNDQ2NjYsImlhdCI6MTc5MTM0NDY2NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjIwNmQzOTJjZjlmN2JjNDY3NzcyYTIyMzQ1ZWNkNjBhM2FkMzI1MDIyMmIwODY1MzU1MDQ1Njc1ZjI1NmQ0MjkifQ.MTskSHDwyLSvym7OEp_qVHS5dxxlGEqKMMh_UAJAZuDdYcsnRNigDPKX-suVYLzU-bPdCLaoAgSw4ONdujsXaMw-OcSa-fplgfMjdJAb1vrvD9t1wVmaxQ_65ISrmzhaNMYfPqoIBpaLfw4n8hm8SZH0i7uO3yY-u6uz2Rd9YhryoNNeAyCTd_lL46j_7Qf3_N92F0FuKiZGJn0k0e3c1AnM30iAdUK3KyiBKv2gxVJUNMPMRHNbC1hVcHkR0E2A7eDiLycxgUJ5NIPwV7OT1eBWIx1TbBo4UJGyA06HLC9_FdctqdFCBznW062a9PcL30-wfSezJp-PUkMLTY3lVg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "apex-explorer.ooakdata.com",
+   "status": "ok",
+   "url": "https://apex-explorer.ooakdata.com/",
+   "title": "APEX Explorer - Benchmark Browser",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2601.14242",
+     "kind": "hosted",
+     "text": "APEX-Agents"
+    },
+    {
+     "url": "https://github.com/Mercor-Intelligence/archipelago",
+     "kind": "hosted",
+     "text": "Code"
+    },
+    {
+     "url": "https://huggingface.co/datasets/mercor/apex-agents",
+     "kind": "hosted",
+     "text": "Data"
+    },
+    {
+     "url": "https://www.mercor.com/apex/apex-agents-leaderboard/",
+     "kind": "page",
+     "text": "Results"
+    }
+   ]
+  },
+  {
+   "host": "arxiv.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/arxiv.ooakdata.com?kid=a6e810782552177719f2a7eaf22a79b1f106c6cb29f35060dc5c566bcfd5546c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImE2ZTgxMDc4MjU1MjE3NzcxOWYyYTdlYWYyMmE3OWIxZjEwNmM2Y2IyOWYzNTA2MGRjNWM1NjZiY2ZkNTU0NmMiLCJob3N0bmFtZSI6ImFyeGl2Lm9vYWtkYXRhLmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxMzQ0OTY2LCJuYmYiOjE3OTEzNDQ2NjYsImlhdCI6MTc5MTM0NDY2NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjFhYzAwNTQ1YTUxNzRmYjAxOGFiZTNlODAwYzlhNDc1YmUwOTY4MzUyMDVkNWQyMGFlNDA5NjZkODUxZmJmYWEifQ.KDS0JUkP4dsVH0wFmE_zyBzU1WFpYl9oVsj11r_uMoRxLPMnbHam_d9n9KGKVXpEtLlGoxNAVDBF34hJc5-O-VF5ze6s5UtcPNw7MKKl9DBKThBJXjgf8-B7ZAFJHEK0XLP4_ZwT4i1iRWv47suLa8qrOkvvns1v1ZxL28iMNIkynpgGgFkkY56ycP7ivj1tO0YmSfXaiVBumCRofy9HFoDu2TJqXSjs8s8-cv2GJhjnQdZNTTbI2ZP90pBGNsBCcYO39D6WhdIKZuE35g2odi_0k4ZPFtaCildGLS7y6uUlXmzYHIFSaxaziWPvZalV-aEXFDNmsR-RhKvbJEA6_A&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "docs.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/docs.ooakdata.com?kid=e27d494242ef94f988e5acd3552681210c56d0abb18a6a10031c45f922815c35&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImUyN2Q0OTQyNDJlZjk0Zjk4OGU1YWNkMzU1MjY4MTIxMGM1NmQwYWJiMThhNmExMDAzMWM0NWY5MjI4MTVjMzUiLCJob3N0bmFtZSI6ImRvY3Mub29ha2RhdGEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5NjYsIm5iZiI6MTc5MTM0NDY2NiwiaWF0IjoxNzkxMzQ0NjY2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiN2Y3Mjc4NGY2OTRhZjgzNzUzOWY2N2ZiNzQ4MmZlOTMxZjY1N2NiMzA1OTg0MGIzNjcyZDFjMDYyM2VlNTUzMSJ9.W9g10f4s55Rhln_cT5QpMVHqKYsDNNHUBzJWRQJGLNkETK-JtXDCgnuA0r7WmHbaRpiy3RzlMoO2I3yrkfT18A8X0KTfveqr0UECvERvMGl70ykve4b_KaX8uY5fLWKupCzhcwB4TOkWnpew04DfOoSlKl2fFC23ym-HixlnCSljkvsc5A-KkvK92d8r0jIVfAreeqLCcl-frCGr5eM7TH-ghARug72hQHtHucK7dYy8qNrb6NovWYO3onsPXcMt6n8Xh2yS4znbneircIxST-66TrQ_yHXcA4ns-GolvirUDLddQ950sAl_HOZpY1tCk2tNcL4lgOuvkN9RaiBtYg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "eval.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/eval.ooakdata.com?kid=dcc92b5901b9410d7dba92b32aaa6983b82a7415ec20d42cb38fe86700981ae2&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImRjYzkyYjU5MDFiOTQxMGQ3ZGJhOTJiMzJhYWE2OTgzYjgyYTc0MTVlYzIwZDQyY2IzOGZlODY3MDA5ODFhZTIiLCJob3N0bmFtZSI6ImV2YWwub29ha2RhdGEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5NjYsIm5iZiI6MTc5MTM0NDY2NiwiaWF0IjoxNzkxMzQ0NjY2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOTFiYTg5MjE3ZjczMmZhNWZjZGE3NDA2ZWRlYjRkM2NmMWNkZDkyMTAxNzA0YjcxMWVjNjM2MmMzMThkMmI0ZSJ9.EhiM3IL4aJun8sbqwI1v_VIU2VlXb8m5CeCrjt65usiqQbXs0c3HPVN8fVJ51r5-1Vfkj8WHdJIpfiFtJH03LHgN4z0zV9DGnQdDH5ktKifkHSYDlH725rz4cCR_tXtOq16U4abKXQ8vsTbDSMzDMDyCfJ1sITvWtt8V0OzErArhCSXwzl6XLL6u9k9E4RzHV6aIyralAL3i1lyavhtbD2gDISL1UaoeoY8cKe1sO6jNFPa3xCtp9IXi72JJ2BGXzzTJrSGJ0gnHz2T3Xf3hqGv4yuRDs9uLmfa27BPvaFPK45gAJvDVtb0PpUidSI5LnVfPE1fqEjZOBPc0J2uy0g&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "flow.ooakdata.com",
+   "status": "ok",
+   "url": "https://flow.ooakdata.com/login?redirectTo=%2F",
+   "title": "ooakflow launcherSign in \u00b7 ooakflow",
+   "links": []
+  },
+  {
+   "host": "librarian-dev-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/librarian-dev-us.ooakdata.com?kid=7d1ed4e3803ed8378d407b49b29599559d084b13c2405b45fe900a2bf7889505&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjdkMWVkNGUzODAzZWQ4Mzc4ZDQwN2I0OWIyOTU5OTU1OWQwODRiMTNjMjQwNWI0NWZlOTAwYTJiZjc4ODk1MDUiLCJob3N0bmFtZSI6ImxpYnJhcmlhbi1kZXYtdXMub29ha2RhdGEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5NjYsIm5iZiI6MTc5MTM0NDY2NiwiaWF0IjoxNzkxMzQ0NjY2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiODI2Mjc4ZTMyMWM4NWM2MWExMjdjNGM3MDdlY2U2ZDI0NDFlMmFjNDcxZDM3MTNkODkyNzVhMzMwNjA4ZmMzYyJ9.U7WF3IA3y_Ozk_6wiOx60Oz8Z4yFg3-IqnP8hdtQ93s0TW7Y00frstZiw2uNqC-KFwn-c3qU2vKU9hFM-qoXSq8b9DpmgOiumxJWMgxSQOgESZYMps8RyuZXFTYZjriS4OeR4ZbqotZHvfjOf6wI2djgpur8nJUcaC_WALV9zjYqWr7zXRHdmQ5EChL0gue_Shg9XxcKd4LlPIwX6eUSlD1ynjp7P96MIc54ngIuJygjX098ThwNtkgF9XT1PqRlvLM76p0D9cJAI7RzG6BI2NxazsjRYtXidOGlNXsumPGcQlHn1V-RUqjKZJGM6t_YoRnamlJThiOvIjiTXCVWSg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "librarian-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/librarian-us.ooakdata.com?kid=ffb6eba69d0928fad2a9dc3b5e6a13a03028a0010a480e0ff522c9d5f9ce0ae9&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImZmYjZlYmE2OWQwOTI4ZmFkMmE5ZGMzYjVlNmExM2EwMzAyOGEwMDEwYTQ4MGUwZmY1MjJjOWQ1ZjljZTBhZTkiLCJob3N0bmFtZSI6ImxpYnJhcmlhbi11cy5vb2FrZGF0YS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDk2NiwibmJmIjoxNzkxMzQ0NjY2LCJpYXQiOjE3OTEzNDQ2NjYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI0MjczMmU0MDZjNGRhYjIzNWQ3MmI3N2E0MzdlMTM1MmI4N2RmMzdhMjYyMjg5OWVmMDI5NzBkMDJkMjM1MDE5In0.Q-tHMnoha6oss7iRjTjcPubGAyIHsouMbeboCyhjdP1vVJ7934oEPdLxJKC74cV5GSdgTlqgcxDx6y01GjNgNHxsOgjTjfw8n2-U1IjieDBm6Ja0w_6SDKnIKNmZUwweaye51y8oqMU-B3MJrLzbqbCrMrmecDH8UcpDTASpDZBMqet8OjqecfPx1udPdBGZlPdSio2h5FgklappoJSuBs_m-NVJO3QHIa0e4fC6mJS8uXlTNdvos8LG4USggduc3MOQmyHIFr77GMcp_JViIgtuw12vOdGuER2oVK61M9e7pV81KfYW1NC3nUK_mCRxml7qRwLwKlsasVCnMyh56A&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "links.partners.ooakdata.com",
+   "status": "no response"
+  },
+  {
+   "host": "obelus-admin-dev-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/obelus-admin-dev-us.ooakdata.com?kid=724e70fe26ef468e61be25acd2adbc56f4f188496c2bcf08558bc04092c029a3&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjcyNGU3MGZlMjZlZjQ2OGU2MWJlMjVhY2QyYWRiYzU2ZjRmMTg4NDk2YzJiY2YwODU1OGJjMDQwOTJjMDI5YTMiLCJob3N0bmFtZSI6Im9iZWx1cy1hZG1pbi1kZXYtdXMub29ha2RhdGEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5NjcsIm5iZiI6MTc5MTM0NDY2NywiaWF0IjoxNzkxMzQ0NjY3LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNTI4YmI0MGMyN2U5YWFiY2RmZmFmOGZkMjEwZmExZDEyZDg1MjZmOWU0YTUxZTA3NmU5YzM5ZDg5OTc5ZWNjNiJ9.fR0Fvcn6edTMyHU9TybNbEhE3a3OKb1uCAmXOvAcDM1HtVpgqQFr6pEDh307xTxZPJFFsHv2oN0DAS8q3MJRFcdNiyz2-Ij_yw8UkSB-h8qlh_n0JXfbiMP7hXJLKvgBTL3ALxnLi6G_LzEg7YQ7QbJxnFRXutJor5AcZUD8rNxFQ7U8Qo5fuBYp-FyCHwYwd9H2VYegZ1iLucm78aPqY__Wt1MXSncbbqx2NkFWY2IzjLYgW5yj9xm3vPdyUTjiStU7SelAgzExYcWuXIcE1bZJFmNrgKUilRm2Uhw6hlswQeUMR_c-PsOly4XqGRxdkBCooNuMkZbUWSrIqK6eqg&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "obelus-dev-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://obelus-dev-us.ooakdata.com/",
+   "title": "Obelus",
+   "links": []
+  },
+  {
+   "host": "ooakdata.com",
+   "status": "ok",
+   "url": "https://ooakdata.com/",
+   "title": "Ooak Data \u2014 Applied AI Research Lab",
+   "links": []
+  },
+  {
+   "host": "parse.ooakdata.com",
+   "status": "ok",
+   "url": "https://parse.ooakdata.com/",
+   "title": "Parse \u00b7 Ooak Data",
+   "links": []
+  },
+  {
+   "host": "pharos-dev-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/pharos-dev-us.ooakdata.com?kid=ac63c9bb70a85b9d4d98192faa8fa593db309f17e5ed8bfd23bb139e3b94348f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImFjNjNjOWJiNzBhODViOWQ0ZDk4MTkyZmFhOGZhNTkzZGIzMDlmMTdlNWVkOGJmZDIzYmIxMzllM2I5NDM0OGYiLCJob3N0bmFtZSI6InBoYXJvcy1kZXYtdXMub29ha2RhdGEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTEzNDQ5NjcsIm5iZiI6MTc5MTM0NDY2NywiaWF0IjoxNzkxMzQ0NjY3LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOWMyZDE4M2NiOTZlN2M3ZmNmMDM3NTg1ZWJkMjI3OGViMjExODg0ZjUzMjA1NzIzY2ZiOWQwODU1NDcxNDA3OSJ9.Zq-w-WB0QGmexlPhhZ0x5xteRdSbaUXJxmDHfuGTVSKGbtiCkw0UrG1fi6BijGPsRQ1E79d5m8sgjxeeYxlJ23hrQMn9N6fKVkXAVetAwRlRzo_Jc8p6beO2kSYROdOhyb_jXP44kiEYB02qJJOKFouVr8SDK_oYjrFBGfKwceK45ym0oAcWNaf-VZFqRRJoEgN5zqWPUeXM0_8pSc0rTvvNpkgN3VkutKZAi5HYzAoIFr2YQq8mmFyT5CCvkzsQG4X3NL4MAned_9cR4d11QLwvtr6TtCIPOfOw2nw0xxS5Scorf7Tl8Cb98_rOBARANSoIMBYpNxcZa1m-9st7gQ&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "pharos-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/pharos-us.ooakdata.com?kid=b3a818767f0f3a4ec63b7db5c338200455d043bffd39d4322e34b080dcb9c81c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImIzYTgxODc2N2YwZjNhNGVjNjNiN2RiNWMzMzgyMDA0NTVkMDQzYmZmZDM5ZDQzMjJlMzRiMDgwZGNiOWM4MWMiLCJob3N0bmFtZSI6InBoYXJvcy11cy5vb2FrZGF0YS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDk2NywibmJmIjoxNzkxMzQ0NjY3LCJpYXQiOjE3OTEzNDQ2NjcsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI3NGM0NzdlMmYwMTBlZGM3MWNjZGRkZmI2MjM4MzZjYmNkMmVhODYyNDk4MjY5NjMwOTNhNmFlYTAwNzllODAwIn0.AiaKRiYaPMdk3fxS7swaCE_XB7mzDPubasUBNfK0rYVu33bfa9CZMtjVvgUjTX2lv0N8kKlz5GuLsly890IQY17nJc1e9Akvqu6xjBZy45NkMHM_Gi3YjNq3FC6JzgrqqXQDAZlYBYHZwx7MbI8Dqew6MpX7SM_TOMODLaNvuCch7sobLVrKuzygiHiZL7lED5rTdFCPYk7PgoLy0O13o56W0E5EDIy9V8Iu16AUIM_HsPAnybMA_EzGtcKWI7kAQJFUkfsFKA4mumZORv_f-ch51d2BSWNVh_AkMQNRTQkEJ9ZI43FKgd1EBJwlpSGgvvaUUjADKH6pWQi5W-6akQ&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "redact.ooakdata.com",
+   "status": "ok",
+   "url": "https://thomas-53a.cloudflareaccess.com/cdn-cgi/access/login/redact.ooakdata.com?kid=b9f874a5cd224a0cbc8a8a0177aaed17e42bb447c29715456fb72b085c79b7bd&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFiYjg1YjU4YTE0OWIzYWZmNzEyNTcyMzkwMTU4YWI2NzJlNmQ4YmU1NGYwNTJkMzBhMzA0NzI3MDAxOTg1OWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImI5Zjg3NGE1Y2QyMjRhMGNiYzhhOGEwMTc3YWFlZDE3ZTQyYmI0NDdjMjk3MTU0NTZmYjcyYjA4NWM3OWI3YmQiLCJob3N0bmFtZSI6InJlZGFjdC5vb2FrZGF0YS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTM0NDk2NywibmJmIjoxNzkxMzQ0NjY3LCJpYXQiOjE3OTEzNDQ2NjcsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIyMWQ4OGU5YjgyNjMwMzRkYzU1Mzk4NmI5NDllMzA2NDc0MjYxZTJkYzlmMjk3NjI5ODM4Nzc0NDYzMjhjYjg5In0.okN_5bfn2bs-wgLpmqmHZy9M3D5jvHWjBII9cUPag0ZWqlLGd-15BVJoz7msK-kXgFQMaUPTX1zNWZeQs6bStQG9amZ1E445xe-XWTdCd6m39Ma4WAUfyq8yYhHroLQaZvI_Wh7OzPL_YAMSXM5nCL60h4nTNMsn5DvZi6-lDFx6i5y84h7lyRDbAcK-sG96Z1a-3h0iRPgPfLZTga9y-JhNczLyhkqOaEHg1d7AOMp_ZKJiHQS-kJQB5Xii6I7GQdjw5Uqad_Pa6BVRKPIfobz7vZvnIy41v5OiO1eIXYENp3WJO8WVbKEL1EX9U3JPaw_t8LUt8wJ_jcfXEiO-Ow&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "samples.ooakdata.com",
+   "status": "ok",
+   "url": "https://samples.ooakdata.com/login?redirectTo=%2F",
+   "title": "OOAK samplesSign in \u00b7 OOAK samples",
+   "links": [
+    {
+     "url": "https://samples.ooakdata.com/",
+     "kind": "page",
+     "text": "ooakdata OOAK samples"
+    }
+   ]
+  },
+  {
+   "host": "update-dev-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://update-dev-us.ooakdata.com/",
+   "title": "Obelus",
+   "links": []
+  },
+  {
+   "host": "update-us.ooakdata.com",
+   "status": "ok",
+   "url": "https://update-us.ooakdata.com/",
+   "title": "Obelus",
+   "links": []
+  },
+  {
+   "host": "world-viewer-dev.ooakdata.com",
+   "status": "ok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1758264036%3A1791344668908097&client_id=311564713478-qh5f5a482c2b6sj93l0ggqgs6jb9sd3s.apps.googleusercontent.com&code_challenge=4DZP21tzyK5Lj_CQSLTSXM5vert_t4c2Y_jGLxe5Q58&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F311564713478-qh5f5a482c2b6sj93l0ggqgs6jb9sd3s.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEH-12N5wQvomcc-aBd-NPJ79Jp31hmECZrlBlizu7wW4Keuvok9ii10YmO3970K06yywUJi-yIc6d2xpMvInR14dtMckA3Xri0QTzLWwNy9_oxN64WYxJy0BLCwdTjnPfArxQ_YxN6_yeogksCt9BJZ0c4puF6ImWv2idfvzwKc_Xg1GHcCWo8cg9xKBlKSOD1fsVm8z400Q2XBonUU8fJttt9hlbZP2MfJQkdD1WKGbUI6MTmWGyxUHCihxbnkGXE2e-v2FfhAL8ZePpJdXmAcVaLGNLdeocAe-uVqqXJjVvzHnRgQdifWqFzcfTO6uaE04mJD2QFaDYr1zkDWRdPdtafuH8EOughaoBxIT9H5eje3rCz2yatxnp0x70jhOEyNNGcOXBIwEI7I7IZUTANr6grVZ7yHiaXJk2QRBXCKszctVJZkh7lDOKAmd9rhc77fGVsMqvzQBBZziQfsIP571qrSv6v8vlzZsIC4Q3VmRs-8XHmHtA-oqdm6uL7o29RxuVPdOIqUlAcY2iwfP8ocwrWttPNNgjqwRlT6KBKir_eNdE7Zfy8kOFxtKRIjmvGNVDZEjCf2aqe6M7xTjG4V8wbszofbtlsBJGVOK2z3pBLCj3ya7dTMWgmoVrwYW5PBUlU4DG_g98f_zlumxD-XyTkyjYOBAXyCrQ3YkuVWzmAm3Pdp3miQxRwwNS6ZAg4jjCykuW27z9DwXgQjCk_m0q6asN0H63Ip25UCqeThzExNudF-7mP8-G1DGrwi1mkg15bkxjstxN8SUvZdVkgohe4G2g0ORF5_fwzi2SHZOCczC0YxRhMP8GVTVMf--UCXAVNF0roggrulaRhRqIIVk9JTNDmZoiXrDzr9a4_meork0hB9Jt8QE4tT3_WNZhO5P_o8pqHIP6Aj7MCMBgCMy8qlaUfbdFiatXwdl1w_BznoOQW0hdnQtpCOTlgBTRhNaxIkBKG4SjpMWNfAQtvprMFwppKR59IJisU0J2oNFPEM6Nsx3MvrlTD8Kq7Tv3slILi_E7vlJMwXcEXWwItz0iB2aiXXMaxc4UpU98oX6d2ekXpkYyVMjIUgONbP6wmCsozRqjir_BsYyGIr1ARQC_5GXCrRhTAE7W_vEimlFfnw-gAfI9I1It_Hx42RWVVBVCUtF2AqkOFrGZbOElswr1eNjaW45UPqpbq0IXN1Z_Y3JkqEWm&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOjf0uFG8WdKOjqdgKEmxScjizwMWqJ5Pz8TXqcUi7Ro7yalNzAaLR8248HpyjnsGuAltHkXiO5iBWvDSmfs5nYEDKFtjNRMjodnagbrLr0I-sQz-Ox9kYMH4nMXP06WCaedWROtc6pA9Mt08F_Otg3w9nu8X-BUPBFqn7AEeRD0SPkG77YZzkkhxExUl8t1kgQmCOLlISgFOJC4kIEzKcHR4nc47LGP5XyqWNzcQOJRpozzgxXuYcLl_aITEclpRq7sl_jVqAjpP4LxE1CDYiG0UHOpUMnUfEgpUD56F3SU9uObfHFGuZY-wjLhkYsmyUcWrtcNX-PX0DuWDB7M8_buEVMD7R7ltW_9Iu_TNo3QMRuKWoOttVDqoBds7dk8Unhy1qr5brrvrlyZJYp-ovLRM2k5o95yeOSrPHAweIfcPZqblcELD44UAr1mb8FImYi2DcWLyXooUGRqOAh1xKd90pocw%26flowName%3DGeneralOAuthFlow%26as%3DS-1758264036%253A1791344668908097%26client_id%3D311564713478-qh5f5a482c2b6sj93l0ggqgs6jb9sd3s.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdhjQ1PmUBFROBswG-gfv-E6ZeiEJ8ntvogNSxrXKOOCU1SpCnJmKAvKd-k6d50WSfmzXvcSMlEat4WNMsHmJa9SBjHibsG6zkE4i_GQC5ErWOlcgA",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "www.ooakdata.com",
+   "status": "ok",
+   "url": "https://www.ooakdata.com/",
+   "title": "Ooak Data \u2014 Applied AI Research Lab",
+   "links": []
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://ooakdata.com/research/why-synthetic-benchmarks-are-holding-ai-back",
+   "kind": "page"
+  }
+ ]
+}

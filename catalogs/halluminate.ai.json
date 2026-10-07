@@ -1,0 +1,260 @@
+{
+ "domain": "halluminate.ai",
+ "live_hosts": 34,
+ "pages": [
+  {
+   "host": "aa.halluminate.ai",
+   "status": "ok",
+   "url": "https://aa.halluminate.ai/",
+   "title": "Halluminate American Airlines",
+   "links": []
+  },
+  {
+   "host": "admin.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "auth-env.halluminate.ai",
+   "status": "ok",
+   "url": "https://auth-env.halluminate.ai/",
+   "title": "Halluminate Authentication Environment",
+   "links": []
+  },
+  {
+   "host": "azora.halluminate.ai",
+   "status": "ok",
+   "url": "https://azora.halluminate.ai/",
+   "title": "Halluminate",
+   "links": []
+  },
+  {
+   "host": "captcha-env.halluminate.ai",
+   "status": "ok",
+   "url": "https://captcha-env.halluminate.ai/",
+   "title": "Secure Contact Form - Cloudflare Protected",
+   "links": []
+  },
+  {
+   "host": "collab.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "delta.halluminate.ai",
+   "status": "ok",
+   "url": "https://delta.halluminate.ai/",
+   "title": "Halluminate Delta Environment",
+   "links": [
+    {
+     "url": "https://delta.halluminate.ai/modern-slavery.pdf",
+     "kind": "file",
+     "text": "Combatting Modern Slavery (PDF)"
+    }
+   ]
+  },
+  {
+   "host": "ebay.halluminate.ai",
+   "status": "ok",
+   "url": "https://ebay.halluminate.ai/",
+   "title": "Halluminate Environment",
+   "links": []
+  },
+  {
+   "host": "environments.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "experts.halluminate.ai",
+   "status": "ok",
+   "url": "https://www.halluminate.ai/experts",
+   "title": "Apply to Work With Halluminate",
+   "links": []
+  },
+  {
+   "host": "flights.halluminate.ai",
+   "status": "ok",
+   "url": "https://flights.halluminate.ai/",
+   "title": "Halluminate Flights",
+   "links": []
+  },
+  {
+   "host": "good-buy.halluminate.ai",
+   "status": "ok",
+   "url": "https://good-buy.halluminate.ai/",
+   "title": "Halluminate Environment",
+   "links": []
+  },
+  {
+   "host": "google-shopping.halluminate.ai",
+   "status": "ok",
+   "url": "https://google-shopping.halluminate.ai/",
+   "title": "Halluminate Shopping Environment",
+   "links": []
+  },
+  {
+   "host": "greenhouse-databricks-solutions-architect.halluminate.ai",
+   "status": "ok",
+   "url": "https://greenhouse-databricks-solutions-architect.halluminate.ai/trace3/jobs/6709420",
+   "title": "Job Application for Solutions Architect | Databricks/Microsoft Fabric (Remote)",
+   "links": []
+  },
+  {
+   "host": "grounding-env.halluminate.ai",
+   "status": "ok",
+   "url": "https://grounding-env.halluminate.ai/",
+   "title": "Halluminate Grounding Environment",
+   "links": []
+  },
+  {
+   "host": "halluminate.ai",
+   "status": "ok",
+   "url": "https://www.halluminate.ai/",
+   "title": "Home | Halluminate",
+   "links": [
+    {
+     "url": "https://www.halluminate.ai/",
+     "kind": "page",
+     "text": "Our latest benchmark \u2192"
+    },
+    {
+     "url": "https://www.halluminate.ai/blog/due-diligence-bench",
+     "kind": "page",
+     "text": "Read the full benchmark \u2192"
+    }
+   ]
+  },
+  {
+   "host": "hipcamp.halluminate.ai",
+   "status": "ok",
+   "url": "https://hipcamp.halluminate.ai/",
+   "title": "Halluminate Hipcamp Environment",
+   "links": []
+  },
+  {
+   "host": "horizon.halluminate.ai",
+   "status": "ok",
+   "url": "https://horizon.halluminate.ai/",
+   "title": "Horizon",
+   "links": []
+  },
+  {
+   "host": "ibrokeprod.halluminate.ai",
+   "status": "ok",
+   "url": "https://ibrokeprod.halluminate.ai/",
+   "title": "Days Since Last Prod Incident",
+   "links": [
+    {
+     "url": "https://github.com/Halluminate/halluminate/tree/main/incidents",
+     "kind": "hosted",
+     "text": "how this works \u2192"
+    }
+   ]
+  },
+  {
+   "host": "identity-photos.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "japan-airlines.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "kayak.halluminate.ai",
+   "status": "ok",
+   "url": "https://kayak.halluminate.ai/",
+   "title": "Halluminate Kayak Environment",
+   "links": []
+  },
+  {
+   "host": "linkedin.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "marriott.halluminate.ai",
+   "status": "ok",
+   "url": "https://marriott.halluminate.ai/",
+   "title": "Halluminate Marriott Environment",
+   "links": []
+  },
+  {
+   "host": "megamart.halluminate.ai",
+   "status": "ok",
+   "url": "https://megamart.halluminate.ai/",
+   "title": "Halluminate Environment",
+   "links": []
+  },
+  {
+   "host": "momondo.halluminate.ai",
+   "status": "ok",
+   "url": "https://momondo.halluminate.ai/",
+   "title": "Halluminate Momondo Environment",
+   "links": []
+  },
+  {
+   "host": "pe-sample.halluminate.ai",
+   "status": "no response"
+  },
+  {
+   "host": "skyscanner.halluminate.ai",
+   "status": "ok",
+   "url": "https://skyscanner.halluminate.ai/",
+   "title": "Halluminate SkyScanner Environment",
+   "links": []
+  },
+  {
+   "host": "staging.horizon.halluminate.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.horizon.halluminate.ai%252F%26nonce%3De8993ce320d736bd7f68165b870c84b7b3a61424425ee033ce4a821a8b7f5e26",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "travelpedia.halluminate.ai",
+   "status": "ok",
+   "url": "https://travelpedia.halluminate.ai/",
+   "title": "Halluminate | Travelpedia",
+   "links": []
+  },
+  {
+   "host": "trust.halluminate.ai",
+   "status": "ok",
+   "url": "https://trust.halluminate.ai/",
+   "title": "Halluminate Trust Center",
+   "links": []
+  },
+  {
+   "host": "united.halluminate.ai",
+   "status": "ok",
+   "url": "https://united.halluminate.ai/",
+   "title": "Halluminate United Airlines Environment",
+   "links": []
+  },
+  {
+   "host": "www.halluminate.ai",
+   "status": "ok",
+   "url": "https://www.halluminate.ai/",
+   "title": "Home | Halluminate",
+   "links": [
+    {
+     "url": "https://www.halluminate.ai/",
+     "kind": "page",
+     "text": "Our latest benchmark \u2192"
+    },
+    {
+     "url": "https://www.halluminate.ai/blog/due-diligence-bench",
+     "kind": "page",
+     "text": "Read the full benchmark \u2192"
+    }
+   ]
+  },
+  {
+   "host": "yutori.expedia.halluminate.ai",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://halluminate.ai/blog/benchmark",
+   "kind": "page"
+  }
+ ]
+}

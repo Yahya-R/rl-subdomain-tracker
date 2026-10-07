@@ -1,0 +1,441 @@
+{
+ "domain": "surgehq.ai",
+ "live_hosts": 37,
+ "pages": [
+  {
+   "host": "api-a.beta.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-d.beta.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-d.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "app-llmproxy.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "app.surgehq.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "auction-commerce-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "beantownglobe-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "bedrock-proxy.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "calendar.surgehq.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cdn-ag-beta.surgehq.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cdn-ag.surgehq.ai",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cdn-cc-beta.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "cdn-cc.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "cdn-ift.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "cdn-pa.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "cdn-puf.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "chez-paul-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "drdante-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "embeddings.surgehq.ai",
+   "status": "ok",
+   "url": "https://embeddings.surgehq.ai/",
+   "title": "Surge AI | Manifold | A tool to see the shape of your data",
+   "links": []
+  },
+  {
+   "host": "familyconnect-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "files.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "havenmentalhealth-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hellohealth-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "jobhub-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "manifold.surgehq.ai",
+   "status": "ok",
+   "url": "https://manifold.surgehq.ai/",
+   "title": "Surge AI | Manifold | A tool to see the shape of your data",
+   "links": []
+  },
+  {
+   "host": "ots.surgehq.ai",
+   "status": "ok",
+   "url": "https://ots.surgehq.ai/",
+   "title": "Down for maintenance",
+   "links": []
+  },
+  {
+   "host": "reports-s3-dev.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "reports-s3.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "rl-web-proxy.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "status.surgehq.ai",
+   "status": "ok",
+   "url": "https://status.surgehq.ai/",
+   "title": "Surge Status",
+   "links": []
+  },
+  {
+   "host": "storybook.surgehq.ai",
+   "status": "ok",
+   "url": "https://storybook.surgehq.ai/",
+   "title": "Webpack App",
+   "links": []
+  },
+  {
+   "host": "surgehq.ai",
+   "status": "ok",
+   "url": "https://surgehq.ai/",
+   "title": "Surge AI | Human Intelligence for AGI",
+   "links": [
+    {
+     "url": "https://app.surgehq.ai/ots",
+     "kind": "page",
+     "text": "New Frontier data and RL environments, off the shelf .hire-banner{transition-property:color} .hire-banner-arrow{transiti"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks",
+     "kind": "page",
+     "text": "benchmarks"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/antidote",
+     "kind": "page",
+     "text": "Antidote"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/chartography",
+     "kind": "page",
+     "text": "Chartography"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/complex-constraints",
+     "kind": "page",
+     "text": "ComplexConstraints"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/dayjob-finance",
+     "kind": "page",
+     "text": "DAYJOB: FinanceNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/dayjob-healthcare",
+     "kind": "page",
+     "text": "DAYJOB: HealthcareNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/enterprisebench-corecraft",
+     "kind": "page",
+     "text": "EnterpriseBench: CoreCraft"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/gdp-pdf",
+     "kind": "page",
+     "text": "GDP.pdf"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/gdp-xlsx",
+     "kind": "page",
+     "text": "GDP.xlsxNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/handbook",
+     "kind": "page",
+     "text": "HANDBOOK.md"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/hemingway-bench",
+     "kind": "page",
+     "text": "Hemingway-bench"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/riemann-bench",
+     "kind": "page",
+     "text": "Riemann-bench"
+    }
+   ]
+  },
+  {
+   "host": "thetravelbrand-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "udummy-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "wahoo-com.rl-env-web.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "worker-slack-mcp.beta.surgehq.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.surgehq.ai",
+   "status": "ok",
+   "url": "https://surgehq.ai/",
+   "title": "Surge AI | Human Intelligence for AGI",
+   "links": [
+    {
+     "url": "https://app.surgehq.ai/ots",
+     "kind": "page",
+     "text": "New Frontier data and RL environments, off the shelf .hire-banner{transition-property:color} .hire-banner-arrow{transiti"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks",
+     "kind": "page",
+     "text": "benchmarks"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/antidote",
+     "kind": "page",
+     "text": "Antidote"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/chartography",
+     "kind": "page",
+     "text": "Chartography"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/complex-constraints",
+     "kind": "page",
+     "text": "ComplexConstraints"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/dayjob-finance",
+     "kind": "page",
+     "text": "DAYJOB: FinanceNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/dayjob-healthcare",
+     "kind": "page",
+     "text": "DAYJOB: HealthcareNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/enterprisebench-corecraft",
+     "kind": "page",
+     "text": "EnterpriseBench: CoreCraft"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/gdp-pdf",
+     "kind": "page",
+     "text": "GDP.pdf"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/gdp-xlsx",
+     "kind": "page",
+     "text": "GDP.xlsxNEW"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/handbook",
+     "kind": "page",
+     "text": "HANDBOOK.md"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/hemingway-bench",
+     "kind": "page",
+     "text": "Hemingway-bench"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/riemann-bench",
+     "kind": "page",
+     "text": "Riemann-bench"
+    }
+   ]
+  }
+ ],
+ "sitemap_hits": [
+  {
+   "url": "https://surgehq.ai/benchmarks/hemingway-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/enterprisebench-corecraft",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/riemann-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/gdp-pdf",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/antidote",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/complex-constraints",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/handbook",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/chartography",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/dayjob-healthcare",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/dayjob-finance",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/gdp-xlsx",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/advancedif-and-the-evolution-of-instruction-following-benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/anthropic-fable-5-mythos-5-cites-surge-benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/benchmarks-are-broken",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/beyond-clicks-how-neeva-uses-human-evaluation-of-search-quality-to-take-on-google",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/complexconstraints-a-benchmark-for-entangled-instruction-following",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/cross-benchmark-generalization-for-long-horizon-agentic-tasks",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/dall-e-vs-imagen-and-evaluating-astral-codex-tens-3000-ai-bet",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/finance-eval-real-world",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/hellaswag-or-hellabad-36-of-this-popular-llm-benchmark-contains-errors",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/hemingway-bench-ai-writing-leaderboard",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/how-good-is-hugging-faces-bloom-a-real-world-human-evaluation-of-language-models",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/how-we-built-it-openais-gsm8k-dataset-of-8500-math-problems",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/openai-gpt-5-6-gdp-pdf-benchmark",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/riemann-bench-a-benchmark-for-moonshot-mathematics",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/rl-envs-real-world",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/sonnet-4-5-coding-model-evaluation",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/surge-human-evaluation-mai-thinking-1",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/tiktok-vs-instagram-reels-personalized-human-evaluation",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/learn/evaluations",
+   "kind": "page"
+  }
+ ]
+}

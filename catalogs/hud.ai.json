@@ -1,0 +1,176 @@
+{
+ "domain": "hud.ai",
+ "live_hosts": 32,
+ "pages": [
+  {
+   "host": "accounts.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "admin.beta.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "admin.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "admin.legacy.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "admin.staging.hud.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3D9a4da7abfa21a2339c2b3564c6f7ecf58ae91db0f3f10f49c51fd85a67878698",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "api.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "beta.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.beta.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.billing.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "clerk.hud.ai",
+   "status": "ok",
+   "url": "https://clerk.hud.ai/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "clerk.vendor.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "docs.hud.ai",
+   "status": "ok",
+   "url": "https://docs.hud.ai/v6/start",
+   "title": "HUD Documentation - Evaluations and RL Environments.",
+   "links": [
+    {
+     "url": "https://docs.hud.ai/v6/guides/creating-an-environment",
+     "kind": "page",
+     "text": "Creating Environments"
+    },
+    {
+     "url": "https://docs.hud.ai/v6/guides/running-an-eval",
+     "kind": "page",
+     "text": "Evaluating Agents"
+    },
+    {
+     "url": "https://docs.hud.ai/v6/reference/environment",
+     "kind": "page",
+     "text": "Environments"
+    },
+    {
+     "url": "https://github.com/hud-evals/hud-python",
+     "kind": "hosted",
+     "text": "hud-evals/hud-python"
+    },
+    {
+     "url": "https://x.com/hud_evals",
+     "kind": "page",
+     "text": "X"
+    }
+   ]
+  },
+  {
+   "host": "hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "inference.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "legacy.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mc.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "mcp.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "posthud.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "rl.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "shop.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "staging.hud.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3Daa774c97d6c646da440bda00fec2b26ed7f9f9d254c5a5308d0e8c7b0fa0d369",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "telemetry.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "toptal.beta.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "toptal.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "toptal.staging.hud.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftoptal.staging.hud.ai%252F%26nonce%3Dbbebe22c0ea6d7bd61fc6167294ecc0e61272ecc2da3ef6fb780cc8841e5aa8d",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "trust.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vendor.beta.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vendor.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vendor.legacy.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "vendor.staging.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.hud.ai",
+   "status": "no response"
+  },
+  {
+   "host": "www.shop.hud.ai",
+   "status": "no response"
+  }
+ ],
+ "sitemap_hits": []
+}

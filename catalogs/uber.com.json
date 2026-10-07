@@ -1,0 +1,1736 @@
+{
+ "domain": "uber.com",
+ "live_hosts": 257,
+ "pages": [
+  {
+   "host": "a.uber.com",
+   "status": "ok",
+   "url": "https://vouchers.uber.com/c/",
+   "title": "Uber Vouchers",
+   "links": []
+  },
+  {
+   "host": "academy.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b30940fb-8687-429d-87e7-01e6b2238ed0&breeze_local_zone=phx52&next_url=https%3A%2F%2Facademy.uber.com%2F&sm_flow_id=i9tZWqvP&state=UbNzXjJgtikIgMLyUDc3AFMGz82gi96DA7EOP-6F_xA%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "academyforbusiness.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "accessibility.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/about/accessibility/",
+   "title": "Accessibility | UberDownDownDownDownDownDownDownDownDownlinkedinyoutubeinstagramtwitterGlobe",
+   "links": []
+  },
+  {
+   "host": "account-sandbox.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=2a563314-bba6-443a-b2b2-3fa812930be0&breeze_local_zone=phx51&next_url=https%3A%2F%2Faccount-sandbox.uber.com%2F&sm_flow_id=CCPp4ziB&state=roNrzMiECi4kFhfKU8Ck0RUu-xeuGFBJFb8vkgMjRzE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "account.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=e4ea8ee0-e069-4973-a0d3-f1d698dd895e&breeze_local_zone=phx51&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=-AtGP2OM&state=bvRxXqWh_iBwTgC9J1gHcIqui4LQhYkrIaXvgvhAImE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "accounts.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7bae84fc-bd94-4c15-8ec1-c8949042822b&breeze_local_zone=phx51&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=AAIFaxDF&state=jYGa3DborHx5JkK3Vr4GJV3am61940aPlUb33_X9qV8%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "activedirectory-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "activedirectory-sjc1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "adsacademy.uber.com",
+   "status": "ok",
+   "url": "https://adsacademy.uber.com/student/catalog",
+   "title": "Home : Uber Advertising Academy",
+   "links": [
+    {
+     "url": "https://adsacademy.uber.com/student/catalog",
+     "kind": "page",
+     "text": "Skip to main content"
+    },
+    {
+     "url": "https://adsacademy.uber.com/student/catalog/browse",
+     "kind": "page",
+     "text": "All Topics"
+    },
+    {
+     "url": "https://adsacademy.uber.com/student/catalog/list",
+     "kind": "page",
+     "text": "All Activities"
+    },
+    {
+     "url": "https://adsacademy.uber.com/student/catalog/list?category_ids=40843-certificate-programs",
+     "kind": "page",
+     "text": "Certificate Programs"
+    },
+    {
+     "url": "https://adsacademy.uber.com/student/catalog/list?category_ids=40979-advertising-consumer-packaged-goods",
+     "kind": "page",
+     "text": "Advertising Consumer Packaged Goods"
+    }
+   ]
+  },
+  {
+   "host": "advertiser.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9d862ef7-1c67-47a6-ab17-211309f5e74d&breeze_local_zone=phx51&next_url=https%3A%2F%2Fadvertiser.uber.com%2F&sm_flow_id=dqVhle0-&state=sbMZukyLCh0_t5POeSWVgmKBqSxLX_TmH-2hDaNu6tA%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "agent-protal-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b1ba1fa5-e9a4-45d0-a613-0d15bd71b736&breeze_local_zone=phx50&next_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&privileged_op_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&sm_flow_id=qkEwRYwp&state=O42FMiqFBtXX4KSqBaeOYEjoWA7WUHmyu-DEXZsU1kg%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "aisolutions.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "ak04a6qc.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "amp.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "anz-seniors-card.uber.com",
+   "status": "ok",
+   "url": "https://anz-seniors-card.uber.com/",
+   "title": "Uber ANZ Seniors Card Promotionopen",
+   "links": []
+  },
+  {
+   "host": "api-asterisk.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "api-influencer.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "api.uber.com",
+   "status": "ok",
+   "url": "https://developer.uber.com/",
+   "title": "Uber DevelopersThree linesSearch",
+   "links": []
+  },
+  {
+   "host": "aptarchive.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "ar.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/ar/es/",
+   "title": "Ped\u00ed un viaje o registrate como socio conductor | Uber ArgentinaClockChevron down smallClockChevron down smallChevron left smallChevron right smallChe",
+   "links": []
+  },
+  {
+   "host": "assets.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "auth-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth-sandbox.uber.com/prodnext/",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "auth.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "backup.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "base.uber.com",
+   "status": "ok",
+   "url": "https://base.uber.com/",
+   "title": "Base design system",
+   "links": []
+  },
+  {
+   "host": "beacon.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/beacon/",
+   "title": "Uber Beacon | Light the WayYoutubeYoutubeYoutubeYoutubeDownDownDownDownDownDownlinkedinyoutubeinstagramtwitterGlobe",
+   "links": [
+    {
+     "url": "https://www.uber-assets.com/image/upload/v1570665703/Documents/Beacon/Beacon_Digital_User_Manual_190920.pdf",
+     "kind": "file",
+     "text": "Download the user manual"
+    }
+   ]
+  },
+  {
+   "host": "beta.uber.com",
+   "status": "ok",
+   "url": "https://beta.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "biz-eats.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "biz-stage.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "biz.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bizblog.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/blog/business/",
+   "title": "Business | Uber BlogopenlinkedinyoutubeinstagramtwitterGlobe",
+   "links": [
+    {
+     "url": "https://www.uber.com/us/en/blog/uber-supports-congestion-pricing/",
+     "kind": "page",
+     "text": "Uber Supports Congestion Pricing"
+    }
+   ]
+  },
+  {
+   "host": "bizsys.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "blog.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/blog/",
+   "title": "Uber's Latest News & Stories | Uber BlogopenopenlinkedinyoutubeinstagramtwitterGlobe",
+   "links": []
+  },
+  {
+   "host": "bonjour.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bounce.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "brand.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bugbounty.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "business.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7f2eb061-91fc-4be2-9d00-2df0a8dd5d95&breeze_local_zone=phx51&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=9TGWk5S_&state=n66SVP6Tg_ShXQYuiZKJf_98gRqhfBQraEzNb4JgbvU%3D",
+   "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "businesses.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "bz.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "central.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=93c4b346-7d9c-4c10-a10e-0ef71dd91a85&breeze_local_zone=phx52&next_url=https%3A%2F%2Fcentral.uber.com%2Fv2%2F&sm_flow_id=xWCbZ7H9&state=YbNS2zjWeUW_86UwDi6M6Lk2SWUccz8XpNJXk4ZTXCo%3D",
+   "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "chat-support.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=e25a7ad4-eea3-4021-a27d-ed3c01fb1fe5&breeze_local_zone=phx50&next_url=https%3A%2F%2Fchat-support.uber.com%2F&sm_flow_id=u3Ojid5j&state=NaJ4nkhH6AfjIQPt6ajQFEuw9peCf0hlZSNK6nDXIRg%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "cisionone-email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "click.et.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "click.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "client-scaledsolutions.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f2285dcb-24d6-4709-ac74-cdd906d7c49e&breeze_local_zone=phx8&next_url=https%3A%2F%2Fclient-scaledsolutions.uber.com%2F&sm_flow_id=jI765K47&state=0oBfOLoNrIWeoWbL9XMIIBjmjDt7PpnsO0pg8W_msbM%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "clients.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8aa7608e-673b-4850-8a13-52329a7cca88&breeze_local_zone=dca52&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=aLLB7Sju&state=YRcvq0-nNjcWkPRY6VC1CzTj5tlCMs5m0Xg-TXjJbiE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "cloud.et.uber.com",
+   "status": "ok",
+   "url": "https://cloud.et.uber.com/",
+   "title": "Unsubscribe Redirect",
+   "links": []
+  },
+  {
+   "host": "cloudflare-legacy.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cloudflare-weighted.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cloudflare.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-dc1-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-dc1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-ecg.cfe.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-gcp.cfe.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-geo1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-neg-geo.cfe.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-neg.cfe.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-staging-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-staging-dca8.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-staging-sjc1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "comarketing.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "compliance-cdd-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=56a6f9b7-a450-4220-a1e6-b2d5bda938dc&breeze_local_zone=phx51&next_url=https%3A%2F%2Fcompliance-cdd-staging.uber.com%2F&sm_flow_id=PetaTewM&state=e-OrL0d9GRy8ZlilcEmh5q-X3jF0UVIvi6L7iYO_feo%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "conecta.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "contact.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "courier-process-sp.uber.com",
+   "status": "ok",
+   "url": "https://courier-process-sp.uber.com/client/login",
+   "title": "Canal web",
+   "links": []
+  },
+  {
+   "host": "cpg-api-19208a97.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cpg-api-889255d8.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "csp.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "dba.usuppliers.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "dc-dca.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "dc-phx.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "delivery-beta.uber.com",
+   "status": "ok",
+   "url": "https://delivery-beta.uber.com/beta-auth",
+   "title": "Arrow launch",
+   "links": []
+  },
+  {
+   "host": "devbuilds.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "direct.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=288095ab-c9b5-47eb-ac51-f59744161cf1&breeze_local_zone=phx52&next_url=https%3A%2F%2Fdirect.uber.com%2F&sm_flow_id=JKpnBWGd&state=6J5aYtsmsErBY6TiTIxGbx5TED3WTiZ1Xqt7BzF0uL4%3D",
+   "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "docs.uber.com",
+   "status": "ok",
+   "url": "https://www.google.com/a/uber.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/a/uber.com/&followup=https://drive.google.com/a/uber.com/&faa=1",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "drive.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/drive/?city=phoenix",
+   "title": "Drive with Uber: An Alternative to Traditional Driving Jobs | UberChevron downChevron down smallChevron left smallChevron right smallChevron left smal",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-drive-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    }
+   ]
+  },
+  {
+   "host": "drivers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "eats.uber.com",
+   "status": "ok",
+   "url": "https://www.ubereats.com/",
+   "title": "Uber Eats | Food & Grocery Delivery | Order Groceries and Food OnlineArrow launchThree linesArrow launch",
+   "links": [
+    {
+     "url": "https://help.uber.com/ubereats/article/uber-eats-pricing?nodeId=2adbed88-9822-4690-9529-3061c4821755",
+     "kind": "page",
+     "text": "Pricing"
+    }
+   ]
+  },
+  {
+   "host": "email.mgi.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "email.mgm.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "email.mgt.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "eng.uber.com",
+   "status": "ok",
+   "url": "https://eng.uber.com/",
+   "title": "Uber Engineering \u2014 Where the Digital World Meets the Physical One",
+   "links": [
+    {
+     "url": "https://arxiv.org/abs/2602.06223",
+     "kind": "hosted",
+     "text": "ICSE-SEIP 2026 Scaling Mobile Chaos Testing with AI-Driven Test Execution Mobile applications in large-scale distributed"
+    },
+    {
+     "url": "https://github.com/uber-go/automaxprocs",
+     "kind": "hosted",
+     "text": "automaxprocsGo Automatically set GOMAXPROCS to match Linux container CPU quota. 4.8k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/dig",
+     "kind": "hosted",
+     "text": "digGo Reflection based dependency injection toolkit for Go. 4.4k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/fx",
+     "kind": "hosted",
+     "text": "fxGo Dependency injection based application framework for Go. 7.4k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/goleak",
+     "kind": "hosted",
+     "text": "goleakGo Goroutine leak detector for Go. 5.1k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/guide",
+     "kind": "hosted",
+     "text": "Go Style GuideGo The Uber Go Style Guide \u2014 patterns and conventions for writing clean, idiomatic Go. 17.3k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/ratelimit",
+     "kind": "hosted",
+     "text": "ratelimitGo Blocking leaky-bucket rate limit implementation. 4.7k stars"
+    },
+    {
+     "url": "https://github.com/uber-go/zap",
+     "kind": "hosted",
+     "text": "OSS zap \u2014 24.3k stars: Blazing fast structured logging for Go"
+    },
+    {
+     "url": "https://github.com/uber/NullAway",
+     "kind": "hosted",
+     "text": "NullAwayJava Eliminate NullPointerExceptions with low build-time overhead. 4.0k stars330 forks"
+    },
+    {
+     "url": "https://github.com/uber/RIBs",
+     "kind": "hosted",
+     "text": "OSS RIBs \u2014 7.9k stars: Cross-platform mobile architecture framework"
+    },
+    {
+     "url": "https://github.com/uber/baseweb",
+     "kind": "hosted",
+     "text": "Base WebTypeScript React Component library implementing the Base design language. 8.9k stars865 forks"
+    },
+    {
+     "url": "https://github.com/uber/causalml",
+     "kind": "hosted",
+     "text": "CausalMLPython Uplift modeling and causal inference with machine learning algorithms. 5.7k stars852 forks"
+    },
+    {
+     "url": "https://github.com/uber/h3",
+     "kind": "hosted",
+     "text": "H3C Hexagonal hierarchical geospatial indexing system. 6.0k stars556 forks"
+    },
+    {
+     "url": "https://github.com/uber/kraken",
+     "kind": "hosted",
+     "text": "KrakenGo P2P Docker registry capable of distributing TBs of data in seconds. 6.6k stars"
+    },
+    {
+     "url": "https://github.com/uber/react-vis",
+     "kind": "hosted",
+     "text": "react-visJavaScript Data Visualization Components for React. 8.8k stars834 forks"
+    },
+    {
+     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480289597206315011",
+     "kind": "page",
+     "text": "NEWS Uber at the AI Engineer World's Fair: agentic SDLC, GenAI code review, and multimodal evals"
+    },
+    {
+     "url": "https://www.linkedin.com/showcase/uberengineering",
+     "kind": "page",
+     "text": ""
+    },
+    {
+     "url": "https://www.uber.com/blog/database-federation/",
+     "kind": "page",
+     "text": "DATA Database Federation: Decentralized Hive Databases 16,000 datasets in one monolithic Hive metastore meant shared-fat"
+    },
+    {
+     "url": "https://www.uber.com/blog/modernizing-artifact-storage/",
+     "kind": "page",
+     "text": "BACKEND Modernizing Artifact Storage at Uber Uber's decade-old on-prem artifact store \u2014 serving 5+ petabytes of download"
+    }
+   ]
+  },
+  {
+   "host": "engineering.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/blog/engineering/",
+   "title": "Engineering | Uber BlogChevron downChevron down smallopenlinkedinyoutubeinstagramtwitterGlobe",
+   "links": []
+  },
+  {
+   "host": "events.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "experience.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "f.uber.com",
+   "status": "ok",
+   "url": "https://www.uberfreight.com/en-US",
+   "title": "Transportation & logistics solutions | Uber FreightLoadingLoading",
+   "links": [
+    {
+     "url": "https://insights.uberfreight.com/hubfs/UberFreight_Market_Update_Report.pdf",
+     "kind": "file",
+     "text": "Read more"
+    },
+    {
+     "url": "https://www.uberfreight.com/en-US/resources/case-studies",
+     "kind": "page",
+     "text": "Case studies"
+    },
+    {
+     "url": "https://www.uberfreight.com/en-US/resources/ow-gojo-saves-an-average-of-3-4-million-annually-with-uber-freight",
+     "kind": "page",
+     "text": "Read the Case Study"
+    },
+    {
+     "url": "https://www.uberfreight.com/en-US/resources/two-decades-of-progress-how-a-global-chemical-producer-saves-millions-with",
+     "kind": "page",
+     "text": "Read the Case Study"
+    },
+    {
+     "url": "https://www.uberfreight.com/en-US/resources/usg-case-study",
+     "kind": "page",
+     "text": "Read the Case Study"
+    }
+   ]
+  },
+  {
+   "host": "failover.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "feedback.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fpbi8c1t.uber.com",
+   "status": "ok",
+   "url": "https://fpbi8c1t.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "fpfcpn2u.uber.com",
+   "status": "ok",
+   "url": "https://fpfcpn2u.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "free.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "freightcarrier-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=05c147c0-9f00-4b98-9d96-8e71bc47861e&breeze_local_zone=phx50&next_url=https%3A%2F%2Ffreightcarrier-staging.uber.com%2Ffreight%2Fcarriers%2Ffleet%2F&sm_flow_id=Q2aLEGMI&state=cr_CR828wdsTofNQ5RwVL5WGP06zaJypsFE24utfHzw%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "freighttableau.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "fresh.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "frontends-all.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-cloud.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-cloudflare-legacy.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-cloudflare.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-dc.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-mtls-cloudflare-usso.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-mtls-gcp-usso.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends-primary.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontends.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "frontier-ivr.uber.com",
+   "status": "ok",
+   "url": "https://frontier-ivr.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "g.uber.com",
+   "status": "ok",
+   "url": "https://weblogin.grab.com/passenger/login?auth_endpoint=https%3A%2F%2Fpartner-api.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fauthorize&browser=Unknown%3A0.0&client_id=8c7b27d66e1142d1aa4565b1f7156fdf&code_challenge=kN3gXyW_2T-5DtEb6qMsVePdoF_Y3HDGIhTt9BGvJ1Y&code_challenge_method=S256&ctx_id=68f9f48f07b34dc1a19d82c977a8cffe&device_type=Unknown&forwardedHost=partner-api.grab.com&gw=pgw&login_method=pax&redirect=https%3A%2F%2Fauth.uber.com%2Foauth%2Fbridge%2Fcallback&request_id=a9331841-ce9a-462e-b6ca-e8f8689f6894&response_type=code&scope=mobile.datasharing.uber%20trust.riskdata&service_id=PASSENGER&state=8640dd14a739b788",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "geo-frontends-all-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "geo-frontends-all-phx2.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "gighub-telephony.uber.com",
+   "status": "ok",
+   "url": "https://gighub-telephony.uber.com/",
+   "title": "Uber AI Solutions",
+   "links": []
+  },
+  {
+   "host": "gighub.uber.com",
+   "status": "ok",
+   "url": "https://gighub.uber.com/",
+   "title": "Uber Gighub",
+   "links": []
+  },
+  {
+   "host": "googlefffffffffbdedc85.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "groove.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gslink.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "guest.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0867116a-a32d-4950-a5a7-0fb2678ef830&breeze_local_zone=dca52&next_url=https%3A%2F%2Fguest.uber.com%2F&sm_flow_id=DN50n_oD&state=NhM9Np6XMc4_boZbmnaUjIch-0TdvQ0N_-kui2AxiTQ%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "health-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=092e51ff-0755-4a8d-aa88-bf4bb38eba26&breeze_local_zone=phx52&next_url=https%3A%2F%2Fhealth-staging.uber.com%2Fv2%2F&sm_flow_id=eSfH2Lu2&state=SNxPiebht0vJnMFTklYUvhTZnReSnBXaMZ7r5dtpOOc%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "health.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=33941989-e413-4e0a-9504-c68333c85cd4&breeze_local_zone=phx52&next_url=https%3A%2F%2Fhealth.uber.com%2Fv2%2F&sm_flow_id=H53Hd44D&state=e8d6Efld76-zHKWRX0r5NPE6t_FYNk3FlK42RBpGDUE%3D",
+   "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "help.uber.com",
+   "status": "ok",
+   "url": "https://help.uber.com/",
+   "title": "Uber Support & Customer Service | Uber HelpCar FrontSteering WheelRestaurantWineScooterBriefcaseCar Curb OutlinedTruckTrafficFacebookTwitterYoutubeLin",
+   "links": []
+  },
+  {
+   "host": "hopping-bunny-hop-test.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "hopping-bunny-test.uber.com",
+   "status": "ok",
+   "url": "https://hopping-bunny-test.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "hopping-rabbit-hop-test.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "hopping-rabbit-test.uber.com",
+   "status": "ok",
+   "url": "https://hopping-rabbit-test.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "image.et.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "in.gighub.uber.com",
+   "status": "ok",
+   "url": "https://in.gighub.uber.com/",
+   "title": "Uber Gighub",
+   "links": []
+  },
+  {
+   "host": "influencer.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "influencerlogin.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "influencerreports.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "investor.uber.com",
+   "status": "ok",
+   "url": "https://investor.uber.com/home/default.aspx",
+   "title": "Uber Technologies, Inc. - Investor Relations | Uber",
+   "links": []
+  },
+  {
+   "host": "io.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "ittools01-dmz1.prod.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "jenkins-master01-sjc1.prod.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "jobs.uber.com",
+   "status": "ok",
+   "url": "https://jobs.uber.com/en/",
+   "title": "Uber Careers",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdb_Y9Bv8-lWDMbpidF2GKXsxzNh11wUUVS7fM1znOfEJsVeA/viewform",
+     "kind": "hosted",
+     "text": "this form"
+    },
+    {
+     "url": "https://drive.google.com/file/d/1AnjIsLGwKoyv-aVZIc6ljkTQPqMIat6z/view?uclick_id=4b00023b-22c6-4100-a761-0cd64252b264",
+     "kind": "hosted",
+     "text": "Know Your Rights: Workplace Discrimination is Illegal"
+    }
+   ]
+  },
+  {
+   "host": "join.uber.com",
+   "status": "ok",
+   "url": "https://jobs.uber.com/en/",
+   "title": "Uber Careers",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdb_Y9Bv8-lWDMbpidF2GKXsxzNh11wUUVS7fM1znOfEJsVeA/viewform",
+     "kind": "hosted",
+     "text": "this form"
+    },
+    {
+     "url": "https://drive.google.com/file/d/1AnjIsLGwKoyv-aVZIc6ljkTQPqMIat6z/view?uclick_id=4b00023b-22c6-4100-a761-0cd64252b264",
+     "kind": "hosted",
+     "text": "Know Your Rights: Workplace Discrimination is Illegal"
+    }
+   ]
+  },
+  {
+   "host": "jump.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "kerberos.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "lab.usuppliers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lantern-experiment.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "lert.uber.com",
+   "status": "ok",
+   "url": "https://lert.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "link.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "lobby-cms.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "logs.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "m2.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=ca48cd7c-9da1-4edc-8fe2-9770c68d7304&breeze_local_zone=phx51&next_url=https%3A%2F%2Fhelix-go-webview.uber.com%2Fgo%2Fhome%3Fredirect_referer%3Dm2.uber.com%252F&sm_flow_id=nfEp-ykl&state=hYq68cAfm0_pij9OsAIf6KI2KiojBjw5CO6pz-XN5iM%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "mail.uber.com",
+   "status": "ok",
+   "url": "https://www.google.com/a/uber.com/ServiceLogin?service=mail&passive=true&continue=https://mail.google.com/mail/&ss=1&ltmpl=default&ltmplcache=2&emr=1&osid=1",
+   "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "management-courier-process-sp.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "management-settlement-nl.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "marketplace.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=ZWU5MDRlMDdlNjZlZDg2ZjdhOTc2MjZiYTI2NGY0MWI6MUxPOGZENzN3UGtSU1d5NzpIT0pGdXYrRjdGNTlxcWdGa08rc0lyTFhUL09jNTdhQ1BNUkRFRnJNSjI4Skk4bU5kWUprVjBTQ2IzL1NSVU9RSDJxOXYyQUFaM01MdjVIdnJ0aG83d1NaRkE3dXMwajI5cGVHVFQ0WEVkRjA5d2Uzd1M5S01MSytkcTVobGhLcWpIT1BQeUJJbUg1RlNJNmRURmt5Zm93NTdQamNLSVROZVJKaXRGYmlVZVpaYWtpcG5GcW9ZVTFocXlzUXpkMWE5Y3NnMjZuS1JSTEhCbXRHSFVYNnMyMlZWUnhHdE9PQVRCcERHSUNEV1ZwSzlheVVGUT09Om1wNUtMY0hUY3hIblBlb2c3YTI0NXc9PQ%3D%3D",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "merchants.uber.com",
+   "status": "ok",
+   "url": "https://merchants.ubereats.com/",
+   "title": "Become an Uber Eats Merchant Partner | Uber EatsLeftRightlinkedinyoutubeinstagramtwitterGlobe",
+   "links": [
+    {
+     "url": "https://merchants.ubereats.com/us/en/pricing/",
+     "kind": "page",
+     "text": "Pricing"
+    }
+   ]
+  },
+  {
+   "host": "messages.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=91b7ad86-a4cd-4007-ade0-344da45c6974&breeze_local_zone=phx51&next_url=https%3A%2F%2Fmessages.uber.com%2F&sm_flow_id=qs9vJySu&state=m5WjX05vqh9bJDJGQyiy5WoPNoAe-Ev_anfl0EHZkJk%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "mobile-content.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "movement-preprod.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=96e2621d-f2f3-4de6-b168-71d304f9f86c&breeze_local_zone=phx8&next_url=https%3A%2F%2Fmovement-preprod.uber.com%2F&sm_flow_id=JSy5luxn&state=ror5A5-lkYd29amefiqT3qZ4pRS0-MCZ1FtFf4Ak1xk%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "movement.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=NzhiYTdhNDRmMzc0MTFjYjk5N2ZjYWE4YjI2NDZkNDk6N2Jwd0hTMkdpTkFCRGQxTTpjTmpuMXQ2YWJ0d2JLbGVib2ZQejJWRkxPUkUrMENodGZQOFVCckQ0VkxGYXVXL0V4V04vNGxSN3lmN1ArYjcweEV2N2hWTU4yRjNGTVQ1NVdyczJNODd6NE9renUzajIvVWlteVZaWTM0Y0RKek9pNFZRU1RpRFNtaEwyWS9DZ1pOaUZ3a3FzWE1pK1BCTkJLRUVLang0bFNPeDlOWUMrWURHS0dNYmpjV28wOFYvTlJHd1Y3Rm0vazlRY0d1ZHE0WE1KTG1ndlBPdmVIcU5yYUovdGhOYXZ4bWpMekg2dWlpQXNmTWFpSkN5d2N1YjErcjBLcVc3L2NxL2daZVowOkRGY2RDRXZlM3NlbWNLcXJVaWduVWc9PQ%3D%3D",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "mta12.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta14.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta18.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta23.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta27.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "newsroom.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/newsroom/",
+   "title": "US Latest News | Uber NewsroomopenopenlinkedinyoutubeinstagramtwitterGlobe",
+   "links": [
+    {
+     "url": "https://www.uber.com/us/en/newsroom/media-assets/",
+     "kind": "page",
+     "text": "Media assetsOfficial Uber photos, logos, and assets available for download. Official Uber photos, logos, and assets avai"
+    }
+   ]
+  },
+  {
+   "host": "o.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "o11.email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "o14.email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "o17.email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "org.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "p.uber.com",
+   "status": "ok",
+   "url": "https://www.ubereats.com/ch",
+   "title": "Uber Eats | Order Restaurant Food, Groceries, and More for Delivery - Online LoginArrow launch",
+   "links": []
+  },
+  {
+   "host": "pac.uber.com",
+   "status": "ok",
+   "url": "https://pac.uber.com/sso/?relay_state_url=https%3A%2F%2Fpac.uber.com",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "pages.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "parking-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=19582eb4-1b01-49e4-89d5-d36413f10fb5&breeze_local_zone=phx8&next_url=https%3A%2F%2Fparking-staging.uber.com%2F&sm_flow_id=Jh2BLipX&state=1DUXMBDnaPhlPKeUnuTM0j9mv_RmlA51vJ_MpjkOZ7c%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "payment-providers.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "pending.uber.com",
+   "status": "ok",
+   "url": "https://help.uber.com/riders/article/why-is-there-a-pending-charge-on-my-account-?nodeId=320f2eca-45b7-4b80-ae15-df7edc6d87b1",
+   "title": "Why is there a pending charge on my account? | Riders | Uber HelpX SmallChevron DownSearchFacebookTwitterYoutubeLinkedinInstagram",
+   "links": []
+  },
+  {
+   "host": "people.uber.com",
+   "status": "ok",
+   "url": "https://jobs.uber.com/en/",
+   "title": "Uber Careers",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdb_Y9Bv8-lWDMbpidF2GKXsxzNh11wUUVS7fM1znOfEJsVeA/viewform",
+     "kind": "hosted",
+     "text": "this form"
+    },
+    {
+     "url": "https://drive.google.com/file/d/1AnjIsLGwKoyv-aVZIc6ljkTQPqMIat6z/view?uclick_id=4b00023b-22c6-4100-a761-0cd64252b264",
+     "kind": "hosted",
+     "text": "Know Your Rights: Workplace Discrimination is Illegal"
+    }
+   ]
+  },
+  {
+   "host": "peopletech-stage.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "peopletech.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "photo.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "pilot.ucollect.uber.com",
+   "status": "ok",
+   "url": "https://pilot.ucollect.uber.com/",
+   "title": "Uber Task Hub",
+   "links": []
+  },
+  {
+   "host": "product-platform.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=NTM2YTA5ZGJiOTQxZTI5ZTBhZjZiYmE5ZjliMmNjMzA6dEQwUFNoU0RHVndrYXlyRDp2UWZ6cVZxaUF6UkpKQU4zOTdPVVJkZzNaNENrSVRraytPZGFrVUdTTDVabGIxRHJVd0pGKzhOTWxqV21UbDduREREV3Y5UUhmbWdsblhoUUZacnN5c1BVbmhnNVlESU1iRDczMjFoOFIzMWRFeHFreVdTVUpSSTlpdFJuMFNJRkk5eUd4cW1FUTRpMUJZMjlDQkFseEs5cUVqMFhqTHlCL28xbmxLQ3pvMzVzNkZ3NFJIbW5mTGlGWjZiK3gwNFBFMWcvRVduWiszelhHWHBCdHhacmhDS000T2s9OjBEaVo4NVNTbnlOOEtCWVhMS25mSHc9PQ%3D%3D",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "ptc.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "publicsafety.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "qprevents.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "qr.uber.com",
+   "status": "ok",
+   "url": "https://www.ubereats.com/",
+   "title": "Uber Eats | Food & Grocery Delivery | Order Groceries and Food OnlineArrow launchThree linesArrow launch",
+   "links": [
+    {
+     "url": "https://help.uber.com/ubereats/article/uber-eats-pricing?nodeId=2adbed88-9822-4690-9529-3061c4821755",
+     "kind": "page",
+     "text": "Pricing"
+    }
+   ]
+  },
+  {
+   "host": "ramenphx.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "redeem-beta.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "registration.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "reimagine.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "restaurant-signup-staging.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=ZjY3NGRkZGJmNWNkYTg1MWFmYTE3YjUxZDg1MjhiNDQ6OUQ5SkpwS2thRkJBQjlVeTpucko1cmZHRGhCS2RacWozaXlmQThqTURFbmZWSllWNTZLN2V4cXdBSm5GL3MrUVZQUUhpWGJVVm9SYVJac2FQUVlvYm1UVisrVUNMVkJIWTdWVTBmWHdaVGRrVlIwTUJ6Vks3WGZLd20xSGp2VWhlVVJvRmxnTy93VjBzbC9tNmJiQWk0eFhxbFdSOGZwMnJjc1plQ0x5NEM5d2JpQWRtTS8rUnZhVmw1TmY5UUpiNXYvb0RQQ3pHZWNWdkdvWm56VHhTQ0FtejVBMmZjNGplNThsdUMydmVRS0Y0SkxHeFJ1T0NvN0JFM1dDMTRsSnBZbGhSOFBFb2MvQmMzUT09OlYwbVk3RU10L1lCZjY2SnVlZUZKT0E9PQ%3D%3D",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "restauranthelp.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "restaurants.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=83618485-74cd-4226-8cc3-f0b9403b17d2&breeze_local_zone=phx50&next_url=https%3A%2F%2Fmerchants.ubereats.com%2Fmanager%2F&sm_flow_id=8fuawVJO&state=FmW21ChS655JzOv9tedUV8PmqSzPHcSSIJmtYplLJ8I%3D",
+   "title": "Sign up or Log in with UberUber Eats",
+   "links": []
+  },
+  {
+   "host": "rtc-streaming.dev.oci-me-dubai-1.uber.com",
+   "status": "ok",
+   "url": "https://rtc-streaming.dev.oci-me-dubai-1.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "rtc-streaming.prod.oci-me-dubai-1.uber.com",
+   "status": "ok",
+   "url": "https://rtc-streaming.prod.oci-me-dubai-1.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "rtsp-dev1.uber.com",
+   "status": "ok",
+   "url": "https://rtsp-dev1.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "rtsp-dev2.uber.com",
+   "status": "ok",
+   "url": "https://rtsp-dev2.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "rtsp-sip-dev1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "rtsp-sip-dev2.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "rtsp-sip-staging1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "rtsp-sip-us-west2.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "rtsp-staging1.uber.com",
+   "status": "ok",
+   "url": "https://rtsp-staging1.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "rtsp-turn-dev1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "rtsp-us-west2.uber.com",
+   "status": "ok",
+   "url": "https://rtsp-us-west2.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "sao.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sbx.usuppliers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "scaledsolutions-asmt-staging.uber.com",
+   "status": "ok",
+   "url": "https://scaledsolutions-asmt-staging.uber.com/",
+   "title": "Assessment",
+   "links": []
+  },
+  {
+   "host": "scaledsolutions-asmt.uber.com",
+   "status": "ok",
+   "url": "https://scaledsolutions-asmt.uber.com/",
+   "title": "Assessment",
+   "links": []
+  },
+  {
+   "host": "sd6gx58d.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "settlement-it.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "settlement-nl.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sip-asterisk.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sip.dev.oci-me-dubai-1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sip.prod.oci-me-dubai-1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sit.usuppliers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sli.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "split.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/us/en/ride/how-it-works/split-fare/",
+   "title": "How to Split Fare | Uber Rider AppChevron downChevron down smallDownDownDownDownlinkedinyoutubeinstagramtwitterGlobe",
+   "links": []
+  },
+  {
+   "host": "staging-in.gighub.uber.com",
+   "status": "ok",
+   "url": "https://staging-in.gighub.uber.com/",
+   "title": "Uber Gighub",
+   "links": []
+  },
+  {
+   "host": "staging-pilot.ucollect.uber.com",
+   "status": "ok",
+   "url": "https://staging-pilot.ucollect.uber.com/",
+   "title": "Uber Task Hub",
+   "links": []
+  },
+  {
+   "host": "staging-uais-intake.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "staging-us.gighub.uber.com",
+   "status": "ok",
+   "url": "https://staging-us.gighub.uber.com/",
+   "title": "Uber Gighub",
+   "links": []
+  },
+  {
+   "host": "static.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "summary.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "support.uber.com",
+   "status": "ok",
+   "url": "https://help.uber.com/",
+   "title": "Uber Support & Customer Service | Uber HelpCar FrontSteering WheelRestaurantWineScooterBriefcaseCar Curb OutlinedTruckTrafficFacebookTwitterYoutubeLin",
+   "links": []
+  },
+  {
+   "host": "switchboard-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "t.uber.com",
+   "status": "ok",
+   "url": "https://uber.okta.com/app/uber_shortio_1/exk1wh5vsy4NexXyQ1d8/sso/saml",
+   "title": "uber - Sign In",
+   "links": []
+  },
+  {
+   "host": "t2.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tb-static-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tb-static.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tbgs-static-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tbgs-static.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tbs-static-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tbs-static.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "tdottest1.uber.com",
+   "status": "ok",
+   "url": "https://app.short.io/users/dashboard/206086/links",
+   "title": "Branded links | Short.io",
+   "links": []
+  },
+  {
+   "host": "team.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "together.uber.com",
+   "status": "ok",
+   "url": "https://together.uber.com/",
+   "title": "Together Mentorship Platform",
+   "links": []
+  },
+  {
+   "host": "track.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "tracking.ibi.uber.com",
+   "status": "ok",
+   "url": "https://tracking.ibi.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "tracking.ibm.uber.com",
+   "status": "ok",
+   "url": "https://tracking.ibm.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "tracking.ibt.uber.com",
+   "status": "ok",
+   "url": "https://tracking.ibt.uber.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "turn.rtc-streaming.dev.oci-me-dubai-1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "turn.rtc-streaming.prod.oci-me-dubai-1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "uais-intake.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "uat.usuppliers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uber-com-careers.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=965067e5-03ea-42d6-9369-c3f09d75c404&breeze_local_zone=dca51&next_url=https%3A%2F%2Fuber-com-careers.uber.com%2F&sm_flow_id=IyIw6luY&state=c1MyeCiK3586x0GT7U4ua_FGzkV_NxjxcNcjMx1T6IM%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "ubereats-portal-nl.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "us.gighub.uber.com",
+   "status": "ok",
+   "url": "https://us.gighub.uber.com/",
+   "title": "Uber Gighub",
+   "links": []
+  },
+  {
+   "host": "usuppliers-oci.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "usuppliers.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "v.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "vault-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "vaultfrontend01-dca1.prod.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "view.et.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wallet.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=28348d1d-c298-4792-91a0-b2af38c03060&breeze_local_zone=phx52&next_url=https%3A%2F%2Fwallet.uber.com%2F&sm_flow_id=CLDaEPxL&state=H8xPi-se_m4wTktlipREXDOScAuPGA1B276wLrwdMEE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "webinars.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "x.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "xlb.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=2d63ab45-ba02-4605-b8f8-250104c87e5b&breeze_local_zone=phx52&next_url=https%3A%2F%2Fxlb.uber.com%2F&sm_flow_id=yMzbgnUq&state=r9gJj05Waz-AAirEVBzQU9RXvTMjhzJktYYsjSdBU8g%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "y.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "yunfei-cf-test.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "z.uber.com",
+   "status": "ok",
+   "url": "https://uber.okta.com/app/uber_shortio_1/exk1wh5vsy4NexXyQ1d8/sso/saml",
+   "title": "uber - Sign In",
+   "links": []
+  }
+ ],
+ "sitemap_hits": []
+}
