@@ -690,7 +690,7 @@
  "hud.ai": {
   "sources": {
    "crtsh": 43,
-   "certspotter": null,
+   "certspotter": 24,
    "hackertarget": 0,
    "subdomain_center": 34,
    "wayback": null,
@@ -706,9 +706,8 @@
    "subdomain_center"
   ],
   "complete": true,
-  "last_scan": "2026-10-08T15:43",
+  "last_scan": "2026-10-08T21:33",
   "failed_sources": [
-   "certspotter",
    "wayback"
   ]
  },
@@ -732,7 +731,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-08T15:43",
+  "last_scan": "2026-10-08T21:34",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1038,7 +1037,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-08T15:44",
+  "last_scan": "2026-10-08T21:36",
   "failed_sources": [
    "certspotter",
    "wayback"
