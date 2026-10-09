@@ -2,6 +2,48 @@
 
 ## 2026-10-09
 
+### alignai.co
+- www.alignai.co (34.111.179.208)
+
+### datacurve.ai
+- polaris-e2e-7e754a7e-316e-4ce3-97c0-ed4f5f380f25.datacurve.ai (172.67.191.226)
+- polaris-e2e-bd527551-0724-4442-bf25-e03959dd3a08.datacurve.ai (172.67.191.226)
+- pr-428.mira-machine.datacurve.ai (104.21.20.75)
+- worker-pr-427.mira-machine.datacurve.ai (172.67.191.226)
+- worker-pr-529.mira-machine.datacurve.ai (104.21.20.75)
+
+### joinhandshake.com
+- byui.joinhandshake.com (104.18.42.156)
+- cpp.joinhandshake.com (104.18.42.156)
+- dickinsong.joinhandshake.com (104.18.42.156)
+- handshake-cdni.joinhandshake.com (104.18.42.156)
+- ltu.joinhandshake.com (172.64.145.100)
+- ncf.joinhandshake.com (104.18.42.156)
+- sjfc.joinhandshake.com (172.64.145.100)
+- utsa.joinhandshake.com (104.18.42.156)
+- uwlax.joinhandshake.com (104.18.42.156)
+- www.framingham.joinhandshake.com (172.64.145.100)
+- www.ucdavis.joinhandshake.com (172.64.145.100)
+
+### mercor.com
+- 0-1-11-azure.release.enterprise.mercor.com (no DNS)
+- 0-1-16-azure.release.enterprise.mercor.com (no DNS)
+- 0-1-17-azure.release.enterprise.mercor.com (no DNS)
+- 0-1-18-azure.release.enterprise.mercor.com (no DNS)
+- 0-1-8-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-11-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-9-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-18-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-9-azure.release.enterprise.mercor.com (no DNS)
+
+### micro1.ai
+- api.hd-security.micro1.ai (54.167.72.201)
+
+### scale.com
+- www.redash.scale.com (no DNS)
+
+## 2026-10-09
+
 ### benchflow.ai
 - tastechattestsender-2d4199b8.preview.benchflow.ai (76.76.21.21)
 
