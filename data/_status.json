@@ -837,7 +837,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-09T06:07",
+  "last_scan": "2026-10-09T15:23",
   "failed_sources": [
    "wayback"
   ]
@@ -898,7 +898,7 @@
   "sources": {
    "crtsh": null,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 51,
    "subdomain_center": 283,
    "wayback": 155,
    "rapiddns": 3,
@@ -914,7 +914,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-08T21:57",
+  "last_scan": "2026-10-09T15:26",
   "failed_sources": [
    "certspotter",
    "crtsh"
@@ -1127,7 +1127,7 @@
   "sources": {
    "crtsh": 2,
    "certspotter": 2,
-   "hackertarget": 0,
+   "hackertarget": 2,
    "subdomain_center": 2,
    "wayback": null,
    "rapiddns": 0,
@@ -1143,7 +1143,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-08T21:50",
+  "last_scan": "2026-10-09T15:22",
   "failed_sources": [
    "wayback"
   ]
@@ -1404,7 +1404,7 @@
  "snorkel.ai": {
   "sources": {
    "crtsh": 22,
-   "certspotter": 19,
+   "certspotter": null,
    "hackertarget": 20,
    "subdomain_center": 31,
    "wayback": 17,
@@ -1421,8 +1421,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-09T06:06",
-  "failed_sources": []
+  "last_scan": "2026-10-09T15:23",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "surgehq.ai": {
   "sources": {
