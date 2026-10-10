@@ -615,7 +615,7 @@
    "certspotter": null,
    "hackertarget": 13,
    "subdomain_center": 4,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -629,10 +629,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:53",
+  "last_scan": "2026-10-10T14:34",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "halluminate.ai": {
@@ -859,7 +858,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:51",
+  "last_scan": "2026-10-10T14:32",
   "failed_sources": [
    "wayback"
   ]
@@ -921,7 +920,7 @@
    "certspotter": 16,
    "hackertarget": 11,
    "subdomain_center": 3,
-   "wayback": null,
+   "wayback": 8,
    "rapiddns": 1,
    "c99": 0
   },
@@ -935,10 +934,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:51",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-10-10T14:32",
+  "failed_sources": []
  },
  "micro1.ai": {
   "sources": {
@@ -985,7 +982,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:51",
+  "last_scan": "2026-10-10T14:33",
   "failed_sources": []
  },
  "ooakdata.com": {
@@ -1249,10 +1246,10 @@
  "quesma.com": {
   "sources": {
    "crtsh": 14,
-   "certspotter": null,
+   "certspotter": 10,
    "hackertarget": 8,
    "subdomain_center": 25,
-   "wayback": null,
+   "wayback": 8,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1266,11 +1263,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:52",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
+  "last_scan": "2026-10-10T14:33",
+  "failed_sources": []
  },
  "reasoncore.ai": {
   "sources": {
@@ -1298,10 +1292,10 @@
  "refresh.dev": {
   "sources": {
    "crtsh": 17,
-   "certspotter": null,
+   "certspotter": 10,
    "hackertarget": 10,
    "subdomain_center": 49,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1315,11 +1309,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:52",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
+  "last_scan": "2026-10-10T14:33",
+  "failed_sources": []
  },
  "risedatalabs.com": {
   "sources": {
@@ -1479,7 +1470,7 @@
  "tacitlabs.co": {
   "sources": {
    "crtsh": 2,
-   "certspotter": 2,
+   "certspotter": null,
    "hackertarget": 1,
    "subdomain_center": 2,
    "wayback": 2,
@@ -1496,8 +1487,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:52",
-  "failed_sources": []
+  "last_scan": "2026-10-10T14:34",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "tastelabs.com": {
   "sources": {
@@ -1631,10 +1624,10 @@
  "ulam.ai": {
   "sources": {
    "crtsh": 5,
-   "certspotter": 2,
+   "certspotter": null,
    "hackertarget": 4,
    "subdomain_center": 5,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 2,
    "c99": 0
   },
@@ -1648,9 +1641,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:52",
+  "last_scan": "2026-10-10T14:34",
   "failed_sources": [
-   "wayback"
+   "certspotter"
   ]
  },
  "verita-ai.com": {
@@ -1724,7 +1717,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T05:53",
+  "last_scan": "2026-10-10T14:36",
   "failed_sources": [
    "certspotter",
    "wayback"
