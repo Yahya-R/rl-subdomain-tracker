@@ -554,7 +554,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 56,
-   "wayback": 3,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -568,9 +568,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T20:18",
+  "last_scan": "2026-10-11T00:07",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "wayback"
   ]
  },
  "goodstartlabs.com": {
@@ -1157,7 +1158,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 136,
-   "wayback": null,
+   "wayback": 22,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1171,10 +1172,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T20:18",
+  "last_scan": "2026-10-11T00:04",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "preferencemodel.com": {
@@ -1607,10 +1607,10 @@
  "ulam.ai": {
   "sources": {
    "crtsh": 5,
-   "certspotter": 2,
+   "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 5,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 2,
    "c99": 0
   },
@@ -1624,9 +1624,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T20:17",
+  "last_scan": "2026-10-11T00:02",
   "failed_sources": [
-   "wayback"
+   "certspotter"
   ]
  },
  "verita-ai.com": {
@@ -1684,7 +1684,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 2,
-   "wayback": 1,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1698,9 +1698,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-10T20:17",
+  "last_scan": "2026-10-11T00:04",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "wayback"
   ]
  },
  "wirestock.io": {
