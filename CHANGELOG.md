@@ -2,6 +2,21 @@
 
 ## 2026-10-11
 
+### afterquery.com
+- atrium.afterquery.com (64.239.123.129)
+
+### joinhandshake.com
+- pomona.joinhandshake.com (172.64.145.100)
+
+### mercor.com
+- 0-1-12-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-16-azure.release.enterprise.mercor.com (no DNS)
+
+### turing.com
+- gdpval-worker-beta-pr-1162.rd.atlas.turing.com (34.111.171.143)
+
+## 2026-10-11
+
 ### datacurve.ai
 - git-3813c7e0-e2c7-4a2a-b2ef-de2d7ce055cf.datacurve.ai (52.27.56.120)
 - pr-542.mira-machine.datacurve.ai (104.21.20.75)
