@@ -14,13 +14,13 @@
  "new.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "ip": "65.8.20.30",
+  "ip": "3.169.173.34",
   "live": true
  },
  "normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "ip": "172.67.143.1",
+  "ip": "104.21.95.46",
   "live": true
  },
  "portal.normal.ai": {
@@ -44,7 +44,13 @@
  "www.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "ip": "104.21.95.46",
+  "ip": "172.67.143.1",
+  "live": true
+ },
+ "zep.normal.ai": {
+  "first_seen": "2026-10-10",
+  "last_seen": "2026-10-10",
+  "ip": "172.67.143.1",
   "live": true
  }
 }
