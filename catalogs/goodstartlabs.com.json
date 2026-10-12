@@ -1,6 +1,6 @@
 {
  "domain": "goodstartlabs.com",
- "live_hosts": 38,
+ "live_hosts": 39,
  "pages": [
   {
    "host": "apply.goodstartlabs.com",
@@ -75,6 +75,10 @@
   },
   {
    "host": "dev-site.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev-task-reviewer.goodstartlabs.com",
    "status": "no response"
   },
   {

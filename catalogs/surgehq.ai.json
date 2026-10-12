@@ -175,12 +175,12 @@
     {
      "url": "https://surgehq.ai/benchmarks/dayjob-finance",
      "kind": "page",
-     "text": "DAYJOB: FinanceNEW"
+     "text": "DAYJOB: Finance"
     },
     {
      "url": "https://surgehq.ai/benchmarks/dayjob-healthcare",
      "kind": "page",
-     "text": "DAYJOB: HealthcareNEW"
+     "text": "DAYJOB: Healthcare"
     },
     {
      "url": "https://surgehq.ai/benchmarks/enterprisebench-corecraft",
@@ -211,6 +211,11 @@
      "url": "https://surgehq.ai/benchmarks/riemann-bench",
      "kind": "page",
      "text": "Riemann-bench"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/sudo-l7",
+     "kind": "page",
+     "text": "sudo L7NEW"
     }
    ]
   },
@@ -264,12 +269,12 @@
     {
      "url": "https://surgehq.ai/benchmarks/dayjob-finance",
      "kind": "page",
-     "text": "DAYJOB: FinanceNEW"
+     "text": "DAYJOB: Finance"
     },
     {
      "url": "https://surgehq.ai/benchmarks/dayjob-healthcare",
      "kind": "page",
-     "text": "DAYJOB: HealthcareNEW"
+     "text": "DAYJOB: Healthcare"
     },
     {
      "url": "https://surgehq.ai/benchmarks/enterprisebench-corecraft",
@@ -300,6 +305,11 @@
      "url": "https://surgehq.ai/benchmarks/riemann-bench",
      "kind": "page",
      "text": "Riemann-bench"
+    },
+    {
+     "url": "https://surgehq.ai/benchmarks/sudo-l7",
+     "kind": "page",
+     "text": "sudo L7NEW"
     }
    ]
   }
@@ -351,6 +361,10 @@
   },
   {
    "url": "https://surgehq.ai/benchmarks/gdp-xlsx",
+   "kind": "page"
+  },
+  {
+   "url": "https://surgehq.ai/benchmarks/sudo-l7",
    "kind": "page"
   },
   {

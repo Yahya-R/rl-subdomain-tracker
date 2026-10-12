@@ -1,7 +1,11 @@
 {
  "domain": "scale.com",
- "live_hosts": 442,
+ "live_hosts": 1012,
  "pages": [
+  {
+   "host": "00090501.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
   {
    "host": "00091012.azure.workspace.egp.scale.com",
    "status": "no response"
@@ -15,7 +19,15 @@
    "status": "no response"
   },
   {
+   "host": "00091013c.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "00091109.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "00091109g.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -39,12 +51,27 @@
    "status": "no response"
   },
   {
+   "host": "26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "40004001.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "68d41faeb7fc660c0e4d6c50.azure.workspace.egp.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "69c1a55990035de5a781fbe2.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "6a3c29e0a63a97102d7a35f0.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://6a3c29e0a63a97102d7a35f0.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
   },
   {
    "host": "76035.dashboard.scale.com",
@@ -59,7 +86,47 @@
    "status": "no response"
   },
   {
+   "host": "90000602.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90010919.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "90011207.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90011216.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90011218.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90011223.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90011316.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90030315.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -67,7 +134,43 @@
    "status": "no response"
   },
   {
+   "host": "90040616.dev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90041516.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "90110415.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90110415c.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90121621.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90121715.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "90122204.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -95,6 +198,10 @@
    "status": "no response"
   },
   {
+   "host": "930310109.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "93031011.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -108,6 +215,10 @@
   },
   {
    "host": "93111516.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "931115163.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -155,11 +266,19 @@
    "status": "no response"
   },
   {
+   "host": "93120611m.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "93120613.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "93120909.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "93120909o.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -179,7 +298,15 @@
    "status": "no response"
   },
   {
+   "host": "93120916e.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "93120917.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "931209173.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -207,11 +334,19 @@
    "status": "no response"
   },
   {
+   "host": "980109177.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98011012.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "98011414.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98011414e.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -275,11 +410,19 @@
    "status": "no response"
   },
   {
+   "host": "980902009.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98090212.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "98090218.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98090218o.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -295,11 +438,23 @@
    "status": "no response"
   },
   {
+   "host": "98090320u.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98090413.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
+   "host": "980904139.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98090414.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98090414c.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -331,7 +486,15 @@
    "status": "no response"
   },
   {
+   "host": "98090419m.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98090510.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "980905105.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -339,7 +502,15 @@
    "status": "no response"
   },
   {
+   "host": "98090609i.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98090610.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98090610a.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -360,6 +531,10 @@
   },
   {
    "host": "98090916.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98090916q.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -407,11 +582,19 @@
    "status": "no response"
   },
   {
+   "host": "980924135.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98092414.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "98092415.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98092415m.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -459,6 +642,10 @@
    "status": "no response"
   },
   {
+   "host": "98100319k.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98100320.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -471,7 +658,15 @@
    "status": "no response"
   },
   {
+   "host": "98100321w.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98100322.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98100322q.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -480,6 +675,10 @@
   },
   {
    "host": "98100400.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "981004005.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -496,6 +695,10 @@
   },
   {
    "host": "98100411.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98100411w.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -631,6 +834,10 @@
    "status": "no response"
   },
   {
+   "host": "98101519q.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98101709.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -655,7 +862,15 @@
    "status": "no response"
   },
   {
+   "host": "98111311w.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98111320.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98111320i.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -671,6 +886,10 @@
    "status": "no response"
   },
   {
+   "host": "98111915m.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98112520.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -679,7 +898,15 @@
    "status": "no response"
   },
   {
+   "host": "98112521a.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98112522.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "98112522u.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -719,11 +946,19 @@
    "status": "no response"
   },
   {
+   "host": "98112623q.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "98112700.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "99012011.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "99012011o.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -779,11 +1014,86 @@
    "status": "no response"
   },
   {
+   "host": "99101618.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "99111202.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "99999999.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "accounts.scale.com",
    "status": "no response"
   },
   {
+   "host": "ada.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://ada.hhc-test.azure.workspace.egp.scale.com/login",
+   "title": "AdaOS",
+   "links": []
+  },
+  {
    "host": "ada.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "aditya0107.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "aditya03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "aditya07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90030315.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90121621.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90121715.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.90122204.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.agentex.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -791,7 +1101,91 @@
    "status": "no response"
   },
   {
+   "host": "admin.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.hhc-test.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.mayo-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.slot10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "admin.tier-testing-azure.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "admin.vivek10.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -824,8 +1218,69 @@
    "status": "no response"
   },
   {
+   "host": "agentbox.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://agentbox.eydev.azure.workspace.egp.scale.com/login",
+   "title": "Agentbox",
+   "links": []
+  },
+  {
+   "host": "agentex.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=BgA0BEAci9pmJnw82_PltrA9dJe-aFkM7yHSG35fQWgfefx7hNobhravP1yxKhnQsXx_OGyCWQ1gFh5EO-zi6-R8CqEw2Jq-IY8bQJCV66UavUm178WgmeiRetvJwxA-Le_MC_PQufOyHXPUZE-89_66hCJzgdum9XnYSJDYwTA3Mh9ke16pph6MC6qe9z2S9MEhS1S5aaOCMjzJCUNu8IJLEKgqL05WkdlpEmfth6301toPCT783_0W64Zb502f0II1N7BxiN8KUDeTyHGG-J2xzKDuE3-Il9mFFL8FhD7ixeMZRlfVKFnESYGPSMzkFFef2husWi8s2jAoRMLaKrr7GF8aPp8RyblZp-PMBpGBqipNexIc249Lsx8_Tuvta48yksVW68FYBoGVD5Jv9A5SQQJL3KdaqMvOL4CRPcQV_LyKWx6lG8AENBdEqOAusOjZ0I7jdd6N4JMYUg_Vg2Uk2-uFRzIlgZzehf0D76K9WqZcO3jt3hn0A-tQnvmJKtpistSZoCjRLwJ6fQWth5iD0KhuwqJPLDhLPKPgw89UiIfNbI4DLLrMnqBQCrKZ8hZGe2fKV0NaEK1ueCUMVESTO6YIcYG0wQmoTXWzqtX1CKuR2MzKQSUGOh6wtn4G2gRKerSVSg2WWoKYeDYAh7uQhoJOaYm5cPGgW-3O5_HjyZEpPp4dK74BWLxg27p-HnqTAfZhgk3v4VXMWYvNPOGSge2wuQTmiSzn2cZmMSccp6H1kSDeXYN_485Vs3fj9Evr-k3tEukohoE82p5jyraPNii1JeK3MVYx2lFqHWb83eaJ2f8aoixj_0Q4sqAB7PyKcoCRwwF0jcvL4aqzDyTT1BhhtGQbxetQdnJ-qXuz05tOD5NL1MGXOilM7UyZ4fVyiGhYXfOaxbBXOp2MXu7_MfOI_JMI4D-bAZFiTIUhuhti24KW3AQJ5_Zj01cmul7GbZcNgMDUyMA4n2ddm4TUJHHEUDd0SGS7bQwrfETUzV4UclqGVa26qMY0Mt_1COOFEzBY9pB_XAmmHc-twXFFJ294U5U8odv3PutmvWXBQaVn_Kt9VjqCJUDQwsOv06SsqrMNJN8fk1-uhmdAwPOU0uZrQLuBa2lnWWs3y2ZEHaFwRVrvnphnMrTPdzZK59hW1GaI_SNUL4jd4neP7AigSPMBcdoBy5WAFiuS6nckqiktkabU5hQCwqp87JiH46fGyQpamxSI6yC_EpoFN9jgiDCPrNnzQ75cRpCqicsoLQlZfy-fAT3908YADH25yuViHwv8Fz79C-hy48mDlhQOOLZooItAzu4XJNKUk964kPjZsCFHMG3MdFpQse558PpAdaHa4yVBCix_GE5bsdNLq3Kxr8CXL_Pz2CV-x8cv3iDbDyF_7ebW9MVRt1VBnv363T-5D-DwAgQ9nBgQjsdaWlUAvlZ68RbZYYkBL8lu8HjKeKrUJ3uknXry8TuZpQDcAE6AqMUIRWwHeaKXrsU4VgXCiOyTYUOYXEqlER8r0kON14b-h9FFf2bG45yBbdav1U4wU7Jik2dHJkVuQpuO0ZEaOyaWZizDgYQJ59mARzn5SS0IF2IzaAGZIxJHLb03u2ht_xRZ4P0L21HRlmFd2yLdHbLc6MicMAJlZczGAsomVVPx5KDNrPmNk6gd-JHReNK75Pj_kLFuypYeZQ4MXO1b5bsGaedxSNGkvR0jsW86IoCk6c3rW4lyD3V3Q495nuhug4Nk7J2CiGGbzwSdQ0oSI1cFpeDkLqlm3GXwRCNnkoAKBbOGKg089fN7-8DFADkjQkQePqUcs4JtW2lHlCKM0h918ibHw5HpbRu72C9o31s8U3AR6oO1FfpraAFC9qPieEyHnE0TnaqsPQONZeUVNcvFmIFncDMmm7NtqSqOAJ7VdZ76hnCGefzwp6dAJ9r_GXzAcMiXBRlb3hLj4Jbz34uHM_HCUCYqCKEB5M0K35pAwyNHfqPc2Q52i1CW00bWVXZebQAK_Vbfx8HoLgY0SwZCiX7BSTVWN9OFjGgdFfd0EYDzZa9_wbxR-LKxqpZbVbf5Pf4KufjzQ5UI0HUNKSF0PcWicBk6x9D4ALvPL52ai5JnxpMJx8y2DcL5LAzqe5iEuiIv4v_XF1kNYIDVfv5gf9YJn5HYBP2HYWn_OyNW1oNQ3yPzrrUUiJTTei4LBrHd97Ziu4Af2zas9ovId1wgEONHHSlqtd-x41Uh46GImg2QJEdCd9VXKQy-xewd_x31K1khNmanwK-wn4BrF90u7X49QUr3nqnwS1tg5WmeX4Tl",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "agentex.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "agentex.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "agentex.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agentex.vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "agenticwarfare-sandbox.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://agenticwarfare-sandbox.dashboard.scale.com/",
+   "title": "Sandbox",
+   "links": []
   },
   {
    "host": "agenticwarfare.dashboard.scale.com",
@@ -853,7 +1308,38 @@
    ]
   },
   {
+   "host": "albatross.682e14845484f9cd58b5ec1f.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://albatross.682e14845484f9cd58b5ec1f.workspace.egp.scale.com/widget",
+   "title": "Agent Assist",
+   "links": []
+  },
+  {
+   "host": "alpmo-api.sgp-onprem.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "alpmo-backend.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "alpmo-ml.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "alpmo.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "alpmo.sgp-onprem.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "anteater-explorer.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "anz-proxy.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -865,7 +1351,15 @@
    "status": "no response"
   },
   {
+   "host": "api-internal.dla-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api-internal.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api-internal.manta-staging.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -888,6 +1382,54 @@
    "status": "no response"
   },
   {
+   "host": "api.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.68d41faeb7fc660c0e4d6c50.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90030315.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90121621.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90121715.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.90122204.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.99081213.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -903,6 +1445,14 @@
    "links": []
   },
   {
+   "host": "api.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.alpmo.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.arnav-test-vm.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -911,7 +1461,19 @@
    "status": "no response"
   },
   {
+   "host": "api.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.bt22.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.bt3.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.bt4.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -923,6 +1485,10 @@
    "status": "no response"
   },
   {
+   "host": "api.bt8.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.bt9.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -931,7 +1497,15 @@
    "status": "no response"
   },
   {
+   "host": "api.dev-sgp-gcp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.dla-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.doe-wd-uae.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -947,7 +1521,55 @@
    "status": "no response"
   },
   {
+   "host": "api.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.hhc-test.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.manta-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.mayo-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.mod-dev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.pmo-staging.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.rematest.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -959,7 +1581,63 @@
    "status": "no response"
   },
   {
+   "host": "api.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.sgp-infra-staging-gcp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.slot10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api.spellbook.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.test-vm-aws.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -975,6 +1653,22 @@
    "status": "no response"
   },
   {
+   "host": "api.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api.vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api1.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "api3.bt9.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "api9.tier-testing-azure.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -983,7 +1677,19 @@
    "status": "no response"
   },
   {
+   "host": "apik.bt8.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "apim.test-vm-aws.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "apis.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.26071701.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -991,11 +1697,158 @@
    "status": "no response"
   },
   {
+   "host": "app.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=o9nhDEH2n7N1zmBLG-2ZYsciPLZ7Rk_af_2YYEhiyXAjlGM8QEDfmrMAAfX4D1eYMTDkzKr3o7xcr5jXOi0rgN7YXEN86boOqeT8g4dJaSbQj94fIrPDgPzWm7ZSuzlOzfaHuCBH7LsIZWCNUEb0E5LDRWesWrQSGr7ojWjzqcxLHblO5ZmlkZ43ebff4bLr9zMfK14KG7jykHS7KPOYgtv9TtZagSnRo-1OVFkerJgHScqTydDCRNTcSjoVheDw5d5TBDIj0xEczoVPIBNlDkm2YPIiyWtWAIMV5uy2IGg26rcMEHOYy1oA7vGhMfySVXvxbI09z6tghebaSLykeES4JiC8WtEuN7fylD7shAN6SsiXHtkkOE3o-iQeGEN-liBYK9dZCOrXoPOtc5SBN--JFp9V4YLMtXpzvbLGCTzf_pBf1wFZIdfLJfJmh55B4fvakKuZhytpadIZrvRBLQQ1PjBWf7Jvg2p_w530RjPI431iDPMfUdpniYFbYfCQSGbMaZwG3p34ihuzfsS7eP7C5PwT7xBJyxqIqH9cZrrPNOe_KcJ9jQ76sffUJ_12Ia0PJvZlpAeLTnM75OP5RIx_ytS779wsSNEJ87bRFTCPpgR0AvY_IqYoAbjt4WSfCqmEz-vAe14VvJw3BRJCkqgs2nX1ULMHAmUvjxWHm8s1iW3l5SKGj_H2f0Z_O9JO-0BPiYiDmTDBqXoIWZmk1eONK9MRCSu6yVpnAQLv0C6l_JTNSQ8PDLUMPdmRz8JDPfVjjZKd0czT--LW7UH5FPHys80rnJR-mTkxYgszrRsb9nemXWJPRtTmOOf9a4ge_LH-YrPeG6WnwgI0Ov1NTcrfs5WAvMBjCcxVAGsR3q5mN9bkihch_yiTbUYsmhCelCogrxw8CxVjad3zqyFU3dGwYHi6dkRiMIQ6b2ReI3Pe4ttlTQYL_6pqiuC0kZAdR0PRRPSiTKP4qCX5W33BTjOwA1K6CvRjXwBrRhnCfgBpHZU8hvyoErVAWW1zJ3zgzAGMw_vhxAZT0w6u5yWkiq_Fw3I1nXXPPOambKkNTWe5pbgPnKUarHdRn3wPThoPnAxxiK8azeoQ6pLNk0aOXNTri0HRCbrEDNdkHRE_iJesR9eF2_73a7pzRxqarYKyc3CVLDQzMFRAVKWWnHu6VGaB1hwD38Beyd0KZDPsDyLaN_Cv0xDuHL41Gu_WDcuJNUIXonsgZt5LSo097wtWsO70rMvMtFoaobkw0wLz-DHYyNAJ7NzF7U1Lbw1-b_QmYHte83OhYEcsvanR3quMckMX7RYTG2PPU1rxvSCYIQd5ImwWIIwFnHrNRlcN6n0mgJcX0Cf0H_T8iaZt30_FhrgHiOaefCfkMdyHFVZ1mIaA98OiNfY0ZSa5w1ceuyGvz_i3WSj1OCZYC0sIY4rsxkirJbJjG-FcsDgcfML-VKj0TxUrGcOYGa6DwlsYuY_-sbXc26I5Jjf6jSCpEppCFyTkJL0_rGgPkbH3dZ_wps4KiZomJ6nngTd6Peb-EHJ58vMmFlx8B3GWQnNCUQg6lKd_fN-JS2VZq_j27fGzSWpd0BmCY7A-VWgM7WMuWcvjEpzvTYaUbrQYQbnYtIA77vc4dI8TuwU-9Al1ia3Ux3hgYFsp4HoEZUh3LftYioakL6kk_LoiEHSPQI-FP9Qma3ZP10g_QtB9pYO0doAsCYm3ItIvMYhrjGR4hQtb_IRQsafyVwLBbum-LjcTTOzT750KnR4EOT_t9kkwcVspJuOZ7e5vsDz5H6O0bgSiOMmkYqsWV-ijYk2ruZ6pIR-7HLGlxL4cLRUcWR5N5oX6bDQ1oEH5Ggn0FDKerFQn4sb0-dBMiOlb4aKUFlCrzZwirEKsFWCBPw7a_q1ksF6ZOmR4PY90f4pMheQ7Kai61o-SZ454eda5eWAuI_dgNB26KFU_9dS5t-x1c6DmRq4OrpWb6oFYtvAuPdHxkAACONs0MwjuHZu-Bf2qeGQFQip0GSMdNpUonlxSIAgKdjxOxK85Ec9KR0CG8vLSuz3lgxldRPh9CUH31SxGblJG6xEoWcg-y5BO8motr-TgZtzJSkOb5bflogLuywJ7y0NANgQBFREXI9nDdnVfeGJC7khQq30ZMnjWGFJ_MwrhjDf5ES56-kQEHcBfCKx1Y_-vdq1VQgqInzxE7lg6fGRd0c24cbjhQ1q_DTiPHG67zlhJfLBvZnASGbdhdsRgEiH3aZk2auKL7Vpc1x3NYm8K5C0-KJhSNvjLH7YeYqiGp8GBWCSfSPS-EsK5Sgd0W0I%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "app.alpmo.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.arnav-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.beni-test-2.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt22.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt3.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt4.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt6.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt7.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.bt8.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "app.bt9.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
+   "host": "app.dev-sgp-gcp.scale.com",
+   "status": "ok",
+   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=zUfF9gi1ZV_qdw6bz57DQqgGGgdNdyz_SnuRf4uIfKHrzjnqUazQCT7Gtor9Y2WjWSBjy8RhYpiyY2d185kED2UGQAdGdd1f-TozcSyB6-o52hJqfkrIUxz44f73E1cNXioc5mgFBTdGZ3yy2PuC-gCH_5IdfKdqo-LE7TYuoH7dYcn5RG6IhlUwbVHv5JvpBWVRzAE2k1GLqnylSf6YUVSF7Erk98tSf57dTcEJrtr2y-1pB3Wtw-Cf5KKGVUw7wkHxPrCo2_mSzbTonse6TRQQjTX02pLcTgl-yjknG-T7ph-lBT16qaAX3_86dr8GCjK5KG_1Sef0kvDRMdiPokuei7V_XCtOLLHswh8Ciboe3tMAXkPRDef_bX1uY1r9M2KJst3Ifc1LfwrXEmrL-alTERixtPsytzpa3ZWNSuSqbZ18zc0Sf3ukgScraGaID-bf5zIExfJ8z2Y3cY-CtixReD4H82JKrIdPK7HfvmMlzY-CTdCWFYlsTt09LVPHoKjtFb9jE_OY1CGYxNMCY0g0hh_q1t-beqBVEMBTVxhakNF-FbPFBb91rrLhyX2yolKs5XSF0cB2rQNlk2HwqZEQuFJMnFNtX2NW-ZKdyc3Ui0AS-e_g55L2raxt0bA5WZTTZ2gHu1GdmeC8EtwcyQ9mJbAfXDr4KncDvoAPpb31PVmr_lysvCPI2MF4MHR-Z56I0tVQR2x5I700ce9yZ3hIl-l1_qPngSqFjNpx5YjFmr83qbHzMO2WW48arMJ8XSZAJI9GAfJicjR5b9fS_1uflTILu_WZqFStAIcYqbgHxAXn4umtvUR6e1O7AYGF5tkjDrxWuLrJEslGDxrsMUQP9HcmoDuzwciy256CCYy8TDPAsyrKs9t9EVVRC1N5Kt7J4BoGWP5bhr9xr5J2gHZapReBE8fdQFK7YpIf6HMG9QwDs1NEV8LxFY4FQeYiQYNfodIZW9pxV7wXxaxfyIsMs83O0H3hiK_m5SFuRIqGVtQq-EpZfK7TrtlU9qYDuatOTrr2AzM7XyizxiEwhgb0EYcdk_iLBjhdqfh2nBT9g1T0-J7A58i-5D0eIVIWNtTzKnzi8rQchnmH6PX5vrUFLWENm9x_AQQ-fV_AUVzv3jWpa55HuYycqH8PVhK7lcC7hj79IL2xuBOeE7Q59DmXsL7paIPtTWG0wn9oWpCrQEPfs5mPdsCu6uFWBIQiGwcgF1ayEBKbOUKiYBeJSVZfLXMrznM1rRP-Fwk4mzW3hczX24L5hHfpIWYaYNx1ZS1zbYDSm5j_mH-2J43sId1rS7-gf_gZSfNrU6hMNIzE_jmF0C42YCdotnWICLT9kZXMVXCGBu3_Zx9a97IIXfS6GwPcKDGXaoGe7H8hIjFGRGiFAciY5SwMj52JVvGBxthpYhCqwPMytMPuTubhdLAqpoiscEVSDGE8imUPB_nwOZB3jgdNC0ZZEYHHdjjJHeB9quWIkAPA6ZCceoHv16dPwFa7AZKPZCDibwiOUTkwC8r7fqj-_FFheTtm_INggGR6XtHNZU8EdFXX3sFpUsSsrOu02G-eVJ2HNo7ZALCSyw0MGIrLWh9FBA-yG9ngstj9LuU8W132PqGFVyHDTL0QVbab2TsYu7VqVdXBfKt-X8pj9JLbACL6m7FmZuZtnVmbOE2SwCcZbuKFqp674FJZiqqVuA9XvP3UubwrYZBCMB9emsfJWIk3AhJk2wHUCFT7jJ6Z5am2R2upRmKgWLQIdLHnWrZfipQsi6bp8pJer22wypbhZNqmKWHIwuLAmHYnYjKewnl_4DVVwrxTZNARpWjOvUPs89A8E-6Dg11nHDRQ9m_qpUtH2JFMYri4gvrbk0noJTadJ-3-llNOP5R9OAUNk49-oXrCFkbft35dmfsVrdSxr6NQTwol1A3gbH0cssvLX24ClDV9U9TCKGCRuqloh9h7rTJ1vfIFjS7AbYwiCD_iv6BGVGAcL2uU1-QwcocwaoXXj7DBoD3i7rKJuRKZzoPf0DHGtaovga4qUlE0RzUdYj6paL99p0ds8lzmbOTY3Wr5YYoQg11MTdI46og964O9UqMopiWPqPiUExqU3xIFApHt2mz7jyl4X2QRzFcFM43aSTJnTJQdDor0bLh6cluSZO4C-dtBpy8w-sx_1SDH9JdmALCnfFkFlWnRaL0-Ly7VAZHc4YlF5XBGEPbuD_Cqu2jb4H1iog4oVuecMEJrpAcV3MoUC92OENtabv-h_nDYtXjgAyQdkciJXIBf879erxHESxRTVQw%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
    "host": "app.dla-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.doe-wd-uae.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://app.eytaxdev.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://app.hhc-test.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.hhc.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://app.hhc.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.manta-staging.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://app.manta-staging.azure.workspace.egp.scale.com/agents",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.mod-dev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://app.mod-dev.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.pmo-staging.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=ES_-3v316ThPLiChCKqbvGAsNXP-JfTP9dLK4_ZBIZ2l2JRj0r8x0HOOJ7-OgZ3CLAn-7aXrau2XfM0nskOp-aeQ1-Wt_IhyZs8e-btiywupniI1GBax1qofKpSEyKB1iZXBLOpr0fIzs5RWjn2ULlljsfQBANPMH98SpwFE2ZRWurUvpiXHEgtmUcindzvUD50R1utQ0OgxC9rXWlVL3LX3bkDwYakQj1d-b-pTiH9do2HGz-av_3rbxop9TM5Ukkx2YK2xIUZ3AcVwSyr7xGSk9uVq5tdwfqRvkEYRBTgrp-I87Dzm3cQPmYsmXRrc1NLzKl70xVGBp2pjtqROv9pfn_4DC0jHwyDS4sDSAVVn19RSPsvp0awoM0hI9dsH15upGT-L9XT6eKDX7tmeqM1uA_4Jlk8QnfxW6sdGakawGZcSS8t-9-D71SeV1AgivZha5IzhIxXmWIdY6zojtPWOJRjdGCstNz9cuvyajDwU8Cn-HpxYX7aRyGKDyS9LV4nLZkY99cR406ke34oBL19LnPArQH9qfVubtNfdCj7uRKHDEUsvxC7NFUWmSQD1so8Do7aU3P06iqkp-KwB1IL0klUqZs_V6nH4zB3UanaBMMTLnplgPhBLSXmMo2Zb1ZQdHPQOD7_HbddEZk_aA3MftYPMHab6Fq7fu0MzbLrw-kI3QK4YDAjTNW43lzPrV2mk0IB0VLXe6wF0LKvaKPtKvgk6o31MBBXasMP0nN0Yb5awJgkWjUfc_C4_G38zMuG8tsJdvN-UL9E2CoqPDDYTNgHfwnHxbQSbJJnUvGKhcWh1mrq6A-_E07y_Efg-SxLjHKuwSRQ_qvopIan3GjWYmYI5YRRGlSiIaQhepj-nY5ZcLl-4TEw7O-m7pfM3irgGmzOjN_q52mof_wAZXRhbiL8LK39_0BPnD9qw3T3SLPM--dbtsZCScsI7OIDvsLSR1pZyoMxJRNeeJ1o6HpkHtLz6_1zfR9uA0o24Huq98vuncU4wUUR6GHfWMp-wkyMVYDI4Gj2h1JbDDi3TOh2aGc71XyKF3OlqEaofCJwa4uaekQLLh5O7OdlJqXDVi51yY21QEIrxqRSutF7-BkQsWcrVV38AesT9whLhduj87Q3Z15_lJS_XxviD4HNuL-lJ_4HTpLRkNOLdRa711JthOEUVy2yIDl3dLpOeVSXkcvoZmS4Qxhj4LSVahP3U1F1xoAD2wcfOcoimj56Guz73aPLCAZivPwrhfAGKcMS6d9CBxmsHMeTXWGAA3WbkVXJIPP7fBqa0fmYXaxlMaFU74sSaSpwHgq6dHUVXRG1LATm4gs6dN7u8HxHSgDL6_m5Su-pc9_uLZvZqQO516rpsNSn190RgixqMwqsOgcDmAL_CZzro4wPw0-Srh_uokzgAmin2SqyhAgIWEyr20sw6SeMUuuEycyDnw2TY3dQOzF76MVARRKFe2zd97CJCdRNKu23kqZlHdwtGHfgG-ixim26IXVgYSVRl_PDGvRcovP3odkm6benV8omsE9ahOhZLWfOPe-Flqwp5fFPJnwTph20pt3nyeRjjCMoY95y9spyRr3rdDlTGBJHLINfqOpAmZ9patSCz2FFqqjIHDlnZRB3XWOkKsI7SI72gDePJ6yXLshNA1e_oZiw-0xx34OavFdMIi-NW00tAsWLxjhNijm1NAOfyoPbELjYuzLCKqZ93m2A4aBzYQKWJuFB2sKjYrI5bAIahyOSArdUOQ7lgOLwu32wPF660rm7l2ZCg6es2nJxRNaxR75GsLb-m8JkW6xNDUaJGLDpQuIc-n7XT9IxCDc6rwkIR92-WfaxVbrVKVwj60hY66eb2dscRTf4ldf_Npy_B4Z7BUUQMguF_eWq3du_BRo6LEEok0U7y0Urx-aeBE-f_FnjE5rqyvfhYG3c7TODtpGBrqsHlx3BCumwOxRH-en5jKM32pXWtJ1bqLTd_iRts4u3jdmS4OYc1ogKgDoLV4r9p904FCSSM--CwdBVglga4FduIjmlpQXooZL7XubXY34_XqhohuZDKebNTtWqAgeDkb-eM03Drr_f7YgjOdguryKliVrXtQEFcOiQ_y87z5ynP9uHkacfWr7Qd99xhuQkGIlHHU0E_fasqSEa1mlYrlsKFADi4_WKAZkNct4sAPuedlms9hAV58ERItL5rztTnvKHPVh3kCw7qX_Dow3b0OYhSAB_FLsH1oandTadEUsU94Gis1odjqb5s3N4sioSzcDslUKtCIXQS6GUuhkWy7D0mL5D-4Gc-pkjl9JJp",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "app.sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "app.sgp-infra-staging-gcp.scale.com",
+   "status": "ok",
+   "url": "https://app.sgp-infra-staging-gcp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "app.test-vm-aws.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1011,7 +1864,15 @@
    "status": "no response"
   },
   {
+   "host": "appa.bt7.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "appc.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "appg.bt8.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1020,6 +1881,10 @@
   },
   {
    "host": "apps.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "appy.bt3.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1038,10 +1903,24 @@
    "status": "no response"
   },
   {
+   "host": "artifacts-mcp.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://artifacts-mcp.dashboard.scale.com/",
+   "title": "Spider",
+   "links": []
+  },
+  {
    "host": "audio-collector.scale.com",
    "status": "ok",
    "url": "https://audio-collector.scale.com/",
    "title": "Audio Collector",
+   "links": []
+  },
+  {
+   "host": "auth-gateway-dogfood-sample.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://auth-gateway-dogfood-sample.dashboard.scale.com/",
+   "title": "Create Next App",
    "links": []
   },
   {
@@ -1070,11 +1949,67 @@
    "links": []
   },
   {
+   "host": "auth.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.682e14845484f9cd58b5ec1f.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "auth.68d41faeb7fc660c0e4d6c50.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
+   "host": "auth.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90030315.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90121621.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90121715.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.90122204.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "auth.99081213.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.alpmo.pmodev.gcp.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1086,7 +2021,35 @@
    "status": "no response"
   },
   {
+   "host": "auth.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt22.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt3.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt4.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt6.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "auth.bt7.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt8.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.bt9.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1102,7 +2065,23 @@
    "status": "no response"
   },
   {
+   "host": "auth.dev-sgp-gcp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "auth.dla-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.doe-wd-uae.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.eytaxdev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1110,7 +2089,107 @@
    "status": "no response"
   },
   {
+   "host": "auth.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.manta-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.mayo-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.mod-dev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.pmo-staging.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "auth.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.sgp-infra-staging-gcp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.slot10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.test-vm-aws.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.test-vm.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1118,11 +2197,35 @@
    "status": "no response"
   },
   {
+   "host": "auth.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auth.vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "autha.test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "authg.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "authi.test-vm-aws.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
+   "host": "authq.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "authq.ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "auths.bt8.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1148,12 +2251,23 @@
    "links": []
   },
   {
+   "host": "azure-sandbox-1.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "b-release.storybook.internal.scale.com",
    "status": "no response"
   },
   {
    "host": "b-releaseg.storybook.internal.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "bamboo-watch.corp.scale.com",
+   "status": "ok",
+   "url": "https://bamboo-watch.corp.scale.com/",
+   "title": "BambooWatch Change Report",
+   "links": []
   },
   {
    "host": "bbox-annotator-service.scale.com",
@@ -1163,8 +2277,50 @@
    "links": []
   },
   {
+   "host": "bcar020200.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bcdw1205.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bcjm071346.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bcsg091200.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "beni-test-2.azure.workspace.egp.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "beni-test-vmm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "beta.sandbox-ext.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "beta.sandbox.gym.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-beta-sandbox-gym%26redirect_uri%3Dhttps%253A%252F%252Fbeta.sandbox.gym.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to your Scale Account - Scale",
+   "links": []
+  },
+  {
+   "host": "beta.sandbox.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-beta-sandbox-scale%26redirect_uri%3Dhttps%253A%252F%252Fbeta.sandbox.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
   },
   {
    "host": "bid46ut.4823527t.scale.com",
@@ -1203,7 +2359,19 @@
    ]
   },
   {
+   "host": "browser-trajectories.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "browser-trajectories.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt22.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt3.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1211,7 +2379,27 @@
    "status": "no response"
   },
   {
+   "host": "bt4.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt41.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt6.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt7.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "bt7a.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "bt8.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1246,6 +2434,20 @@
    "status": "no response"
   },
   {
+   "host": "catalog-dev.corp.scale.com",
+   "status": "ok",
+   "url": "https://catalog-dev.corp.scale.com/",
+   "title": "scale: Agent Catalog",
+   "links": []
+  },
+  {
+   "host": "catalog.corp.scale.com",
+   "status": "ok",
+   "url": "https://catalog.corp.scale.com/",
+   "title": "scale: Agent Catalog",
+   "links": []
+  },
+  {
    "host": "cb-toolbox-service.scale.com",
    "status": "ok",
    "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-my-app-corp%26redirect_uri%3Dhttps%253A%252F%252Fcb-toolbox-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
@@ -1253,11 +2455,58 @@
    "links": []
   },
   {
+   "host": "chat.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "chat.agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=2p_ILAsxRSFBsSQ0k6l_PSCZRwOeYYnNJEgdoCdVdx22bUJ2poRcXnnjqOMr-Ule6E62Dy354U_aK2hXQZ_Dd2Qwg3-D0upmot20nRceSpf6cp3A5ElJUZ114tj9UW3WOyb6Pbq3e0zSCdjPKh6jT9md_W35PdH5dDxh_j0AMOrwY1PbUuAQWhjzNscBPrsFLKggsP1p3XzNJmReHgPL-26KQRhK8TRZxk41PmheG_kGCvXvwv2X4UCcPEJp_knl6v7xN7TJNNRNe3ciEgJJWQwhv-wHPHAb8oMavxjowoO8uOhrpE1MKAp4m2Ea61FZfoA8J43VRpGlS1zQ4QDolJdClU-Ph0qQe9Axhbn6SUi-mpuB-H5xwedpC5Dp01SOsD3VMI2zn-q9G6hV7VGOYbZi00yihiv-gk98rmMGsjrtGAOtHC53Bl_Ibzrp7hyIn9eBNbBmhFhax5QpIxUKZMvuyNSVeD9KQUQNLDLP8uiBH1Ed39aL3PVjo3amD_b7rqVHVvlDSEtlGKjmIWl_3RV3pJbiFs2N823Ia5g0GlH4K2ru_UGiF3G-2KkjHRUCFqwNlPe_p1DXrotceCHQkVU2VtGJwzN-hZ-r2WArAPHElCo6OQ4CDtuXz4LSfbxIXr9PCjRt2jpBI4G4XFrocgkx0tPESgHVbH4cMQGxafjjfGJlWvwJyq4tAr3GAv7qmBeco9SFY-n5ZeLuGXKe0bI-ZyAm0bUMUawRhF6CioPba6AMtxslUIBIfTsxbKvkNdXJxtWxyXfiWKdAf1_L8fsE2NSJRZOP86QH6ilpi1_X5Am9paz2jm-MTFMZpyG1fKQYOGV6TynG_5zm6LaO4p8zPxINNnXsmXomrVPHEnKUU2u0Sbf9WFHHDiz_a8WEq4lcHCIFCbTwM2oNgHoksijxz14l3bY61imZ_qWiG3KMAut2vMU-uJGqKZI8H9tFoWA3osKoxS-9AXey92FpKikQE9BTwMG-OvYlxawHR6NHqbZGpODIJrfxhZ87M3bJCnWZ9EIdb3F0D-Em6nLPHwpStFMIbSXnGAvOPd-v-N6ZCZ8ZTckRrZsmtEM6-UWhS5Wu9Qon6hKvMHbFrf9TVs7XMutaNgnKgMBxYTQDhpEeodoitKhQ1XV5nrlZrhTOPw283J-xXbsVHK_QU6d1v8GSForSxudOdZv39fAlxnvMRFUf46RRK_yynaW0uNcQjxu72Y9fUhaucQSFMgyZOqcwsYZbuD7DtbY1npKEMpIOn1L4QjvWzOh3OYDsQff0ljEaAoaWLRbCIMbVq7zfeb_R08ALu-3yYMWtaibGcOe3mGImsPXdgg6wVW0miwqavo_eYg64UOpaC6PruKhEE7Ibcjib2KJ_gkYy10M-lSCUXvHrQTxkd0PVrmVEjf8FFeX8OHLJehlM5iTencg-z0D4XdDXPhTJURuJhyz2soJqagH-TWZWBCn7cV3gRs8Q13a9JEOpSO2wUTQCbUrRecgbbwkQh-Bq6E65tPIpaElgi9lOxzynZD07ccGKo0nnddLRpddx7OEdsYf-am8ohpQwre9dQfirT9vuvsnhEvBkDkPq-eG0a0pBimuNfXttvjn8U1Dv6z56vI_zbmMktnzRpnwY3pH41ttHoQVqvZYp3cWUPuN9G0_atdzvNw5QZVyAM0h3zU5_nNuP3i4kuZ1QpPA1mCNcv3qdQQYGyz18N2CG0qmrBwHKIr0kYxB4aKPRMMHac0yhuMT7EjonKrraqgvgy9vG7FRKlltf9AvOl98wB9fahiLwsfvMsya-57wLlkryKQSVCYHdh-fLyQ_x3JxChjudojW4liAni0j7FogY5rckukcpP8CXzLCz6haYOt5nYQuAFDRn9DVE4qi_lbFhORUlapLvGPyOTgzAGMOgL0hmGOoisu_VYDyTA5FhvEIrSMBnaXqS7vp9of5yA4bnSMWo4C0_vo9oGEImjzushDzFfL6hqlkYje6BPq1JQzWRe4ZqAHqyWqwuoY8pe4JmPtpmkILiFJN1lPJ-ovgBbZfWlTNk-1dVJ0XqXK1tqlWn8Rzd_rRPXMfPc_3T-lVXa0JfU8F2wKZLe8VLieAbNprrB7FAALvRcT585tYQuhTwURfdpz6yQfc_iMs6walzNkO_UWovZAN_oFXhdX4bxjYUB-beNUCuQ9FR_zTZxY0c9TlZ507EBJ0G6E3wUh5jZC5ZYRglZ4hdbT5GGbKEtloUpnWwKsADXUe8nLbOUvI_Y48LITpARARf4MhOT7e-KDK306TvcPKu0cd1",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=LmpR1xKyxOmV-iQnYLxeMxh7FGLN7K93tdP7t6fvOjD9uCHygqYDNVglvBfwpzUG8EV54_-Dz8jIwo9qsU_hqKzxB1Jw7GkA_EIEd4gLvAnmp9drzpxasffVoCZFjfjaOa57agiy0b6A98HfVFvred7LhTnYOy_qXFrytWamOts7Sk_NTV_qD1vPra2BOONdCGE76Dhc1UL2dKOSyWXpR98otxEWTUgNIHq-MGNiPi3mkFT0bp8EzQHVw-hk-wDpAMI3-yySoEZCzLDvKA_h0C3FfkRpgOTjVwO7w2fsKu1zb3XXZkYQIvY-vqJLVrXKgm7_5yx9JTLxXYeNKhynGA0J1YrgtGMHoViiVbQKgqZA9I2YW_GmYSwv4sMWpNB-5WBwLeEQgniwWI-bBWnTk4ish7Zc5hFR2eYhj2_jGlzcSTqbIm7UHF7geZYxwUMWSLAb5A7ggU2fAaK_4AOzwK3Q1N889VQc_ap71vZ0MfszOp_fbJVN6Ap9LHAKJbhyFj-1auXRI67cp1cktr2UnBYtAsrurS3ClolTH6WxsEsdytPiTU7qZ3zlm3LlP9hqONLrDC9BV7iUvBfvhMoJIVb-KmFVyisBAli104npZVjAVi0YF_NauEP_r8pwnYlp9ngwKozsmSw6cGj7Bn1Yaac2Wm4WtaNNglrLh5siMCeXvkhUjO95F3SRiQIsy3oB2ginsZ0s0hCmufNjk798XJ3S5_Xkj56-J4k5ays2hzFXqipqeWzCYCYJohLOvlhVL9WXsXF-E4Jyshkh4072Kgegdy4MrEOpFqPpDggLO_cdABz-PvkNZFNgJUTieg-_zMxAbCVh8VkmZLDpHM3gyZMXWHCyUM7IpewYVnlaKcEtS2Nj982ozqdadVW83yaSB5Mupo-Fce0LZt4ITj0GZSJry1RzFRTjny61zQ61CJT9xaXFX16PK4ToOThgv64veFsulmo17YQQxhgwtscGSqCoUL1pm0P4nlBLZ5PSJtWGv3FGUfWqlC7bSViK5EMK2R8Jf4hswCqxeukjq4holFFWemsJlOlletJhTJX7PzsuSX-oCZzL9Erk2MhPeQBPatVy1vvlXQhsMNzHj0PvCMPuM9AkR3j7RTQvc31z35RPWbD_pCrFoDi4iL7IuB_BIXRJLUN7MCECwd-y_6SYL83ZSGuUqiThkclEhsTmeGV1b_9NuYWqQPQmWSJ-HBXav1y0RhqMgKe5Fzm8sagFygSz2biLS7DvlRsCZeKG-J6qxmg9nxr_m_BzA458Y3YDUOJKzyiyt8Y-r_5P-wy-8-d4A6qN9EQLidY5wK3yCWHEjOokx81I4sihR7YE6kn290cnzPYBwodbk8Otnon4sMdSCS3gzvghLJgB2Vk0bB8H1mVvpv1huX_gnLVLY_k9eN0lzsEp2XmiEYaE_v3ZwXwhRopQK9tDPsn7b4Au8GWEYi2J78n8GV8N8m57yM8If-WDk2lifZxL-tGPXOCTiBsPUMTeOgDRQAiAUZDNjyxcQ2grxcPmEHazeBOwh0obJYtlg09_3JaiyRpvMYvw1f4EVWOaIeRASPqz-iDF5Z6fdYoQA6O_Ea9TQN7GqJ5CL-O580OYuwy0BQacKTJ16wB6lkFhVr5c-9Fi-fNlDvrv3JmzxJyZYCbdE8T6T4aamx5NqNwltvUaz9T6CI2XvieTIg1OsnLdTE5MxcIwjLTmzSfivtCVweTjXk7KSyqiohp9iUVenFifjt9rNojfj2eQeVkcu5K8iHgaMDDSepuXx0xgyy5X525BwqbZBygExOzV5BMOeqgrDDvZ-2cGcv8h2hOCxBHsRKd-1FZi4j7jSocLNCFUXDAdL-wy7_rqsXoTZKZ9eKD4YvddvBIIKOs_mGQiYdlbUC2CvogwIepxT1zxELIIjIRXo-hjXygbzljVGdzUKv-WDnLjHi5eps0Zd1cO2c0CNAoqc-el1lYieJubC0kQmPffCepnxeDLf4MUUD0DCFrnBSKISqdepnZD6qiVP6hljWBu5ubpgMh2OSb5f_NajX2Fik78gV0HyQoy-Ekven1zftHkmu7xY1eXfsnsyw423JAVe5li3Y9G5AksUySQ0y1oja-mUoKYpKDwJDlnBxlVjbHqnP7riC8_rD7bqnnVa0grj61MK0ayKKzYplMJpOVgE0u6l2KBvp_mibFKiGxpZ3-sQOMji5GzWKeCynFqPaWT9mSjMb7c4A14AJUEkxuZfEY4nNgpVStLMP0wGIT10SYtfDVY52D-oclNK1TRdxYLPvH5OQ%3D%3D",
    "title": "Auth - Scale AI",
    "links": []
+  },
+  {
+   "host": "chat.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://chat.hhc-test.azure.workspace.egp.scale.com/",
+   "title": "Agentex",
+   "links": []
+  },
+  {
+   "host": "chat.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chat.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chat.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chat.sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chat.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chat.vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chief.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chief.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "chief.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
   },
   {
    "host": "ci-video-game-data-collector.dashboard.scale.com",
@@ -1272,6 +2521,17 @@
    "url": "https://clerk.scale.com/",
    "title": "",
    "links": []
+  },
+  {
+   "host": "computer-use.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://computer-use.dashboard.scale.com/",
+   "title": "Computer Use Tool",
+   "links": []
+  },
+  {
+   "host": "connect.helm-demo.corp.scale.com",
+   "status": "no response"
   },
   {
    "host": "console.dashboard.scale.com",
@@ -1292,6 +2552,13 @@
    "links": []
   },
   {
+   "host": "context-engine.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://context-engine.eydev.azure.workspace.egp.scale.com/login",
+   "title": "Context Engine",
+   "links": []
+  },
+  {
    "host": "control.egp.scale.com",
    "status": "no response"
   },
@@ -1300,12 +2567,60 @@
    "status": "no response"
   },
   {
+   "host": "cora-eval-annotator.internal.scale.com",
+   "status": "ok",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21ak5u398BhK8i358&redirect_uri=https%3A%2F%2Fcora-eval-annotator.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=gya1h4R384N8Lpqn5iFUWq0gbzC28ig0%2FP1jAJYcTxGtVrCgyOwncD0PjcFTdrkEZCyVYKuzAxn6vzimfqVgKLwboLu9oALL8PZb6bnzg4LK3CRhlzFSNFS0DIL9IBgtiWHwhxwho1eyq8qXHJ8HXUsFyuq39ujuOiNC9P9WB7rqYiMjlOgVQv%2BteB36PZ7M49VYVGRaQPUuCCIBjhPPzec%2Bs2iJLh018%2F8UxRJWJbIbopRnWA%3D%3D",
+   "title": "Scale - Sign In",
+   "links": []
+  },
+  {
+   "host": "cost-dashboard.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://login.microsoftonline.com/cf356fcc-952d-4c6b-baa9-b1c01062b3f5/oauth2/v2.0/authorize?approval_prompt=force&client_id=62ac55f0-f9f9-40d8-9781-1e3f95e5ee82&redirect_uri=https%3A%2F%2Fcost-dashboard.azure.workspace.egp.scale.com%2F.auth%2Flogin%2Faad%2Fcallback&response_type=code&scope=openid+email+profile&state=0Fjifgi_cmVUqPB9qirbdb-sNZbaPv8xdp6Y3d8eVKA%3A%2F",
+   "title": "Sign in to your account",
+   "links": []
+  },
+  {
+   "host": "cursor-intelligence-api.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "cursor-intelligence-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-cursor-intelligence-corp%26redirect_uri%3Dhttps%253A%252F%252Fcursor-intelligence-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
+  },
+  {
    "host": "d.scale.com",
    "status": "no response"
   },
   {
    "host": "dashboard.scale.com",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "data.preview.sandbox.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.sandbox-staging.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.sandbox.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "data.sandesh-auth-test.arp-dev.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "databook.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://databook.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2Fno-project",
+   "title": "Databook",
+   "links": []
   },
   {
    "host": "demo-builder.scale.com",
@@ -1328,7 +2643,54 @@
    "status": "no response"
   },
   {
+   "host": "demos.mod-dev.azure.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dev-albatross-oai.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev-sgp-gcp.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev-sgp-gcp.scale.com",
+   "status": "ok",
+   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=9lxNjX7ikNMa4b4ENgyhqmcM-t5n5MGc9fdqnx9RAebVeYijEWgQsyFxfK0ivuq4mu8mBZVWoSOwYPFTlzPBuhWrB4FXQCBTjgJOxYW3VrADu9gVAhubj-wmi1rxcZMPWvYnHkTUT5eRbYPHynqA_QXHD9dZz-PBEIWrKz0TIcjriFyh6TjS8qOQfvwqznKaoLuFDIuVTadsTkIJGN8bDr_adeeqazlqm3U5uNgsuRIxvjuTmKDKvKddqqCQBVI49XX2CQMYaPqPpasM_qJY3Ny67twqLHjqEaS08qp7Lv404NToCv0Gppthx0GP8N0Pw8rv-N0CHWnDNisYsRSOwFlkpDfiMQSvrBP_hRKk5JYGfdTtAoH5g2zDOKAoNOQkIfH3-98YcTD1NefjpOzuw0_1XgpgGObTWupfgFL200frinYYZWJE8BLz0ZWltsInUhbeH9gBVvajhbOMCcw_OXB_qj3m1OIdUjz2XetJoj5l4Yu2X04sWkRVY8fApO2mW2iQmYFsw2Ptyd8NDye1szXwa5V9S_HMJQ07PXeOMXz_Uxa7HZNDZSxhWv0r_uL-1fCn48ptkeUWjhLmbKXBTTQTJ83fdc0yb800g9bo2B98b6kqDt1IKchrJQHBqDxyfv2eJzPjJ6AArrzEv-JdBqIVE2CFwJjiba9MFCKk3kh1ocr1m2sGBROZdKNZdJb96A4gEOfLU3IFOsoFpgGNh_MrUBOKYKGLV1M53P_TzKmuICBF2zOPU6Blbxbh1YAgWpAz7nIBZKVxoNNOfc15biaKGp9R2myh-qjSWXc4vdVMr3-mpCLqeIvtcdfZkGQz5JHn5IzoTF44C_G2KSj0-2hrsiw_Cx_6yZDMBlXlVWoPC_CDvNrammlUaaINo6Mq-wm9ahPAmWE2uN1BtPTHRiclQK68tfs90xjQSXiBjmpJW6Bm8GkGZ_tziv--2jd7ZzqCMZ1wUF0pI1lu2WriMm2C0H_vKzJGOqpIjW_74vQx9rLFIgTaBGOxbfTneJ34Uu-pVNawKE-T_jIfs7fHRG-0ce1ZQ_Man1SgjC6dzy-h-oBgVpG3kgc0vjG64hxfnHLkz6gyluBbR5htNtC4j111VDp8i0eMYmx05k_VWqhhAyfERqzH5ht3-evpIpA0yKBdnmzVtyonf7Ac6-pEvmOAIFA2XcRGaKRM4tFSifhScmAwAqCe7PkK2VBtOawj_6ySNM4DMdzSlT8j8avtory7ymSZNpbmmpfhkKiMqsHa-DneA2dyMkzwY2FaSTymsHb8Rtm3SZJKJW5LY7owbF62yEOLZ746_HjDBjrP9K_LwStF3BhDqxBqJ5yOEMREURIh4qMeN22ioIeOVG5Q6bJSMtbfr1z6nciwSziBe7II5jx81vsjl5R7P1lvpRZkP1WHdX413MMZ_ktIbea4fGi2X6iSzvgmv8a7cogH5k463Map77Hy59zjnchkQR1cB_Aoag8xWdLdRwP-bMojbnbuiA31DQZUn7n0mk502FsN2Wo37_nDzViawgK_Vbt10nNe8HpaN08Mz34IJNHBEtsuzs-EThVwW6MqgOEJsbAycnoQ3u8yYf1yrtZ1PbPGkb6TE_SPBmLOA7q_8SV2tRZOKD0HeHiz0CJ82bhQPb_N8I3JCDvrx6PCU5_5vR_c1v9d2NdrWX3NCjenlEFxNvY2nL3A1Gz6X9IAAxq84mCnmX6mb5slhq_NWquWLEke8xYYay5xTKu0dR4o-W-vT8JPlbPhY-9oiAQ1PUx-j6pCorkVd79rzuFK9-xlLbReN2p5dqBkcV4IeMvGfJAVH3_ppGemZOLHJN78ESecmuMFDm8yr_l_R19Jd5fAXTOT8KAzqD2tkas1CTPTj9BAeXarODtNzPMte179vqmZ7DlZhBLHk9dRvbNGz9t5GfVFkPvPeT0tI-84MLmGUp5WAkQV87IxX_wpyfY01F3JECcZ69IM5WoRsjTD_H3taLbPW6XCIt0Q7_zTT3GwBunNX9jpp2XjrvEsZ8m-St1hNcr1263OR-SVm2ksQlVCRcJGI9l8ZgfVcG2lGBkCNwrA0DqhqIyEqqCAl9lcNmO4JIJgw-HOoXPgHZqUO9GY0rYt3VWGtMtg3hY85RBhqTbAIgxr0UGOY_iMeTbPnbaFUKSLdBKd6f3ZaT5dtCX1ccjx2t8q31tpKp8CKFHp7PJJJA4TEa39hIwz4B55O24JwaN1dAqEBURsWpM5vwHvu4_wqvjm89ujMP4S9wXhUZkXzIs-nlMAOooDq64vTZQ08g%3D%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
    "host": "dev.agentex.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "devx-release-pipeline.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.hhc-test.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dex.vivek10.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1346,7 +2708,15 @@
    "links": []
   },
   {
+   "host": "dla-extu.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "dla.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "dlau.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1426,6 +2796,24 @@
    ]
   },
   {
+   "host": "docs.gym.scale.com",
+   "status": "ok",
+   "url": "https://docs.gym.scale.com/",
+   "title": "Scale Gymnasium - Scale Gymnasium",
+   "links": [
+    {
+     "url": "https://docs.gym.scale.com/",
+     "kind": "page",
+     "text": "Environments"
+    },
+    {
+     "url": "https://docs.gym.scale.com/environments/overview",
+     "kind": "page",
+     "text": "Environments"
+    }
+   ]
+  },
+  {
    "host": "docs.nucleus.scale.com",
    "status": "ok",
    "url": "https://docs.nucleus.scale.com/en/latest/",
@@ -1454,6 +2842,10 @@
    "url": "https://scale.com/docs",
    "title": "Getting Started with Scale - Scale Documentation",
    "links": []
+  },
+  {
+   "host": "doe-wd-uae.azure.workspace.egp.scale.com",
+   "status": "no response"
   },
   {
    "host": "donovan-internal.scale.com",
@@ -1490,6 +2882,25 @@
    "url": "https://donovan.scale.com/",
    "title": "Donovan",
    "links": []
+  },
+  {
+   "host": "due-diligence.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "due-diligence.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://due-diligence.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2F",
+   "title": "Outside-In research agent",
+   "links": []
+  },
+  {
+   "host": "due-diligence.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "due-diligence.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
   },
   {
    "host": "edr-test.corp.scale.com",
@@ -1529,12 +2940,24 @@
    "links": []
   },
   {
+   "host": "emu.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "emutest.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "engvpn.scale.com",
    "status": "no response"
   },
   {
    "host": "events.scale.com",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "excalidraw.internal.scale.com",
+   "status": "no response"
   },
   {
    "host": "exchange.scale.com",
@@ -1559,7 +2982,62 @@
    "status": "no response"
   },
   {
+   "host": "eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "eytaxdev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://eytaxdev.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
    "host": "eytest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90000700.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90030315.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.90122204.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.arnav-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.beni-test-2.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1567,7 +3045,91 @@
    "status": "no response"
   },
   {
+   "host": "fakesaml.bt22.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.bt3.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "fakesaml.bt4.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.bt6.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.bt7.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.bt8.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.bt9.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.slot10.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1579,6 +3141,14 @@
    "status": "no response"
   },
   {
+   "host": "fakesaml.vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesaml.vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "fakesamla.test-vm.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -1587,11 +3157,27 @@
    "status": "no response"
   },
   {
+   "host": "fakesamlm.bt3.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "fakesamlo.bt9.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "fakesamls.beni-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fakesamly.bt4.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "falcon-mcp.corp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "fed-iam.dashboard.scale.com",
    "status": "no response"
   },
   {
@@ -1607,6 +3193,10 @@
    "status": "no response"
   },
   {
+   "host": "gafg-extk.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "gcp-cdn.scale.com",
    "status": "no response"
   },
@@ -1615,6 +3205,28 @@
    "status": "ok",
    "url": "https://console.scale.com/data-gallery-public",
    "title": "Data Gallery",
+   "links": []
+  },
+  {
+   "host": "genai-opp-ingest-refresh.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "gitea.agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=StQJw1rbK14wID1NXVBr7MJDnpf4lCb1j5H6kbzed2DAhQLxeeWMyycZ4VPRM2brW6_L6ynWbatZjFaOdU67Ft_IqqvvfT-tIIgffOp4nrSjjtevPQ8pnITuYgGrKhLqdtQpPeYOmRxNxatol9d1nCv0MPrJMUdVJQRc3-mBQhujfxVMqGDkLkthUQWhJsdgJPFI3kez_WtPyHJh9V3mBJf5RVntZKxrUxLxr3EWNRboz3mjldPWN_-DGSp-QV9_cDfV4VCNrHi6JJt3N9Ki1u5D7Gn0WgS4YrVSRy-3xQ96MMFgst6bfrb3XdECwFYpVKcHOL6HjYIeYmj0U6QuqcG1Wwo3N59Da4WDxQu3OhBKaPNS9ML1QC3uR-6PDvHDCRFLhNDNJAB_qyHDpj3tI5LCGTZEMe_33muoG4ZEDRTLAw8h2rDXXucQArm1B5js1FhO-uokqwBe974bugLWw-thk_ceubxpe-fyFc5Iz7xms5-5JMyp1TByjdC_wrBRvrzxxnktOYXercy8UVN58yEBJVmWLlp3ws-wc06mX9FVWAAJ8IaWMhzeeRY2AGq_IRE0P2-le1L5awj1csiV5S1KS0Q-oQxIMsdO_CnHCxOzZhwOhMMr3ODcDAo4MQ9qsyyij6mwq_iDSF7OtFXGdMXkZbexjysz1-G2DQslsLyUfMlq4lgW9SIzsKowc3YspIaOrDiiPRGEiBIxPH_EkSaN1YzoFZFBT42P7utbsRy47PoJwk5_2Grd_lr2S3iMWw1OydUe3spf4AsoQ_Ox2WtYygyx9R0CEjaYRP_OLkq7PiO__4W2lC6hgqheO6LF-HDxwmz_S-21OMxaHUQIA8uyG1l1aqkeZrWjivWU_UBxLm9HsKEq04uS5BsMygw0tT0O0ZoIyh03FSqlp-8cydKTzZmEtzLJX2PbxewYvWeOGCyXWLxK_Tj4KuLkIqt08XzVQacAfaU8qm6QOWmijRJQ5Tfgw9wDn3ETG_SyYWMalsNAP1MlzNS1E2giUqFteHrtYfj46zsu6U-O0cmpUrC4CaGKY5xLl0V1YM84OQ4PZbaPLIczcZ6q25P5gm7r3WlhuitqDJWqyuVLTKB2dfe23OR-OuwMLAX4_mTeKWq0Ga0N7ckiYqLtG6C-yNRzUpPMq2PUmPYt7mpPizpINIKdMx1crrqS7OfAdcja0pBPFIvnh133XBgeTCFOcQWU-CaFWCiuEJ3zWHpTOvG_8EdhZNHxexvW6_HFryuMIGlvfGoF0mLsVfpi6mmw6BoDrqIGvSbmilF0OPPxhnVbQleqw86y94vgGecxz_cfc-nH3-DWKGaUYNFDDxHOVRJ6RAsxDfeOWnQe4bTwUu2GB1xRJAmj2oEQqKSaj-atjkwdBV7H2MwTJn2hAEV7GAg6i033Y9UAQWzpNXAsqIBwOWMPzi6Lzw5iRRfIv-pMdaAcwlN1NV4s-UltwCnM46ZpbAuf8u2Hf_g_4BIlb7GDaALIQUJi9iJzg7yEuGmzLpxmfPzW0KGZyI8ibfwiQscVPbLO7JkBlDeHBTCTKCp9CY11QzOVonApYfb8k-KED2DekDJpq9IjD43QR8cik_n-igSra5n9v7veWDnvYcHKcfNldqO8vZwUVe9KY6iX8K4MXDnt1v6c_H2JmIf5rEQFh4rQV6IjLLF7e8KxU51FtYT79usMenyF8V7jECSTvtrnGG8WL1qe1fYo2oHfwQVcgpSGsEvXgcrbbLMlbbwGnRox3yz11PawjAPHWTKz5VXiR4S7xVo2BiTXnuTFFCgzBukyJ93zaPInjHkawjg%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "gitea.hhc-test.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "gitea.hhc.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://hhc.azure.workspace.egp.scale.com/login?redirect_url=https%3A//gitea.hhc.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
    "links": []
   },
   {
@@ -1631,6 +3243,13 @@
    ]
   },
   {
+   "host": "golden-databook.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://golden-databook.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2Fno-project",
+   "title": "Databook",
+   "links": []
+  },
+  {
    "host": "gp.scale.com",
    "status": "ok",
    "url": "https://gp.scale.com/",
@@ -1638,8 +3257,22 @@
    "links": []
   },
   {
+   "host": "gps-security.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://gps-security.azure.workspace.egp.scale.com/",
+   "title": "GPS Security",
+   "links": []
+  },
+  {
    "host": "gram.corp.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "gym-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-gym-corp%26redirect_uri%3Dhttps%253A%252F%252Fgym-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
   },
   {
    "host": "gym.scale.com",
@@ -1654,6 +3287,10 @@
    "url": "https://hello.scale.com/",
    "title": "",
    "links": []
+  },
+  {
+   "host": "helm-demo.corp.scale.com",
+   "status": "no response"
   },
   {
    "host": "hfc.scale.com",
@@ -1677,6 +3314,71 @@
    "links": []
   },
   {
+   "host": "hmc-audit.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://hmc-audit.sgp-dev-oci.workspace.egp.scale.com/login",
+   "title": "HMC Audit",
+   "links": []
+  },
+  {
+   "host": "hmc-pi.sgp-dev-oci.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://hmc-pi.sgp-dev-oci.workspace.egp.scale.com/login",
+   "title": "HMC Patient Intelligence",
+   "links": []
+  },
+  {
+   "host": "iam.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "iam.agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=lBt4Q4fCpcXW_SA_fAJvMzj8KEn9x5cPrmSrZZhNRIY3BnNKQxt7jSp33z9l36mzZr9zPZDv5dTT_cgPsKswrJP0J9o7-cUqoyUa2_93j9V1hyhzM-MBhCawsjBQ3_xoyNN7_T-l8QV1B5zXXn9IuauCY3NnmnXeVDtvuSUA1zQcw11LUXPFHFXdx0RRXNmxXXTnQ6eS8wKAa6HO-ZKA2cN5pRsJ-RJxRv5iXblSGzU-qAstGJPTDgHcSezjGrPkCx-b-pnQ3arPHDAPJhr-x4VxDul-eKJZ93k6yLPAJZ1rwvaOFVD53PPOd_01xLgIkULPPOKL6Ccc6egPV-PF3Y7-9pglDtbLpZ4gHG7coHBgjCjPpbAmhCJgRR7xC7l8vzblKFiR9DCThjN2zir8Xm05rRnIFX2H3Mgs0uG7_jOBvyp_oJvgeXNM5VWedym79n8sWUR60XwGckId3tOvMjrKLVtZO0_SBhhyUwBOWQiMNh0SmF152u5MI_6UZUtUo0h4W4f4HrX1oA2czHkOsAmAm4FhwJGq5l1U7UBHBR0N4kzQwYRiQCiU7DChFCkaEX4mAGmlzUwwJCEtPYsyuePEJxQ9Y4pz81gW5a1PtnewMnOrn0ebQDqh8VtwiEmIhqdSJZdA4mJiIjojkMth3rNyEGw_lM2ui-HvHKvonNG-B-lWZy5OA15_67XYEg2dRB_0p4wKJU7Gh7-Big8Ocw3mYVaWX5RHwJ3d3gSgrIddqdlTfHy3g3kg9VjmDlnaBkdZkRygoVP4ZOyWmjLSIOCg4GhfOU5KF7pwGBQEuWjo9IaMTdKeT4CJsFJL1ZILDMBCefGShjy-Hqe9VLOKRwcyuwrWnzzVWpNe9mB5uvKJ9Z-UmPSH18YTNe8HbhEhC_yxJuulLJav3ICCM2b3UOB6tX93htmEcGUhzb9zHRi7CbYiAYCbANFSK6yXb2rrVNRPAvEOSE8NzysZ5MfLA01gvBjivw2KbrdFiOs89nw2XIl-kl-1n6Xzl22lFJ-xavKaD3Ru4Zo6AJ_V1FkUECfd4PPjM9w0Tg8sN7IT7ELMDoPjX5S6k2JmpZrWzg9DyBUuxOQYKou_YZScdMh6kSYusv8iOjzy7toHvJrkU6wgeH8hUeA-dwb_Tm27UqFqE-zK08p9re5a1HF3zwOUfu89wG9qR8QhRgofpsJmVxhHSLHIp2n5cs49B2DR23VQJ-ec2HrWjD0UVcN7v6cnClqZIfYnfguvObBSgTufs0nPVrtrCDKvQNUsEd0ilv1o4TepfXbe0wRpI0fcP9ZqTxgeGBVnZpWq7JWBUNLSxM4XFnxR6Vx9ig-PW0ClIr97cEc5TKvea95XVXX7zNrHeKZJNTCk_Yn5Z9_Zw3PwHefPbOoco6d6ygf_hlc7x_sLS7s5p_YPunDzWjLT7Lv7TTFTfU9Qmzt3ao-osz9qBMj9e-xum_yHqkjlEncQDYf-ggLmEUJjravVwS5Dz3YH84QMDvlTXmd21skuCD1sGC09J2SuzRKDkbZO4hAEnCeyfRNy7HwtjFAle-TsL7ED_r4SvXWHfzf_Xr3eJqOipUygthwroJtyWT-ITbB4dHryD4Nu2f_EGcZia9nyTVIzwoWymLz2DtSW3cpSpzqYmvQ9zTcQB_czQCxZUGITiwbS4an6N1NPMwfMfl_x2XKdZcLw4y6MQJFC0Gsr4sI9O1fBLfpJNVrZgFN3AHflYOUqwIWtrtbeoXq4KzS6HDAIHcmud1McRlU2awFliUSr7BnW5ylMTmLjHEkRriMQAc4lJpI9ZPyk9dY--s4NQwPGwNQyD1SADrr6snRrsxpxbdKh8L5gW2pI0w1Ob4dlVq8Szc57td8yp2u_s0kJzsmdiHaUgdoWIT3FitWX8GfZLJr__db1PDgQgJfPJGnYplzQo6asJh_2xBO2QCGZnJcEXar3ftX3sGVYC7zXgu5sOjiX3GE-0Yf_HtJdow64mBKgeUhiBsUtTnBpbO3dMxi8LBXtUvwbNSvVtOtQsWVQ54UdJny5h2EtcsTwvRdO0KjcJ3paNlJOXHgI0vMN8_MWX5nYdzqfKtE5YYiejBGfC36CJMBJaFNJwRjxdwtvRVWNodQmVYZiGml3jMMb1qIcSUMCCWNZsvz-_e7ZrDTwskfIhw5RgVhAYPYX4Y5DnGKitBnwIib0UoTthWGI1YckXLNOd6KRBPD49KQFZjCSN9MOBuV5vrVs5QU3ctOekV-EDwixovY04iMXMJi8c44qmEfvLTxeQuZlF0NnXMowsfweGSA7cxJw",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "iam.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://iam.dashboard.scale.com/login?redirect_url=%2F",
+   "title": "Scale IAM",
+   "links": []
+  },
+  {
+   "host": "iam.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://iam.hhc-test.azure.workspace.egp.scale.com/login?redirect_url=%2F",
+   "title": "Scale IAM",
+   "links": []
+  },
+  {
+   "host": "ingest.sgp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "insights-agent-addin.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://insights-agent-addin.eydev.azure.workspace.egp.scale.com/",
+   "title": "VDR agent",
+   "links": []
+  },
+  {
+   "host": "insights-agent.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://insights-agent.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2F",
+   "title": "EY VDR",
+   "links": []
+  },
+  {
+   "host": "insights-platform-mcp-service.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "it-tooling-hub.corp.scale.com",
    "status": "ok",
    "url": "https://it-tooling-hub.corp.scale.com/",
@@ -1684,8 +3386,114 @@
    "links": []
   },
   {
+   "host": "jamf-mcp.corp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "justin09.azure.workspace.egp.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "justin12.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "labs.scale.com",
+   "status": "ok",
+   "url": "https://labs.scale.com/",
+   "title": "Scale Labs - Research to Advance AI | Scale Labs",
+   "links": [
+    {
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+     "kind": "page",
+     "text": "10.06.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY \u00b7 10.06.2026San F"
+    },
+    {
+     "url": "https://labs.scale.com/blog/distressbench",
+     "kind": "page",
+     "text": "Safety & OversightOct 9, 2026DistressBench: A clinician-authored benchmark for how AI models handle users in distressPeo"
+    },
+    {
+     "url": "https://labs.scale.com/blog/introducing-agentenv",
+     "kind": "page",
+     "text": "Oct 5, 2026Introducing AgentEnv: An Open-Source Framework for Building RL EnvironmentsAn agent is only as good as the wo"
+    },
+    {
+     "url": "https://labs.scale.com/blog/swe-bench-pro-v2",
+     "kind": "page",
+     "text": "Evaluation and AlignmentSep 22, 2026SWE-Bench Pro V2: A Cleaner, Harder-to-Game LeaderboardWhen SWE Bench Pro originally"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard",
+     "kind": "page",
+     "text": "[LEADERBOARDS]"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard/distressbench",
+     "kind": "page",
+     "text": "DistressBench"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard/drugdiscoverybench",
+     "kind": "page",
+     "text": "DrugDiscoveryBench"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard/hle-diamond",
+     "kind": "page",
+     "text": "Humanity's Last Exam (Diamond)"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard/hss",
+     "kind": "page",
+     "text": "Humanity's Sixth Sense"
+    },
+    {
+     "url": "https://labs.scale.com/leaderboard/sweatlas-refactoring",
+     "kind": "page",
+     "text": "SWE Atlas - Refactoring"
+    },
+    {
+     "url": "https://labs.scale.com/papers/clinicare-bench",
+     "kind": "page",
+     "text": "8/20/2026CliniCARE-Bench: Clinical Calibrated Audit of Medical Reasoning in EHREvaluation and AlignmentVeronica Chatrath"
+    },
+    {
+     "url": "https://labs.scale.com/papers/distressbench",
+     "kind": "page",
+     "text": "10/9/2026DistressBench: Evaluating Multi-Dimensional Crisis Support in Large Language ModelsSafety & OversightDrew Rein,"
+    },
+    {
+     "url": "https://labs.scale.com/papers/humanitys-sixth-sense",
+     "kind": "page",
+     "text": "10/7/2026Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal ModelsMultimodalXingang Guo, Jing"
+    }
+   ]
+  },
+  {
+   "host": "learn.scale.com",
+   "status": "ok",
+   "url": "https://learn.scale.com/",
+   "title": "Scale Events",
+   "links": [
+    {
+     "url": "https://exchange.scale.com/home/videos/unmasking-llm-performance-how-to-benchmark-the-reasoning-abilities-of-llms-2024-09-04",
+     "kind": "page",
+     "text": "Replay"
+    },
+    {
+     "url": "https://learn.scale.com/public/events/unmasking-llm-performance-how-to-benchmark-the-reasoning-ability-of-llms-oj70qnquak",
+     "kind": "page",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "host": "lease-abstraction.hhc.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://lease-abstraction.hhc.azure.workspace.egp.scale.com/login",
+   "title": "AdaOS",
+   "links": []
   },
   {
    "host": "lidar-now.scale.com",
@@ -1721,6 +3529,21 @@
    ]
   },
   {
+   "host": "mac.sandbox-ext.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mac.sandbox.gym.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-arp-mac-sandbox-gym%26redirect_uri%3Dhttps%253A%252F%252Fmac.sandbox.gym.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to your Scale Account - Scale",
+   "links": []
+  },
+  {
+   "host": "manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "manta-scim-test.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -1732,6 +3555,13 @@
    "links": []
   },
   {
+   "host": "maturity-model.scale.com",
+   "status": "ok",
+   "url": "https://maturity-model.scale.com/",
+   "title": "Retention Decisioning Maturity Assessment",
+   "links": []
+  },
+  {
    "host": "mayo-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -1740,16 +3570,122 @@
    "status": "no response"
   },
   {
+   "host": "mcp-playground-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-mcp-playground-corp%26redirect_uri%3Dhttps%253A%252F%252Fmcp-playground-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
+  },
+  {
+   "host": "mcp-stage.corp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp.corp.scale.com",
+   "status": "ok",
+   "url": "https://auth.scale.com/login?login_challenge=Ohq7M10wZEIgZeNzAqSw_KLnSwIrmbERniQP1vn8X-JwqNo1f3XKtsyU3IKMuYBWfhd9qMbcs5ZSqhZe01K1H8yt4flOl-8RT7-sKR9jGai-i3eSFM9Kx-lFHa3ulS6JPxZHj-GcbqYRsAvHqlz-ssKwx9kcSY4vQiOPDg6C4Ch6RRcYiJOB3xCuJxcF7l1CpXCLOnySiINHbQbggReIC0R__NZVycWhrCWE85_LQTF2MgmgE15b83iwQuZmnxhADRicWVbHnIEbDZvxXCaHczOxG92VYMz3K8fYRKrwMnfgsvF2_GlAODGCWHuKNVIOVoysiNWD0LLIDa-iRx-82jRBLTP6hnWMviKMz5KLWRcjnf2rSw6uPlk7uWuTeaIh2o1usDES07VYP1d691QT3lseIaXe4UpuK2FsNCXgneul4xwlSNKoIm7FI5CPS0Prpg4Vmo7zElfBlJJbwzI7YWx4XhWfdApvjKSzrWLZZKqArf_De5H2LQ4ARJe4s7qEf1ygr790MpsFPG5adld1j-riiFT0LwxAHLNTTDnk3UXvXRzIi1JrZS8RIRwVnooEuGWXGFb1Bn5gDg2vyG8-wc1TYdvMJq6sjiGKeH-e38k_LfOw2jfhzzGcpDEx3rVL60Isa519itod8U6oVvHrsG8G2uQLLpVVlmEw_2mphoQErsU6lHhhXhJ8qUJbQA1WoIcpt-gwkItlmxvMUaX6cINZIx9VFi3hC7tRQteq3H4I_miCQq-1dSWu5GTiVtfb_xpauRmWl_4vmIFUAb158b5cc-7_TmlTdpiW5Ctvm_8E7sWRacGb51wuDuwpDn6unxUSyFqQYrcdS3D_JPQ2uYmor-c_xjDHQDOEgkRfcx1auogvCbK2USITNNXBORUARAh7XesiAbRzfBI4GzxI0zkpqL-Az-UbgVLa65QuYAzacQtuGC6zy69EfooHREKOvgHiaVAOoEmQShRN7BmvzZcivPagWYf_cXn50tvEY1ypBFRF6txn0wjQdhfDT_p_8aoPR4CwD3WM9xrzE4M3t-NLokzWG6_UPiNR-6Zaq7t7bY7R3iDxwZ4BqfUwn7DcfvYeBP5wt6yFx_M7cwSlcixlgAJxU0yumA0BSzH7cYM-CR9_XezJRfwjAupXFyTi2FuotLiVID2roO4WOFJm8ipNUIXOcUOIFXpx2115wdADjKI9Q7UC7xLXDbUdBGzDlC8RBl_mYPjLUAUqqkgEGsjyN4gzkfwnd8sQrWEExaz3iBUpzrzRgk_7UklnTG7Zj_QcnQUbinnRM0bKlHCcBpO-Jf8T0SftIWAger9EFQH0C0vDvrt5Tj96FBBWTOBcvStS7Ga7oeeuisoyOqT0qr-nnxm_6rDEVB4%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "mcp.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp1.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp2.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcp3.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mcpx.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "med-viewer-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-med-viewer-corp%26redirect_uri%3Dhttps%253A%252F%252Fmed-viewer-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
+  },
+  {
    "host": "metabase.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "metadatahub.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://metadatahub.hhc-test.azure.workspace.egp.scale.com/",
+   "title": "Metadata Hub",
+   "links": []
+  },
+  {
+   "host": "metadatahub.hhc.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://metadatahub.hhc.azure.workspace.egp.scale.com/",
+   "title": "Metadata Hub",
+   "links": []
   },
   {
    "host": "mist-internal.scale.com",
    "status": "no response"
   },
   {
+   "host": "mk0516.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mod-dev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://mod-dev.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
    "host": "model-eval-public.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "monitoring.agentex.azure.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "monitoring.eydev.azure.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "monitoring.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "monitoring.hhc.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "monitoring.manta-demo-staging.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "monitoring.manta-staging.azure.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "monitoring.pmo.gcp.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "monitoring.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "monitoring.sgp-infra-staging-azure.scale.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "morganstanley-test.azure.workspace.egp.scale.com",
@@ -1761,6 +3697,17 @@
   },
   {
    "host": "morganstanley.gp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "mp4-video-uploader.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://mp4-video-uploader.dashboard.scale.com/login",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "nango.helm-demo.corp.scale.com",
    "status": "no response"
   },
   {
@@ -1822,6 +3769,10 @@
    ]
   },
   {
+   "host": "o1.ptr528.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "okta-groups.corp.scale.com",
    "status": "ok",
    "url": "https://okta-groups.corp.scale.com/",
@@ -1835,12 +3786,34 @@
   {
    "host": "okta-sso-portal.corp.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ypd4l39ppFxlN358&redirect_uri=https%3A%2F%2Fokta-sso-portal.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=1xkPRV4EZuXxd0Gg56oTMd4tAPNrZNjEMHauuVSEeGuAztOJ1tfHlZMhUlsm8IkWtv2FY%2BTIZLBRapMxyqzLGLbBKkmd8NOKnBFFo%2BoHTCah%2FnUyZvcm2jicdCztaJLKTIbUraWkqcXT84ezeJdicYGmuMwpSc%2BaSsukXP8ct%2BVtlXFdFTk1iUcOszSlVd%2BsP5Z7%2Bf9tU%2F8rtbnH103CtBz1s01irrMCkIltUdbny8wecYN2Dw%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ypd4l39ppFxlN358&redirect_uri=https%3A%2F%2Fokta-sso-portal.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=hLAYpQzkdf4Tqf4umWHQFFC3uXfTMXqoKT3DIB4bWhDrTOje0k7aSECIukk3M15vBxgGJdBoNs%2BOq1RQl%2FIbL0c%2FGc4YMS8XxJcF08H%2B%2BkEPjFTx7ML7BZr%2BAUkam1WAvOAtgw026iXW8PK4kY0zOtDGoQ6V5Oi6RloxspCp83J0JnqnE7qtDENE5lwUDn6TA2NIaKNrDtbXBenCMCyG2SUwc6UGz0QCc9cnqaqkfAC1zSwGvw%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
   {
+   "host": "one-edge.eydev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://one-edge.eydev.azure.workspace.egp.scale.com/login",
+   "title": "One Edge",
+   "links": []
+  },
+  {
+   "host": "opshub.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://opshub.dashboard.scale.com/",
+   "title": "GenAI Ops Hub",
+   "links": []
+  },
+  {
+   "host": "otel-gateway.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "panther-mcp.corp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "peai-lpa.dla-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1858,6 +3831,29 @@
    "links": []
   },
   {
+   "host": "pmo-dev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "pmo-staging.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "pmo.gcp.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://pmo.gcp.workspace.egp.scale.com/ar",
+   "title": "Agentic Leadership",
+   "links": []
+  },
+  {
+   "host": "pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "preview.sandbox.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "private-docs.scale.com",
    "status": "ok",
    "url": "https://private-docs.scale.com/",
@@ -1869,6 +3865,36 @@
      "text": "markdown"
     }
    ]
+  },
+  {
+   "host": "prod-albatross-oai.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "prompting.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "ps-nexus.internal.scale.com",
+   "status": "ok",
+   "url": "https://ps-nexus.internal.scale.com/",
+   "title": "Scale Nexus",
+   "links": []
+  },
+  {
+   "host": "ptp.internal.scale.com",
+   "status": "ok",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21c259xioV4rLR358&redirect_uri=https%3A%2F%2Fptp.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=C8LRSdHHJQoSfNcbT%2BNzRAypynFW0urn3OLdhOHi78%2Ff62PUqornv7cnog6pmv8bnjOUjF2tLhX4Tcd1kasezrtkjRrbRP4iKNvfe1GPUd6%2B%2Fi6sLwkHBV%2FqaX7qC%2Brc4%2BKXMi7cUhO2vfS%2F88FdlC%2FbYPODCifmOsZjQ72Dqj4Bmuh8R4z7iGHfU9d1GY7cDNseTzCb3ogPWa%2FbZ4UG4L8PbzaWGYBPpinkp8GboqrCohM0Zg%3D%3D",
+   "title": "Scale - Sign In",
+   "links": []
+  },
+  {
+   "host": "public-sector.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "qm-customer-issues.azure.workspace.egp.scale.com",
+   "status": "no response"
   },
   {
    "host": "qm-dev.azure.workspace.egp.scale.com",
@@ -1886,6 +3912,24 @@
    "status": "ok",
    "url": "https://quest-video-game-data-collector.dashboard.scale.com/login",
    "title": "",
+   "links": []
+  },
+  {
+   "host": "ravi-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "realtime-audio-dev.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://realtime-audio-dev.dashboard.scale.com/",
+   "title": "Audio Tool",
+   "links": []
+  },
+  {
+   "host": "realtime-audio.dashboard.scale.com",
+   "status": "ok",
+   "url": "https://realtime-audio.dashboard.scale.com/",
+   "title": "Audio Tool",
    "links": []
   },
   {
@@ -1917,7 +3961,23 @@
    "links": []
   },
   {
+   "host": "registry.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "registry.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "replica.assembly.shore.gp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "replica.lilly.gp.scale.com",
    "status": "no response"
   },
   {
@@ -1925,14 +3985,62 @@
    "status": "no response"
   },
   {
+   "host": "rsi-benchmark.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-rsi-benchmark-customer%26redirect_uri%3Dhttps%253A%252F%252Frsi-benchmark.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to your Scale Account - Scale",
+   "links": [
+    {
+     "url": "https://dashboard.scale.com/internal/login/github?redirectUrl=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-rsi-benchmark-customer%26redirect_uri%3Dhttps%253A%252F%252Frsi-benchmark.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+     "kind": "page",
+     "text": "Log in with Github"
+    },
+    {
+     "url": "https://dashboard.scale.com/internal/login/google?redirectUrl=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-rsi-benchmark-customer%26redirect_uri%3Dhttps%253A%252F%252Frsi-benchmark.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+     "kind": "page",
+     "text": "Log in with Google"
+    }
+   ]
+  },
+  {
    "host": "rubrics-experiment-reviewer.dashboard.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/app/scale_vercel_1/exkgapjvcrHPACBuj357/sso/saml?SamlRequest=fZJdb9owFIb%2FiuV7YieksFmEKkCngkqJgDZrb5BnTsElsTMfh9F%2FPzUZWntBb9%2Fz8bznY3B9KgtyBIfamoSGAafXwwHKsqhEWvu9WcLvGtCTU1kYFE0gobUzwkrUKIwsAYVXYpXO70QUcFE5662yBSXTSUI3PJzHaX%2F%2BfLOc9R5Ho3jyNMvj2fd09kTJ4xkbBZySKWINU4NeGp%2FQiEe9Tsg7vL%2FmXRF%2FE1dx0O3xZ0qyf4CRNlttdl%2B7%2BdUmobhdr7NOtlitKZkAem2kb9B77ysUjKGSBQT24GWgbMlkVbXS5ghOQbEJGZwOO1m9HpW7zdLxqH7tXvUZomXvS6EkRQT33nNsDdYluBW4o1bwsLz7T5G13wdtxwZzLmdSITvsuz%2F5WGeLmyiPZB4vMLdvud3FtL2IaDbkPpzi69nl2REdXuJfRA7YB%2BL5Ie5lCdNJZgut3sgP60rpLzsIg7BR9Lbz0qSK2mAFSr9o2FKSFoX9M3YgPSTUuxooG7bQz483%2FAs%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiI4NWNjOTM4OTE5YjI2N2M5MDI2OTFhYjRiNzI2MTVkODdlNmExN2M3ZDdmZjI0NjM3ZTA5YTA2NjljNzYyZTM5NzUwZDJlZTU2MmJlZTYzMzNlYjU3NzY0YjMzMGQzYjY2NjlhNjY4NDEwZTcwZWZjOTBjOTkwYjU4NmM5MGY3ZmFmNGI4YzZlZTgxODBmNWE4OWRjYzU5OTU2MGI3NDdmMzc1ZTk1ZjZhM2JiNzk3OTg2MDMxODMwMmY1MzAxMjU4MTUzODM3NWZkNzgyNzE0ZmY4MTFiMTg2OTM1NTc3MjU4NWE0ZDRkMWFkODU0OTQ0M2M4ZDIyNzdmYWNjMmNlMGU2NzE2YTQ4Njc1OTIyNTUwMGY4MTllNTg5OTVkNDZiNWExMTY2NTZhNTMwMDQwOWU1OGZiMDE2OTM3OWY5MTIyOTA3MTkzNDQ4YTI2ZmViNDliZDVlNDZhZGFjZGU5MGRlOGViYTBjMDhhNDZiYWVkNDJiMzZhZDkyYzg2NmM4YzU4ZGYxNWUxYTU4M2ZhMjI3ODBmMjhhZDdiNTJmZjQ4YWU4YTdmNGFmNmZkMmRhOGMyOWExMmM5ZTdhMDc5NjY4NDU3MTU0YmMyNTUxMTU3MDU4MTU2MjgzNjYyNGM0OWMwMDg2ODNhMjVlNDFjYTViNzhiYTRlNTU2MDVkMjQyM2JhZTQ1Y2Q2MTg5ZDZjYmVmNjkwMDcxZjBkMjZjNTc2YWQ2YjEzOTdlYmM0MWZmY2ZmMGI4YTU3ZGVkMTBmMWQ3ZjNjMWQ4OTA1OTZhNDNmNjc0YTYzOTgxOWJkZWNjZTBhYzc3MWRlODAxNTdiYWVhYTNlZjk1YjMzMzc2ZjhiOTBlZjBjZWExYzM1NTIwNTI2MWVmOGI0OWY2MGU3ZDQwNmZlOTNlM2ZmNmI4MDFhYTRlMmZmNTcwZGQ3ZjJkIiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTRBN01aRVQ2NjQxM1QyU0pCVlBFVjQyIiwiY29ubmVjdGlvbl9pZCI6ImNvbm5fMDFGV1MxMVBHWVIxQ0pXRlBXR0tBR0JNWUciLCJmcm9tX3BvcnRhbCI6ZmFsc2UsImZyb20iOiJhcGkiLCJlbnZpcm9ubWVudF9pZCI6ImVudmlyb25tZW50XzAxRVExRlRYRVRTV1pYOTFCWE5YOTNTQUZNIiwiaWF0IjoxNzkxMzQ0OTM0LCJleHAiOjE3OTEzNTkzMzR9.wdVqWqdxm27zKGkvpxTUjzLVGX6WyJYEkiiPNgxugSU",
+   "url": "https://scale.okta.com/app/scale_vercel_1/exkgapjvcrHPACBuj357/sso/saml?SamlRequest=fZLbctowEIZfRaN7LMuGpNVgMo4JhSQUD7gl0xtGFRtQsCVXK1Py9p3YZZpekNt%2FD9%2B%2Fh%2BHNqSrJERxqaxLKg5DejIYoq7IWaeP3Zgm%2FGkBPTlVpULSBhDbOCCtRozCyAhReiVU6fxRREIraWW%2BVLSmZjRO6Cfm8v5zkg8lddv8wjZ8e8uJ%2BPvgSxdeUfD9joyCkZIbYwMygl8YnNAqjqx4Pezwq%2BJWIP4l%2BHHwe8B%2BU5H8Bt9pstdl97OZnl4RiWhR5L1%2BsCkrGgF4b6Vv03vsaBWOoZAmBPXgZKFsxWdedtDmCU1BuOIPTYSfrl6Ny0zzNbpuXeHDNEC17WwolKSK4t56ZNdhU4FbgjlrBt%2BXjP4ps%2FD7oOraYczmTCtlhHz%2BFmc4Xd9E6kuv%2BAtf2dW13fdpdRLQbcu9O8fHs8uyIji7xLyKH7B3x%2FBBfZQWzcW5LrV7JxLpK%2BssOeMBbRW97z22qaAzWoPSzhi0laVna35kD6SGh3jVA2aiD%2Fv94oz8%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiIyYzczMWY2MzBiMGQ4NzMwYWNiMmVkZWMyYmQ4ZDc0Yzk2NTliYTUzOGNmYTQ4YzVhOWYxNzk0NzE3MDRjOWQ5ZWMxYzA4NTI4MjE3YWUyZjdkYTVjZGU1Nzc0N2UyMWIwZGM4NzNhNjUwMDcwOGM2ZGE5MGY1MWYzZjI0OTM1MzdkOWE5MjgxNGZlMTQ0YzBjYmU0YjA4YjJiMTI4ZWJmNDEyODU2ZmM0NjY5NDEwYWVjZTFkMDY5OTBkOTE1NmVhOTc5NTUwMTk0M2I4NmI5MjA0ZThlYjI0NDdhOGUyZmJkZWM5N2ZiY2ExYWU5YTE3NDMyNTQ4NjQzZGZhNjYxNzE3NTM5ZmU5NjY1MjA4OGNhZTczZjVlNzhmOTAzY2NiYWUxMmNmODZjZDQ3YjA0N2Q1MzNmOTI2NWIyNTM0NTYwZTJlYjg2M2I1NmQ5ZmQ4MWM0ZGQ3ZTNhZGNiN2I3ZTAwYjkwNzg0Nzk1OGI3YWU1ZTdjMWYzZGQzZWQ2MmQ4OTU3ZmVhYzlhZDE4NjI3MTg5Nzk0MGEwYjE5ZWY1YjI3MWFmZGQxNjhlYThjNDRmNGJlZDhlOGIwNTY2MTY5ZGY4M2MyNjkyYTdhZjRlYzdmNmJjMGNkZTg1ODdlOTI5MjMwMTI0YmU5OGMxNGY2M2NlYWRhMTMxZWVjZDE2OWQxMGU1ODFkZjkxNzAyZWM5MDJkM2I0NjI1ZjBlZjYzZDE5OTQ4YmUyZjI5YTFkYmQzY2RmMDE4YTZlZTYwMWIyY2Q1ZDhlYzQ5ZWEyMmNkODU5YWY1OWYxODBlMDc4YjVhNWI2MDU5MjFiM2M5NzgyM2EzMGMxODA3ZTg3MjYxYzE1YzFjYjgyYmQ0ZjEyMGEwYTZlMDJlMjgxNmJmNDk2YTA4MWQwY2U3OTg5YzlhY2I0OGJiMDk5YjUxZTk4YzFiIiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTRSRlA1RkdYMEdSQzY4VE1HQ0tZRFZDIiwiY29ubmVjdGlvbl9pZCI6ImNvbm5fMDFGV1MxMVBHWVIxQ0pXRlBXR0tBR0JNWUciLCJmcm9tX3BvcnRhbCI6ZmFsc2UsImVudmlyb25tZW50X2lkIjoiZW52aXJvbm1lbnRfMDFFUTFGVFhFVFNXWlg5MUJYTlg5M1NBRk0iLCJpYXQiOjE3OTE4MjMxMjMsImV4cCI6MTc5MTgzNzUyM30.SL8ghI7OS0zEf5cGkEgwfteMAVmKoJnsIyWVs_g2tQo",
    "title": "Scale - Sign In",
    "links": []
   },
   {
    "host": "rudi.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "rufy09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sandbox-arp.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sandbox.donovan.scale.com",
+   "status": "ok",
+   "url": "https://sandbox.donovan.scale.com/",
+   "title": "Sandbox",
+   "links": []
+  },
+  {
+   "host": "sandbox.gym.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-gym-sandbox%26redirect_uri%3Dhttps%253A%252F%252Fsandbox.gym.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to your Scale Account - Scale",
+   "links": []
+  },
+  {
+   "host": "sandboxes.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sanitization.eydev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1970,6 +4078,27 @@
    "status": "no response"
   },
   {
+   "host": "scalevault-dev.corp.scale.com",
+   "status": "ok",
+   "url": "https://scalevault-dev.corp.scale.com/",
+   "title": "ScaleVault",
+   "links": []
+  },
+  {
+   "host": "scalevault.corp.scale.com",
+   "status": "ok",
+   "url": "https://scalevault.corp.scale.com/",
+   "title": "ScaleVault",
+   "links": []
+  },
+  {
+   "host": "scalien-directory.internal.scale.com",
+   "status": "ok",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ym1ltab2AzQ0c358&redirect_uri=https%3A%2F%2Fscalien-directory.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=vD0yPyBENDRxWPIY5MLMjYEbSfm1P161%2BjVIpkCai7Ucft3P%2Fxrxfc80BYhN5aajnHXwNE8YwXS63xbU0DvnzcVWe3fsrpM%2Fgv4S7va9SOarLdcn%2FGwIMnwcsF5AZvsLRXza4sr8R2tQeN8mbsyfPaip2zYGJJCdQiQJ%2FrLeHg5dFA5YdMR29pItSg360oUpYv4zVJproEnAhOVTikP6dQzugaGbCUM5oopc6mhO4K4uOatLEg%3D%3D",
+   "title": "Scale - Sign In",
+   "links": []
+  },
+  {
    "host": "scim.scale.com",
    "status": "ok",
    "url": "https://scim.scale.com/app/",
@@ -1981,7 +4110,107 @@
    "status": "no response"
   },
   {
+   "host": "sda.90010615.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90010918.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90121621.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90121715.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90121718.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90121818.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90121821.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.90122204.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.agentex.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.demo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "sda.dla-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.hhc-test.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.mayo-ext.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.rematest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.slot10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sda.tier-testing-azure.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2000,15 +4229,156 @@
    "status": "no response"
   },
   {
+   "host": "sgp-agent-resource-plane.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp-dev-oci.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=FD_aQ7keCabPkrlwL8zLf_xQVtvsypVmjHuCRs35yJjvFlDfYqJW6vSGHe_ss4KWxQkeqI1Kjr-n4AdJQqZdWktjPdKppl6rxK2HIOWCmxPCPni27rxanUOnLYUNFu9sYURyOAjxSFJydN3NccaLiiaxSKPaKJdhBr-4l3GtarqkQarPKGNugJujXI0grDBmwOwd-V03IsLh32qIZRZ-yu8vcyQXHBW_Zb0Df2JRzqo4PNOt9K0kU9aggNXt8NNElx9aHgqykOLjYh1DMdTwVd2xI25slNXwRgz2n-Yk0u9GM7MHpZVKCGBYwpifELQD7hbsvRxrm3x_ec8wXbkA12LmAqReVRvyRNPD_lngOE1JFAZzIQAMSTCTA218nz_bYNnxFaZWRrtK-uqi3VTC3oaXOgptuo5rMiRggVQ2sAx_gWDnzYD3vCO2Qb3p0wJ8QRmXflJiUwI6NzTHbwIjBq1EucexGi6S44P4XtukIn5McsbZoLlr2PDsbsI-TTm6-offqp9GeCVnJpGpSwVXvn7M1rQ9VhebljYS0dfUVwUk3Y6y2SYs0u2njlFbLSqV_bBkkh2zoZA7BXWVTBcNIuihIGlMjKkukU2YS2477A5F5i5r0VYfL_eACvDRuxcHKlWVTj5h8MEHYnjQuG0p_E4B6iM160PG0HZs0COrsEXoPEK9iaoTCESGRN5ygtVWbJeeKnlgCn-Vtx1eYhlzA-iKrLpg1BTi3ZNwHt-O5SrDd6aS_7tLEHKa7szAZWVgNIH852m_4jdOgUYvkZVp2pLt5A5T6N7hrYzgulMczuDdcVu9pTcbIsElQ6IFBhPrJefLfEJKajHzmdDuhxNjIXtdmMXmgIAVVgEEIFIv_xraPuvkYyJNs1gYJw0eEIeTpzFDKKqc5175-iBWc5QP2wtV2VIlQ4gkEbLw6iHpgibXiBCyokuJuwtKk3DRtr3cP5Cmt_0p6Qtei5sB6ZpzrWkGmrgFsqgIKsi7ar6xN9ymAHTiP-1IoihP5x3R7FYTbv-6Gqu_LLyYzj9QAbGgCrmA0XYu06WoHajUBTeVKpvKzJUS8ij7hJMbEBCN1-jdx77St2xLupyGipm7GGJn038JiAuj3yNNBG4KROvvXTwfzDNI14AA41l5n-aQYUIfWEgw8Z6CBZNfH1PmUsuWMWVvxVajBpIkwYsAWV-uffK372_PHQmfDQysIvqjRnU3kjHuWFNEPRby0ZA6aGeqIAiuWHNZyYLziIdyrObdVGZUxCz0psmqAj0LZE97Vq2HXnCj5KP88nVbmAUxwftTLTKgGTF-84aSzFtIRKOd1hNXYbrYqN2UyBKye0K5-eKRUDGzFoxIn7AVgwZTsQ4Sooz8fHXkZ2Uh4_AhvloNJT3T1HwINQ12BYwIlk-wZ_emsJ0jVidwRXh6Wh3z44WJ_L4yTBm3wQm9FsFlgBgD48fwUcQYMshKTZz15092XjV1uMBvbMa_nRgzH7AhUBCyy_sz4Yh4Qvi1GgDehBRr3HmGmbSt8lHkOw7fsHV1I9D7Q6qCdEruTQ5vMeYeqBwqJ9gpEKkKktcxP-WRL8IUc3y9WqAJunmQPjEfFSVfBG8rUyg8aOC-46hhatXAkPGFDBKHr85I_HlK_n_f1PJr3apbWKXKpE7Kg53ET5u70dtAPdMqkT7UX-q0oK57QqRWy__x25vkG8OfWRwfQCklARMs0SuoCAG-l9reVI3WJJ_MvcbOaH4zPwLmGlM9DkhD05DzLbmUuja0tJvVuN5HiPZyiDq8irUt5lNyVtzqpbRGI-tZeU5FY7lC3S6RoigIpLqMeSoGoxxNXo1kyq0R3Gdzi7wenDF9-7P2_cNnx-hnxwYKd3cVBHYGxUYdwXoGozpYk0W3oLC8SowDHqTYhLzvo3zl2qqtvRbJsQOUqk1PcLEX3jRJk8Oxe5FlemqLfEzE2UDJFVbAOXu4L19qKgSmXUnsez6ElnhPlGFynaRfLaNyMq4QgP8nm_3yOeOx_lwWD7DBwso039nV9wMqI3r7l0e6KYRYEs6Z1mYyYImBAUaZoIJJTvio46MrL-C6lt9eF-UkIRc9YiDgSmZBrmy34SFw0gORKxtkcF13Ow4ySwioYkM1zDU2JO1odnx6mb4LLsPRR7XiH-4EEd0ppAmGFLumdE9sQnQRXr6VXluZLchNdpho7YotC_vQw_o_L6UxZBJgG_hArh4iszwpBzsxBtpdzzIczcrZxoeiTXabekA2uGurhdHb4m4b_2tJnQIkSw4CzYgf1vrcCTF9-mON8IORc_Wd7aRy",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "sgp-enterprise.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp-files.agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://sgp-files.agentex.azure.workspace.egp.scale.com/",
+   "title": "SGP Files API - Swagger UI",
+   "links": []
+  },
+  {
+   "host": "sgp-infra-staging-azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp-infra-staging-gcp.scale.com",
+   "status": "ok",
+   "url": "https://sgp-infra-staging-gcp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "sgp-marketplace.internal.scale.com",
+   "status": "ok",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zmp8585HxaVsE358&redirect_uri=https%3A%2F%2Fsgp-marketplace.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=ZKQCGhXuIs1HIcehOA2TAVi9LC3xKRTHkfXdnFH52pn16yEcJ7CKrU9KrmsGv4OKw9QpJIVBXXiGs7J0ZBkb%2Bp3cW0SmiH0KIF1pNnbKVXFZNxED0r7CFFP%2Be62fDPyyNdl%2FMWsEaV6W7RFHiSlz47uZFMXHUKwkfo8xBcEpR5Kv6z5kmKh4vNn%2Bv81rk%2BIn0aJqPZi%2FKQKRLStgmUYbcb6595uM7dhZSw%2BcGj61jfuuxX5JpQ%3D%3D",
+   "title": "Scale - Sign In",
+   "links": []
+  },
+  {
+   "host": "sgp-onprem.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp-permitspod.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://sgp-permitspod.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
+   "host": "sgp-pubsec-dev.scale.com",
+   "status": "ok",
+   "url": "https://auth.sgp-pubsec-dev.scale.com/login?login_challenge=IfsSPUNNQr1QMDoyBCeaAYdLopD14x_a1jq3_HJJgZ1Pep_sbO6_haZtdTTUdlQ_IAHrkyT0e36dY1cdHYfQFT3nbEBz1yoM9ViSb0xNcRq10fAs3Hj_TC2R_2tQ0cfJVnLfsL7VJuk8ifR6jM4iqWZezRMI55OAP8-xA3yE-lI4ZBAX_tBBOHqTB29TYgvTppfJAqcqV_B_yu8Dy9C0DzT3Ym7a6QY4QIAG_h6RURifJIzIWg1068cZT8z_BsOlRCY4z0A0UaqSEqtBL0N2nIrph5lWRaAuahDats2WKvTBei85n9QDV9en-PwFi0kdYfIci4Y2SSLxML7yUPaZP1xDjEE4CcOtcGH-VeeBZSSUL2wNzR-s1Jw-kkGIujpblIEvROTHMAWYDjLIEazilVZqdVP6CbuPZNgMqCEm2zQlMSwpiflAYDGbbQocK_W4lw9PiTQpuhBAsA5ecTmzyTaPzgetWDlfTpEQnHHE9Fyw8UCbbs8y1N-VeHVA1s1TOJ4PjlljI3dLU8W385wEsqDvwfNsgSFaK_Au2NY30UUybsPVL15wpIgmbbS4fxl77w7a7ifRbiUt_HxUi7uerzCeV_yTr4XpCRVNw8Vih1R6CYUPIh6NYrMHJox7F0AX_k89Eg0midqgj4woZaMG-9doaSYG66tWCspjqkqHP2AFWfgWxJ3Utl36u8zkK_BWuR3u-vcyftXsNQpBHCN7Deh2so6CkxSUEdfb-HVG891ITm-YprtM5jFgkPCsATJQSL_i6C-EP4B5B443Wlk8VFES0MoTQT5YZkTrrQJBjogLf0I2FGEVJQcrAnFWFOt3VktTWD5sXnmghsNmoG88kg31uWlyo4pG1Qu2xgWXpMFL-oR1iaLr-TfIVXuZ4McWAHy-dJ6f7LV-wLY-hCNx4RBTnOMoq3TlAkDuJPQmvwjShVLYp3_CfkVfXYmk06W_oyXdHntqRbzUfDDRFUVY5r7pZ4lps_5dvIuF_xHMW0rZXH6algxTnfR1OPwgFe7JP6JOQgLd4HnTqYSjuDbnc_MSY4gx2a8tw0ODOP7abWdqBgiLxFoBTo6HxsBjaRNq8_KPnFg86b0Wt_MhFymgATnN49IQT4mFDxoaa5bI64SA4ElwOec7FdfkEbfPp9sxi5T9mUcR6GRTwLnD0rxicfK3pLxnmxp5AWXJ5NxfsamUZqiG_pm9M5Ril1DW-q6Hhyr2QUURPGASdLVF1FagH0DboBnTv8DD_JM3pyHzhEt9nT4fvjWDqMdeBeAC7Gld4KOX04AO4aUjDjVuYHar7cp-xjV9vvQY4BP75DWIaAmZXkOewNt89Njc3QccqyRWEOMUxM01u4ew5dJPeuVFTFMVkPhCoT5JZcTSEhhf6dooQSAVxbmLUB_k8MZX6qBeaAMlziaeJV-Fo6O_vrwUah9jdIvGAwMp9wYDcVT40SxX3jiX7jtkmpuD8f3FR0wNLAILQIjbQVMqqZCP-12scRA_jevlqOXek5BGH6L90jsyrp-zztN-OFRsQOKO5tpRHi2iQ0LZ9EbiuH8BdXyLWfMAM7aOa2NbUnUhZXWx8XFWJI67P4D3yAJBxvpSr2sIDUJ_94iFO_mpVGdtD4I9xz7uqBsZPsKTX0tNNvoQqfJchoyMM0GSWxfk6IpblfQeXN28MGisZi9q2hLjW3nVc06JnCfpdxcG6EDyd6QxHyJ3P-WuWL3pE5EJ7aTnNtAu9qbXqGTgXVKPI2MC-F8AWCYs0megMbNExm0LItuDkcWIJXt1C4cidfTJGkl3AKq3_Km1tr13gXe6N0Hg8payQKkQWoUZXk9sfEeUR_jcvSpfFiQzh2EgpJD6t7N_wHQOVn4XFHA3uIPgW8kp8f7qYOS3AYgGMGF07IFZTsX-RndGdiJ6BgJOMxKI0cF82jPmvvCfPxRFkvA_9PhvaJVmwe0FxtRqY5ooQXVB9Nj3MUHx3trEuFtiHAJY6j2OrdqGkrQdHvs7PwHoPumAglIVyY9l3_--6_fLJSX8CIKu3UXv8rw3Rh_YK-O2ieQES_rbPQxrf3XXr6nP6T358d7CoyqLyJ2JTZRpQXzI9qH1ArSjmw1lzEUbzKyzCriQqyI1YGVPLwyKk0A44BzOAkVyJc5b49p87L7zAx3Zxg-EzvFkG7s4l2eLFn5Pz8pZx1F3UMGQrGmnWAdslgG3u2Qstu4T1Y5FGOIhfZvB3pyI7KMySkyEuKUriqpDlSBZj3tKySg-W7C-KHGzOSwA05e8AnpLkdpkqFtc5hy1BZZpoSw%3D",
+   "title": "Auth - Scale AI",
+   "links": []
+  },
+  {
+   "host": "sgp.pmo-dev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp.pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgp.registry.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sgpdemo.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://sgpdemo.azure.workspace.egp.scale.com/",
+   "title": "Scale GenAI Platform",
+   "links": []
+  },
+  {
    "host": "showdown.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "shubh07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot07.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "slot10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sm.pmo.gcp.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "snowflake.scale.com",
    "status": "no response"
   },
   {
+   "host": "spark-ui.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "spark.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "spellbook.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sso.26071701.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "sso.mod-dev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2037,8 +4407,19 @@
   {
    "host": "streamlit.corp.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zexv9xxyAsd6M358&redirect_uri=https%3A%2F%2Fstreamlit.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile%20groups&state=VdcOGTGuqk3IrrtdGQo6VlR0mHcJO0PPQ449%2BRtptKj%2F%2BGQDnXcJmkrbS09LFYwr9SSpZnT%2BIGYT%2F4hjyBSsyEb3WtnVRZSVlujMyVn6xJxoZ7qJkoTGDJ1M%2FnMWp2EBuD0jGiuWdo%2F%2BnjWoynTi39uBhV2eYnCyIeNqBv2kNvu9gTy2u0BVccLBYR3UfyAf5Pv586WfG9ywIqPiqtkutANxJeu174hddqfWXdoKyjEjzuKIHA%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zexv9xxyAsd6M358&redirect_uri=https%3A%2F%2Fstreamlit.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile%20groups&state=L2cGurvKZUncrs3hy9rGCe2uQmAeWuPJ6u3Gy3a8Rpidskxl0EyRzLUvukEqBmcQEoMJR%2Bm1YEdCNYM1qWzD4elte1rZSIRx0HAWBFzecTRVdcSx30ul%2F90dKUMucPzLo%2BkMowhND3DG0K5GOKJr89GBxWSSka7ihMghBQqSpZJA0ZAMTRLZDoGTPq33iHMo3tEsLjBY8Usb%2FrAep82KYDaDofqQSf23zmlRVeuJ%2F3hRyv2qhQ%3D%3D",
    "title": "Scale - Sign In",
+   "links": []
+  },
+  {
+   "host": "structured-ce.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "supportcopilot.scale.com",
+   "status": "ok",
+   "url": "https://supportcopilot.scale.com/",
+   "title": "Support Copilot",
    "links": []
   },
   {
@@ -2046,7 +4427,52 @@
    "status": "no response"
   },
   {
+   "host": "synthetic-account-hydration.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-pkja-hydrator-corp%26redirect_uri%3Dhttps%253A%252F%252Fsynthetic-account-hydration.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
+  },
+  {
    "host": "tasmutest.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "taxdd.eytaxdev.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://taxdd.eytaxdev.azure.workspace.egp.scale.com/login?callbackUrl=%2F",
+   "title": "TaxDD",
+   "links": []
+  },
+  {
+   "host": "temp-databook.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "temp-iam.dashboard.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "temporal.agentex.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://temporal.agentex.azure.workspace.egp.scale.com/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "temporal.de-ips-dev.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "temporal.ipfdemo.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "temporal.pmo.gcp.workspace.egp.scale.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "temporal.rematest.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2059,6 +4485,14 @@
   },
   {
    "host": "test-vm-aws.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "test123.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2082,14 +4516,36 @@
    "status": "no response"
   },
   {
+   "host": "time.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "tmobile.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "trade-portal.scale.com",
    "status": "no response"
+  },
+  {
+   "host": "training-manager.scale.com",
+   "status": "ok",
+   "url": "https://training-manager.scale.com/",
+   "title": "Training Manager",
+   "links": []
   },
   {
    "host": "trajectories.scale.com",
    "status": "ok",
    "url": "https://trajectories.scale.com/login?redirect=https://trajectories.scale.com/",
    "title": "Browser Trajectories",
+   "links": []
+  },
+  {
+   "host": "transcription-editor-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-transcription-editor-corp%26redirect_uri%3Dhttps%253A%252F%252Ftranscription-editor-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
    "links": []
   },
   {
@@ -2100,6 +4556,10 @@
    "links": []
   },
   {
+   "host": "uaeproxy.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "ui.scale.com",
    "status": "ok",
    "url": "https://ui.scale.com/auth/sign-in?callbackUrl=%2F",
@@ -2108,6 +4568,18 @@
   },
   {
    "host": "unstructured-ce.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vault.de-ips-dev.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vdr-insight.eydev.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vercel-auth-gateway-dogfood-vercel.scale.com",
    "status": "no response"
   },
   {
@@ -2130,11 +4602,74 @@
    "links": []
   },
   {
+   "host": "video-trajectories-annotator-service.scale.com",
+   "status": "ok",
+   "url": "https://dashboard.scale.com/corp/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-video-traj-annotator-corp%26redirect_uri%3Dhttps%253A%252F%252Fvideo-trajectories-annotator-service.scale.com%252Fauth%252Fcallback%26platform%3Dcorp%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
+   "title": "Login to Scale Corp Dashboard",
+   "links": []
+  },
+  {
    "host": "videocaptioning.scale.com",
    "status": "ok",
    "url": "https://videocaptioning.scale.com/",
    "title": "Video Captioning",
    "links": []
+  },
+  {
+   "host": "vivek01.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek02.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek03.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek04.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek05.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek06.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek08.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek09.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek10.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek11.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek12.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivek13.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivekdua.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "vivekpandey.azure.workspace.egp.scale.com",
+   "status": "no response"
   },
   {
    "host": "vpn-admin.scale.com",
@@ -2145,6 +4680,20 @@
    "status": "no response"
   },
   {
+   "host": "wazuh.hhc-test.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://wazuh.hhc-test.azure.workspace.egp.scale.com/app/login",
+   "title": "Wazuh",
+   "links": []
+  },
+  {
+   "host": "wazuh.hhc.azure.workspace.egp.scale.com",
+   "status": "ok",
+   "url": "https://wazuh.hhc.azure.workspace.egp.scale.com/app/login",
+   "title": "Wazuh",
+   "links": []
+  },
+  {
    "host": "web-search-mcp.eydev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -2153,7 +4702,15 @@
    "status": "no response"
   },
   {
+   "host": "wildcard.40004000.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "wildcard.40004001.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.40004002.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2161,7 +4718,39 @@
    "status": "no response"
   },
   {
+   "host": "wildcard.664f27d9668f300f9da0529b.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.66e9a0730a3bd7a2bae0d751.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.98083011.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "wildcard.98091119.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.98091311.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.98092314.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.98100413.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.98100720.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.99032503.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2173,7 +4762,39 @@
    "status": "no response"
   },
   {
+   "host": "wildcard.99062420.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.99081314.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.autodeploy-public.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.autodeploy.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.devbox.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.frp.internal.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "wildcard.googleapis.com.maps-interview-proxy.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.gp.azure.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "wildcard.manta-scim-test.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2183,7 +4804,7 @@
   {
    "host": "woven.scale.com",
    "status": "ok",
-   "url": "https://login.microsoftonline.com/8c31bd04-5a9a-4aa1-8bfa-c1edfe26a6a0/saml2?SAMLRequest=pVJLj9MwEP4rke9JHKctqdV2FbZCVFqg2hYOXNDEnmwtHLt4nC78%2B01TCsuBPcB1Ht9rZnHzvbPJCQMZ75asyDi7WS0IOnuUdR8P7h6%2F9UgxGcYcybGxZH1w0gMZkg46JBmV3NXv7qTIuDwGH73yliWb9ZJ90dOybBs%2BqWAybYUoKgUlNlWL8zmvpkK3uprpUnGWfLqKGFCGZaIeN44iuDiUuJilBU%2F5qz0v5ZRLUWVC8M8s2f6ke22cNu7hZW3NZYjk2%2F1%2Bm24%2F7PYsWQ%2FujIM4Uh9iPJLMc%2BsfjMs6o4In30bvrHGYKd%2FllSqLRvNJOoU5pBOAIq2aFlJVoG5RzGAGPD%2FHJFhSE2E4A996R32HYYfhZBR%2BvL%2F7TQVDypkGOjQegs5Igb0w%2Farlj%2F6EbgTNh65tQH0djZ%2BMxvB%2BcLlku%2FNaUm%2FY5XhyjC88u9rLwcBVKVv9n65F%2Foz%2B%2BkhniZv11lujfvzLI9XW%2BsfbgBAHpzH0yJI3PnQQ%2Fw5QZMVYMTptx1GJHRhbax2QiOWri9A%2Fn3z1BA%3D%3D&RelayState=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJSRUxBWV9TVEFURSJ9.QIoUbZgYzjJIZCHCsJGXOmOigep4f1s0YOH6LOmfjQQ",
+   "url": "https://login.microsoftonline.com/8c31bd04-5a9a-4aa1-8bfa-c1edfe26a6a0/saml2?SAMLRequest=pVJLj9MwEP4rke95OMmmqdV2FbZCVFqg2hYOXNDEnmwtHLt4nC78e9KUwnJgD3Cdx%2FeaWdx%2B6010Qk%2Fa2SXjScZuVwuC3hxFM4SDfcCvA1KIxjFLYmos2eCtcECahIUeSQQpds3be5EnmTh6F5x0hkWb9ZJ9zmvgdVXjTT7P1HymZCXzQuXdDGaKl1jUZc47LgsWfbyKGFHGZaIBN5YC2DCWsryKeRbzfM8rUVaCl0kxKz%2BxaPuT7pW2StvHl7W1lyESb%2Fb7bbx9v9uzaD260xbCRH0I4UgiTY171DbptfSOXBecNdpiIl2f1rLgrcrK%2BAbmEJcAPK7bDmLJUXWYV1BBlp5jylnUEKE%2FA985S0OPfof%2BpCV%2BeLj%2FTQVjyokCOrQOvEpIgrkw%2FaqlT%2B6EdgJNx65pQX6ZjJ%2B0Qv9udLlku%2FNa1GzY5Xhiis8%2Fu9rLwcBVKVv9n65F%2Boz%2B%2BkhniZv11hktv%2F%2FLIzXGuKc7jxBGp8EPyKLXzvcQ%2Fg7AEz5VtIq7aVRgD9o0SnkkYunqIvTPJ1%2F9AA%3D%3D&RelayState=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJSRUxBWV9TVEFURSJ9.QIoUbZgYzjJIZCHCsJGXOmOigep4f1s0YOH6LOmfjQQ",
    "title": "Sign in to your account",
    "links": []
   },
@@ -2193,6 +4814,14 @@
   },
   {
    "host": "www.autodeploy-public.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.autodeploy.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.b-release.storybook.internal.scale.com",
    "status": "no response"
   },
   {
@@ -2212,6 +4841,14 @@
      "text": "CompanyHow Morgan Stanley deploys AI that actually works (hint: it's evals) | Human in the Loop: Episode 13"
     }
    ]
+  },
+  {
+   "host": "www.storybook.internal.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "yappy-postprocess.corp.scale.com",
+   "status": "no response"
   }
  ],
  "sitemap_hits": [

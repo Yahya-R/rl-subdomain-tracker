@@ -1,6 +1,6 @@
 {
  "domain": "patronus.ai",
- "live_hosts": 42,
+ "live_hosts": 44,
  "pages": [
   {
    "host": "api.adobe.australiaeast.azure.patronus.ai",
@@ -35,58 +35,62 @@
    "status": "no response"
   },
   {
+   "host": "api.patronus.ai",
+   "status": "no response"
+  },
+  {
    "host": "app.adobe.australiaeast.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.australiaeast.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=P6SX8dJBXwjvHyJJowtTf5GkPNwEWpju",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.australiaeast.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=b7ogNBOboefGcS72Fore478BCBtUEIu",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.canadacentral.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.canadacentral.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=rxaVhKdZkDLFl7lNhH1TPqK5QbIMGa",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.canadacentral.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=MtX07Ke8xAZRDHeIQqVLV8XSUKfUcJTS",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.eastus2.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.eastus2.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=0BXq4XAYSsX3aYZgHy1IjxZ0rymqX8H",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.eastus2.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=2ExnruYz45TP8HUCsXSCWtFo4g8ZeI1G",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.southindia.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.southindia.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=AV54VZCsyZGXHaxkvX6KUHWzJW78zIe",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.southindia.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=uc6m4qCpGG1PzrNeP58kozyen0e7i1pc",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.switzerlandnorth.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.switzerlandnorth.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=9IINrDnglKXumhw9nxoNPSwucJCgIQ",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.switzerlandnorth.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=xZEXHmhgAx0TRp7fvHnUGKdUIthDuhx",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.uksouth.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.uksouth.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=WgKfY1RUYzYlrbwc81MPyEHZzJ4qZoL",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.uksouth.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=SF3rTZr0EGYFXV9N72ImFJ2tQTNC1Dh",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.westeurope.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.westeurope.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=HA6mPs1s8AggRJ78AtrpN1W9bRjX1ad1",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.westeurope.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=Pp9CekYTmTJh9Kc5B3einXN3pYcv0gq1",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
   {
    "host": "app.adobe.westus3.azure.patronus.ai",
    "status": "ok",
-   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.westus3.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=f1Hp3xzZ9TdKmtuRWOrLT1DSpVWjPi",
+   "url": "https://adobe.okta.com/oauth2/v1/authorize?client_id=0oa25ejzd0qglivuH0h8&redirect_uri=https%3A%2F%2Fapp.adobe.westus3.azure.patronus.ai%2Foauth2%2Fauth&response_type=code&scope=openid+email&state=lpyCWBT7zwoYeg2RtTcbzYI0haM8OE",
    "title": "Adobe Inc - Sign In",
    "links": []
   },
@@ -132,13 +136,20 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "dwm.patronus.ai",
+   "status": "ok",
+   "url": "https://dwm.patronus.ai/",
+   "title": "DWM \u00b7 Patronus AI",
+   "links": []
+  },
+  {
    "host": "echoserver.adobe.eastus2.azure.patronus.ai",
    "status": "no response"
   },
   {
    "host": "minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S471846517%3A1791344118834825&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=Pl7SxcO08Bat4CPtICN8KjljWsQ9gJl3QEchjiyHqCiXq5JhAkq1UbFD3SewS0Q61ZLAe%2FjJQhxz2VPgjQvwzap57cXnUTpjjgKYevbkO%2BEqoILWCQhxi%2F7CFnGMAiFaph69L5YgGzP1vS%2BxnR%2BbDxeqfTkIRnEy3Y12wqd8YYy26M07zt7Eh0Gz%2Br%2FKoSb0RRCiWv78t%2FYhmcupAObqtww239pSEdhyi0xeghLJNwtQUc%2BcIw%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPNkeoTEEJ6pp6c88GAH5x9xavHYcE98pSB60saPk82k6lFXiqEcZp3x6A3OJpF9YxSbBAuy0K-S1f-YcXAYMTBeHN09j9ujRBnlrWCO7dPZn8J8-v6yENd2g7E8QpUXEe3HwdVO_PYUGfOsHL9ixqDNEGLop9aUfzPw5iW-dZRSDigXhojaKXYtKSungi_Itzs6n1Q27sXZrF1nX8toMunFteIdhLUjVDsbdlZevi6m59CXDg0NdJoQLuuFR5OjNoVz90sO5_4-dFNknZ6d3WSL4lVA5-2BlGBXkSyw-KIhOA2LWwKvbNQdHn6jonw3w9Phf3ovjgP26VmnfPlNdSMFGT34OaX_3GNmwO7YjLYQen8KCQlZh1469t99uz7ATOg0b9ETeDcnakr-BiTsdiGcGzba_qPkRqYMCYAxmK9qdV4fW1MveBLQK6d2xDNJNyHCUfCcyFIYp_oq_VX1bD3Wkoj95lfojLKCJwXPJ93eCWHnbg%26flowName%3DGeneralOAuthFlow%26as%3DS471846517%253A1791344118834825%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxcflVD1jKhPUuytuSydYkqm7pcXSeVBOJUB6wQb5BE5lput4u1iBLHjInKgVV1yw3FWF8RIuKW3Y9jvwLHPm-wm6BeW0KmB9jXl4K1JUEG8AxWtAx3A",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1410017104%3A1791821020830827&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=6pIbV77V%2BMPLS25PU4fXCruNYpX7DPvZcHi16LFBBVHZcwAQ42Yw3aJOLgOtuSOt%2Bz8v1yH7iA6K%2FiuxOa1%2By%2FWA90YtW7hHhY0Xm1cMpzDmc1BkeX0Rb2teFvIdosVoaYc37%2FuQjPLrpCmW3mPGgNL6E0%2BFdALONR6jF15bS9ozyQuYnikagR71OyKw16ClriCdOFE2TpFZ8mMslEFFHfG%2BKSuVBTSbDoHh%2F7dT3zdmpnfz8g%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOOut8hEQZ9ZMjA02z-tJW0xxfZRtrL9Jsv37jAjtRlhF-t-KCGz6heOwSUXfwmAQEcLA8PlAIhfOKfUDQS5iNs8PfuTfJHCtEKGiwTbrk8aLLozuODcCYkDYdcxaZlRHDHZxqECZrL50XWHjp9X6Zm2fmDPETsPTYlLil5z89-GDqYLFEmQmzcCAOU-bZWNRULGLtxTsvgaQ2N75fvCgFvZCrVRwfNrEDiuScCebHkPvU1yU3VTo_wJBbhuuLNKAqLgz0d_eEyfXzfQrBDdeN83nmrS6IiYLPxW29l__GH-t2bJrIdmYYAaZoiprALgCYZt_bX0CYq_yFKALH-m5ujIsomGVeuxhNL4dp0GrcCh-meslkrmwcMDvLZ31XjUq2t_CU2KFpHoEFc65OFZcf8hBrE_H7r-3flwJgqoOtROci6gu1_OIaG1Lum-0OYrE2rx054HdkCjSxUjeYMquEx2Df6MsKWpEgQBPXG2d1EHoWyB8I%26flowName%3DGeneralOAuthFlow%26as%3DS1410017104%253A1791821020830827%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxceejpwRxudhmClcOYb7BWBed9u0UKhvyLq2RD-oJFVft_l_hRuhNY7Zue361Gclcy1bk0PfkVOPe1l4Kv2-XbijA4OVSQaJK1OqffDlIRjD15IeONU",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -181,7 +192,7 @@
   {
    "host": "patronus.ai",
    "status": "ok",
-   "url": "https://patronus.ai/",
+   "url": "https://www.patronus.ai/",
    "title": "Patronus AI | Simulating the World's Intelligence",
    "links": [
     {
@@ -190,56 +201,66 @@
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2407.08488",
+     "url": "https://arxiv.org/abs/2505.08638",
      "kind": "hosted",
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2412.14140",
+     "url": "https://arxiv.org/abs/2510.01353",
      "kind": "hosted",
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2503.19193",
+     "url": "https://arxiv.org/abs/2601.20103",
      "kind": "hosted",
      "text": "View paper"
     },
     {
-     "url": "https://patronus.ai/",
+     "url": "https://arxiv.org/abs/2602.00352",
+     "kind": "hosted",
+     "text": "View paper"
+    },
+    {
+     "url": "https://arxiv.org/abs/2607.16204",
+     "kind": "hosted",
+     "text": "View paper"
+    },
+    {
+     "url": "https://cdn.patronus.ai/FigmaTrace.pdf",
+     "kind": "file",
+     "text": "View paper"
+    },
+    {
+     "url": "https://cdn.patronus.ai/SpeedrunBench.pdf",
+     "kind": "file",
+     "text": "View paper"
+    },
+    {
+     "url": "https://www.patronus.ai/",
      "kind": "page",
      "text": "Pricing"
     },
     {
-     "url": "https://patronus.ai/blog/ introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents",
-     "kind": "page",
-     "text": "Read Blog Post Here"
-    },
-    {
-     "url": "https://patronus.ai/case-studies",
+     "url": "https://www.patronus.ai/case-studies",
      "kind": "page",
      "text": "Case Studies"
     },
     {
-     "url": "https://patronus.ai/guide-to-rl-environments",
+     "url": "https://www.patronus.ai/guide-to-rl-environments",
      "kind": "page",
-     "text": "RL Environments"
+     "text": "Guide to RL Environments"
     },
     {
-     "url": "https://patronus.ai/pricing",
+     "url": "https://www.patronus.ai/pricing-archived",
      "kind": "page",
      "text": "Pricing"
-    },
-    {
-     "url": "https://patronus.ai/rl-environments",
-     "kind": "page",
-     "text": "RL Envs"
     }
    ]
   },
   {
    "host": "rewrite.minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S739629877%3A1791344134458918&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=vws8y4dLhJbiX1bUaTpzc7Y%2FW%2FP6oUct%2BQyZqriRmC4MB4iN8rFOZRtzrGyUprtjtJPlihklxxJA%2FdEKebvvLFC%2BydocSjnsbhCcnuma1MTV45ICL7g1AqkCQ9LIYtMPfvsJPXPATVnxOL1mK6rAFS1CLG3Msg4QuhkDXNXRKT9jCIWE3mXtVthNAa2GbteulMAz4O%2BnvF67mgXcJzVOAWUKfpaUUYCVys6yHYjq4jfSAtEihQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMQILM3K_qgktD89iIa0ck6E8YmKfaLfAb-Sh9_x8nrIJ-DGQ7lRiS_94dfrBfREqYlEwwjhS_0-Zp4N7Kt6W6DVb-55y9D_YBOiXTf0mXt3UO1tF811rMGx1mm8dezkq9sEDJUPev9Tkrm0JFJmB4oh1L6gjioA_FQT7IP1Y7qdbLOkEvkmHA3n35RpjiaEMpQl5x9CpUhn1nIwI_DZZ8ky9EFTBds1RvLpg7oPZTNigUVP9FkfHi0YffYhLPTBj78TBT0FauS9mZscscLPHHYcoZCHHXaMGd2cF9vDfFarJCJJc2hRpUsBtJiqgJ4AShGAqGD1VBtit6tL2e0v3dTqBjA3TQ_9i7bQJFF2VN3MHYLq-Zdo0MNBKzOFE7TaYCHkS7YydXetNTntoZKVeT-MWCLCBUlOSeXe9MOZsF6PZiFHFiogPkTmGdfnZPde80z-5pIJcRfpTJ_wAY6VaFgxKfS7na9wWp_5gDB4j_6_WET-Yg%26flowName%3DGeneralOAuthFlow%26as%3DS739629877%253A1791344134458918%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxcfx2aGvYEOGUmxZr7F7Vh5fi5UTNIqlFFCop-6pyQp7QNAe1d1Q6fSg-xjYgtLklobKp2HGJFV_cYX-QXlzdeb-FPIZoQQ1Eya4bjEuc0j7zKAPNSw",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1410017104%3A1791821036568147&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=TWQFzoN9nBtCk5LAp0BrE9PYuNthChsGE9vjNignvOJ0z0sZ7AvE5CV5SCT5Dw1el9geC5xAREnERdQsW6HjYWa6glPdl8x3jfBHOfjQkWVhluupg1r5BQVghg2U0tvqbEpi2Z7Lbcul05HNKuaVj5EpbGAulbyzDQswwmMlFkuAtxDBVnPwDRGjap%2BE1QzD4TqNO8xDLzBaa7lYOVoJM3KQR6AqK6nfAaMKWvtlsFCqZ%2BNd7Q%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOencykCUsXw7AiVObKFe0WL63DmPeIOvQ8aKBN0VmRgba2TORIrG05vORyWsJiesEbBrrbv-Q-Di__6wWIEUUDOZlelB6yMzhKHpgTlOy3fcroSb2EMXKlXwasN8xvNKsxn8aOc9A80zRLVTEoiGs-QOLhzk1CHWHWQlHYzxZrOlttntu82w1vUn2mgH01RVpBAI3J9fhMaANItzeLjlMPB-8axcfLh44j9qWjHL7A2DCdlrYPH92XEUWJxWmkjrIC9ockNFWxt8ZReCAuBhMIiwh2TTT31T3DJzHYC2FCHRct5biBkpz8RWu6flOwCV4U3sgkueQ8Xd3J9sNA6Dx2D3k7mUNPXC9bjvl_A2ih3iVXgruQtzash2YG7U6DY3tJvr9lG_mQ8UDscHKjJDCCFe9O5aa7Z810MmOJL812LJeg4Ok8vTOXP-dfCA5m2peNdv_XP_QwJ6EjJx4Pa8WLn5TivhPfCbsSZ7huyUA8JatshrI%26flowName%3DGeneralOAuthFlow%26as%3DS1410017104%253A1791821036568147%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxccUCAQ9TllUC61tonNG474kku5ZIJVBL-LQPoj7Ihgi4iOUEm72BnivG8N2vZVIipx6J2JhdNLvyhdbOrBeksxptvRvvShhxaUhwdrOt5l7QWUNLO8",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -261,7 +282,7 @@
   {
    "host": "wiki.rl.patronus.ai",
    "status": "ok",
-   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3D2e149f86-48ac-4ee8-a795-f31bc1085109%26page_id%3D79086602%26path%3DLw",
+   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3Da2a7cdaf-6a24-447d-8f17-04822fb18446%26page_id%3D79086602%26path%3DLw",
    "title": "Sign in to GitHub \u00b7 GitHub",
    "links": [
     {
@@ -288,29 +309,44 @@
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2407.08488",
+     "url": "https://arxiv.org/abs/2505.08638",
      "kind": "hosted",
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2412.14140",
+     "url": "https://arxiv.org/abs/2510.01353",
      "kind": "hosted",
      "text": "View paper"
     },
     {
-     "url": "https://arxiv.org/abs/2503.19193",
+     "url": "https://arxiv.org/abs/2601.20103",
      "kind": "hosted",
+     "text": "View paper"
+    },
+    {
+     "url": "https://arxiv.org/abs/2602.00352",
+     "kind": "hosted",
+     "text": "View paper"
+    },
+    {
+     "url": "https://arxiv.org/abs/2607.16204",
+     "kind": "hosted",
+     "text": "View paper"
+    },
+    {
+     "url": "https://cdn.patronus.ai/FigmaTrace.pdf",
+     "kind": "file",
+     "text": "View paper"
+    },
+    {
+     "url": "https://cdn.patronus.ai/SpeedrunBench.pdf",
+     "kind": "file",
      "text": "View paper"
     },
     {
      "url": "https://www.patronus.ai/",
      "kind": "page",
      "text": "Pricing"
-    },
-    {
-     "url": "https://www.patronus.ai/blog/ introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents",
-     "kind": "page",
-     "text": "Read Blog Post Here"
     },
     {
      "url": "https://www.patronus.ai/case-studies",
@@ -320,160 +356,95 @@
     {
      "url": "https://www.patronus.ai/guide-to-rl-environments",
      "kind": "page",
-     "text": "RL Environments"
+     "text": "Guide to RL Environments"
     },
     {
-     "url": "https://www.patronus.ai/pricing",
+     "url": "https://www.patronus.ai/pricing-archived",
      "kind": "page",
      "text": "Pricing"
-    },
-    {
-     "url": "https://www.patronus.ai/rl-environments",
-     "kind": "page",
-     "text": "RL Envs"
     }
    ]
   }
  ],
  "sitemap_hits": [
   {
-   "url": "https://patronus.ai/pricing",
+   "url": "https://www.patronus.ai/guide-to-rl-environments",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/case-studies",
+   "url": "https://www.patronus.ai/pricing",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/ai-eval-consultation",
+   "url": "https://www.patronus.ai/blog/figmatrace-a-comprehensive-training-dataset-for-figma-design-workflows",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/guide-to-rl-environments",
+   "url": "https://www.patronus.ai/blog/introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/evaluating-mistral-7b-on-real-world-scenarios",
+   "url": "https://www.patronus.ai/blog/introducing-the-enterprise-scenarios-leaderboard-a-leaderboard-for-real-world-use-cases",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/figmatrace-a-comprehensive-training-dataset-for-figma-design-workflows",
+   "url": "https://www.patronus.ai/blog/introducing-trail-a-benchmark-for-agentic-evaluation",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents",
+   "url": "https://www.patronus.ai/blog/the-blur-benchmark-browsing-lost-unformed-recollections",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/introducing-the-enterprise-scenarios-leaderboard-a-leaderboard-for-real-world-use-cases",
+   "url": "https://www.patronus.ai/announcements/patronus-ai-launches-enterprisepii-the-industrys-first-llm-dataset-for-detecting-business-sensitive-information",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/introducing-trail-a-benchmark-for-agentic-evaluation",
+   "url": "https://www.patronus.ai/announcements/patronus-ai-launches-financebench-the-industrys-first-benchmark-for-llm-performance-on-financial-questions",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/patronus-evaluators",
+   "url": "https://www.patronus.ai/case-studies/algomo-preventing-hallucinations-in-ai-powered-customer-support-chatbots-with-lynx",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/percival-chat-an-eval-copilot-for-agentic-systems",
+   "url": "https://www.patronus.ai/case-studies/etsy-leveraging-patronus-ais-multimodal-llm-as-a-judge-to-optimize-image-captionin",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/blog/the-blur-benchmark-browsing-lost-unformed-recollections",
+   "url": "https://www.patronus.ai/case-studies/hospitable-com-evaluating-and-optimizing-personalized-message-replies-for-airbnb-hosts",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/announcements/patronus-ai-launches-enterprisepii-the-industrys-first-llm-dataset-for-detecting-business-sensitive-information",
+   "url": "https://www.patronus.ai/llm-testing/llm-evaluators",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/announcements/patronus-ai-launches-financebench-the-industrys-first-benchmark-for-llm-performance-on-financial-questions",
+   "url": "https://www.patronus.ai/llm-testing/rag-evaluation-metrics",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/announcements/patronus-ai-launches-industry-first-multimodal-llm-as-a-judge-for-image-evaluation-2",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/guide-to-rl-environments",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/announcements/patronus-ai-launches-industry-first-self-serve-api-for-ai-evaluation-and-guardrails",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/llm-post-training",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/announcements/patronus-ai-launches-small-high-performance-judge-model-for-fast-and-explainable-ai-evaluations",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/online-reinforcement-learning",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/case-studies/algomo-preventing-hallucinations-in-ai-powered-customer-support-chatbots-with-lynx",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/reinforcement-learning-applications",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/case-studies/emergence-ai-partnering-with-patronus-ai-on-ai-agent-fleet-optimization",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/reinforcement-learning-evaluation",
    "kind": "page"
   },
   {
-   "url": "https://patronus.ai/case-studies/etsy-leveraging-patronus-ais-multimodal-llm-as-a-judge-to-optimize-image-captionin",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/case-studies/exa-vs-bing-api-a-search-performance-comparison-case-study",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/case-studies/gamma-scaling-ai-performance-with-automated-evals-and-rigorous-experimentation",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/case-studies/hospitable-com-evaluating-and-optimizing-personalized-message-replies-for-airbnb-hosts",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/case-studies/nova-ai-using-patronus-ais-percival-to-auto-optimize-ai-agents-for-code-generation",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/case-studies/weaviate-leverages-patronus-percival-to-accelerate-complex-ai-agent-development",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/llm-testing/llm-evaluators",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/llm-testing/rag-evaluation-metrics",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/guide-to-rl-environments",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/llm-post-training",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/model-based-reinforcement-learning",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/online-reinforcement-learning",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/reinforcement-learning-applications",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/reinforcement-learning-evaluation",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/reinforcement-learning-with-verifiable-rewards",
-   "kind": "page"
-  },
-  {
-   "url": "https://patronus.ai/guide-to-rl-environments/rl-training",
+   "url": "https://www.patronus.ai/guide-to-rl-environments/reinforcement-learning-with-verifiable-rewards",
    "kind": "page"
   }
  ]

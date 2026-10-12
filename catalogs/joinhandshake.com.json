@@ -1,6 +1,6 @@
 {
  "domain": "joinhandshake.com",
- "live_hosts": 858,
+ "live_hosts": 1301,
  "pages": [
   {
    "host": "a1.mail.joinhandshake.com",
@@ -12,6 +12,10 @@
   },
   {
    "host": "a3.mail.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "a4.mail.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -63,6 +67,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "acug.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "adams.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -73,7 +81,7 @@
   {
    "host": "admin.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1996279730%3A1791344059302206&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=17mZ8QaMqi5aJmIvkUX92mYBycyPDCzFJKZHT4vmHz8&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEAVAc8ke7EMs5pW873bhQI5iVVWMvYOZ8R6louQpc7aabT5LsL4BFtouHQwRTLVNT_v1t_6id8ZNP2CKioXJQODkTGAcbx2_gGwV4HF2VP7wGZxw--w2NOaVGCsanjz648g8HCjGOUFDOm0p1_ERi_hX5KPEdM2QDuD1nCjmYas8xyUTO9cFQXBPkUSYjWBbIv47jk6lCefpci2FmdnZSY5Kzkh8fbxPGlMwm9SH-K2DgzNNjzEFDpqJc2-ths-vpq8d6FbRJzTlFVVxNA_S5_QSH4fr16Z91cv1rzues6D-6lV-f-tDZQZck9YZ-od9b57Y5YL3hVvi2e2jQbmZ-LytWMoZuvQ9WKFaXCNSwH4SzEf1jCbeIdNudLB9u6UhtFcGeNeWzzqaHtQDUPsJv21z218W-MZ1Ty2NM83oBYE07OqvtTo2off5cONRBzCJLH6IJDTULVuscxKWu07KNIUHv-WP0SYHy0bEBmDyMv44Zu7AS0lXcTOqsBnGrzhmYOA2DF02Q4g--l6NyayMnfkLhNJhzfUMj-I4FPjczG97RAahbKnUZV700Q6Sw_5T64gU5ojDuJqgv8-H06wXReyqB-eSrBDSfjajcPBuKx4SXLt-EVpREd1HXkxFDBA_i4CwGtg4rTg_EgAAMcjRWeDO1i6D0aBBG2SCUxcPY3ghiOlUjJhDROLCJ5T0Zb9_KsjYiOykqRlN7m_lu-1ronXeg8Ce26pZjlSWXhMK76g0HYu5OSafchEYm_ggdJyWQqcgW4PuPgiph1Z9xstwIwWSInx_zL2v7lg1P9Uq-rI0lbtnr3RcdF3AbxsXTcPZgwgYm0hVbByKve_10toS0_z62kDTlSOPxouRJxwGLt4Mj2BKlMk2W8BQx7Pg8skt93x6rgXV05dFydM-o-ehihddgnzMhN6Pt2IrWfHDRtRk7nqv2xy6bKn2KgL2y1Bz4knB_EwMnYx5anF-y6qGS7uII-fsX7xWZiEellnsWSrpjSQKqFeCkxWzLTQ_6WM6ZQ04dUzMSVELpw5hJks-Z9XmezFRcJMcmobIcTd3GaiUmpymanpQs_m-za6FFj0GAmLZazpXwOLxdcJOShSg53F-QQmhkWPHxnismhbcodYke2ZrjZJZJpRdslaRNeDWRwJE4jm0vFpYn6xomiuwd&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMODcYOmx7KD9c1dAr4CGxVKaivE9ecXTGqx-PWGtTFYbnJLCuzfQFcqW2Bll5wf-aJTz_eL4WR4we_SxmspQXYUfxdnXzE7sH-2dk-Rg_7yzvsSN_vXRTSiWxfhr6Sw6oq7OA7sk4g-3ZxjQsescywtlZ52a1REHE4Tatm0pvHA6n0ciATC_fV0jl--bnIiFmNgY-11e4xb7PE30vdcc7UKdnc3pLnSu57VGgxVBGFlwcIxsVuEtAsR3QlY9MGcQ2GXx8WQWGWRqLIx2mHtK0gpi0sQKJtWJdJGDxOk1qpEUR8RWU1hzzNk82RAIr4UDVhVHVTlaqmQQFAnOK8F8CpTtm_rpC7xjHYT5M1OzdMt0bpq53AsL_M6ukfLwD5Vc1o0RBm7o0ScoEbtiDeJeArN6QCZtqCKV7gS_7soOvEYlPqzrMPp6OsIEMCPirnOc_T7NL2pF7TNJsOnfqto0eFqLxFaQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1996279730%253A1791344059302206%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceZi0UTslA5Cn96-PI3q6e5TAZVAdM-AVnKeHVW7kWbsH8_C73CMZ7VldoVbCYAyMzFIGffc2kklWGQGG83JDZKDXxcqFeX39HJz-kYuDFHftvuJGE",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1106651052%3A1791820953211328&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=UrrOgvBD2K-_namMFXVx7i35TYqYqTxX_0jbAkYSKLY&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEiz3EBPoDVxv-gP3EQOx-2qsuFT9E1M4Dis0SHEsIbUEBV_76nTN4eTLrXTyNrxrIfZ8cvnSeDw-CuG8Ym_mOEf755kd6fet_QaZ61VwIFP_BfxO698JMMsi_pE5NdRsZEtDkE4MfIuLH6LPkbQGOUV4DVd_99ohw-jS_gl007Dc6FVoNd5SkBUeftmVYsegDTMuTuVkd3Ya9LL5o7IPmupjvG7KoUnB3nKRLOXw0cU3GCZl8_mO28v6CNdjhxyrQQzpI9DkJkK89E-vtAZS1Wn-pNKi0W19p8Dj4YJO_QJlKApWAO-kOaFa7Aj-70sJsvOgLXH7V28y5gSWrn8VrA6IvyBWKh1HzgKV26D55Saur23XmXG9IEOSfkaUqX5JeVNU82dyh9c1oxsBO8G1N0Xts9-RekIu94SH9vXfRvjHZl1Ic6qqnOiUrLlf7ao4odQbWk6MgqEn4sAre1Nwvy0FJVwm7JYWoXfOYy5cNzL8IU_tt5pVjp_UNCFfnCCmGRmzzgJc8dyFIYsAbGnYeb1Y7YenZxq1_yEMoUMFY1fzpmQRzl4p9PAFtzZki2Ku8f3_bJwdAH7CrNBWx3r3USPPy3kOEeL2btC3XiroVthfvPONVf92k8DfpZqrtQGz8wqn3VHHVABaD2zqPvzdi8GBqnW_gbDhQGD6Jux5q8vyJwLq_lpDCR13AtEULnPm8MF8XM-wStEtwYyu87qtMWtwu1y7vuJmCIJESaj2i9LBg92YVRVdl10iDfUH7iF8Mg3ssUCV7YSa2UI01UVBDh7FoAkC1eHalGRcYAgDd73woUMud5gfkZ60H1w4q3m-zG2yuV5tDNoGMxvwql680SMDY1BXg-WUtCPWGk1SKBa_YmjOxaKpNtDUWJfx0143StzA9Hn-M4fCdWctBr8fHTXXujgMKaEqRZ2JgzwFImK2oKX7Y4l8ipSu7Jcs2Wo2XC1GirlhDsdJTWCcG9PHy2JirI796FxI0Ol3IvNx8O8zE_UZgo3P0GRiBPYjb2v-sYBAfUAjGoXFl9IoPIziFTQMvbU53J8ow8EHXbVeTbeqCgW_x_-rwFEZULWz_zt_Ow4NJoc2rwY4OvVz_pkF6SqvziCNz7gjqlqnNQGLQZeV9lYZBzLd45Vy6US5s-mj8x9SgitaBN7xOIiZhSIOu&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMjVh6sONUyFl2OXCN5aztrwkOYZzMnGaE9ji6ENwqYWJdg2fTimdbqH6QW8eoVtHulK9rlhDK5l3MGUaWmFugkioBQ4NAMWmoxiyz8SeI6zm0lXPOLUyrn9Hha-P_oJMuWf5UXfgHQeUfkDiPHjPVy1DD6Jyk9kk_9LOtCJ-I9ZcgchhoapX5xRcVCgbWaY6YIqTV2NyPVNx37jfV-6RLh0gONJFfvKWdNrlABFmQ7gacsxqgXZuOSqFLxLhrG07wCqpTuwXQHoFn1Glv6qdF068QP3kfizRVXF4ICqt4bIorHMZ5-GuE_8urdadJ8adgJE9e11C1iy09HW5aT-ov9Yh4v35XyWwqZyLKYPXwRfR4iFeDaTc582ICw3RzVJ19cWvzjN2mtotnubSO4T6msLpky4fZ59IJfeZ9vwN6VUhMX-xR8P92wUSjklYaiDhvXPDW7MWozX9kDMDA3SSEO8ibKpw%26flowName%3DGeneralOAuthFlow%26as%3DS-1106651052%253A1791820953211328%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcc0PXRJZEVq1KH-kacJUJSbC1HOiQT_fBmVJDZQMV-DlpYBJ2yLJxiH_H6CE2fVX3X2t40hFeTG0aPl87Inz5JX8dc2huLRzrxxP7FkqGsK601k8_Q",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -112,6 +120,10 @@
    "url": "https://app.joinhandshake.com/access?destination_hai_path=%2Fauth",
    "title": "Log in or sign up | Handshake",
    "links": []
+  },
+  {
+   "host": "ai7.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "aiacademy.joinhandshake.com",
@@ -190,7 +202,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ambassador-demo9.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ambassador-staging.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ambassador-staginga.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -224,9 +244,13 @@
   {
    "host": "ann-comparison-ui.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S285230993%3A1791344061352971&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=8K1TZe4QFzc_3jQsZh1S4Aj2ehwT6igaH4aTJzEKNZM&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEr29CVn_K34URqJ0akr25YQpNXa4HXq93NueoABym3lZ1bWtoT9nzhP9Mw-JYVG_1NMTG1Vxl6bqbhVt2V_qmweb_RL12M18VcWMhLxjOWhRaqzsAsIdSEnC9lATM0-ObFusI4iAP_nXodn_AokUvHz_To0Alc3JV73hrz-2Fov1GeTSrmUm2LsldCxkURIcZMo0X3tAbRwS_3qIeogwZhhwRorXmteGhDvVdaDSA3MI6El1W4KC-coRAYDShG_vGv_FyUpDzzS-McyoT_Ixsa0tNv25P-dyZNjTvTD9uyGdq_DF4HH2R6F1UFgMKRKZBSIbwsmGIbpdTXEDPsm60HYk9K4ryCGVxeueryrV-X5_vpVJeqWvQVCUVeFUoG75YbCbxn29gxEGwLwU6VzelwtvhwTpZ-sL2X7mCKtmqtmrARpcq8crrEDu7DBQHBMO_HPTW1zCyqscW6iaAQjmIB_uq7Nxu_U_HjNoctA5QWRS7LLnCT8ySlH9JRj0kSZfuYbHH_zEr7cZeIL3p6r8j9vQTeFWvyV9DEtBOHgfPg33_ODQyT2Qw3K8Qd5JF2Omu8AmntTWtVzZHTptDIrisxR9HChhjkWuIdUXLd0BsKWOFlY42odqL3-hCtoswoq-JgIhKnXKQSTqrV21Jl56ODZiW90IZyynI7suxvVq7htAe4PUKgTa6GH43sqeJ5GahJlB6vTxH3eo5ZLIz8dL6L4xGHeOdVxFju-WYJwnIanhYSwPfJm1eI3R9k_YCKdSqZpxaXUr4gZnyEmJaf_921rHTrSXANtqhhIny2Wi-Y4NT0Qzw5nJ1RsrEofC6cbbtRp5LkNR3UHt0UbplZA9DrpueC-ivEgkoGWzPTjRnF1Up1lnxincfL0vq3Sfbyb5oav49uOHnQqw4wZFFuYOo4In1vwWKYZeMIOJ_UlTqbgJX1L0v8ECrKZ_8iiI30axRisGF-bSgxBRD4NI8vYwAkQVvV06AgvTISUWLwoN-fZ7Yj68FZREEf5loCwhdMoNDkJhft7J5-jWBORUErwPrCtu5zPLi237NHDPBEDQ687hODD9sDS-gSTDcBLC9gSRx46u7TURW8805o-t53YkKwlbBp_-D2-UyHLUEwIFx_i8s4qfvTQ5tj38BCYGMT7FGBTH7qPgcuQ51v4PoESX-ubzu4ECuQPUSCNiCdZZHMFnoy1RL_xL4LVK-fz805JOLeSmZPPc6ddqOol6-m9Ql&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP2ITKMgzxgzZ04Zn50-p70yCZIvylck--PgMUU5PcYcjeSJf4U-IdFBSo_8TdPfE_DIOXhT28oIk-Wh0blUXkfjH6znNcAWwV0g2xSWaMRrnodRs4DeoyetHp8z_s_pZAl8sOyXy7gn8pc1R9p5iYYGIHynuP7ERKZbpZaIHPgG80Y9Y9-yI556eLAeX27185ffAosEsDDgfgIde6iYcUWQ-m0iOZj4LTsDmam7w09d9va3SxB8hJ3_4OApyX-ULAOfb6SrioTqBM5FfVpL8-Zq9UWrGv6wDNv-GIOmf4E1qFHllMpKMcf4PuNy5DuZj_OVH7mml9nbUYXaOSe6xr4tKhhaw4qd54_9XR2GhVWBUsHBSCU7qHD08pYgPPysRK1QWXC7pAjXkA5vjZYmO-wZ8Gdv9EYFTmGLIdaau4qccVx_xk2UEAiZKzgNUO8iy72MEYOy-_EHVplSN4eZ7h8aI33VA%26flowName%3DGeneralOAuthFlow%26as%3DS285230993%253A1791344061352971%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdDUjExD5Viv5c-1YNEECtao_IejdCIqXyvB0km_weqgJAoiAiLge_kjYrXmURXu54LSnAwRjb3w2V_bo1KWC2rA8zzOFrjTyFSyiBcsGT3jJMJ3ks",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1975943293%3A1791820955618962&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=oMeLTG6Jk8fbAFc-y8kXAGtxX7CKqskgUSRKvE4QX0M&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEyftijXiLdIE33IYYlW1sShUX_AAeR51nQzn4ItHS_s68MMYkGeDaIvZ_d1zEnB-4qtlgQLrXSQIhMpdqP43cggSijSwr0HcvjOcSG-ICOr0hL8eZleGfyKtPQI1wiJIN1PlnKhAyARUmeQSeUn2VVinv494HVPfJu6SaEo0NNNEY4hCE8UDGaTsg93FMP37gPSVNLK5drocBPUJgjK_6mM5aJWw5fTraUXkmjzGVKKfC6rEwlLeujsOPrMcjruJpqbfeM25AsmgClG7mEkt_aH5gfNBzWmFf3EJPpbzprhdTy1miZKEKTn2fB2Im1EmryQdfyGck0zmDJs-Eibrrdzte9yDc-BiNSHazCaf_IM-ND4tmpntRgiGj0Sc_vSRwHHs3cQReJaVvcy5ZCnbZ6SP4WU4bwqrGOCQBR-iqFyNtlk1hst9glpMzWNqQsRF3W0LQe4M4XcC859g6SE_7iYg6y4L2XEGUx8HFH2FQ6umvjuwYsP7R1fkmriBfCcGWNYMsbOQ9ZyZxWHXIRIagti8wF8LQMQyTvEerXQGxGY-PED9e5Day8-mkCDwouf6UymfbLyk3gLNbBcH0AVDTleCiizSUwbOGh82oDHL_57Q2ji5wMGqROFHOd7LBahWj6K0DlU6arALkiOo3ZL_sNL0eEILSkW6RK-1Km2f3Wh5sKZ1AsTcshMGmKc4zSx3WmjPLPnevC6y3Cg6sDueUAPrey8RaQUdAnoo3k6-50K1dDtmvKHOtdZKNpkkr8xzf-9UAlNQZw7_OrO5t3yvP5SAOn32b_Ab93tUpHcYYa5Z2PooL824DvgY6hTZSrf3j-Acu-ztSygwgWExwRit29eQtDRxukMyrkBH3SVSvIqe0fzhUT3H8foywWSi3960ghwev7TNCK0t3PVsXUoK3416vJt5LuWJfLXublHsZWA0BJMIwhj-3_UJ59Cd2z5hknQzP0SuQXZciuMD_wzymnc-mHeuVLo8hHYjnQem4tiFr3vLzfuWaikQGBoJJediHJ6f9vfJXLwu4ZUVhI-6Pg9ejJZ5hPhZbcl8qwc9ucFrgnAUB7nlsRYQ3bT5uQ9AAdmlcdMs9wrpF7wQNH8V0Pb09sYsZVKt96bHqEoA56qeAClt5_LBmGFMfOkmyd30e5NcjXFBGtCTAOe6Wz2TIndisPJuebT4JL8F-ECEBC0rNtlnp0VMNPlHez1XpR-xJVxrVIN-c_1lUWpgD3-aV&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAM1erN99TV_Tuk-KdvJQGKVWRc-FSmniGt5RdH2G4V4NshSL688NJEiM5CDJhFSVMe88wBetLkVx_H-W8Rysi9HRgblwJpOov8DEQMcl1gjoR5ma8qel4dh713E0aeCXcpMuoh9ZfySm7X99PlIcxr8OL0GoGGVayPEM-WR8aNB3UFp6XHzBkrS93O3ploSm2gY6rBuC1y-nZ_9t8kdCmrcPYlOGPjVqn6IEljRUZjJbK5Jw2Cj1fMgH85UsH4El7FpImJmsOYYPlnZbiiOtJrryKZCiTWXJIXGTvl7rv4MmLfbngTZVJF5qt0XGQQkmBS8wOINH9j3sJZXc_IYRbnAYY9rnVbomKpFvdWzxmlLxOk-Ul4LOgl8O7iuJbPCCpRdLfXBUHkvK7nTeB1KkfGaGnbneKTje1z_iWqphaVqMoshksGtYKtvY1reAxzKBBhfaTEuM3hbfw0vw2aYHS01JBRHoA%26flowName%3DGeneralOAuthFlow%26as%3DS-1975943293%253A1791820955618962%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdIHS-2GoifCKYUl-NVKN56Paz735C8RcFgCcBJKvI_ihjUD8ggZJj4KBU5eWeNsouVsxCdMnu62GQGSMX0gjRqh9kjmYRiEsYTGKlcaDVDIHdSKPo",
    "title": "Sign in - Google Accounts",
    "links": []
+  },
+  {
+   "host": "ann-comparison-ui3.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "annamaria.joinhandshake.com",
@@ -258,6 +282,14 @@
   },
   {
    "host": "appstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "appstateo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "appw.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -297,6 +329,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "assumption.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "assumptiona.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -329,11 +365,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "aucco.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "audiorca-external.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1996279730%3A1791344062450442&client_id=136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com&code_challenge=2yuVJwx88okgIEMydT7FkKa8-y1_2cVsJsyNzW_157k&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEjizukZkMVRBe6JmDMfTCQ0GzHzzNnbaB825MqBHCHY8R2BNEf-4nHs9tUJve4kqhkrQnGyUDuNOAOmYUqnztV6Tb8FOKw-B-ZsvEwHYBKiu75xNDvd4Nr8QBIeb6YNj5E64Bod3WF_j44j9B2z5imh1x1FbhEPoJ9H6OrNdPa4IgMm5yfm3FclEo0DWnuKkuqf3HB33zvtAiEkwGFgnwblnkDo86S9JZCVH-LAqggHa8rQxuIIyzYM8m7S8t_T-F5BA6Ylm86GyHVJm7X-7jylDWMCEgf7hHoSFwotEpuk6b4TvjKsugl0e47V0jj_T6Sq8s1OJOs3LtpB581dDheAdkbeqwZieVWQTOIOrBEdjtRCU1rKZjdtHemDQ9wG6CDUZUr4tKXxqaBGC_FJx-l97zeOB42x_UcwjDcCZcBupafiJmeya4ZpfqGsAE5S4pawwM--gAR9cPqhZGrDlpoNCRgFi2U06ExRLE-eYbL7ajhWnDxTXT9df_iwrfQNMuuh1Cf5mzUSM-ZIUcLhPthhtwze9DUbzV0_Q4ItVQEQioq9vt_ucLW9g0wk564sU99q62BsCs5cbfPsCM0A_bOK-SKw6iCmbA35594KtTlleKTZ3wPqr4yYwE1POCPGwW9bZVqCyNPHbgN0FDO2JgaJGS4QVEwwuzG5_f2Fx1Icf9FiM38NZ5HSrWXPufx68n2-1i0f059TWAfjeq-bFvPKOfn2Coz2_mOzNdwItF7eLQRZQ-s4NOmVEctKNrlZbH_1hU_oIGdik06b3biJ69q5iaOqq03R162xJRAMjKbi6gaECvhhWPjeDnavVQNtf3L742evL-L6iRiKw-SokBEhj5P7tWaCJ-l0S0egKu09PB2HayMtslhZ_TqZ63OuA12FP8i5D4YG-2Jm3IQ6R-3tB52_3i9hD7fLJw9ytthjNynVKWaHeaWxCA5hXog8T9z2HE8MCsgjbV8sSq3vgV_d07zMvUgPfb6UlKLK4qnsx6NWdaYOrrfWy6LUfYPq8pf76UQx-cWc1UrWAXgvnjX-j_H7v9Xkug86QI7xxQioHPcTAmsOaofwRhdMWZnkrWHhxcVAWHBvSLUJhW8kYN72qRjykXamn4mAf4Yf7Cf5N-PhjJ8BxMApLnmby78Pj3L-Co1ZH5uBU72m6FupIYtsTCxTKscaZX8pYDqjJUMfD1jBcSM6jwohRzwvy3diph4n22gmu1PXq6lH8e77cY&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN4z7h-FSafAhZe6DuY6t0N3ZQOfwXkam3JlrNAH_ULCCZ811jjSnyH0fYTwTcrKFiW4VZP0AYjtjQ_2N54knhh5RO6QHX7DQA8mTOHVjcuneQaYsBCU8TLVX8n0N3HNIowpFKdO1ViD5eH5AC3OJBGgZcibkOwCvozZ2d9gH4PZufAokX_lBXrub2bjjSUZcIUYm_7j4iZDcobYKF25nEgRkVnR27Dqv8eGQSNMsXKn-Iy_B-0NqllhU2-8pRlwLn7fIG77XI5QlPhGSHK2vhIsWzzX0WYEZEmckxfaI6Uo6rSYp-SG3O4hfv3X7mSGjwKM_KMBegmW1JEZhks_u9en7Yw2SSSyZfuDMY3XKKZ3yD-SgF2y3Me63nrG2Ey8ZbiUWB26pP-kLH5IAElUjLBE7nBJVIsYxwLprEEqUuzUtdgUY9J7w40mzdrNBgvM_JH3RTl4xAz6QjcA1aZceUMxW3NNw%26flowName%3DGeneralOAuthFlow%26as%3DS-1996279730%253A1791344062450442%26client_id%3D136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccdVbIq96Ih8XaceQTqPkg3yHg86cLoNpUIHBwH_1srqfFdwD_SYg4FocXIqgyasOYF0XlqdR-E_LREB5S8jmxZWWivuKZLPtNfqsyITCmShpNz5g0",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-703765031%3A1791820956849604&client_id=136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com&code_challenge=ZTwO-nDCQSj66h4yF0l-9lBTVnrecjZrfK7oB_k0GzI&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEWh-YrfLtyRoOGCibZB_FkVE0_0xdql1higOex4gd2C1UbJGuAyFabmx-eMsBYmEUWWdkahE0olxJs_c-i1_r2LZR9FrNjP_8D5Dcd26UjwAbz4sKpVsEA0vfwAHK2v_PSx8dmBBhsrtvPY45NNlDfFmW5qeHfuILRIjw1vsABzsldOwI24y5hRgmNusDTgeToASLpV-RWvhihndXK-fAUhgUiHrLqCiDeGbVwoYvhcFpgiG6Lpy_VDNQbd9ffsayT_xNp27AscfDMLTXxffghXhpSBs3Hpwx__d1Vp8sbwnbiuQ2ICb5c7nDhyJxccCrSaX1ZRt4PhfC1xVO3EG0ekC78ZMCNhyUDBzXlEC70qCcvC80h-1cJlL6YbK6fyrZaJkrqdQIKqsSoOf9AZ-aQv9X3tSYdmBmFVoH3wU83R2gx0vGwuZmdN2VHAvTwDHQMiRUPiOg-5m6BB_bO-Y2ouD3dI03VhyAcQntTFf4F7MfeQyimGQrBvIyjahjQWyS7wkSTmau3xz21bPuI00or91gd3bpqXtFRHTnte_mY6wOafASWHj793ccEeP7A1RjtGSvxYb5op6-00RyT5pdV0kgrIiKC3urvY64_chhGcFyEczFR8yJ4E-Wnf1DL-_rloBM4n2sVzIHO9EI5lVpNDC5mqimylXamUfn9ImJ6RdxJW_3IeCamZ1JPVSmCufw66dkpOT3ObmVT4HVNucfhEbQzW5JywGf8eJEVC_bE-EUXZ8oQ-1X2na3YAARv4lFQX6_DS2zvenoMKjpfmuar8mp5a7ZxUYmBPxj6nTE0yL0I55TgrijC-nnV0Zpca4bVrfcSBxhIX58oLMK8n8YC8WYYu_KSnTEplTEPnzQGvcMV_EEyqjuX4v5cqqdxKOEN3iRLxyMDNKnmkwxafiEd20z_P6_4RLScmsAPgAwCnUPBBZUuTCqUhqIYVxIWcNhYLSa4PIuRfmPlkh2wg-Uv516qR8odFiZcq-AJ5g6hS3oQ7xwlSj9moFILkTrtM6iUllerABunD_Z572F8JZFndXKAeXJubph7Jm6lAh-MBsZhUHsHr-xmR1evQRwPUKMHpj4MCEbUUtGQw3M_6n03qqEZYOqV0Ep66w9rkbIjqtjzGyBkxn0JjxU8GbpPDQtTWiaVw1DBwlKeFA3J0tZ14mhhIAa0S-fBveBvtiP6DZSQljmdWHBArd8TaYP8y3FVRmyd1t8xDJsNsANsnaF&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANJwgFEu42qF-FMX_yX0qzVAd-RHWc1T8TbjCTMRAJpVkw4zEnyii2I08tnTeM1jwjruUF-T5Yzpba50qUUMdMM_dpMloNGplK6bwkaZaEEzJST1tmZnkIP1Jag0ORYi7k82RZk4l5OTxlt--nF9OhOlRz9KKvzHK4OoHQ3oyntTPp4n3auFIjLHBkdvKlCRhwnBayTtb5DHs6bYOtF3FQU6vXE16tLtoJEOfSw6UPQ8QHQ1Z12Jf2Y636E5YqdtqZpkeoCya-iPEcIk00Ekfw-1j9DCXSEzCK0xbqaA1yPKEoEMINLi2LlxwyDKJ17THCJlKkurykp3Va0gKCQuXkprRZ2iFc9reEgqG8Dyr2p94zAq5bDs12rEdNtjCD1qFdRp6iO_0Si4wtNtRvv0X8n3hyGKSTpoTtYijALquYtj5kHxyMwbnacaDjMYuLbEZEdHiLVvjWtr6Mc9T7jSYXMDTQQ3A%26flowName%3DGeneralOAuthFlow%26as%3DS-703765031%253A1791820956849604%26client_id%3D136168454290-0qg9u2ie0etckeq6csv2ims9t3vgj786.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceY3IP5wiZwTutzUsa8lqVx7r1W8FCJVhSSd1Q68s1p64_58jHvMHZ0nA0KH_qN14QnAWZkTegVVp6QDikwWyCglFH0HrAdM2S1WTcISKqM-1ABqAk",
    "title": "Sign in - Google Accounts",
    "links": []
+  },
+  {
+   "host": "augsburg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "augsburgk.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "augusta.joinhandshake.com",
@@ -345,6 +393,10 @@
   },
   {
    "host": "augustanac.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "aurora.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -360,6 +412,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "avemariao.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "babson.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -372,7 +428,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "barnard.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "barry.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "bates.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "baylor.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -392,6 +460,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "bennington.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "benningtona.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -404,11 +476,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "berkeleye.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "bethanywv.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "bgsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bgsuk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "binghamton.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "binghamtonc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "biola.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -450,11 +542,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "bloomu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "boisestate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "boisestatei.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "boulder.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bowdoin.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -478,7 +582,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "brown.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bryant.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "brynmawr.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "bsc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "bsck.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -490,7 +610,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "bucknellc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "buffalo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "busph.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -498,7 +626,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "bw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "bwg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "byu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "byuh.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "byuha.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "byui.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -530,11 +678,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "calpoly.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "calstatela.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "calstatelam.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "caltech.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "calvin.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "canisius.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -564,6 +728,18 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "carleton.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "carlow.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "carroll.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "carrollu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -580,11 +756,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "catawba.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "cau.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "cca.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ccis.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -613,6 +797,10 @@
   },
   {
    "host": "cedarvillem.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "centralstate.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -652,6 +840,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "cic.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "cicc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -664,6 +856,18 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "clarksonc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cmc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cmck.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "cmich.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -672,7 +876,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "cmue.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "coastal.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "coe.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -692,6 +904,18 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "colgate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "coloradocollege.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "coloradocollegea.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "coloradomesa.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -704,7 +928,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "colostatec.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "colum.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "columbia.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "columbiai.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "columbusstate.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -714,12 +954,20 @@
   {
    "host": "comparison-tool.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S1764485168%3A1791344065965302&client_id=136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com&code_challenge=NyJOYF0O8kup-9rxCba_N0Wx3SSPTJtoZzrsy1dig7A&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREECuy1GwWE8yp3PoTZkL9KgM9_MfzTeKW5z0KIHznjzBsunDRl8crv1vvfwXlwUlU3pbVBvRLPjs_mG6Qz_0eT7N6vA7Tu5kaYl2H897EW-aBp1H3zUQAlHGqmRN2eYQiZf89L6KhXS3zNipZT16mAbvbEmlTxX2p2gYLBSv65ADa_S8FsDoY55ri7SXnTIKNMp3e9giaID5aCZD168Fr_5RvjxaJg-xbqHe2MvoqtgegCCdo7lPUl0DIlhPCo1OFTcRYD4XdRRGATb9s5924Pr8rV3vlJwFxRSvtPV0kY40-amQMOwLVy0Oa4xxy0_FUVJCKb721VMe4U252LPIAyhS8GPIV0wBdGKa3TooDGEyNIJvSyCHKzKvOsYmH0-bU03NpLOF7GDOCO48tkEDkz_YTUcS9Apikb9YeKrLeuEfegQgbq9mhVCxXPXqOzq3fCYC8kTVtktlUup8Jpn4grkxq8saq04E1-slfZHCzXmmQ_yVVntUpGoAutusdhTiYRgAgRO_ZXjnV-SCmFkq19BbYAktemYiomKbT4LsMEFEUfIQWOeX6w7Q_l0ZWSQzsJK34nbHtin0N9bnxu9KE3mhWJ-qsj7nW-E3KtOxlMx4pxEkSxFLcUU41GxhYdOqdEs0F68GnP7iViDm_-EoIbVvbNdWNbkXyoj9k75RbCp67ZyUW4s1AD1EAZI8xHZDB_JJBnX1eH-_ncvS3-ApFZXG57Q7YvzyH5KCrYRDtIY1m1KvUfNVujABf_Za0FEJ6PWrtFkSloEqeOcM0qecnKyotdhud2bqpImb8Jhtt1_7-1NOzai9EX0ZS6ETgyO8pSrEyp6k-ej2PiiJQd3quQEYLftG7h0FgViNYPUuYvYvpWnhd7LA7mjkSK6BfAL_j5Z9TC1cc0KAnSu7tEcEBGoqS5wPoLqD6BKydSl26EjpWbigbTDMfmDzZHKKnpOvq7eEY4khXcg1CSeCuQu9tDnVTf5BKWHn13e3tf1eg5UFHe6V_U7rbWFYP-zY0yXktlHz0H4qOVFDgeSqOQC_Kd-washZgmbzOSUNqYqM-1hlmWrMpsFOd0psEBmf5jfkzy5L_KVrRvQ88M_ZrEDDqmTv5VpXHoYU1nfyAbwiyJYICGtWw9Cfl3uqIgenudIJf3MqxOUrkg1CxnVGLHxee7rhPkPQe3xGr9mvbr-cmdriWKKkxDyjE8JwR4yzb7XwIDxzS6GQTaUQ&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP4vLUO-2ZMdPQeWJ7FnQhqZ28zDq8nZj6jbgUqsrHLyGmccd_PW1vUCBpJdDMxZ9kFbide8le9J528zc00QZ2z_6kwCN94pUHrVgqH9V-evcE2-5QsZ5CYe_-S5EuIkuF1OBp44lLMv-fZMPpMEKCwKklSIk4V9wX254S3uHK1XuSdGvoFV5_aks0IQyg6ubSDnaFFDdH5q3ZjKLH4-AGJfJNRm0FBuk6mnEu6Oo7A0GVFXrVscwUUmqMywW7C6c2IGUforSeBApU78PmahaatIV-qOgBCJD4GvhMWe-5A-QvxCDOD5DS-6Myl8H5iOtYL5hEvR9d7ShKQIH_H0moVM_MdwCiCvgPSBszte__gOR1YhqbIg0tr7zL5AKeornC7wv5qKNwVAUa6_EloR1ouCtlkjc_Uh8lIRK7GxXs7qdaij03xmQnRr5GgGLtiM3Oa0XNIDsfZ1w8X-pNkZY10bBwY5g%26flowName%3DGeneralOAuthFlow%26as%3DS1764485168%253A1791344065965302%26client_id%3D136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccH3BIBd4xDIhflu_oe8TkQUW0sZh4ZZPGaJacb1xB5jxMIx_w3gLzVtfJifkwoOJmvRGyniPNpUnwmqn0vxPWwbl_7awK2li-ulnsUB24qjZmezrQ",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-600450695%3A1791820962430000&client_id=136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com&code_challenge=9Q6WmHGYnuf1OH0u1WBdbXhLxskaF4G0pTGMdgzjbWY&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREENmJ1Y48q54LeAXK6z6aI0ZO2zJ7F5-dg3PAlfJF6ioXT-qcAq2EEvdekf05bsuyz1uAeSZdlGa2jLOK4JN5dVACY-s5MnTyKuGK4EwczXwGamcQ_qZKDo5LyVYucdKs3P2h0soggJLgZzgGqygtfEcqGvAWI6QlB3tW4twzdgXyUunBkfhTpah87PGwDnI9oIsMFluYbxMlrPPtyF-A6of44RP0H1UrZZNzIhWa-ReX0rSAdNxGLTUQxRANeVWg5tOCFdzvF3dyjUs1txYFTVXP2Lv4wLXZd0BainyyBPiwxlzUIZA12idQ5Ey9IHMEeFl8Ds3fl1V1dQ_cB5N8eAP4LEbnfBgh6JY5h9PeFVxqbiz_o1vJyop8AYXgpy2rniTTIryERiA8X1tyAYvABJFYyKQcGsLYB7aMoYBZVnLSmWaTC47nQFPTfNrS8oYQbOw3bZUsU6qRUP8KQaO9_fBIpxFt3-z505hnDdD2tO-LXXeov8BVkc3icJjGVrt0Iv22_Kt2IAia3rQJmkTkwwrbO1wU3wABh5pAGPUnBgtxaz5Ppt5hAjjjPuZcp4AZKHZXABMeNEeVMbUGjJaLr7jWySNx-BdNPuO02Vey5sUvrwoUnZao2BcK4bnK2fNWgGgJCQpOdBddm11PLM9ZZYzqwN_4-NujZ98kQhuEh83lpNN61KkCup9jFr9zG8du7_Rgk-IdFsw0trnnNQFvmcRMntcKECXeeMp4_sxBG2nr8o1_gEwDVAduKXG9XoSfAFmuMpTIvJf3L0Ik8JRToY52xGO101XL2ssmhr87fuzfTPxz6-IjiZqmavaVBq0VqkHlE9LJdhp_zK-WcOMUvdXk2cldu68z1FI32ifIdgamGmTeZomqe6RQfNRJygl9XwP7faxbRx84gx2S43KO6Brlq70ZLiyetnsASp3XM6n4430wQpvYODPqyfozwECUSK6GAA9dPvW_NC_svRDZv30gA32K3OF3pt2EjI3CqgLP6W3BEBva54sk48PZ6glQqyfzuPWXaaWApWCTWoHVHtg0Q7rFWobtng29amxUWLCNGzFks2s78JVY6grpCNE32E5BmiJ9-bDyGg-6m6gm9lJG4hA6ZWU-YmhWHV1yN-cdFWgXuvogH3qZ4fBZcHnJA9r4qsf-bzUaVWuprELx4t5BgMM-S7VlhD9_tO_GV8B09cblfiii3W2y1v4mdBKU1JJktI2SUIg&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPqvleyi6FLDVJa_2_iVXv1MwYVxqK0u83zp9DGxgbxRwM1S-xv7m6R_wcRpwS8u-4QYtG2HAmOjc5ADjm6Z5LlWkOCSWfC6nk6TpKYi6JGFryyHdISuwlqKEpfpIAjWvYAFR2xNJd1luNok5adrzFriz5Rljmz8NwmTW_NRK7Czqch9YhZVjw5vUXkmcadyJPnRAvS4FOR-WApNZCxLaO2eJ5m5HgSUrwxzEfkgkPBIuY68SfJzoiPJ5l9i0P1D8qigmzeYJVWjISNYerHRqOnBMO4T-469w8XnJs6oAXLfyGGwPTTXRB-ViYXljp8T3JN9RuvqVUiSn5-Pjwf1HR6887l2M0OAX4oDOl5N2Cil4Ceb-_314j0ix6YJ-TzieTKXig4TA2p3OaeKdTpOnC5ILFuvLyxblllJP9EwESgBqQ_oqn9shxvOlrE-TkRc7czZZsoIJ6g59nBuKRRkgrfIPnlbw%26flowName%3DGeneralOAuthFlow%26as%3DS-600450695%253A1791820962430000%26client_id%3D136168454290-v78tu3e67j2ogg5kjsvihdms0002q77e.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcejLbXkJXN6NAczGbDC69iWG91qvzg78CEAzDHoqsmLwxQB80yLFJRoPUgX5FvQtc5LG3poEDq2KgYYQsLiQMOPyeKeFs3fj19d2t6uKrnpQ7FdmMM",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
+   "host": "comparison-toolg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "concordia.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "concordiac.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -735,11 +983,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "conferencea.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "conncoll.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "conncollk.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "cookman.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cooper.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -756,6 +1016,14 @@
   },
   {
    "host": "covenant.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "covenantg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cpp.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -787,7 +1055,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "cssa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "csuchico.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "csuchicoe.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -799,11 +1075,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "csunc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "csuniv.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "csus.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "csusb.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "csuse.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -815,7 +1103,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "cuaa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cuanschutz.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "cuanschutzo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "curry.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -827,11 +1127,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "cvtc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "cvtc7.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "cwru.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "cwrua.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -847,6 +1155,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "davenport5.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "davidson.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -856,6 +1168,10 @@
   },
   {
    "host": "dbu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dbue.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -871,7 +1187,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "demo-gcpg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "demo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "demoa.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -883,6 +1207,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "depauw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "desu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -891,7 +1219,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "dickinson.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dickinsong.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dixie.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "documentation-new.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "documentation-newi.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -900,6 +1244,18 @@
   },
   {
    "host": "documentationk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dom.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "domi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dominican.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -916,6 +1272,14 @@
   },
   {
    "host": "drexel.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "dsua.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -947,7 +1311,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ecsuk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ecu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ecuu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "edinboro.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "edinborok.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -956,6 +1336,18 @@
   },
   {
    "host": "egcc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "egcci.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "eku.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ekua.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -991,6 +1383,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "emich.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "emory.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "employerimplementationguide.joinhandshake.com",
    "status": "ok",
    "url": "https://joinhandshake.com/",
@@ -999,7 +1399,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1009,7 +1409,19 @@
    ]
   },
   {
+   "host": "employerimplementationguidek.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "endicott.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "endicotti.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "eou.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1017,7 +1429,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "erau.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "eraug.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "esu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1030,6 +1450,10 @@
   },
   {
    "host": "etsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "etsui.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1061,7 +1485,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1069,6 +1493,10 @@
      "text": "Pricing"
     }
    ]
+  },
+  {
+   "host": "fallreleaseo.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "famu.joinhandshake.com",
@@ -1095,7 +1523,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "fdug.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ferris.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fhsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fhsuq.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fisher.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1111,7 +1555,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "fiue.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "flagler.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "floridapoly.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1119,11 +1571,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "flsoutherng.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "fmc-tf.joinhandshake.com",
    "status": "no response"
   },
   {
+   "host": "fmc.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "fordham.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "framingham.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "framinghama.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "franklinpierce.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1139,6 +1611,18 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "frostburg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "frostburgu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "fsuc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1147,7 +1631,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "fullcollg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "furman.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "fvtc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1155,11 +1647,39 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "gannon.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gatech.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gateway.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gbcol.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "gcc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "gcck.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gcsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "gcsum.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "geneseo.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1175,6 +1695,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "georgetownk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "get.joinhandshake.com",
    "status": "ok",
    "url": "https://joinhandshake.com/",
@@ -1183,7 +1707,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1205,6 +1729,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "gmercyu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "gmu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1221,7 +1749,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1239,7 +1767,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1266,6 +1794,14 @@
    ]
   },
   {
+   "host": "gom.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gonzaga.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "gordon.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1275,6 +1811,10 @@
    "url": "https://goto.joinhandshake.com/",
    "title": "404 - Page not found",
    "links": []
+  },
+  {
+   "host": "govst.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "grcc.joinhandshake.com",
@@ -1293,11 +1833,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "gsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gsua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "gustavus.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "gvsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "gvsug.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1321,7 +1873,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "hamiltoni.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "handshake-cdn.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "handshake-cdni.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1341,11 +1901,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "handshake-production-cdne.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "handshake-staging-cdn.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "hanover.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "hartford.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "hartforde.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1365,7 +1937,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "highpointc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "hillsdale.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "hillsdalem.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "hirerawls.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "hirerawlsk.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1385,7 +1973,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "hood.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "hoods.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "hope.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1429,7 +2025,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1447,6 +2043,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "hsca.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "hsutx.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1456,6 +2056,10 @@
   },
   {
    "host": "humboldt.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "humboldta.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1477,9 +2081,13 @@
   {
    "host": "importer-admin.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1105826694%3A1791344074863502&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=jdSewPiFYxv1cWjfyK5upmIjGdMf3S4se5O5As6K2C4&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEjVQzrNCIep6r4PqoGdBYZm3RtkXJVSf6xib9OAKVPR6jqtqYFIjv42ow2pTPFYcSxBuCTH1iqeQPbNjEkI0o9ZJRjOtmyXfeDQ1pMPq4bwfwieZ4k_rlIrJiJbKQe6_kbD09i2h6mGNmBpzy_N_zK47xEBAqTGyO5eoPBoZiAuB4C7vzOXcnVWzmQaU6mhcby7MVxBQXdxv5TwalUjkmkW7gHlehAXkoO7TQ6w2-AmMRur251eOM4oIinMSRAWhk4dq9ZmdGzu8auISPog_T02nyMs_CxaP_kDXjMC0YphsK4xb4dGkGj_F9n3Y2fQFgb1yNo7L6M9_ynr-PhSIsEzCfIe56IDGjTSFESUmUTk_V5XRSS2GTsdiDGLei37No9QhFD-JrQuKpgSt-Ovuf42eYdRUpDWLEPukk_P8wLtWhYvKVf3EBFtH9Cs-JJYErpqqZxj-eht8V8Zz1Y9Tq2oh2c_ziFTso2PClMPwLBuT2TeepI0NnL_xzz3rwF4ApvcV7RD1vtpX5WyE0HQNUC170MPO_9c9EQq5RFFUp9965J78cIQKdspf2ngzSTl5sXWd1HPERgC9ftZQx9NtR-aZmUZY_uvsxOcsopfsHlSaZA0YzFaz4WbQneJn03wIV2Asho9Ez_OtYKmrvohfDCC4bHsnRgRyw8o6aRUBPWhqcvYHtxa9itmrRfmNTGmZZ_Io2GVUi4Rv-gGmK5IWg_fzOcRglOpBHcWAa8VbLDO5HLdQY_LVGZ4pInS5qxuENYWtGBX7KvpWmK4BFPqOTIywK6O-jmj4LQ0SxEUX9FHO1oqfCJMAe_vCl-RY5svFC9qtJYoRa1HHlpnlIDchPOILEESxsjFogcITfjbr_CSYYKhGlJs-yu0djbVzsm8HRMuJ_8vGKBoIOSI7utEKhiiUVH4BXJ6XRNl6i5p6Z2eNNeWn3h9jZ9j3F4AO4zF1QqO3idxqhXnhtFWdMqEr-Zd7yV3I-f1vm3wu6Nu_qD-Wexrh3eEp6Dw6ZK6JK2Xj1qJtsOU9fj5gFziU2QybBOOAy5YfXN1CftSQbqMNfRUOYNAhy_HSK_6veXsANTbAsqbE5H6CF6pfZBk17ZxKwLuA5aXHxEZGHoR72wNghAKTF_P4RwcNK8NScRGyjLgm-jBTKlBPqbuwdsk6ffki7pAz-YAESM8x2pWINCSRCS8GGTIxnfTL9lrr7YhNgfhXHMJal&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOk5itrU_XpBNSTr35pJJDxOpMvV5Yz_wVjmQ5qkk6Gk4wC5qgt9ZR418hOOJ5jFMEaPgXbdST--0fMe8jF84VaYYP7fFnhodgOSNFmOPoi5QYGNfxSBWmAaOc2gK7HE-3xiD6aQE6BRKweR5lujojVPRqdIjnbKfaRyp618QSLeinr9Pk-aU2XA2EdYdB1mXMeGE_A50hqEffJxMEcMJSdJoHLEaIDVnUqH5c_-j5DzjoKopuWv9E_VGJ68KLzu6ETjUT069GCU7KEKgUZt360wQNWCNhUO1hkVvCDv3BWMVTJt7gUjHo5uo8kowrTpqvliLxIGvB2DUHEJ1nnpHQVxWXFBDPDU_IiEREgnkw6OBdQ-HN4RuXUPTCG7aL9soUT8nP4c4TUrEtkRZbGXwtlDM59oCMCgCZiIs8PmMCvmfu8Lq4oagjmT9Obzw1ekVdagCvxIiRImLN23VmZuSIhsmiLDg%26flowName%3DGeneralOAuthFlow%26as%3DS-1105826694%253A1791344074863502%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdFv9UehScMgvYnPJ2tWxY94IxlvCMJNzLMhVC1kTc7gGpYfhb0qf8a1wJTNn-2yIqtnSo-NscnrQsrhuozgMPbCf3lurAojMg8kY_iylnUWjHMcQA",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1106651052%3A1791820976008365&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=hKyMEA2ISi15OjzExGlUquaXJf3AQhR-KRi-Ca48Pu0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE9E-vhHxQhYntVsGn6uYoeNyR3jATKppAkjuooP6JLxZSS1cfEZkZoBlnFeF318hAyAgH8mivjUWnP6scMq7lqyBJGtlHcV94xJIVHV9ktzMPDKq9bRKWnzG0kbacISbBhB7tHnAXZE213_A5kG73utnHCTFG8SomeJha0VfdkM1wy4EEdUr4j5z0-DHcHutKf09sq4KkeFw33C4qqANFoq30_tusp-n6WlAYqAaY7P2gZY-jZFTGctrwhM6D30pmwC-7fL_3jgxzKL1ENzNyf3DvWrq4rZwXU1n3RZIOZPL3w6Nd7iXj5gE9OtrSVnXR-e7cVY41oEdmInC7HggNAFYzwM1wXvMBDn4Fu4B3J84crs-_2K-rwMVSgKG6f7NAlJOyVv8dBSMe8XPsJRhTk_CW6CxPdItWwpiepQEOmVketDHhGFu6TNo2oSCRiOd6C6BZ7CWmKGVOS9RI4E7YT4PwFunx1EjRyy_6Gdpxd-PhNFEAHFfxxhA7oQqoveOw8wuCZWGtdhUSSvQFz42XzNxdRzm_6q2VViVZJ1MD-CherwV1tpmFeGz8_dmXng50pHwPlQXpK3uI3PllxmicMhhErwpGn0yTQKoEGCyxHJbq8hjQoZt0pBReLuxI1Ui1hwyp1oJr_zs2vofuSosBheEjrmT9pyUWGa56U9Lj9ng-l63rhtyj2aLNzW0c_vmeo_0Wyt40PHTl8oTS4j2xD2coltNWwYSlsHsRv8NvYkE3MP7Ww6WPBEzV0FV3D_S-5uBckbRHpskrF5gw-aFeLllg99AZw7qxtLWaKwWjC1MqXi2yne66cHhZkTlEaCfX7HK_Tmn8ADEy6U1qpSvlX_PCj3fSY-diQV8CEt6bMyMhjJGXwnTG-mGExKPhjH_Xvjm9CHe3ZmKKc0RCXGdBCmf3ZtHAUiBlunMjvi13AAOi-wpUVORWbSHO704wZR5asHpbBbDHz1Hphz0paCjT8PdoqvusiBTwgFSgbczqlPPLRtrDn_TCXqLBuzPzj2j61GBOSTa9sgNDhaf9tz13KwlfyAfiNQBixfvKX-dpsMTLi5GN7hlAdlXWufKCM4Erhr0IxNqzNefl5TItpALQE7BO7GzAuSJTKYtEiufdFdbKLjpE9BsdPhwULnpVIdsnpsjaTYC4GzJAnmi0V9Z0rWj4LlB3zcEjKmGXneuKgFKBR6wa2SizvQbNDLflWBJNr4ft&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOVNcIbc-acC2aK2vHeb_MalghvMGqUMXhOtEzNYqjHq3dpp42uVoHmr0ruCDEqpFIuKrxPU3miDEPVAjZUVUKkaBS2vbmQv6xnzVg8YU1Bydut5XLSMEEktvVbupVI1OulmL9cD7xVwZn9WlTHxDOCch0pWVgpE-ve8NuSWRSGZhbZyhCvOxnAKUyc_a9Vmx0Qg8nIkKQ9ZtK3QqRLCavCiIBHliQcG1nI_Egfeq_YfoIXsyRnzJHz_hFOMP-IBExMsz2HWGMb5PGUP-LL1SGYJdiP6e98-CZwF9GlioHjr5mX88K4F_BMeym86wQMxuaQxAZeJRu2YxEy_1aAZFvLArtHKjoOME52oC58x-JvYChGdnUtYUL1Jy9cYqQLaTz6MssNsbqA9lOfyV7MataIC9YG7X6lrXmfdqzf008UQK7clWrXG7Az37yMvK0Ysrwxua84uLemAIOeZib4WyvTU1HiNg%26flowName%3DGeneralOAuthFlow%26as%3DS-1106651052%253A1791820976008365%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxce4_eRttn6gwmrsEk5XjVEqgyGmj41jT5R-yQPf8Id1OLuq2iTA3-uNrODazEhUWq-0i12poMiVjJI9IEpoC7Zae_Ke2Fvjat8y_UTurm-lKfA4rVg",
    "title": "Sign in - Google Accounts",
    "links": []
+  },
+  {
+   "host": "importer-admink.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "importer-ambassador.joinhandshake.com",
@@ -1495,6 +2103,10 @@
    "url": "https://importer.joinhandshake.com/login",
    "title": "Handshake Importer",
    "links": []
+  },
+  {
+   "host": "importerm.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "indiana.joinhandshake.com",
@@ -1517,7 +2129,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "insights-stagea.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "insights.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "insightse.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1529,7 +2149,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "isu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "isua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ithaca.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1537,9 +2165,17 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "iupe.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "iupui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ivy-internal.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S117970112%3A1791344075648531&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=S6ufmiTeLJl2xW3tjsuXa7yzFi0O0QBXEAd3gVPdFA8&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEG9HuWAux1TFg8j6437asot65vZmNDf9DkK8iuIOGebJdhrFL0zhEdrS-Df7O1yb5QxVJ6aLqZSx6ERgiTc8pMF8UTi_9WsqfDkme5DO4JUkQeEeZ3xbhj-NcssVI5iq3semVyyMvmQLoFELX8CnfkWf-wKpdiPhwyVkXXD_c7i7zKq31pCz6F8Kbg8lJkS8S46ojdDv9BdYHnsp3mzwk_hxLcqCbjX2D_GrjjhC6GgILrh7JM24a7kSTKgGXMgEqhqSve1u3SRHSuvD7P55rDElytOeT3wHMiq-N_sXOLvIFXIxHnVq8vVNPnmm7_z4IDaJE73X6_v0C3Jx15By3TjNTSTMvNoJ9VEft9eD-8Nb0CwYvPNVY6aBrQ4ONnjkPw8jcbvLUiVHji0YU0t-z0CGUhi8BGpQS4quNelU0WfQL1Q7k8bfny1epMHe2arpU9TKB349KQi3xBfp7wHvS-DJ_NiTHdtZZ0NNp8iP05e_F20D6PjGMf5bwndIql0it030-8nth9ckOXR_TpWOjwn708t4zJ4YNC7nhU47Q29Am5gBRm5Ut95erWUM9c6pheT3nALr9OR7enZ4kqPMefoRzlPmQgXQWHfTj6pHriLjnHhaWp_Z4p_gJ2kQhxSQk_04JKsG30wBDOFGusG_3MmeETdtlIclSmwV15F2bbbxoTce4zjNc5B7DuIBogRZ4mpypa9BNUDgF7BTeFn2QEoD4BYCtilj3QS3mD_WlJ3iexN_PN-T6w3K20H0AtzqHV2ICf_JggcT2bJf8JzLxgcjeBvDGck5ak50N7iKKWNb5SRBRSEO3QDA1G42ebwYl5YtCkAyDqiwPjgK8DnAYtRC41oFByQYynTiA7AGT4_9NDTKKk-5DtsyARPGf-iRr5qjPszx32fCX3PTstKKmqVdpjA0nXRM3xStzY_K1sSi713FkLCfv6o70tZ2r3w7H4V7kSeGgjty2rbL6u2HZ3afHQBNHRe2hb3RnTFOPWooxlnl2vULd79tCnlmJFrs9I-88qXxZZVxNWWUeo72zx5XawLwQy7rwDP-xXTuVbRAjNsGeJNSURGAgD7cE61rjfZnN7ME5dmqh8XuyH4tz9gN3F44SvQAsYp6wD1DRP3ig1IjxWSL7QstM91nW0kheM9liZSN0SwXDZ8iIgZR3tNIiUBXeo7EHpBXk3XaIyEUyehGVzeeyi6wIBQ&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANttuGCHoXpAFsth9a3Ghof3Wt61gT4dqD3BZE8EbkCMxGcfrWPZ3JSJ1WO60oBZzxeNZ5RH2rgt38Z6WobpEAoPPBuEM-latOMkg6xWuo5ehVHBTvkeG2morkF2LDKkHDMW3POjmbank7nsPA59Ij_SwgdEaaQqWxTRbXt30ZdfvUh4CaOCVl-7qd_Pq4Da9iQoXG6vsaAuRhYYXfj9nAxtl775W0hq-kpGcf4DHHCFcFsKwVkxd5Suxor3zSI9Z8rUBjq_Qc54-RsX__AsUK1LWRGE6Fr78YzkbD4ONjfoEBCLZ3SMoDCYS7cqo2H8MpaoTXkE_g2dQOtiyHMDmdjJIH2Cg--IWGC1Bq3zSBdYao0vTyEO9D47vy0WRayC3-VOdFJglKQ9oW2OK3_f89BQDBE7JyQjflDd0RnlYkmY1oppEg-hERbCPbwRNhMGw20CNMW9MP_VLFeZl68jeK4nHMODQ%26flowName%3DGeneralOAuthFlow%26as%3DS117970112%253A1791344075648531%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceBgLG3dNF7cy_Q0pTGLA5QNSgZKTq89VL1MG2jzL1WSjpKNHpiAAfjkS0VNnyFUdGMfQJYOXD6KslLdFU2Kzxe7GePDeuomlLW-0Jt8KMHWIRFgAo",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1844251199%3A1791820978060780&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=WWq93o-RcjTFBCYWs2zvesRtdTuEd4rNPpOJcZgjLjM&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEq4EV44Huch9R82VLQPmihGVbOOg4O1E8shjYGPCeMZNEIeVGX3mejp5TewAP9F4pLkd2vRNrSHiYPoKw-G277K3U8BWrRkYjBlDa8zZcuUowxIA-TyAGi3h_pVV9TF1DIFh1TrU5jT-HsQLelKs0yMwYceY_4cr6g0xs7x4zzZWqyfJ_R5qU5KvjsyZUP_D19qbLAjTDEQ_vpIZ5ns6lRrvE2_43OBYR6nTQFLx7zljnvk2kkTPE5S8BFyX9je9L9C9-7PLTkV-ci4bmyKMkSTFSEw_EXOnYz2fiO1W-DvLlXcoSvhVGQO39uAiOe9M_qPcfcfiMtC7DlkOj_KaeXOheiuLo6CovpdpmPeVj5Q8Vb_HAGRaa9o11INvvPHn23-HuaOQdUdqFaZeG1WJMXBpFfMcJC0preY5yvWClDZV67dyaJDEQHptW8qpmJCaYBRWzGra_SyQO2nSjTjb9PHkOfWz94OZKaaMbHYJE_oH4sZJLPkUWleN_yhX61oj3t6PN6kusKHq-htQbbzMOHUxRE_dZVaum8bQKjbqcZjv9gYJUQ-FEDg3S-IWxfv76ua18yS-GiUjka_fOI_QhsMok1qHGB4VLsVe54HVkZiKeGJVR6_29qvNfB9ewN-eHzNEgbuxhz9LpPSZh9zKJDKUOTwPsLUgSp7LruRx07RvAKY8EMGvy4KZfC4UtRUCqbpgseex9dgyEjvCR_TomiNJXk8uLMQXQQgjIydgHb7ZEnf-HF565lh0eLCzwMwMqap81fEwK2I3KJaWCohjCldLmcNCAVCjOEaGYPc4DRxVLW-aPTJONp2iSKycDJsM_WckL7UX0s7Ycn0wZLit94lGUT9bkHP2DicoXy6HWODK_0p2g_o5Pc1hNPYwq-ivDk-epR9FbjekNehvE47PCcfOKHDjmKDaRQy4d4bxmQE3apZuX0befoICxpVBq9tZrgs2NoP1chkyauzdioochWC3cx1cc1Rdmk8Q0wwFROjF4GETPUni8QJWw4IQa5w_046oyGZ_YPV8We1lUCMeQBZo6Mji3D4db-OrikWZQDYSMipjnbCr5aPMnqItNda1XvVIzF3PkBppAdxP1bu038MzNDNWOgfjzQTCu1wyzu2EEv4JDC6U7KnMooeMgR93M87-a4j29jrg7cNqEPs3lfXByOf5l5bZLlc1RHYKknmTlygwfO9EuFvb5MA&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO27O16E0lrp8cdLaojveJ2KOZlq7sgV1saYsqNZJIp9dZOuApCHrgnmziWOFWGJSU5UswC_15Wyb98CZetODAeKXp3CmFle3LyAThy6koEYfeJRswrWvwc3LV6RDYeITJUaKYOlf2Jz_FA-CO8TQxYkcj49YK6qkUGV4Pd0TaN_Caa7yp2PpRQMhBq51C7K_XR18AgwCPA3nl7qF17WLVJnqKZgjf-4CF_jc6y-AmwZnv1xhT0hCuFRDIACnaqb-IwuGbfDGx2A_iNM3qwX24JY7T2tZltpbYN8ZGU9PgvGGo-iA3IA-LNw5EbUm5R7cstiHLHN31vgSaprTJS3L9p7z5R5hrGQZeOQm3EWiDinCEYuo4MBIBbjqCoVujFDldmm_yT4bDBxMc0kvhlEzGLmQ3UOuU_MPF3jYWFQN_ZtynPLecM77VK7xCXjuW5cmwVZaExk8t5CnI5mLwpvDCiM0jHvw%26flowName%3DGeneralOAuthFlow%26as%3DS-1844251199%253A1791820978060780%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceMRXo1tYWgI3x4TGaDOx09ADIG-Kz8YfHkDSMPxLXwXwHrZYYjgAqWu9jZBf70HsWfBe30QU3FNzFGH0X6Lc86cHbs-9slJBXgAW2oVBCyD_Wl8ow",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -1555,7 +2191,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "jcu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "jcuc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "jhu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1573,7 +2217,7 @@
   {
    "host": "job-search-onboarding-chatbot.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-451938959%3A1791344076105259&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=GVvOVjw1VtS6ubA9tJdhNx3OW05AbGvdla3Md88kt1Y&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREElDhhjPd6-KRk5MNO3O-c4JTqboM1xw9fFnkhW1TSVK0OGs9bOwjXWb6WIgyC6lQ_eoejnrWYYZ233ck4QnnosbZwP2YtX5Hhrjm70AG35KzFKdr2sQ8MghJFhTgXCyLdPKhQPxlC_XCFu-Pgd8LP9nxahstp4VueodqjH6g4NYh5EnJnXNvL5U2LvGiCcsIJPIv0dVxiMj-SEwbLNJqz29_m3rf7F2JvvydRs9ysMh8yGp22Vx3ZjuHyxYPBCfeIZuIHXqJGz0ZQjr3ShIEKcaT7kzCjMRvb7_dtqZe0Wy2EbxGUwFRO10WTdBdwFd4EK7VMSvTBizuVDTIWWZhu09Bx4pJVvFhCeGjyGWSD8uhXinSmSeK4IGKEM1SQh_1u8darQzDgurx_lu-oEO0DgJ6tFFWgAZqr2tnVYTWLT7_v0awTaTsW9TWbhYxW6EoiUFTiZ_G1H9YbYLLIPcKGtsgnMKiusd-wKxKhRNTB2knmSrsfBU_qPwbplt79w_96MWvAXyV1h9OdeUPaenFKTyEOBHyvVQtnDkEImuTaA1hKS60TkzvOuQSeITUjx_-YfK-KVBUwZGcZwiJSX6hRAicW4Fz2ePvFC19PpORE-2SUp-Pa3TrGk3d3bncOR0qboD8oJFtd9KlVS_T_edWUuymByn3c34X0If5Y-_EdYryd57zZ7rLqZIGF0fK7_CrYdfkGivNnn00_0Xzpr5fYih1TfLkg-jVZGYspdlrqSb1a-6RttghY8ICESvLuRPdw3SHBs95x2iTlcnbYODgxj4s8svJsvZEGPyElZLHndOSo16TvKXALHKc7_tyzR9xhGZBLYwLosjZyQKp7lTSGEU_4ntkL-vmanWLZBDPwWzQW20xMaJAtvV0LvkeCBL5UjvxkpHZBTOYb-ZQ1uL_3Rv1WDQ4rpvgnueYAz30Q6F_VkeJ4lCft3XrYFNqSq2KyQx64G1aQ5ji-ZWjS8YAwKkxf_ihO61CJX5XV6QYVpWx_gECw-Jwa-kJRPLXgNwkG5J2MJzDHhp0K-j19gqb5jNdg8c6sIMDDXX3WzRO03Fbs9cKh77HI2mmNntheYM3FuNEGuVyxMZhLXioVi5sHd3UEyKw7A1hJZ1zSeXiM0vo78iFIZUEIQx4MqpESiSP3cjBl_XiOtuhbGki_uJdDuM-WFHlOPQfvGWNWbEYZ-xeE9sN49ePYZQAT_44rZOVt-cgbrt5xq9Qy-i4-3PKKG6zFESU5D1UHTtrnz-LGMKR9JPlS-1q58iqw7SSfx023aRE0Ekjec9LPqD0Rog5W&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMpKlvS1UeWJ9uZbn7RQYWxdARkPuKllImBSGsQ1aRHhqvoF89N4GZhmQmji7bKkxrWSpLw8AHl2AMtcyjXQTagH7TXmhjIBxaaDecZYHXGlLq7WpAkX9OMm3emT5dzhnwmCx2-NEqRJl-VnTajH4Ri75DkcTaC3TziUjRYylr7bfxAga-OgqOm0P3InBlWQql3CA0w3_teY_U1wpUGoiZG61wDXuNAZ9FTPPB53Pe9RIsMavN4neK0nkzTVGAFRy4obtysNxae1j2YM6hvsbqBJqs7AGYXJljGn9E9hEP9-ncDnhuNPPQKUeHjeLyHRPFvzTibxUlNGeeP5yR9sIkUqgVcmWdOW1uR-EA-xyB-7U1x-_IDGdgZVx51dFwIyGFmd9D520ahmUbyRjb7YUc_fHgNmDWlueMcFiOEUUa2CfRiLNTLCVucAy5JQbFhKFzHnvN3xS-R1Wwo7MvO6fr7w6XTJg%26flowName%3DGeneralOAuthFlow%26as%3DS-451938959%253A1791344076105259%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccsVR7AkbywLK7gbPGz7JNRGX6tWZ0VfSBj9EIKzEBgkuWaRQm1YsVAhw64Z9PlnDe9XwMwtzitc-pxlYS9BCZTDushHmzfB5nMeREbvq1dMdYU6Yk",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-133386581%3A1791820977726398&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=1qnBhN-aoRvtQJzhPjsGaMInJnMRV7xfkxlLCxPMhpk&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEEwtH-P502vNdLFuDc9hB1IF8IQZMjkvsXo11AFKG9NJZaQjRF7gtphGw2iG8gMcYqJ8R8CRpyoC_CdWISiMbgssSjpqlKMz6QyOG2pOzUfhgC0rjxMZPyp-Bzu171WFQ0iAijLbO_HZgHW4anc-sXgiDnv2pMPe-_9q3iGW95Ap_pNMIvzMCykIHYWRPu-P-8IwME77X9C8gzEl0CHNvVHzkkDjiWy-keNM6hvzOrB-UdtOhN7K6VzNFJDiYiUpwm1cz6gU5aHur36FvTf21X_HPqWbZ6xsBI9vEXK4x1v3pOX1WsmmboLSR9Z3mMCaDx2IRSkOGz2K16WhVAtsNxu57UACU_GBvxXCexlIMF-NYOYNCJo23hj4W6tO1KeYWonELvPURENybrBwNROAGpmaEzfA-FKYUBV-_I-r3fBzRl605mX1B_teiVmXIXW3wt-3tbiY0kjsu003zBykE6awMwhi2tnKmD-sn4YjbfGQIK4PpuPES-Pc4qK5YsHfx-af-Qrn4Ki6K9AbfRQ_0K_I7X3Cop4mVxACvC2Refsi_wYYWuiIBNXDZX2CPenieGB305dP2L4u8zLJ2idBLxwEEM3P__TeUyx00sI46ZJOoxM_UzEK5m7bIyLKHz7vuU2r3aK67UYRq68i2idLO82qOi6MS9IT-L78YzUxnxri8fj9PuGvRid3p4NWYMvvzP8X7baKLgMpa2IxIxu8CCfT2IQww8Ej5UgX5LOHY5IqHMr8GPihe7Bs6hq1KW8ZQPxS_Ymqq0-gXFGfQqjxAkMf_Cxf4YRWxMrOQAdh2aWBunCWnSok-TVFxz0APkhkfRAkbx7vOetyD1qxyRlahyvOHquh2W41YbNk2P-itS0sXqRZ7PpiLBdKIvhLTkUdsS5EdNGH5XToRLQYSJb7FOej80YPZ_80pt1-N3zPD3AKUwDJbHqn5vxMpqC4_UXn6LEDPeHfazhLTaH-34cTGRwL5IcuraVTmcEt-ndDvA7b-lPLZOxXwFjW2YDUmPkXkjcZVaI8gTHHGjX6hjAvD6tQFpdbEsdwKZ5Bx17A8vCb4__6fcXq02svLflMORlu2jbolRdFfNORZB-EMn3ZN6zpi6j-hRuM3Ajh9nwX_Ri8DbFBT0hZdxIBFrfNzLvXzHN7gZhamQJy_IqtE4auMmAWuLeMIvJ8nzLBVyX9VnH4ZfQoEa71tYfKg6WYaCgDx69J6tsAuHk9GrUh_6uemZlUw_44nhC0JS9tQJAFZNn47cNbQvlSyeg-zg7CXMjtemButZ-7X5aOGOAFPOt7s&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPtvU663o158txFMFrnmg372aaQsVrTcoUtUCuJoeVWNKIQoXzsuCQ4N6smxC9OJeKz-XDYtUTxwf5agkpVQvZa8Bu8spzoynV4yivVE4vTyzyqKeEj2NNBXO1Jf3os_gbzlSQWubWALbPWyKf7yUbNnp4lJKAcg_biRY0VA2bFl-ZLv5J87VcMmCRPHQ_g7EmQ8O29PvTKvE1TMo0IxyYJjlx7PIV3Vw-oo0735XWjp0hQMCq23ztq0W9L9lhlUCxRXR2GMrohOJF0_l4ZMCvoSKlTQ2qUeC6wtYL-OxOPwco0mooGhTWOSLT89ukB_MQcJ46-EbDVDnbyYoDDwRF_dtB53rDKod3ZbAqegf_MyoQZxnsvhWvIKrHKz9W_ip9bLpS2ldjloXx1vUkgivksiMw1WajMe61bIraBkAjQUf08PXaCzNLhW2Asysseh9yjqfYCK3bzrX8uRic6VmVe4ny7-A%26flowName%3DGeneralOAuthFlow%26as%3DS-133386581%253A1791820977726398%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccuiIuko3J4mvtg2HM-cjwKDmz5AIDmgYwbJ7FkAZ3-eQQm5Q7TymHQ6mZbf4LgxQ1ZPWXIDYWzm6Q0OrA3I1y3z7yARO3U65Wvff3uqMaannFTOq4",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -1586,7 +2230,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -1608,11 +2252,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "jwu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "jwuc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "keene.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "kennesaw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "kennesawk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "kent.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "kenta.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1621,6 +2285,18 @@
   },
   {
    "host": "keystone.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "keystonea.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "kgi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "kgio.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1640,6 +2316,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ksum.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "kutztown.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1648,11 +2328,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "lakeforeste.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lamar.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "lawrence.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "lawrencek.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lclark.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1684,13 +2376,25 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "liberty.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lindenwood.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lindenwooda.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "linksb.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "litellm-fellows-internal.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S471846517%3A1791344077544146&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=EuZMVUxgnaGzfnvSnI0iUFJtd1tFjlpaZSlSsKNvYm0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE4E-pgRGfjVomqNn5dkvYLvQZe-hRQdaWqd_2y3luQmddwjASS8oUUkK_26b0uVEobtuyuVkRDemiJ7tOap_NMqGSMPhytJUsQfrgoyvV_TEUVoP-wF1Ehu_M96aJYhwnu5c6W-gPiZgHCiphTPh-ul9z-aM68gDBoOxKjEVCruWtb791C9fLwcVu719Zj0ph1KpYzMeCOF0cr7JCE-9N_iUeXoK7MPdB565ag7Rn8JsYbdXtqs2_i7yE_gg1z8Re6ingNb7XXfS2gJ_oHgGjiAyQc0Yoh25Pd0W3GblHbYX3ishS-FgtN8A-FLUfFy4XGmt9Pm_mjU12BbgXUmd77Qrn2sZYj8fLlHfcNL-U2kZjgH_ZLwfgrmQ_rPW9yeEa61LLy4l7AO-Mm6TkZr_TvOBL2gwEvnuiIRfyhmLvVLQ12kp9AoK6tdhdkn8fMk9sz5ocuBFfPMiPPLwuOP1WNoMn0ZiJNP88cs4VfWWmDNhN-pkyhYPLA-rSmjchojwwUs5rSIRnYLHRtGCJkWCjeuYJiUg_14NfMCGm1QXjtlKExCaoAYqZm9XiH59BOnasrzXnJDMahBCGgi926XkPmEQU1bNm7y6jGRVndNPPZpq1V_crjSz_QS-NHl-wzvuZdhW0KZx0Gf_YtuW5MtzyWP7gsqO94ZqmEWLI5trDApOiA3R_Ji4AKYHEPOy09kXioROFr3AJOfv7TJLPVBFzPYW5oagbE74NAe-oK6Z8egQImkAL_MqfafEtAETxcOR8ItyakRXmo-aGm2gqa1-rIUgSSk3jUmTj9KQjwbUlEy2Pk7rJnVW8-I3XAUvnSphQjtYKvk_xKNKYCvOVv8szT5VKeRK8zrbhZ1cpZcNqurUA_wTE-mTRGs-pBujLQgTD-sQ3Puv9cHBQrx6VgdN_CA86C4v8P1AUPCE3T89BglLDsuef8BUsevqQ4yqEdwAR-JN5KPaT7LwfTYgT0dr9V_tuj1B3-EpoymTfEyklLQmJ5tiG0kaCudd-43cnR73VIqT7fEOLTP6-bOdi-UoGAxskh8OTSNE-7XyX9dX0DH5ervjMcqFIuDKtuUAg9oCwECqE1cIm2Y8tUqTzaoB1Yro2z9x2P_pgPnqxYnj0KG1Jg4F8iQ85JijtaWLsGWhesOGU6nykBegO4CIhgUqWFAJ191LX5TqiGMeKgecTGbIUxlvABgNEl6EKy6AwInr5mzn_rJrg-lYhvViNT8u9gKADrwx2WJ1oIzYmrQOo2-S_hTnwWABbuwWe8g&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOZANnfSHMurx1kIeIqFu2mnLIR2v5CKIt1gI1uHVRoPfp970coC09IB4pWDOjUG7MgPUa2-4IqphFqA7XI8gKoMzm_qLIPtgxIHHkQ_QI9Q3QNaHbFRodbdKctdycco4KWDP83bjxxLruoqG9XryBkPWXgEQyAG_geKXNv2OSRT8c9zzIyrY4d_SDwhzd5oRuUYo4TbYiHgfg4jykZIAq5fP30sg2qko8ngrUpcZpHyeF9r9WcOR3YBt1Ym_nRTYXaK3pOp8Kx8wILr1RGZPNTGev3i2AXKSoxpfYUXrWEhOREo2mTSv6LyaY_dJMpS5obN0dgKwF_31w24PjA5uOmde2hQRgO0lmMIQ-26YU_HjsHM3y1qZl-wr1cSUYiYVfdx1Q1R5CY1C7VfmkpNNldm0LvjzwpfsG0ZspGUoNzMzYBJEGYFOeRp2wZZSYAPaguKe_2W7ZXa0IjTC2qcoF5746Xuw%26flowName%3DGeneralOAuthFlow%26as%3DS471846517%253A1791344077544146%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccI6AQkw4HRvvBT68m5n1Cr_VJYD3G_M1GnQASaMJIC4V4lHeKx6GcSOXLBB66OXUZfHCpF3nfKg6Z29i9DRzQBV5s6fWYwKByAULJQRSIGWF-WAqc",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1975943293%3A1791820980298013&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=UG1MVpLsMPTbGPVGzsGRDudCOIS1VL3986PZ-4eERYA&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEklTNr25x-ehWqq5G0SIacflyoo3ov2cqREphgMb1432gfx9UiO91zqUOWXTUWNpLp7_9zyk9Lc_gRSlU7OG8_Lz0foLDGoQGgOWmaP2HbbqWy-e280ym5mITL0t02MRcczIxpqKQ_wdkRMjPQQVHes-7lWSGw4o3KPnvDD89cMDmW8Bm-9-3q7m2Qps7j3nt-N4TGyzI2fV0zof0ljXH-EmPBvpjuAeISDjMCj21TZTrUDf3zTlKFri5moAnnjqV1tN4mQS9b_Wz3785vjAdzQEElFYuHoBpOOobKrtxI-N5O2CJzm-f5uK__tuH_23xXhRPXT-9eor5Gf-tHnIoSQr6YrnVsQLxb-LC7NMgOXHQK9WLhe2tGJGiMVQ5FVc9kNH5XtRnYS80tkB8JpYBLN9uZ9pRDjOcHMLr3hd8XSw6PAs_74ziGZ7fzup6L-sP_ZKZkwhHmJGik4spUQz1r1Iat5Vx8OTluYyVywdcf5AQbG81j4Ep2-bQMZvzx-0nlevwrYf2eVempnng5dwpQWAhSpBuupcdSjAfX6cvp1md8bIOfDY6fkHfQdr0b7i26-Ilhpkdt3QGqIOhwbFoygAEdTVPL3-vuHN32iGnNhm7lWlI_9WYWc35JB2KxaiF0WrZVpe4uqRT3MpeYYxYCuS7WewKZKE1-Y_JF69IPKFTncZd0kHwmzxyiFPRmJ1hwx1yC0WqjE-HoxQB3R4xGfXBTGKMEafi61cmejnUyGh1YjtWMu-I_tAWxqGoyq0Pp3QqQHMcpltcWysYnY19l4ULZ6M0nRQBcF5aJBzBVymPSEAMvVvUmN2c51KUW6_O3w36V9kT9cUeht4L2PtyoS2MvSyljFpK1jhlB4tgVJSvt9Jy06ZRDD2smj0yfUSd4h7kkNGu8LUc3YayRTSVyrlWMk4KQM93EpyiHsSwm0wF7tHlu0c5LFYM8HPYRdWHjVatnDeb5o4vJkunUfXkr8NNwU3PsI01kcyUvCrR4e_o_3m5aKqePpknAKuuZNIT3LpMtSKe64uuUVpykTgZWGdFhaO4Vx6T0zJ8alZcfif5VS5nH0iiPSDHlRlQwH-ZbNLtzLFLflX3-3qMTAS2GubDfS97WWUUG7GzHHEEsqz3PQ7qjc_95cvuYWZutb1gCyPCfcqZjxukqAqtxmCAe20IRdNkjWyaFVjI0DX8GHOmVgwrAntjgO2aDo0JHpg6Q1B8zygqkNOKE2mqZoaCRNCTNe849VEYIztFB7v4mw_UQV-HvwnfSQ23mg&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOOh_tJHZpi9QpkPAhB82AvXaKmNtygGfYcn-P4A_K7Ls6P2qveWVPLMja9yo7ge3i2ubXyTJ6CcO5EqBBefHa4CYfCKx4cLz8KHOVHlz33wWTbB6TiCoZw_3K20XN7GsSVTmy5BUVOlmWzQVvuM8Tn8CXeWAurl7eqf9qoeCB0pWZHOlgowwdkw4vxuP1nElpYptKGOLqTTF8SOs4UuF9-cdQCdKudM1LhWWJDr54W7HpWYqUpmA_PriEsey5pu5A6pTNOl1aLdQI41d0YLRSfMX-NMcOjTKiuoV0Uj7TXxUBeDShTiM8UOgcFznM5AsQ4WCqnVewql6BDDIurKUZb9S4uQUhcqLYt_hj8ixBEGdZTXNjwnEBNe-IlctRSb1luApFvbmT6m7SIfGNG10iT4G2cOu7OOmAwLGtdChjEZSm0IAAt_s7_LPk0B5KMvGNf20lx1YtBf3IkaFk7g0CNR1Xrlw%26flowName%3DGeneralOAuthFlow%26as%3DS-1975943293%253A1791820980298013%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdXKQdhBRSX7iWItV_esprOcEf1__8pJQt0jRZdGlgF7L6_z7f19dvG05vdT-ZrpWapcc9MQWoVQqzalQPsbzlqdorfLzbGT-Ubzts_2mo1xxukLx8",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -1704,9 +2408,25 @@
   {
    "host": "litellm-proxy-internal.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1021974944%3A1791344077582794&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=tLA1iK8zsFum966NCdYT38VqGi50Ze0wFUhzwcsU8lk&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEs7tdQjfp9LXiWViHIMS_DUoz4mT65JE_gw40MyJKwRxvbUtxArtlwgIGJdzmW9ZifASzuiyazU7qlLjPIJAdcH6h-dPQpoFN3R5oAdNIYje4VkxRJxVwPKMrBJ9fqNEz0DZECVAWBMx7BC7lR31trjUScdR-GUCQ9KQ_LJMv0rMjVsRzf-2WihcVS-liRe8KpBxeC7giZFO0x54EKH6B02DomZHCutw7r0JUKTJnDXjH8ZkzNYkPcNIahDKotmotoQj56KX-LvALxVlCJqJeoXJNtPqDZKzsRUQs9Zh8gsqcN4rN1eTOiQn9mJXHoNvxg-JvGVAX7dntWm9p1FcE_LWKJvt0mw55D39vdtOIl8Q52EbP7uoWdb32_MBIfenTChmeoUyCNFrdiSrtPlTV4iaXUrLX48wSIzL5bVgSqdLJWXlGI_azN9ePDb6NyqcRt-tJGXuRXOgbYYwT59wywYrD8Hi7blJXCBDeliKjfJYrhhlg8GJhR9JWemNp34deKmQwOqkFSd56wVxRBTvtrhUvrC9ctjn06Yg-Apd_0q4t2S5s45mvn89IoLEejWnF3eyC8_5x-0XYfj1MtM-8LdDhQ_zj9DIjYI5TQ_dscNEAXKcfkyCEMzJ3-uF5rmtiONftbAbdqb_fzGFluFalvfKENfDTLTHQ-1k62lxkZpWqsxZ_FtMUb33YLp4eFCJaGymuTFJsDQBtAihazDzYBcu3mV1yf79bVkxtzAP0Dz0ySqpRdXsO7esWyhmLFQEPySjYB4mcrjgdAHQlaJlPu5IibSWEw8zqYsWkVz1kSb7X6sSOyJfwLr62sct0A4dY4vROHeZslElxnSb7L97_Yn-TDUXCySX6Ue53I8uYOr-_PoNIxbMIs5qwCroVUmo-go4EV4tw8yJzBJUXsMSfAW2TTxCoaP8abj_8uknvuhlFZLDuhhRoXbwsYvfw93Kl-_876iLm0F2rScqEg6vOOXT23_njWjb3MtMS2tcu_NyBwMMK8LpVx_WmDIpwBadd3HRWGnmWtT97kae5am7IMFmUMMy-IOM_lxmqE0_c6hJoM5e2f-VQj83YEz3Htpfe8E55CCAzhFzBKTGoZ4pY8tz51lVBg-TuB2qo4UQljQJu5cfGLV_PazIdxQ0-YeecD3snwB_R6U73EPEl4a2XJM7E_GEA9HMObZifPXWqHWJkqC1mnvnYvtANQxzKOIJflufIGFikFm5EUXL3Hz3uC3r4Ia4DldZiXyULqHcr4klxjHk&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMuNIxJ0-8IP4RFLWyc0hy4UjKFMvuGLcpBxPrHU-kFm045Soh3moiHPBJTTCdpjW9qX-zy5rKkUR4DQd1SJeNRsJent0S2vvXIfRedg3BPDN2zIOWy22QrGh4nm0-90Orun95Zzlt1nEwGJst_J5waYOH3BxsnKM1vhimZfldVGSVrG1YFuZaQ9c7UK2LJYLg_qCG-yIbx_kVCTm7UopdNNVDyuijptEi1FFnZScuFmm7rBrGArjJYtT2yeh0kZfiG0ypaqaZmoYbyT1DLrwvkE3jq7SCI976sCky4Tc5Cnrbc9UoVKk2KY81C8imfpQKSNFdodDJmxidhW3iHSAg71Sd8ipB2CCos13BpT3h-TIWuGTcK6ua7_DOMZwfx4wOwHSIu28q5NQIgNOyJPaDZIpeuSjpRmnOAL5a7hCLaoAHYtDjlVaNOfotwJFGWeAoV8KSJveXIPOYEPjL9qQEfIdmYyQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1021974944%253A1791344077582794%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccsn1h_m4uCFxzKzy-_ALkfPpfs_qrZbUDp6QDs6mibb0K5Nz412wHEcwUPzBbn03-QVQZoVwQYP81bOf2TkVIZ0fZKzP40ezjBDRDWLQnoXm8UQEI",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1942443838%3A1791820980330649&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=x9fnTJugStCS8PTZGQk1NTK0A6U8eeNLY0wHjIlv7N8&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEoNsKhMtDPboQOhQDBzTOg618uIlww01EDKo0aLZEhBfR6m-i37q5GaAlJNBnP5qsPR7wnZC9HL3l_U6i3or34Tylp-NZMlQR7k1VfxS-99VhIOtwgS2O8QCcTRnfq-5pGL7fbRWXjy5c3L-8IwF2zye5X5hv3FNlF0O28CXEw2g8-OoPTBsn1YuRyFVpgQ0-GaOWmPmkCvlR3HOaKcFiv6zitdusfzJjxmuGpGYJbDdyBmsqxU44pKep-LwQKufxbIl7e_p6KKBk81NjnF0lioY5hNoWrh5lLIEGSxW9mRaHgnuLEX22MiRj-_rRdNIhcitkwipwjR4KbdQQb1dZ0TLzDaoomA_tIhEi6w6Numrf_jvZqjaAFiAeI_jnBGyK2JTJ1JLxffXJEIgbrZ2TTsABcsAzcLUPMDYfhKiUwSI4xT8cT1VSc27h8OM--ZaBnRSqjAwoF2OuJpFYP0duJt9Ly9C99flWxFFpk1uh0iWdjhnHZxxNebgNd5y0MfT3twPDEmsR1nRzMJuyrd9pkgnurHWfpBQ8P0Q8y-PH2qs26kZittM74OA4xJIs_CJgTJ4jORedmAxqLWbJ5ErfxeDeEf110tv2ZBdHaq2oR5njtiysouGHCTvuDegnatu0iQ_AddoFiXhGL9nVQMvh7wJYbd4_nVxn-0J0iFtZWmLDl3wa_3LZkJ-1rTkY3MhKBR_zyV6UuVrCGjN_wPhTO5Lz7Q0RH5RkOjo-BTvX8cuCPnNfwbSJD-ATRraYJMdumMZlSbPbN9S8WgK8GSNHx2wFcAzoG8AFZFJdQ7pt_qXE9F1aThU4QgCbLj_xjgM24BApx_wHuf_6H-dk_KhY0qij-G_h3CrvGoLB6G0ilMrj2CT73k3TwzRJTlG19ofNZlTSbsNYWddeUpNnnYmVotIkhrYmGDFZzQelhVJ6EN0XhS7qKPodMOFJeCY0ok0R2VLmFLbHzRm8O5gQwmQWubrstBwBMpO4LY83VPgQaNSOd64zeoSoSY9P0EYDnEnHggWHJbGeaQKs202PypCA9dgMdn8CL4sVuZJlcWwgzzgMDBwsbGHxUFfjOhcSPJIDvtFroapm05as4hloRfhVHFxQtcBb1cRRB0pPSyu2_p200SlGutU4N6PVx_-MA09RPBjPz9PHoxyIDZxiGGQjayFJikjkcsL3fYREiWaxqS56yTp_B7llLLKlzob23C-AwNZn7SmuKqzT7NzODPlLW-RToiCBlol_OL7kUgt5TyyiHB0&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANzqpse819oDz871K7ZKbkJ4Sm-IJXGzsVz-OyRGj6IBCFuFTLS2rqDV1Wec8YhIqVzrM9e0lUWr4xY_awvael8lqlwC4Cwyf86n3apJ5jWGCt8LgVPxpgv93OnvLSrauGXdm_mLpNpxpiWoSqNsmex0XuIVqJPyXwgm4R7rMUFmZkbVgKxNYfivfXSOTUzMK7IE48KiLV2lCRaWnT-J92BK1xLmV_Ln7rLtr_BMec7moeTjsBW0LXCk0nUX0gGQ9gWXENOtz5-GsdIwel7yvE5WiySHOK9xTQNPyeI1x9DCh7z6bkr7igIY_tQ_3fghpG_IelsUJ6QZz9lrIznnM1zHeRhyavVcuzQISxx8HxlHey6hmV1X-zI_3M-kdf6baMD1D5UbehBzr8IUgIR0JP0Fj-ztnNXXbmW_0xo23UaYd_pYrkdPf5d5PdwX-24yemwWf0QOa7cErtDIlzuG7GCmglc-Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1942443838%253A1791820980330649%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcck22lV_OJDB6gUFp10pYhss6l0rpwr0q-OUeYf4jYfMBwdZ2vGlDJODi5JaYGQcDrE-5z4PSFmNuoJHiIJLokyvYrtq7KYNbV5tkfWpczk4Rs0dw0",
    "title": "Sign in - Google Accounts",
    "links": []
+  },
+  {
+   "host": "liu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "livingstone.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lmc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lmce.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "lmu.joinhandshake.com",
@@ -1729,6 +2449,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "louisianaa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "louisville.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1737,7 +2461,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "loyno.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "loyola.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "lr.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "lri.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1753,6 +2489,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ltu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ltug.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1761,12 +2501,28 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "lvco.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "macalester.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "macalesteri.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mailc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "mailgun-event-ingestor.joinhandshake.com",
    "status": "no response"
+  },
+  {
+   "host": "manchester.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "manchesterc.joinhandshake.com",
@@ -1778,6 +2534,10 @@
   },
   {
    "host": "marist.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "marquette.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1797,6 +2557,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "maryvillecollege.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "maryvillecollegeg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1809,11 +2573,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "mavjobs.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mayvillestate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "mayvillestatea.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "mbc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "mcdaniel.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mcdanielg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1822,6 +2602,10 @@
   },
   {
    "host": "medaille.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "medaillee.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1861,6 +2645,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "miadi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "miami.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1869,7 +2657,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "middlebury.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "middleburyc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "millersville.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mills.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "minerva.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "misericordia.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "misericordiai.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1881,11 +2693,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "missouriwestern.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "missouriwesternw.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "mit.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "miti.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mnstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "montana.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "morehouse.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1897,7 +2729,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "msmc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "msoe.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "msoec.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mst.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1906,6 +2750,14 @@
   },
   {
    "host": "msu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "msui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "mtholyoke.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1925,6 +2777,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "muhlenberg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "muhlenbergc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1937,7 +2793,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "mvnu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "mvnuw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nau.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1946,6 +2810,10 @@
   },
   {
    "host": "naz.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "naza.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1958,6 +2826,18 @@
   },
   {
    "host": "nccua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ncf.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nctc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nctck.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -1977,6 +2857,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ndmc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "necc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "neccy.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -1993,6 +2881,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "newmarkjschoola.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "nichols.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2002,6 +2894,18 @@
   },
   {
    "host": "njiti.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nku.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nl.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nla.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2025,6 +2929,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "nmui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "nnu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2033,7 +2941,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "noctrl.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "northwestern.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "northwesterna.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2045,9 +2961,13 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "norwich.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "notification-timer-task.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S471846517%3A1791344081905724&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=yS8ELecsrMgDHx257uTtiwv9kHIeyeYE81z3Iua-KXE&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEhYrlj0d1N2ZYgbhsK8TuO1F1eKRDngWMbbEsGTD1DUtX7hLj9lK8JWH1eTyL7jFdNlZ_6abswP7NoFrpvVuioYbmvZHVd7evfjPoSR6Wd_-cAVl-ypLNKvloGCm5oo7ygAZrtWFHxsCL11ZoBuJ_Kg-Wcnx_WsE2P50XnLAlal4faKLtNGrk5QV38mDSDmMamoD9gbtTFYcIsqBPRfL54_MOIA4K7x0xuhAcT0bbVYD4uvtmRO88Qkp8QNcQn3YVhhfk4n5nHwIMrF7ylRoLLXZLoNmy37ZTWcskxLQZHUTYH0f8VHB0vYIn8gX9eJivZPQwiA3lAtY2HEsu82_7g9Txn-ck2Dxwij9Qg8fcHuthb2cVom3rYa0zTcB0gbA1ysDIbAmvyte4iqhVlY04gPLdR_6MfC9TE9gscUASe6M78pAeRAJ8mMv291aBglw9M98WU1weabooPMqPDbDXaOHuOuoK03kewt-XALqrl4I7-UoTRQ_BIj3UMq9uOo6oEAjiJjyndEcXn19612YqsPvu7fLbk30_8FfEx82jdLYQSJYx34dSHo6BANBJ9wDnnp8dltnCkP37gDi7wP4jANmiBG__hpLHImkW5Xskl7MEsG9sfj0KhCXJPAiaxepzJ-8uTo_rfQgDWFpQSY2kPk1L_yI6sIaNBesPvsTiz7d2ex_fcW-gKnmZrySV1vbcTUytufc5zH2g9KUJ9g8PrPKBHM_fP_FziUWHEvHKthuKnrpVPt6f2PhgdlxtFMjJmZ874W2Hn5RGrP_77BWvdJZAsRUOhtZWrwfLUSAiylh2uCvoIFtZa-1_SUZxDDm1hYULWlxanigEi1Z5YpdLB2QfIt3Mb5ae-vD1sAuJFxeQdu08yFWUWchcrZ3iuZdj3B1vwGtpeG_viUbA0H8k6lkRJfPxGrZ14cqkij61p-2DPn8UqHr6C8bROWSy5K3IzwKMBnL5grpriBmCuXv_SAMa9rWLMumK8nO_qN8OFtAHap5L3OCHMNlSFbOaM4YqNj4BWbjeQCv2F-pffFrC6we7n_GqVxT7datx9yD3-YRp5CggnnOohpDmAwP3Do7xXiwcQiZpKdoI7ECKlN2jWpZ0JQHCkvimHZ_ysuhuTaece4UsERJHrxbd50s4DJLOm2ttYHWP534M1nic1u0ZgnjKJNUTLq7T-6TvyY3R_-gkCAj99j0Tp0WzpqaRd8mGqNAyaOltbTcnaALjSlYYuWos1v1oG89vPduqp-8PWf88lL3kXHHQ&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANelqOAtgB-IklLT-qlZpRmBh3LdlwxvdfKPCMkcAClIMM4wKIPDmiAIJuapMG4jm0fWrgladASE3_kEBLbNGudkICpo5NmgnRKbchd-pwFniVMRikO42TVGKpFMWcNf9xYTPGtnAW95RlchA55KSv49QrtWGQz84E4FsbhGYSwVpeTAma5W0BAM-GdBp5ETHVCc7nql9fL54eVcaPBlvbizmaXZ2W_D6EorE3g4uR4WAIyOpxWg-x5YoPpcUDZam-3Nf-OLZD5qvEBB7UmFlrFM4MtFWCNxesHUIMpdyAmVwXfY9zPM7rc6dYhZuflEUJ5opRww_W1vEJCK9mkNWMeE7AqRYkwKE8LLccnQby0DI3bFm0T4EZGa2q48bTT87oKBDvovH5hrIKw7M904joNBbyT7nsO0CDfymkienyay2Nn4Misn8DztusbOexBnQ0lNpzjfyHoZ2-HV6JOP09ClJTVoA%26flowName%3DGeneralOAuthFlow%26as%3DS471846517%253A1791344081905724%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceH2e8BtwqAElyiDtREgI9EGV3L0CXSnxwW8uhVPgQpJBLA8pukM-I0AaNv1LwN07OyiXjXhwf_LCcuOOoicqcJ92jliHD7ExhoG9a9OWAFjAtCYec",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1106651052%3A1791820987802216&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=6zamFVg12cVunmSep6fyQW2Yk-OtNhJZvTWOjU7S5Dc&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEp7KZsIHa50gYYzG0ykKpWWFCWLNH5YT1B1h7CxlxUQW5atQrEbn-XSWgaLDykvmrJcA6XzvVabnnYsHS3yyTtaBTsBrmQB9R_SdSvXErALyxaXIfwpzrcG1NDlRvzVlBG1lX45JWDoc2Ms1cxZHmUwXylx-a2jyglBx669kWe7NIqTKdKY9yglVVfx9oxg8xxk9bqtewoCKpKZzebdOf_PbwOOG-8xrRrBls5IwzEXaK0aTliodaXcfAEVl7ThBx0c92pXwEDiE0LmW99uVTDj1wqc_I9Jb513kXPQ39IyW3uKzwCFQSL3YekA0Wq_I5M9lGAUhK4j7EG7eEPA-GU5wrOt55ZhDM37WpoH5q3dhqvRVlD3_epbkt0s7Y_dSDlwL2now9RPo5aPw_5MWQtalO85FENJW6o_24TQNNzkPyK0aJC2rZ2FT0GokbgADqHkzLv22tCc78LuH9dweCLRu7mEvmosUsaewIo1_vYwLUF1_wsIOAOIXVHttK4ndVKUEbx4m42JkttWfCNoeNavTLVvb1MG-yByIpklbpiTlV96BP5mNMeX_LK-VCwquPUPROQcVSPjVhlx6wL8CefLrznB6mtf_o3Lrh6dxiTkd57RhF1sE-ksC_WbP0OuY9sXtg0DUvOw-adIXSar3hoUzPxoe0ZDM2DHnZ2hThPy_8jOboT20od_Jo22UmZT3xeLaiLku4cIRPk-ilkHYYg0wODG7nHn8qG2j4yhizhPviM1rQXia19gUKklSpygLz_YqsAF5HUslMzpOEgJr-GqSmlUvvKTtEANSnED33pqKyZ3CESfmGp6SCpgdQVGAHLcipGCZeoxew4ieBEjqGrWJlKYfH0FjKrp-PWNmMiWTQJzIyeKaC8XkxVFh0iz-L99oW0eWtIvYoagwpUxle_1bMqPyU_V7-e0uaLoznucduLnvYs677P23NV0I5BApAhNhtIR6Xs-LDHZekJCcfiQtmybCTxKr5sDbnb8S8J6Fc2J7hL1kt9duEjF-pB9x-w7hUGflM6GPFRf8fbs1JiBViE0V3c5zmYSE2j2FFw683sS9Qa808IJCFBXMgSvZUDa9JJvQJBHdRhDSOxKqqRjba9XUxETEW8oFgkgRDhaCRYJUpAUI6YOQpJqo4noW8XHbV9vHJoQ2m0dOY00a257_6mTWoP7X8ngQlXnP0jjX1t4OwuFyzrrzgpQSevcsNbubdMf6D5MCgMvtVApx5EPK9JClrzIk8_3xiBIQQaEzq75fJUDJg&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMXnLmovIm0s-j3b3btbnJ8zl7ioiys1wxPE7g8AancL18jS7Al2dCNWmscNuBMKIs-hSIqq-_SLA4cLd8D8vJn_6b5K8HABWRRHTZ7_G5dHBb1yEFC80UfQzgOauVjgbGvy4i9MEaarYqMjk_c_gTrg2wftocMINO-inqKxS6de35O-k-MDPoaN1JnggHY5ONSqZLiz2-k8St5FS2sXhdsvsXsJ26jrm77253kdOJk6dG89FpcwayjZhPD5NpvvUvbrABA_lnV8u85uHyt0UwBdmvrHxhOiWo_ddBXydEeuh2aLMY8mY33psRSbUJaeGnsTedCK6C-vCOXBXfgLuXmEUsu8pTlhyX0RYyO0PRsnRYuLDGmZ4kHMQXTJke9ljAj6SvUOkKdSaUiQRE3XWAdsRpeWXmrmxYhQ4eIwASeJSpc7Lb0Plga-C-LGjV0I04P7lEM6ZrbstBIQ3zMM2wRgkzwWA%26flowName%3DGeneralOAuthFlow%26as%3DS-1106651052%253A1791820987802216%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfJd0Qg3cj7UGmISSIlpKVKUGYHBHw1LMmvmeEePu4gXE1SqTnI-yyyGaWPj2Kt0gW-GDlCV5KJOGcqp-txz46ag9uub5aQ7C8dI2tq8xDXUP-N5cQ",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -2084,7 +3004,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "nwciowa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "nyit.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nyiti.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "nyu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2100,6 +3032,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ohio.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ohios.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ohlone.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2112,7 +3052,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "okcu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "okcui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "olemiss.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "olin.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2120,7 +3072,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "olivetcollege.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "olivetcollegeg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ollusa.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2140,6 +3100,18 @@
    "url": "https://orbit.joinhandshake.com/login",
    "title": "Log In - Ryvn",
    "links": []
+  },
+  {
+   "host": "oregonstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "oregonstateg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "oru.joinhandshake.com",
+   "status": "robots.txt disallows"
   },
   {
    "host": "orui.joinhandshake.com",
@@ -2166,7 +3138,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "owu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "owui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "oxy.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "oxya.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2183,6 +3167,14 @@
   },
   {
    "host": "pacificug.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "palmbeachstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "park.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2222,6 +3214,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "pitti.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "pittstate.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2230,7 +3226,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "pnw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "pnwi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "pointloma.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "pointlomay.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2239,6 +3247,10 @@
   },
   {
    "host": "pointparkc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "pomona.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2297,14 +3309,14 @@
   {
    "host": "qdrant-offline.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1758264036%3A1791344085029177&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=-NQJQRSv4luXWpoe5Th3St_IVefukEz8j9j_KzX3lsg&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEG_NM-FTKc1215ujE1_O_PzjB1u2nnRXiiQyBnHpwrZJ_WYS-GENz6eAoo8FtjmCTzmN8fDgLErlgwi6O1DLIgD6bVq6hBbTrfLS6iYdnur_Ixm7YXvuTyXGWOOw4aNYCF6UXk09CnMxMo1EOt1tVc1bllGHDuuvITRfID2AVzVHVwC_vxIXEE7SXupXlJ9XjAGtTET1oC1lOMNteHJEw209Y-98EPrd54d28yi73MzGBeEY-mz2gsPKsVLapzkryFzHzQSJ0kHF_UkOQbvkVWqhu8-JVX4IguE1SGKFqsvMS-0dynVXdzXRMq93uNpGU4VKJv7i4VNPd55UczbNJRoG2Rt6L_0ghQR9O0dtoEE3fbJxMzWybgdvRe2wm8AHr3W42WfRR2YMAeydkuhCZQiGWNnsAzeBp5trSnhRNqHb8KO0Tcsg5Sk7jl_w8NFefYfmurKR-0fekhB0EvhoKaLNMe8Cm59AWOX9q_PepWy14bnqOOUOzU41twAkdhFY8L1C2WmOPmPKjO6BzLuxnve0L1s-Oub0Qmr9pZYFQ9oYuo8K62HOzyyX6hSV2huf3JsVvU3NqIWq_o7bxjpPgIMY1F90aU6bRItSTZrAjf0rgIXK-tTNH-ncdBa_yBuCndWe66xydLUInlyIas4CkZE8mRt1bD7x6TOI2dY2rEvpx5pWvb-LoGA1jef5wSy4evUnDx3REgkMKrt1M7csCFZhKUCHWucmZoAG15CaeU-ZWrVNPXfb33wPW9y7V9atYIlNne_NB5AmqDxiaIQyxCkuh-dvLXmpIU77ybezHoMSgWnCx56eCTwz-sEP_48dU0oQ2qrNYw0axzur8k3Sw8SSNd1eJgKpG-7mBqLD4DKwaYjgoueKvCqpgTa4FuCR96IoTBW3tJcSqZtk37M-GYWKxoy48bMOvXjH7yTb3m8fW2RTlXKkpHpOzexe0uD3MEQLy4BfkjQP_bugb1IiAa_RkTNonCXkv15gGeI4SvApdqKVuc9NFLCg9swUJ1dwHusvUIDbyG9Glin4QE3vivWBajqfxB17kRfLD713lUqwvXknxTTYOChT6WRi67NRqBdg77lzXe0XjQ_5csXAUvub7rx3dV3yOP5KewTOvhYYqch0FQ5XOwYg3keX9bz4H1FTnKP4mY0VbVvZBbhAsqXu_w51VT19bs3KDlfrNwkL_s5ISzIu-oD45BlQj2hl87Q2H&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOt5rUPFO5mKWjQ-4puFuLfv6pzSCdUoKEGXe_pmDPV3NegzoEpYxMWCm8u4g1OYezusJobGtldGGt8NeHhfDWfQpkQbSNxDKLWY62mrTaXHMuQrQnwwu_yyexwreD4Mq9Yf5tdhd_8VGfUfa4AjEYqL-wNO0MGXbPZG-7TyxLUjsm4Vh7mSdOW0uh9hE9fQHExGyXG_MDqiCOGqUF5laKUV2Kd6jnFCx8iKMnhD5rrEhl2awChexyeiBssrs5jho0XBHLvuZzXUVGsQ3Nz6tOrmO1WgLYABKjWbHW3JwLtPQuqgBl9DohB2s3Svo8UjdywPnH2Wn5ZDsNMSeowVrPA4T8Mmf7Ue0X1pvT8H3Hm4v6iTASbNGJ4TyR6tej0RR65SozHfRZIumNkYi9sMg8v-I9ADIhCPyRnb6rF90JP57Dqwc6BpaS2ntR24A2PrSo38ce3iZ5IcLRjkpRlTedKiUruJg%26flowName%3DGeneralOAuthFlow%26as%3DS-1758264036%253A1791344085029177%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdSBj7dNCfo-2xvW6E1ePZQ2g5tHiEUE59aM-9jQ0qzL2kVUyrbC0SAE957j-CQAxuqKKZ5wfNQQOPJnOsTk55ofX2IgOPY5rgdvrSidhapYTsKiWc",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S1410017104%3A1791820991363185&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=0HPFs69a3OdftTNhgblEGvHubMmDrXA_YPksQ75b-qQ&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEi9kHRPPfeiBG2V0kNvcgeaI4F1yP_Pp-ZDPZp0s660fbEvjGYb25WHroU8nnoM4i0m0Jsek8yp51wBdTWlt5gSEQ_691Ei-2f7BtO27U8EEW49vOivlX1w0E-LWy-CiSUEFlS0R2CrO1xstK66-6ZzccMRTSFA55zaufZF_OSDoheP4i9I-vUF2Sy7bq1cM3hGZB68yMRR6ihanXmdR8Ds6MGwDh6p1ILwjg8ZkFmJrkP6PYJQ0MyHc0hZCV7jwWthqbevxZCKR2whfN0grY5YuYxO3FgTtznpYFUhcCDXnwMKbhLw2DPHW5KtiRAa9SJpx_PAAfmZ_gKOv8_0_zNdt-hhuja1amf_rdM9H_KtXYCL_wwsXJ6UmwPILcixlcixlFchKQ3RdxmJlE7VwrracrUkHCOqxI7PMyJvMEX8mgdU3_cnGQlUjPm8aEcNvehYtbACSA5Djh3kVqLPkSJH-gNxA2042gJqxBGRXAPhx35sEvqFMccV69-jxJqISxlqgKu46hiq7dj-aQ5UVDVxWK2k4ShnW-Ug231jd2H75WuDwE7k6j4kX6TcAan_gIL4r3Qe6L78ig-ShPaBhTxq5D52LrYvPSrTvJVsXd__6VPHgQIFvBr30LvA8iejvQMN-IYUnEd62UtEomSW_UcpMrQBextzijBokXE3o0VLmictUqdvqf4gbDzgCyDbiAw9zZ80XtEELP4qifiI5aTz_asB9Zz-vDSbXbrKNr8Ns8eYTdVqkzjuGxxUIpYqkzysWirik0atMY6F86gi3LlxW_0mfR4JKK8wZCrVHTlOzcXjxi7RhiqS-i_5qPCwKa-2ocCHjyTUe7UunJvNwvYZaAvE2zM2AIXjJXxVl8VUlSGI-KbKGCz_tCpPZemqko-DIZGfQ0egAgex6aLYhzNPbuXXtl2_2rjmOf87vEY_XKvPFONFwOly-yNs2dvH-bOh1nAHj4uQsmc9KHptWt5LXfGdVzqbJjgIeqInP_-Dd_PZ0HR_hO_plfX60oe8_RYIlCJOzkUUbQuhh2Uzm9h0c2ze71IeacGPPbNwDTTh7v9HwpaLUXGQK5yUkUU-1dE4at_xgrdkFis7WTUv8ZST5sAY_hye-6A1vc-_QJGssB_4JFGb8l5Ogn5Blaq35tyBucxjiEvqgiKdINExHdSizvGjqZgfNbEbF-1ozFqo-LBwhxo57uprNvH5DaHM06TbIf&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPhv23g_wxK-v7tP5dVJhUd7o7FFQJJFloEudteKuByGv5Ugh_R_72Mez6ynF8zjp-jon-utjT4Q9xHfvN2UK2A5SQhKuPj322LKC1DYl2murT5EaAbIJf0ymIf-rp0_jY04EPGZgxJsbuWnAyHoO8AEIJnCRGKQV4QqwNyvtlrJo1LlAktXII7Ar1AcunTLSPdBLC5hYhOT147V1F1ReRlHsd696pF9TjB6Ub-acQ6OTZhe5onQNCEQ-LoMT8jMXndfovvsjzuIihho492lzJN2rnV53TBU6gqTQNufk0cTpvsjax3wogZvjeBoR4RoOgKHTwdajp9FIEayuKq1nDHfBVE9LuTyfiyw9oIx1lvGI4axBtzIuIyS4MFGoRTxst0CS1daeWVDsBRyLFwal93dsYNH4TY17OimFDSF5lLSndqXH6ruh5xzpR-HHi8_oc2cfY81yatqrLgJfHlPoTutM5QZQ%26flowName%3DGeneralOAuthFlow%26as%3DS1410017104%253A1791820991363185%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceBd47OOJybssvBLiXoFwxiHpFwOWqtFBeDW5izuaPMZs07qA94TMb1muPFSvSgQqhCBZsyPCoVdo8oCZZ3tkzmq6vELyVxss8YBWhZzDfLTQzLgUM",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "qdrant-online.joinhandshake.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S739629877%3A1791344085070493&client_id=136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com&code_challenge=3xYyyTtXrXltfeEEUtLDxsOHjEPiIJCX5_GFB43c768&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEYJO6-YFk1BZrYjbKLRnmei8FBFOtAAC3yrYCPdR5B6z6Y4v-0BUsLbt-WMDxYp2_tzOgY0Wnv-TqwpNKycIQFt9Lcdhmzx4HCexVSGoyqtHifXgQHWbJCmtN-j3Gj8Y5jYUnG-DF2Um284nqukYfKxQUW3estL8E3p35zFbvDVV_c0RcnvYOqgd6GLJr0Eabbh0B6g4KlOf9RgbiUiB06Ae8NlwWG_2DjXyZ81O1WT2lO3u0YH_WkKHD3EVSthRezfLTw2mvEuX-bUBQORdWqHtIjBNETY-O0hyYkiwW_hzfopju_-h8ycscY44UEE-39tO1t-lWUofwj4xwc3FSzJQRxp4ZWZE9PdW-aBZ7-wz-iIO5Kl3SJL0z9-LWckQ1n1yS6X8j4HGJkv6cgnrdPumpos6Xbc9ATwCnPQyBHdNV_ikF7tdbFAO7NGZ2_hrDhkhtPAyzYSbBgcG230eZMvf9-0chzdW3TMUxD0UuYgsAINWdGt0gHNWxrRyAsZt_Pgo4ztf7qAKh66vu9R9PFcuojAZAr-SbqPiiFhd-_ZIy4YEVW_iQYkiaxjzqyID4STa3tOGGPztEJPobIeqbBM3oLN4hysHB5LyIfUzQlnzu_Dk5Uk3ZJkn_CgeLLyiaGwZIoS64DAMYTftTFs3TsspPEIUDDtdIk3zqOlV7jtoeN6vbaVRjG468qs-3aEX8hiMcZt1ZsZPLQGSYkv2YPN8s56cLE3DMsTbu7xkRFVYnaRMt_cBgPzqnhrG5-m_1qk6l62TwRrE5Pe2pxLuh49xj_sAia69tl_Dsmoeezn62axwNfxoAhH3ZECUEmUOaYB5kw1tMvHhyovU-MOQaXyaONLII-uBEmmAaQ2Q5hkhOPTw69b9soUJzcoLP3m_qSsT2OjlYsSScRprO8RmF_xrxZRzwM9h4MHr8t8EX1IbxxT1B0Gp0ZEbKqh644yLDUA6wmwzvmwO30FZeP0amVhOFGbgnU4nLnTiC7O5gHbxSHtcHUOd0Tmsh55BEvoIcLJ4pbUovj1Is16Ug_cu1QvJPAA1scM2dSEttXA5dUORF-gb-HW9Uq37N4m5G6OIL236kS2FGITCxqy-MgysEeEsfPLvsMcB6k84uDZXG7Obebk617Xq0WkZ0XUxjpeO2Y9Vgaemf531BQ-fHqVtcaaDSfBZRBzyVJojf2xdc8oIlDwcmS3nVRTgAnhF8XAU&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOqZlISqa2hapVHO4_a0L2CgblTvV6sTD4W89OO-XpH2nRp2RTFj03Dt2rdB9PskuCXbPouP8RAXIgzfV_MHwYzVQNQWy4MW9Jl7vMCxbyWihtWCE2WCT7Nj5N_y2bVKBkmWkDSGKLVHNCpMtfTYatNXJgAY2fOqwdKNkdp9WqKGeRfy58Wyw9pUCUgfVCjzm7_p6UFdYLSt2Q66hYVq9Hq_dn1k6hXoeqIqsPlkpj9-ZaPJZ9JBJiJFOo2e_iMaewBUEXLBxMlSzy_x8d-GkqJyKdAl49zWb4Nb15rOp_7MbDJ7aHTRHehZVUjmYpVE-qdAWZKNLvsgF5sb6Qb4WVbkBXnO_VCtMIRTNrv2358NzAO-UABNojGdJrVLvgm7AZwI0r_muSB-NIMB6HE3bT_BQ_7tu_i8AgLksVWk66IwGvOL9SGB_QGlA3Z9U0__BVsuOZYl5Uhs9c53YvlzIErb-voUw%26flowName%3DGeneralOAuthFlow%26as%3DS739629877%253A1791344085070493%26client_id%3D136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceiG8-8DwSJQUIAEKeGaSBJ-sVAD2t9ezCHtwNNXg0EjhS0kIX353xEYvSS8pJmv1xIKb1HdstM9NaeR3hynri9CCq9Tj0aM5LTBhaDF-uBXXO5gQI",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-703765031%3A1791820991443607&client_id=136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com&code_challenge=Jeflb90WXIz-79zrqJiutAgDGlQiDE9mAuQriBhNOgc&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREEHwJpXoFsR2tTmCn6y5Kr4lHqQOscl8c0H2VdnBrNHWXJ5AP4ycGdj-ray7N-hhBENzj9q4Ypk0nZeCHAyd53byMHyWKy1vJ_TR6sLxd8O7rAUqMM8IIZGfQer-Wug1QlBrYBJTCJjS-LbaUNjy-46xwuYTXLbul-IzYb2pvgudhCT1OeAyftwmEZLQpWvAvXBMsBYjeN5M9HPn5Pv73PMW1aCxKk1oPj_uBNvFYOj1_7E-u0LNnt5LEp8fNAGYYpppXQmJLJi1CrTN2RNQOrHDEPHwpJAzXMcQfvoXn0Q0Z6jwNh6LCugcZj0i0Am4klxucHLb2hdAJ0jVeoD697KZBW8ofQiC8DH5kE7LS9jwFCHNphlu-c83l_zOxhwaDVAGtKlUHF8pCKF5KQ4qLOYFoHa3nKMIx2s5xkRDKahzid7oxvrFrhBaXO6Jccd8aIo7yWYOVFrtsuISmtV77x3T4upu3kZdquY9Rx78vxWtiX7o4OEOXrKQ-_wwm_49y0drdtVfuZi0-OTGNscv_w_j6Wl1U4aoLy9TrwpO5b_97Tyf_Uniiq3O6UX9YX0e755Qc1u3MaTefeMYqcDSXgtT2ek49YM8RvCxhRyKTiNXG_mt6nS87zN6yrN0l8Qo3LacbLg_USkdtscKcmur47zsNxoMiXg23vUJhJYohEWwVCWz6FQ2enruGrOMPYV1NoClXs0hBaxEzAXlhbjvTEnveY3G1lgt4TYpD69PCykXKBXsAkpb83kFkuN5z214DLDTzxO0PGzDCrz_-IaaHUpXNXfsYcEi7dQcvII9RsVQABketxW3tUe9n23cBO_LwlWn4-hYxFL1h9S5OSx-sCvKHzSFagRi73YUSvsSSmY8qzpy0drwhrIGImw0xSyaDcdLQMtc1z5tGkuHfxxAIctsL-AP_GLIfybOM3AMYL19al7Pj5DEuAmJ48ehFMLmnT27g1xpDoR2ITtPRyPmWAnRPFYgwSYHCoSCTt5XcpKzZeA7mCTha8f9cGzvQo1GtKKQqvXiR6a7r5xr4XFi0DlxUmxO2pzM6F-KCYOxE4_tSl2RzaGt2jVfyEHRhAjDM2gHc_YCWPVOBLn9HrBy14wFpkPy_qH805XkiGaaJbUGuK7bHOnEwJuSd1_l3xxFYYAqb54TwahGqENrIYkc1FeOb_ZMEaoFFuJygfcJr5xlccntIiyRm2PzpdzSN4yHo&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO4f-eSGfu_rdoQjCHka95ON51yohSA_eTcFVbju7jV3rXFABgBVdD1Mo25yKN9BWoUT_cHk6ugojeGb7TNc6Eg3j-uwfsngg0nGVYRYCxkOzMRVA7KHXPhkiytpAf2TTHhhMZrvCYMP9Le6mq0VPvsZRdJb75E15jd0rCy8rtknkrj1QG6iQYVH5k4oP-r6oludo7r5w1lIs2a4RBvxTDPd_fsYnQROUDySxQ1WvanTmhovTJQnE3EdIXcLPJVLCzoM345o5fhexp67otiTzyXaGSiYKBCn7gefiyyrbtCGFJ_iszia8vDIydq3qtE5b8LJMUOy84oWTF-TizupeiIIDIjWKjpH79_vceemLH51f1awq9AzeB0IqHiweO1_-ehT36UbE5wekJ8ATGKKzTbRsP_ChIaHDyXJeJlR382QxtfjjN87p4xbFuRSNKUESxjhQf0ycaOD3ZtY7YDTFfDDnoWbg%26flowName%3DGeneralOAuthFlow%26as%3DS-703765031%253A1791820991443607%26client_id%3D136168454290-7f79o8qd5bju29e1rh8gehhlppmtddcp.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxce7cPnsKIyN0MpkGvpsLN9tDlwJQAqJM4aZyT_PIhCBkvzUReAJwoddKRdaPnYnU5TnKbbsrCeakouATW_BA_ETXS63s-VYaGHjSXCVJD5MbRJbGRc",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -2313,7 +3325,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "radford.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ramapo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "redlands.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2321,7 +3341,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "reed.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "reedo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "referralsa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "regent.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "rhodes.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "rice.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2329,11 +3369,35 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "rider.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "rit.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ritm.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "rmu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "rmue.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "robertmorris.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "robertmorrism.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "roberts.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2353,7 +3417,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "rpi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "rpia.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "rsph.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2365,6 +3437,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "rsue.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "rutgers.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2373,7 +3449,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "rwuk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sacredheart.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sacredheartm.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "sagu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sagus.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "saic.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "saica.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2382,6 +3482,10 @@
   },
   {
    "host": "saintleoe.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "salemstate.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2401,6 +3505,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "sandiegoa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "sarahlawrence.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2410,6 +3518,18 @@
   },
   {
    "host": "sc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "scc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sccsc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "scf.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2425,6 +3545,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "scranton.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "scrantone.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "scripps.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2437,7 +3565,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "sdstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "sdsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sdsua.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2457,11 +3593,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "seminolestatei.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "setonhill.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "setonhillc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "sf.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sfasu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sfo.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2473,7 +3625,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "shawnee.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "simmons.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "simpson.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "siu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2482,6 +3646,10 @@
   },
   {
    "host": "sjcny.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sjfc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2497,6 +3665,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "sjua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "skc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2506,6 +3678,10 @@
   },
   {
    "host": "skidmore.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "skidmorek.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2525,7 +3701,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "sluc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "smith.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "smsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "smsua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "smu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2534,6 +3726,14 @@
   },
   {
    "host": "smuguildhalli.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "smui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "smumn.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2561,11 +3761,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "spcollege.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "spcollegek.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "spelman.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "spu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "spui.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "staging-gcp.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "staging-gcpg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2574,6 +3794,10 @@
   },
   {
    "host": "stanford.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stanfordm.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2607,6 +3831,18 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "stedwardsi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stevens.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stevenson.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "stevensonc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2623,7 +3859,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "stkate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stlawu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "stmartin.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stmartini.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2651,7 +3899,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "stonybrooke.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "stthom.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "stug.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2679,6 +3939,22 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "svsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "swarthmore.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "swarthmorei.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "sxu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "sxuq.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2699,6 +3975,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "tamiu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "tamuc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2715,11 +3995,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "tamusa.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "tarleton.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "tarletone.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "taylor.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "tcnj.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2743,7 +4035,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "tnstate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "tntech.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "towson.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2803,6 +4103,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "transy.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "trevecca.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2816,6 +4120,10 @@
   },
   {
    "host": "trinitydc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "troy.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2834,11 +4142,23 @@
    "links": []
   },
   {
+   "host": "tsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "tsue.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "tufts.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "tulane.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "tuskegee.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2858,11 +4178,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uaa.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "uaai.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uac.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2879,6 +4207,10 @@
   },
   {
    "host": "uapbk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uark.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2910,6 +4242,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ucg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uchicago.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2926,7 +4262,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uclai.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ucmerced.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ucmercedk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ucmo.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2942,6 +4290,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ucre.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ucsb.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ucsbq.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -2954,11 +4310,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "ucsd.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "ucsda.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "udayton.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "udc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "udck.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2971,6 +4339,18 @@
   },
   {
    "host": "uga.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ugae.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uidaho.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uindy.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -2994,11 +4374,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "umary.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "umass.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "umb.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "umbc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3010,6 +4398,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "umhb.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "umhba.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "umich.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3018,11 +4414,31 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "umkca.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uml.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "umn.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "umne.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
+   "host": "umontana.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "umontanao.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "umsystem.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3042,6 +4458,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "unc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "unca.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3050,7 +4470,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uncc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uncfsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uncg.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uncgg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3058,7 +4490,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uncoi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uncp.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uncpe.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3070,7 +4510,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "und.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "unda.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "unf.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "unfc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ung.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "unga.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3082,6 +4542,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "union.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "unk.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3090,11 +4554,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "unl.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "unle.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "unlv.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "unm.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3130,6 +4602,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uoregon.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "up.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3146,6 +4622,14 @@
   },
   {
    "host": "upenn.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "upport.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uri.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3177,11 +4661,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "usmc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "usu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "usui.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "ut.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uta.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3209,6 +4705,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "utcns.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "utdallas.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3217,11 +4717,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "utep.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "utg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "uth.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uthe.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3237,7 +4745,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "utmartina.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "utoledo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "utsa.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3265,11 +4781,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uw.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uwec.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uweca.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "uwf.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uwfo.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3282,6 +4810,10 @@
   },
   {
    "host": "uwgba.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "uwlax.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3317,6 +4849,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "uwsp.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "uwspw.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3333,6 +4869,30 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "vanderbilt.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vanguard.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vanguardc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vassar.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vcu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vcua.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "villanova.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3341,7 +4901,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "virginia.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "virginiao.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "vmi.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "vsuc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3350,6 +4926,10 @@
   },
   {
    "host": "vtc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wabash.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3369,7 +4949,27 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "washburni.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "washcoll.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "washcollk.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wayne-engineering.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wayne-engineeringc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wayne.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3385,6 +4985,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "weber.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "webster.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3393,7 +4997,15 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "wellesleya.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "wesleyan.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wesleyanc.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3402,6 +5014,14 @@
   },
   {
    "host": "westfield.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "westfieldo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "westga.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3425,6 +5045,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "westmontc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wfu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "wfuk.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3441,6 +5069,14 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "whittier.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "whittiera.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "whitworth.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3449,11 +5085,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "wichitastate.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "wichitastateg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "widener.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wildcard.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3469,6 +5113,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "williamsc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "wilmu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3478,6 +5126,10 @@
   },
   {
    "host": "wisc.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wiscg.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3505,6 +5157,10 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "wou.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "woum.joinhandshake.com",
    "status": "robots.txt disallows"
   },
@@ -3517,7 +5173,19 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "wright.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "wsu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wsuo.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wtamu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3526,6 +5194,10 @@
   },
   {
    "host": "wvu.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "wvup.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3541,7 +5213,23 @@
    "status": "no response"
   },
   {
+   "host": "www.bloomu.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.bridgew.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.brown.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.calvin.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.chatham.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3561,6 +5249,10 @@
    "status": "no response"
   },
   {
+   "host": "www.depaul.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.ecsu.joinhandshake.com",
    "status": "no response"
   },
@@ -3570,6 +5262,10 @@
   },
   {
    "host": "www.floridapoly.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.framingham.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3597,6 +5293,14 @@
    "status": "no response"
   },
   {
+   "host": "www.indiana.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.jhu.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.joinhandshake.com",
    "status": "ok",
    "url": "https://joinhandshake.com/",
@@ -3605,7 +5309,7 @@
     {
      "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
      "kind": "page",
-     "text": "AI Evaluation SpecialistUp to $40/hrAssociate's \u00b7 Bachelor's"
+     "text": "AI Evaluation SpecialistUp to $17/hrBachelor's \u00b7 Master's \u00b7 Ph.Ds \u00b7 Postdocs"
     },
     {
      "url": "https://joinhandshake.com/employers/pricing/",
@@ -3642,6 +5346,10 @@
    "status": "no response"
   },
   {
+   "host": "www.mercer.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.merrimack.joinhandshake.com",
    "status": "no response"
   },
@@ -3655,6 +5363,18 @@
   },
   {
    "host": "www.nd.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.nyu.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.ou.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.pepperdine.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3678,7 +5398,15 @@
    "status": "no response"
   },
   {
+   "host": "www.syr.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.thomasmore.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.tufts.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3686,7 +5414,19 @@
    "status": "no response"
   },
   {
+   "host": "www.ucdavis.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.uci.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.ucsb.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.udc.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3710,7 +5450,19 @@
    "status": "no response"
   },
   {
+   "host": "www.uwosh.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.uwstout.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "www.valpo.joinhandshake.com",
+   "status": "no response"
+  },
+  {
+   "host": "www.virginia.joinhandshake.com",
    "status": "no response"
   },
   {
@@ -3726,6 +5478,10 @@
    "status": "no response"
   },
   {
+   "host": "www.wvu.joinhandshake.com",
+   "status": "no response"
+  },
+  {
    "host": "wwwa.learn.joinhandshake.com",
    "status": "ok",
    "url": "https://app.joinhandshake.com/access?destination_hai_path=%2Fauth%3FredirectTo%3Dhttps%253A%252F%252Fwwwa.learn.joinhandshake.com%252F&signup_flow=express",
@@ -3737,7 +5493,23 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "wyoming.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "xavier.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "xula.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "xulae.joinhandshake.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "ysu.joinhandshake.com",
    "status": "robots.txt disallows"
   },
   {
@@ -3748,10 +5520,6 @@
  "sitemap_hits": [
   {
    "url": "https://joinhandshake.com/employers/benchmark-report/",
-   "kind": "page"
-  },
-  {
-   "url": "https://joinhandshake.com/employers/competitive-benchmark-request/",
    "kind": "page"
   },
   {
@@ -3767,15 +5535,19 @@
    "kind": "page"
   },
   {
+   "url": "https://joinhandshake.com/employers/competitive-benchmark-request/",
+   "kind": "page"
+  },
+  {
    "url": "https://joinhandshake.com/blog/career-centers/category/case-studies/",
    "kind": "page"
   },
   {
-   "url": "https://joinhandshake.com/case-studies/university-of-michigan-career-fairs/",
+   "url": "https://joinhandshake.com/case-studies/carnegie-mellon-university-implementation/",
    "kind": "page"
   },
   {
-   "url": "https://joinhandshake.com/case-studies/carnegie-mellon-university-implementation/",
+   "url": "https://joinhandshake.com/case-studies/university-of-michigan-career-fairs/",
    "kind": "page"
   },
   {
@@ -3791,11 +5563,7 @@
    "kind": "page"
   },
   {
-   "url": "https://joinhandshake.com/research/benchmarks/carebench/",
-   "kind": "page"
-  },
-  {
-   "url": "https://joinhandshake.com/research/benchmarks/vials/",
+   "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
    "kind": "page"
   },
   {
@@ -3803,7 +5571,15 @@
    "kind": "page"
   },
   {
-   "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
+   "url": "https://joinhandshake.com/research/benchmarks/carebench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://joinhandshake.com/research/benchmarks/studentbench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://joinhandshake.com/research/benchmarks/vials/",
    "kind": "page"
   },
   {

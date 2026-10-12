@@ -1,6 +1,6 @@
 {
  "domain": "hud.ai",
- "live_hosts": 32,
+ "live_hosts": 33,
  "pages": [
   {
    "host": "accounts.hud.ai",
@@ -8,11 +8,17 @@
   },
   {
    "host": "admin.beta.hud.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D9e9d18cb9beb5a0b38028489b58ca7cbd9ba164ede994d8252d3859794b2d864",
+   "title": "Login \u2013 Vercel",
+   "links": []
   },
   {
    "host": "admin.hud.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3Dbdbd64450300550e187b95eb3c6f3ee5a57f531546377ddd384bce42e7a53b20",
+   "title": "Login \u2013 Vercel",
+   "links": []
   },
   {
    "host": "admin.legacy.hud.ai",
@@ -21,7 +27,7 @@
   {
    "host": "admin.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3D9a4da7abfa21a2339c2b3564c6f7ecf58ae91db0f3f10f49c51fd85a67878698",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3Dd6a15f0ea2f9e13fc08a890422ba764ac9e2c04354ea5246ee38547e4bed40fe",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -86,6 +92,13 @@
    ]
   },
   {
+   "host": "forge.hud.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3D29e565e1986cfc03cd30d24558cf66a6688f4f7b07f674d2d0b60048587980d1",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
    "host": "hud.ai",
    "status": "no response"
   },
@@ -120,7 +133,7 @@
   {
    "host": "staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3Daa774c97d6c646da440bda00fec2b26ed7f9f9d254c5a5308d0e8c7b0fa0d369",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3Dbb945031911c9a98dc615308f602c7cb6208593c1f6fa5ebfdb8d6e51083f7aa",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -139,7 +152,7 @@
   {
    "host": "toptal.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftoptal.staging.hud.ai%252F%26nonce%3Dbbebe22c0ea6d7bd61fc6167294ecc0e61272ecc2da3ef6fb780cc8841e5aa8d",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftoptal.staging.hud.ai%252F%26nonce%3D7dc41c74a592930133674f1764aa5f39f039e8cd895e807819fae0ff980945c6",
    "title": "Login \u2013 Vercel",
    "links": []
   },

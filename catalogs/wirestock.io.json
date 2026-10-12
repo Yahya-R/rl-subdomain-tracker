@@ -128,11 +128,11 @@
   {
    "host": "development.api.wirestock.io",
    "status": "ok",
-   "url": "https://development.api.wirestock.io/",
+   "url": "https://t1.teknodrem.com/",
    "title": "Free Template Download - Content",
    "links": [
     {
-     "url": "https://development.api.wirestock.io/",
+     "url": "https://development.api.wirestock.io/?token=FgfFig9nclsM6wQPfL339D2LSaCQPGBIIdd9zBvXDS09JaC6U6GS",
      "kind": "page",
      "text": "Free Template Download"
     }
@@ -242,8 +242,8 @@
   {
    "host": "modules.wirestock.io",
    "status": "ok",
-   "url": "https://modules.wirestock.io/gdp",
-   "title": "GDP Evaluation",
+   "url": "https://modules.wirestock.io/gdp/login?next=%2F",
+   "title": "Sign in \u2014 GDP Evaluation",
    "links": []
   },
   {

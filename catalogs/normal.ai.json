@@ -1,12 +1,12 @@
 {
  "domain": "normal.ai",
- "live_hosts": 8,
+ "live_hosts": 9,
  "pages": [
   {
    "host": "app.normal.ai",
    "status": "ok",
-   "url": "https://cadquests.com/",
-   "title": "Quests",
+   "url": "https://app.normal.ai/",
+   "title": "Zeus",
    "links": []
   },
   {
@@ -63,6 +63,13 @@
      "text": "Leaderboard"
     }
    ]
+  },
+  {
+   "host": "zep.normal.ai",
+   "status": "ok",
+   "url": "https://zep.normal.ai/",
+   "title": "Zep",
+   "links": []
   }
  ],
  "sitemap_hits": [

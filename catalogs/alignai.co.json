@@ -1,6 +1,6 @@
 {
  "domain": "alignai.co",
- "live_hosts": 16,
+ "live_hosts": 17,
  "pages": [
   {
    "host": "admin-agi.alignai.co",
@@ -109,6 +109,13 @@
    "status": "ok",
    "url": "https://wipro.portal.alignai.co/login",
    "title": "Sign in \u00b7 Align AI",
+   "links": []
+  },
+  {
+   "host": "www.alignai.co",
+   "status": "ok",
+   "url": "https://www.alignai.co/",
+   "title": "Align AI - The Verification Layer for AI Agents",
    "links": []
   }
  ],

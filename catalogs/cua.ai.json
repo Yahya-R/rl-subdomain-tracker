@@ -1,6 +1,6 @@
 {
  "domain": "cua.ai",
- "live_hosts": 17,
+ "live_hosts": 19,
  "pages": [
   {
    "host": "accounts.cua.ai",
@@ -69,7 +69,7 @@
     {
      "url": "https://github.com/trycua/cua",
      "kind": "hosted",
-     "text": "28.5K Humans"
+     "text": "29.5K Humans"
     },
     {
      "url": "https://github.com/trycua/cua/tree/main/libs/lume",
@@ -121,6 +121,10 @@
   },
   {
    "host": "inference.cua.ai",
+   "status": "no response"
+  },
+  {
+   "host": "otel.cua.ai",
    "status": "no response"
   },
   {
@@ -231,6 +235,10 @@
    ]
   },
   {
+   "host": "status.cua.ai",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "vk-mcp.cua.ai",
    "status": "no response"
   },
@@ -278,7 +286,7 @@
     {
      "url": "https://github.com/trycua/cua",
      "kind": "hosted",
-     "text": "28.5K Humans"
+     "text": "29.5K Humans"
     },
     {
      "url": "https://github.com/trycua/cua/tree/main/libs/lume",

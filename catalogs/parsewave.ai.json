@@ -1,6 +1,6 @@
 {
  "domain": "parsewave.ai",
- "live_hosts": 24,
+ "live_hosts": 25,
  "pages": [
   {
    "host": "admin.parsewave.ai",
@@ -34,6 +34,13 @@
   {
    "host": "auth.parsewave.ai",
    "status": "no response"
+  },
+  {
+   "host": "cc.parsewave.ai",
+   "status": "ok",
+   "url": "https://cc.parsewave.ai/",
+   "title": "",
+   "links": []
   },
   {
    "host": "console.parsewave.ai",

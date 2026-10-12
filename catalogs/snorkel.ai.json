@@ -6,12 +6,12 @@
    "host": "benchmarks.snorkel.ai",
    "status": "ok",
    "url": "https://benchmarks.snorkel.ai/",
-   "title": "Open Benchmarks Grant for Agentic AI | Snorkel AI",
+   "title": "$30M Open Benchmarks Grants for Frontier AI | Snorkel AI",
    "links": [
     {
      "url": "https://benchmarks.snorkel.ai/",
      "kind": "page",
-     "text": ""
+     "text": "Skip to content"
     },
     {
      "url": "https://benchmarks.snorkel.ai/apply/",
@@ -19,69 +19,49 @@
      "text": "Apply now"
     },
     {
-     "url": "https://benchmarks.snorkel.ai/closing-the-evaluation-gap-in-agentic-ai/",
+     "url": "https://benchmarks.snorkel.ai/blog/",
      "kind": "page",
      "text": "Blog"
     },
     {
+     "url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+     "kind": "page",
+     "text": "We\u2019re expanding Open Benchmarks Grants by 10x"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/funded-benchmarks",
+     "kind": "page",
+     "text": "Funded benchmarks"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/funded-benchmarks/",
+     "kind": "page",
+     "text": "Funded benchmarks"
+    },
+    {
      "url": "https://benchmarks.snorkel.ai/red-team-application/",
      "kind": "page",
-     "text": "Red-team your benchmark Helps builders fix evaluation weaknesses, including reward hacking, contamination, and broken ve"
+     "text": "Submit your benchmark"
     },
     {
      "url": "https://benchmarks.snorkel.ai/terms/",
      "kind": "page",
-     "text": "Terms and conditions"
-    },
-    {
-     "url": "https://senior-swe-bench.snorkel.ai/",
-     "kind": "page",
-     "text": "View Benchmark"
+     "text": "Terms of Use"
     },
     {
      "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
      "kind": "page",
-     "text": "Agent's Last Exam The largest-scale, broadest-coverage agent evaluation benchmark to date, measuring performance on long"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
-     "kind": "page",
-     "text": "Continual Learning Bench A benchmark of expert-validated, difficult tasks for agents that learn and improve across seque"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
-     "kind": "page",
-     "text": "LibraryDesignBench A benchmark measuring library quality by how well libraries designed by one agent help other agents b"
+     "text": "Agents\u2019 Last Exam Evaluates AI agents on long-horizon, economically valuable professional workflows with verifiable outc"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
      "kind": "page",
-     "text": "OSWorld 2.0 A benchmark for evaluating computer-use agents on long-horizon, real-world workflows with 108 authentic task"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
-     "kind": "page",
-     "text": "SlopCode Bench A community benchmark measuring code erosion as agents iteratively extend their own solutions across chec"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
-     "kind": "page",
-     "text": "Terminal-Bench 2.1 A revision of Terminal-Bench 2.0 that fixes 28 of 89 tasks and introduces continuous validation for a"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
-     "kind": "page",
-     "text": "Terminal-Bench 3.0 The next frontier benchmark for terminal agents. A harder, more domain-diverse successor to Terminal-"
+     "text": "XLANGOSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. Long-horizon computer use XLANG Lab (Unive"
     },
     {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
      "kind": "page",
-     "text": "Terminal-Bench 4.0 A benchmark to measure and evolve with the frontier of agent work. Terminal-Bench 4.0 calibrates task"
-    },
-    {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
-     "kind": "page",
-     "text": "Terminal-Bench-Science A benchmark for evaluating AI agents on workflows from researchers' own work. Scientists, not mod"
+     "text": "Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. Continuously updated ta"
     }
    ]
   },
@@ -548,14 +528,14 @@
    "title": "AI Benchmark Leaderboards for Frontier LLMs | Snorkel AI",
    "links": [
     {
-     "url": "http://frontierdatasummit.ai",
-     "kind": "page",
-     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
-    },
-    {
      "url": "https://benchmarks.snorkel.ai/",
      "kind": "page",
-     "text": "Open Benchmarks Grants Funding for open-source AI research"
+     "text": "Open Benchmarks Grants Benchmarks, red-teaming, and fellowships for open AI evaluation"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+     "kind": "page",
+     "text": "Featured blog Frontier AI is Accelerating. Open Benchmarks Need to Keep Up. Expanding Open Benchmarks Grants 10x to a $3"
     },
     {
      "url": "https://leaderboard.snorkel.ai/",
@@ -565,7 +545,7 @@
     {
      "url": "https://snorkel.ai/all-models/",
      "kind": "page",
-     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #2/13 Agents\u2019 Last Exam 38.2% #1/43 SnorkelFi"
+     "text": "OpenAI Sep 29, 2026 GPT-6.1 Sol RANK BY BENCHMARK Agentic Coding 2.0 42.8% #2/14 SnorkelFinance 2.0 6.6% #12/14 SnorkelL"
     },
     {
      "url": "https://snorkel.ai/data-development/",
@@ -651,6 +631,11 @@
      "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
      "kind": "page",
      "text": "Learn more about LibraryDesignBench"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/mbabench-2/",
+     "kind": "page",
+     "text": "Learn more about MBABench 2.0"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
@@ -779,7 +764,7 @@
    "title": "Snorkel AI Security Portal | Powered by SafeBase",
    "links": [
     {
-     "url": "https://security.snorkel.ai/?itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
+     "url": "https://security.snorkel.ai/?amp%3Bamp%3Bamp%3Bsource=click&amp%3Bamp%3BitemName=access_control&amp%3Bamp%3Bsource=click&amp%3Bsource=click&itemName=documents&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
      "kind": "page",
      "text": "REPORTSSecurity Whitepaper"
     }
@@ -839,11 +824,6 @@
    "title": "Expert data development for frontier AI | Snorkel AI",
    "links": [
     {
-     "url": "http://frontierdatasummit.ai",
-     "kind": "page",
-     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
-    },
-    {
      "url": "https://arxiv.org/abs/2602.00456",
      "kind": "hosted",
      "text": "Domain AgentsBenchmarking Agents in Insurance UnderwritingEnvironment-first benchmarking for agents in a genuinely high-"
@@ -866,7 +846,12 @@
     {
      "url": "https://benchmarks.snorkel.ai/",
      "kind": "page",
-     "text": "Open Benchmarks Grants Funding for open-source AI research"
+     "text": "Open Benchmarks Grants Benchmarks, red-teaming, and fellowships for open AI evaluation"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+     "kind": "page",
+     "text": "Featured blog Frontier AI is Accelerating. Open Benchmarks Need to Keep Up. Expanding Open Benchmarks Grants 10x to a $3"
     },
     {
      "url": "https://leaderboard.snorkel.ai/",
@@ -957,6 +942,11 @@
      "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
      "kind": "page",
      "text": "Software Engineering LibraryDesignBench Measures how well AI agents design libraries that other agents can use. Pass Rat"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/mbabench-2/",
+     "kind": "page",
+     "text": "Enterprise Environments MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-wr"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
@@ -1044,11 +1034,6 @@
    "title": "Expert data development for frontier AI | Snorkel AI",
    "links": [
     {
-     "url": "http://frontierdatasummit.ai",
-     "kind": "page",
-     "text": "Featured event Frontier Data Summit | October 8 A one-day, invite-only summit, providing a first look at the benchmarks "
-    },
-    {
      "url": "https://arxiv.org/abs/2602.00456",
      "kind": "hosted",
      "text": "Domain AgentsBenchmarking Agents in Insurance UnderwritingEnvironment-first benchmarking for agents in a genuinely high-"
@@ -1071,7 +1056,12 @@
     {
      "url": "https://benchmarks.snorkel.ai/",
      "kind": "page",
-     "text": "Open Benchmarks Grants Funding for open-source AI research"
+     "text": "Open Benchmarks Grants Benchmarks, red-teaming, and fellowships for open AI evaluation"
+    },
+    {
+     "url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+     "kind": "page",
+     "text": "Featured blog Frontier AI is Accelerating. Open Benchmarks Need to Keep Up. Expanding Open Benchmarks Grants 10x to a $3"
     },
     {
      "url": "https://leaderboard.snorkel.ai/",
@@ -1162,6 +1152,11 @@
      "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
      "kind": "page",
      "text": "Software Engineering LibraryDesignBench Measures how well AI agents design libraries that other agents can use. Pass Rat"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/mbabench-2/",
+     "kind": "page",
+     "text": "Enterprise Environments MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-wr"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
@@ -1650,10 +1645,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/terminal-bench-2-0/",
    "kind": "page"
   },
@@ -1674,27 +1665,7 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/digital-work-index/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/snorkel-finance-2-0/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/workplace-agents/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
    "kind": "page"
   },
   {
@@ -1706,7 +1677,35 @@
    "kind": "page"
   },
   {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/digital-work-index/",
+   "kind": "page"
+  },
+  {
    "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/swe-bench-cli/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-underwrite-2-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-revops/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-legal/",
    "kind": "page"
   },
   {
@@ -1714,7 +1713,7 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+   "url": "https://snorkel.ai/leaderboard/mbabench-2/",
    "kind": "page"
   },
   {

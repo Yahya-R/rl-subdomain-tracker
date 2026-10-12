@@ -1,7 +1,11 @@
 {
  "domain": "pre.dev",
- "live_hosts": 124,
+ "live_hosts": 135,
  "pages": [
+  {
+   "host": "2.7.pre.dev",
+   "status": "no response"
+  },
   {
    "host": "3dev-3.pre.app.nieta.artart.nieta.app.pre.dev",
    "status": "no response"
@@ -60,6 +64,14 @@
   },
   {
    "host": "agent-gateway.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "ai-citizenship-authentication-7544.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "api-edge.pre.dev",
    "status": "no response"
   },
   {
@@ -145,12 +157,12 @@
     {
      "url": "https://pre.dev/blog/tag/benchmarks/",
      "kind": "page",
-     "text": "Benchmarks1"
+     "text": "Benchmarks3"
     },
     {
-     "url": "https://pre.dev/blog/the-2026-vibe-coding-state-of-the-union-they-all-suck/",
+     "url": "https://pre.dev/blog/we-made-claude-code-2x-faster-and-1-8x-cheaper-in-chrome/",
      "kind": "page",
-     "text": "Benchmarks The 2026 Vibe Coding State of the Union: They All Suck We took the most popular vibe coding tools at year-end"
+     "text": "Benchmarks We made Claude Code 2x faster and 1.8x cheaper in Chrome Same agent, same model, same Chrome. Swapping Claude"
     }
    ]
   },
@@ -163,6 +175,10 @@
   },
   {
    "host": "carflags.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "category-pages.pre.dev",
    "status": "no response"
   },
   {
@@ -214,6 +230,10 @@
   },
   {
    "host": "corebank.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "cuba-food-forecast-20d5.pre.dev",
    "status": "no response"
   },
   {
@@ -325,6 +345,10 @@
    "status": "no response"
   },
   {
+   "host": "farmland-e67a.pre.dev",
+   "status": "no response"
+  },
+  {
    "host": "fiserv.pre.dev",
    "status": "no response"
   },
@@ -397,6 +421,10 @@
    "status": "no response"
   },
   {
+   "host": "iskry-wiedzy-16de.pre.dev",
+   "status": "no response"
+  },
+  {
    "host": "mail.pre.dev",
    "status": "ok",
    "url": "https://mail.pre.dev/",
@@ -405,6 +433,10 @@
   },
   {
    "host": "mama.eslsca.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "metaverse-based-vehicle-diagnostics-and-maintena-1e8f.pre.dev",
    "status": "no response"
   },
   {
@@ -439,6 +471,10 @@
    "url": "https://notenest.pre.dev/",
    "title": "NoteNest \u00b7 A quiet place for fast notes",
    "links": []
+  },
+  {
+   "host": "onco-ab25.pre.dev",
+   "status": "no response"
   },
   {
    "host": "plusplus.pre.dev",
@@ -563,23 +599,13 @@
   {
    "host": "try.pre.dev",
    "status": "ok",
-   "url": "https://try.pre.dev/",
-   "title": "TRY.PRE.DEV - A Dub Custom Domain | Dub",
+   "url": "https://pre.dev/",
+   "title": "pre.dev | Long Horizon Coding Agent",
    "links": [
     {
-     "url": "https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Footer&utm_campaign=try.pre.dev&utm_content=Pricing",
+     "url": "https://pre.dev/",
      "kind": "page",
      "text": "Pricing"
-    },
-    {
-     "url": "https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Navbar&utm_campaign=try.pre.dev&utm_content=Pricing",
-     "kind": "page",
-     "text": "Pricing"
-    },
-    {
-     "url": "https://github.com/dubinc/dub",
-     "kind": "hosted",
-     "text": "GitHub"
     }
    ]
   },
@@ -593,6 +619,14 @@
   },
   {
    "host": "usus.biu.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "vetai-1592.pre.dev",
+   "status": "no response"
+  },
+  {
+   "host": "vetai-e2c8.pre.dev",
    "status": "no response"
   },
   {
