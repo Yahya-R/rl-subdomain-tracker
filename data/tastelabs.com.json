@@ -11,6 +11,18 @@
   "ip": "",
   "live": false
  },
+ "api.integration.portal.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "136.110.221.122",
+  "live": true
+ },
+ "api.staging.portal.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "8.232.106.222",
+  "live": true
+ },
  "api.staging.symphony.tastelabs.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
@@ -71,10 +83,16 @@
   "ip": "",
   "live": false
  },
+ "docs.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "162.159.143.13",
+  "live": true
+ },
  "engine.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "ensemble.staging.tastelabs.com": {
@@ -92,7 +110,7 @@
  "goldenstone-preference.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.193",
   "live": true
  },
  "grafana.tastelabs.com": {
@@ -110,7 +128,7 @@
  "h.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "172.66.169.73",
+  "ip": "104.20.19.245",
   "live": true
  },
  "hdp-mcp.damascus.tastelabs.com": {
@@ -146,19 +164,31 @@
  "hfi-summer.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.129",
+  "live": true
+ },
+ "humans-provisioner.internal.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.8.180.221",
   "live": true
  },
  "index.engine.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "172.66.152.147",
+  "ip": "104.20.16.112",
   "live": true
  },
  "ingest.webapp-capture-api.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "172.66.152.147",
+  "ip": "104.20.16.112",
+  "live": true
+ },
+ "integration.portal.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "136.110.221.122",
   "live": true
  },
  "judge.tastelabs.com": {
@@ -170,7 +200,7 @@
  "links.recruiting.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "18.238.96.12",
+  "ip": "108.156.224.78",
   "live": true
  },
  "mcp.tastelabs.com": {
@@ -188,7 +218,7 @@
  "portal.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "pr-624-verifier.tastelabs.com": {
@@ -221,6 +251,12 @@
   "ip": "",
   "live": false
  },
+ "proxy.rle.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.160.201.188",
+  "live": true
+ },
  "proxy.staging.symphony.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
@@ -236,13 +272,13 @@
  "r2.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "172.66.152.147",
+  "ip": "104.20.16.112",
   "live": true
  },
  "reports.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "rl.tastelabs.com": {
@@ -266,7 +302,7 @@
  "running.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "rustore.tastelabs.com": {
@@ -302,13 +338,19 @@
  "staging-portal.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "staging.metabase.tastelabs.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-13",
   "ip": "8.233.248.19",
+  "live": true
+ },
+ "staging.portal.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "8.232.106.222",
   "live": true
  },
  "status.damascus.tastelabs.com": {
@@ -323,10 +365,28 @@
   "ip": "167.235.220.62",
   "live": true
  },
+ "status.hdp.staging.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.8.139.170",
+  "live": true
+ },
+ "status.hdp.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.120.183.23",
+  "live": true
+ },
  "status.rle.staging.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
   "ip": "136.110.168.173",
+  "live": true
+ },
+ "status.rle.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.160.201.188",
   "live": true
  },
  "status.staging.symphony.tastelabs.com": {
@@ -371,6 +431,12 @@
   "ip": "34.8.139.170",
   "live": true
  },
+ "traces.hdp.tastelabs.com": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.120.183.23",
+  "live": true
+ },
  "traces.symphony.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
@@ -392,13 +458,13 @@
  "website-reconstruction-console-api.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "website-reconstruction-console.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "www.rustore.tastelabs.com": {

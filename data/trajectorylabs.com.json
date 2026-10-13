@@ -242,7 +242,7 @@
  "lyon.trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-13",
-  "ip": "104.18.13.25",
+  "ip": "104.18.12.25",
   "live": true
  },
  "mail.trajectorylabs.com": {
@@ -283,6 +283,12 @@
  },
  "middleman-dev6.hawk.staging.trajectorylabs.com": {
   "first_seen": "2026-10-07",
+  "last_seen": "2026-10-13",
+  "ip": "",
+  "live": false
+ },
+ "middleman-dev8.hawk.staging.trajectorylabs.com": {
+  "first_seen": "2026-10-13",
   "last_seen": "2026-10-13",
   "ip": "",
   "live": false
