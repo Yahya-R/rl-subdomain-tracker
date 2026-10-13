@@ -2,6 +2,26 @@
 
 ## 2026-10-13
 
+### afterquery.com
+- docs.afterquery.com (76.76.21.61)
+
+### cua.ai
+- api.staging.cua.ai (44.228.20.154)
+- relay.staging.cua.ai (44.228.20.154)
+- spaces.staging.cua.ai (76.76.21.98)
+
+### datacurve.ai
+- polaris-e2e-0f54cc9f-40ed-4e04-a50a-1a0decf11c9b.datacurve.ai (104.21.20.75)
+- pr-329.mira-machine.datacurve.ai (172.67.191.226)
+- pr-457.mira-machine.datacurve.ai (172.67.191.226)
+- worker-pr-457.mira-machine.datacurve.ai (104.21.20.75)
+
+### turing.com
+- agencies-staging-new.turing.com (34.36.216.15)
+- gdpval-worker-beta-pr-1167.rd.atlas.turing.com (no DNS)
+
+## 2026-10-13
+
 ### benchflow.ai
 - tastechattestsender-06c2afe5.preview.benchflow.ai (76.76.21.21)
 - tastechattestsender-22364fbd.preview.benchflow.ai (76.76.21.21)
