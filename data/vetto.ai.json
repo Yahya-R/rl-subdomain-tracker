@@ -2,25 +2,25 @@
  "anetto.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.164",
+  "ip": "76.76.21.93",
   "live": true
  },
  "api.hub.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "35.71.145.101",
+  "ip": "99.83.151.71",
   "live": true
  },
  "api.payments.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "54.232.123.152",
+  "ip": "56.126.75.225",
   "live": true
  },
  "api.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "56.126.75.225",
+  "ip": "54.232.123.152",
   "live": true
  },
  "aplique.vetto.ai": {
@@ -32,7 +32,7 @@
  "app.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "66.33.60.194",
+  "ip": "76.76.21.164",
   "live": true
  },
  "apply.vetto.ai": {
@@ -44,7 +44,7 @@
  "arena.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "assets.vetto.ai": {
@@ -56,7 +56,7 @@
  "atlas.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.1",
   "live": true
  },
  "auth.ops.vetto.ai": {
@@ -68,37 +68,37 @@
  "backoffice.sandbox.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "backoffice.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "chat.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "community.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "172.66.155.47",
+  "ip": "104.20.25.160",
   "live": true
  },
  "cua.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "dashboard.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "66.33.60.34",
+  "ip": "66.33.60.35",
   "live": true
  },
  "data.vetto.ai": {
@@ -110,19 +110,19 @@
  "decapod.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "design-system.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.193",
   "live": true
  },
  "ds-vetto.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "education.vetto.ai": {
@@ -140,7 +140,7 @@
  "email.comunicados.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "66.33.60.34",
+  "ip": "66.33.60.35",
   "live": true
  },
  "email.notify.vetto.ai": {
@@ -149,16 +149,22 @@
   "ip": "34.117.153.222",
   "live": true
  },
+ "email.vetto.ai": {
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "ip": "34.117.153.222",
+  "live": true
+ },
  "empresa.sandbox.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.193",
   "live": true
  },
  "empresa.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "entrevistas.vetto.ai": {
@@ -170,13 +176,13 @@
  "estudante.sandbox.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "estudante.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "facaparte.vetto.ai": {
@@ -194,13 +200,13 @@
  "fin.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.129",
+  "ip": "216.150.16.1",
   "live": true
  },
  "finance.api.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.223.57.73",
+  "ip": "15.197.149.68",
   "live": true
  },
  "finance.vetto.ai": {
@@ -224,13 +230,13 @@
  "gtm-preview.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "142.250.73.147",
+  "ip": "142.251.108.121",
   "live": true
  },
  "gtm.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "142.250.73.147",
+  "ip": "142.251.108.121",
   "live": true
  },
  "guides.vetto.ai": {
@@ -242,7 +248,7 @@
  "headroom.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.164",
+  "ip": "66.33.60.34",
   "live": true
  },
  "health.vetto.ai": {
@@ -254,19 +260,19 @@
  "hub.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "66.33.60.130",
+  "ip": "76.76.21.123",
   "live": true
  },
  "iclr.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.142",
+  "ip": "66.33.60.35",
   "live": true
  },
  "iclr26.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.123",
+  "ip": "76.76.21.164",
   "live": true
  },
  "inscricao.vetto.ai": {
@@ -284,19 +290,19 @@
  "journey.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.1",
   "live": true
  },
  "kitchen.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.93",
+  "ip": "66.33.60.34",
   "live": true
  },
  "label.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.129",
   "live": true
  },
  "onyx.vetto.ai": {
@@ -314,7 +320,7 @@
  "ops.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "pagamentos.vetto.ai": {
@@ -326,31 +332,31 @@
  "parceiro.sandbox.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "parceiro.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.129",
   "live": true
  },
  "planning.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "poc.arena.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "preview.arena.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.61",
+  "ip": "76.76.21.164",
   "live": true
  },
  "project.vetto.ai": {
@@ -368,13 +374,13 @@
  "research.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.93",
+  "ip": "66.33.60.129",
   "live": true
  },
  "researcher.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.193",
   "live": true
  },
  "sales.vetto.ai": {
@@ -386,13 +392,13 @@
  "sandbox.arena.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.193",
   "live": true
  },
  "sandbox.ops.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "shop.vetto.ai": {
@@ -428,7 +434,7 @@
  "tasks.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "35.71.145.101",
+  "ip": "75.2.97.79",
   "live": true
  },
  "tech.vetto.ai": {
@@ -440,7 +446,7 @@
  "tmp.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.164",
+  "ip": "66.33.60.194",
   "live": true
  },
  "travel.arena.vetto.ai": {
@@ -470,25 +476,25 @@
  "universidade.sandbox.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.129",
   "live": true
  },
  "universidade.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "vbrain.api.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "99.83.183.127",
+  "ip": "52.223.46.195",
   "live": true
  },
  "vbrain.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "vetto.ai": {
@@ -518,19 +524,19 @@
  "workforce.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "www.api.vetto.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.61",
+  "ip": "66.33.60.34",
   "live": true
  },
  "www.app.vetto.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "ip": "76.76.21.93",
+  "ip": "66.33.60.34",
   "live": true
  },
  "www.forms.vetto.ai": {
@@ -548,7 +554,7 @@
  "www.vetto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.1",
   "live": true
  }
 }
