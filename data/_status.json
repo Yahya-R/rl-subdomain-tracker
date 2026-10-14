@@ -1349,8 +1349,8 @@
  },
  "scale.com": {
   "sources": {
-   "crtsh": 2684,
-   "certspotter": null,
+   "crtsh": null,
+   "certspotter": 95,
    "hackertarget": 0,
    "subdomain_center": 500,
    "wayback": null,
@@ -1367,9 +1367,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-14T20:35",
+  "last_scan": "2026-10-14T23:52",
   "failed_sources": [
-   "certspotter",
+   "crtsh",
    "wayback"
   ]
  },
