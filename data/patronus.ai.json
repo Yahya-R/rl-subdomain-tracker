@@ -86,8 +86,8 @@
  "api.adobe.westeurope.azure.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "20.71.95.53",
-  "live": true
+  "ip": "",
+  "live": false
  },
  "api.adobe.westus3.azure.patronus.ai": {
   "first_seen": "2026-10-05",
@@ -103,8 +103,8 @@
  },
  "api.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
-  "ip": "3.228.194.129",
+  "last_seen": "2026-10-14",
+  "ip": "75.101.153.227",
   "live": true
  },
  "app-cegid.azure.onprem.patronus.ai": {
@@ -194,7 +194,7 @@
  "app.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "44.207.51.164",
+  "ip": "32.199.223.233",
   "live": true
  },
  "auth.dev.patronus.ai": {
@@ -230,19 +230,19 @@
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "13.227.87.72",
+  "ip": "3.161.174.76",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-14",
   "ip": "108.156.245.78",
   "live": true
  },
  "chat.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-13",
-  "ip": "174.129.166.240",
+  "last_seen": "2026-10-14",
+  "ip": "34.238.199.165",
   "live": true
  },
  "copyrightcatcher.patronus.ai": {
@@ -302,7 +302,7 @@
  "docs.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "3.208.177.150",
+  "ip": "44.199.160.242",
   "live": true
  },
  "docs1.patronus.ai": {
@@ -313,8 +313,8 @@
  },
  "dwm.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
-  "ip": "18.204.72.201",
+  "last_seen": "2026-10-14",
+  "ip": "3.89.41.0",
   "live": true
  },
  "echoserver.adobe.eastus2.azure.patronus.ai": {
@@ -398,7 +398,7 @@
  "minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "52.86.74.106",
+  "ip": "100.55.254.220",
   "live": true
  },
  "models.internal.patronus.ai": {
