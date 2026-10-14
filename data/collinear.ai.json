@@ -20,25 +20,25 @@
  "auth.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "blog.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "",
-  "live": false
+  "ip": "104.21.62.3",
+  "live": true
  },
  "catalog.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "console.collinear.ai": {
@@ -62,13 +62,13 @@
  "docs.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "internal-mcp.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "nexus-task-registry.collinear.ai": {
@@ -98,7 +98,7 @@
  "rl-gym-api.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "rl-gym-gaiic-api.collinear.ai": {
@@ -134,7 +134,7 @@
  "stage.collinear.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.67.217.121",
+  "ip": "104.21.62.3",
   "live": true
  },
  "steer-stag.collinear.ai": {
@@ -152,7 +152,7 @@
  "trustcentre.collinear.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "ip": "104.21.62.3",
+  "ip": "172.67.217.121",
   "live": true
  },
  "www.api.collinear.ai": {

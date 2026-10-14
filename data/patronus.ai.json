@@ -86,8 +86,8 @@
  "api.adobe.westeurope.azure.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "",
-  "live": false
+  "ip": "20.71.95.53",
+  "live": true
  },
  "api.adobe.westus3.azure.patronus.ai": {
   "first_seen": "2026-10-05",
@@ -104,7 +104,7 @@
  "api.patronus.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
-  "ip": "75.101.153.227",
+  "ip": "184.72.233.97",
   "live": true
  },
  "app-cegid.azure.onprem.patronus.ai": {
@@ -194,7 +194,7 @@
  "app.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "32.199.223.233",
+  "ip": "54.158.177.133",
   "live": true
  },
  "auth.dev.patronus.ai": {
@@ -206,7 +206,7 @@
  "auth.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "172.64.144.74",
+  "ip": "104.18.43.182",
   "live": true
  },
  "auth.staging.patronus.ai": {
@@ -230,13 +230,13 @@
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "3.161.174.76",
+  "ip": "13.227.87.81",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-14",
-  "ip": "108.156.245.78",
+  "ip": "18.160.200.3",
   "live": true
  },
  "chat.patronus.ai": {
