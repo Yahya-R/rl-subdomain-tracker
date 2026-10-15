@@ -2,6 +2,19 @@
 
 ## 2026-10-15
 
+### mercor.com
+- 0-1-2-crowe-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-1-crowe-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-2-crowe-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-1-crowe-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-2-crowe-azure.release.enterprise.mercor.com (no DNS)
+- manual-gcp.release.enterprise.mercor.com (no DNS)
+
+### turing.com
+- gdpval-worker-beta-pr-1176.rd.atlas.turing.com (34.149.130.79)
+
+## 2026-10-15
+
 ### datacurve.ai
 - casper-ops.datacurve.ai (104.21.20.75)
 - casper.datacurve.ai (172.67.191.226)
