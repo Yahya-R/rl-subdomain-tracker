@@ -279,8 +279,8 @@
  "collinear.ai": {
   "sources": {
    "crtsh": 25,
-   "certspotter": null,
-   "hackertarget": 0,
+   "certspotter": 19,
+   "hackertarget": 21,
    "subdomain_center": 29,
    "wayback": 10,
    "rapiddns": 0,
@@ -296,10 +296,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-14T23:41",
-  "failed_sources": [
-   "certspotter"
-  ]
+  "last_scan": "2026-10-15T13:25",
+  "failed_sources": []
  },
  "cua.ai": {
   "sources": {
@@ -1205,8 +1203,8 @@
  "proximal.ai": {
   "sources": {
    "crtsh": 5,
-   "certspotter": null,
-   "hackertarget": 0,
+   "certspotter": 5,
+   "hackertarget": 5,
    "subdomain_center": 2,
    "wayback": null,
    "rapiddns": 0,
@@ -1222,9 +1220,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-14T23:40",
+  "last_scan": "2026-10-15T13:27",
   "failed_sources": [
-   "certspotter",
    "wayback"
   ]
  },
@@ -1306,8 +1303,8 @@
  "risedatalabs.com": {
   "sources": {
    "crtsh": 31,
-   "certspotter": null,
-   "hackertarget": 0,
+   "certspotter": 25,
+   "hackertarget": 26,
    "subdomain_center": 4,
    "wayback": null,
    "rapiddns": 0,
@@ -1323,9 +1320,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-14T23:39",
+  "last_scan": "2026-10-15T13:24",
   "failed_sources": [
-   "certspotter",
    "wayback"
   ]
  },
