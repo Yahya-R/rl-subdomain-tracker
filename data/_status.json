@@ -27,7 +27,7 @@
  "afterquery.com": {
   "sources": {
    "crtsh": 32,
-   "certspotter": null,
+   "certspotter": 28,
    "hackertarget": 0,
    "subdomain_center": 7,
    "wayback": null,
@@ -44,9 +44,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T04:59",
+  "last_scan": "2026-10-15T13:59",
   "failed_sources": [
-   "certspotter",
    "wayback"
   ]
  },
@@ -444,7 +443,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T05:01",
+  "last_scan": "2026-10-15T14:01",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -669,7 +668,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T05:01",
+  "last_scan": "2026-10-15T14:01",
   "failed_sources": [
    "certspotter"
   ]
@@ -879,7 +878,7 @@
  "mercor.com": {
   "sources": {
    "crtsh": 649,
-   "certspotter": 81,
+   "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 283,
    "wayback": 155,
@@ -896,8 +895,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T05:02",
-  "failed_sources": []
+  "last_scan": "2026-10-15T14:02",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "metaphi.ai": {
   "sources": {
