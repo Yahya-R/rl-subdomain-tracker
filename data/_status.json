@@ -27,10 +27,10 @@
  "afterquery.com": {
   "sources": {
    "crtsh": 32,
-   "certspotter": 28,
-   "hackertarget": 0,
+   "certspotter": null,
+   "hackertarget": 37,
    "subdomain_center": 7,
-   "wayback": null,
+   "wayback": 10,
    "rapiddns": 0,
    "c99": 0
   },
@@ -44,9 +44,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T13:59",
+  "last_scan": "2026-10-15T23:21",
   "failed_sources": [
-   "wayback"
+   "certspotter"
   ]
  },
  "alignai.co": {
@@ -76,7 +76,7 @@
   "sources": {
    "crtsh": 100,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 51,
    "subdomain_center": 3,
    "wayback": 1,
    "rapiddns": 0,
@@ -92,7 +92,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T13:52",
+  "last_scan": "2026-10-15T23:19",
   "failed_sources": [
    "certspotter"
   ]
@@ -101,9 +101,9 @@
   "sources": {
    "crtsh": 3,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 3,
    "subdomain_center": 4,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -117,10 +117,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T13:56",
+  "last_scan": "2026-10-15T23:19",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "aptura.ai": {
@@ -398,7 +397,7 @@
   "sources": {
    "crtsh": 3,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 3,
    "subdomain_center": 0,
    "wayback": 0,
    "rapiddns": 0,
@@ -414,7 +413,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T13:56",
+  "last_scan": "2026-10-15T23:19",
   "failed_sources": [
    "certspotter"
   ]
@@ -423,9 +422,9 @@
   "sources": {
    "crtsh": 4,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 4,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -439,10 +438,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T14:01",
+  "last_scan": "2026-10-15T23:22",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "dmodel.ai": {
@@ -646,7 +644,7 @@
   "sources": {
    "crtsh": 14,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 7,
    "subdomain_center": 7,
    "wayback": 3,
    "rapiddns": 3,
@@ -662,7 +660,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T14:01",
+  "last_scan": "2026-10-15T23:22",
   "failed_sources": [
    "certspotter"
   ]
@@ -862,9 +860,9 @@
  },
  "mercor.com": {
   "sources": {
-   "crtsh": 649,
+   "crtsh": 655,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 51,
    "subdomain_center": 283,
    "wayback": 155,
    "rapiddns": 3,
@@ -880,7 +878,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T14:02",
+  "last_scan": "2026-10-15T23:23",
   "failed_sources": [
    "certspotter"
   ]
@@ -1531,11 +1529,11 @@
  },
  "turing.com": {
   "sources": {
-   "crtsh": 1724,
+   "crtsh": 1725,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 50,
    "subdomain_center": 500,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 30,
    "c99": 0
   },
@@ -1549,10 +1547,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T13:57",
+  "last_scan": "2026-10-15T23:20",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "uber.com": {
