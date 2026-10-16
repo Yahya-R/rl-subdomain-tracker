@@ -203,6 +203,12 @@
   "ip": "",
   "live": false
  },
+ "dev6-secrets.svc.staging.trajectorylabs.com": {
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
  "dev7-platform-public.trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-16",
@@ -320,7 +326,7 @@
  "platform.trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-16",
-  "ip": "44.230.94.192",
+  "ip": "54.212.131.243",
   "live": true
  },
  "relay-dev3.hawk.staging.trajectorylabs.com": {
@@ -374,7 +380,7 @@
  "terminal.trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-16",
-  "ip": "104.18.13.25",
+  "ip": "104.18.12.25",
   "live": true
  },
  "token-broker-ciproof.hawk.staging.trajectorylabs.com": {
@@ -518,7 +524,7 @@
  "trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-16",
-  "ip": "104.18.13.25",
+  "ip": "104.18.12.25",
   "live": true
  },
  "viewer-ciproof.hawk.staging.trajectorylabs.com": {
@@ -662,7 +668,7 @@
  "www.trajectorylabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-16",
-  "ip": "104.18.12.25",
+  "ip": "104.18.13.25",
   "live": true
  }
 }
