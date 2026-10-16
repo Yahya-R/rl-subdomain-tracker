@@ -247,7 +247,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T23:40",
+  "last_scan": "2026-10-16T04:53",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -298,7 +298,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T23:40",
+  "last_scan": "2026-10-16T04:53",
   "failed_sources": [
    "certspotter"
   ]
@@ -501,7 +501,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T23:40",
+  "last_scan": "2026-10-16T04:54",
   "failed_sources": [
    "certspotter"
   ]
@@ -1317,7 +1317,7 @@
  "risedatalabs.com": {
   "sources": {
    "crtsh": 31,
-   "certspotter": null,
+   "certspotter": 25,
    "hackertarget": 0,
    "subdomain_center": 4,
    "wayback": 2,
@@ -1334,10 +1334,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T23:39",
-  "failed_sources": [
-   "certspotter"
-  ]
+  "last_scan": "2026-10-16T04:53",
+  "failed_sources": []
  },
  "scale.com": {
   "sources": {
@@ -1690,7 +1688,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-15T23:37",
+  "last_scan": "2026-10-16T04:53",
   "failed_sources": [
    "certspotter"
   ]
