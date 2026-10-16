@@ -20,8 +20,8 @@
  "auth.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "",
-  "live": false
+  "ip": "172.64.144.74",
+  "live": true
  },
  "d.symbal.ai": {
   "first_seen": "2026-10-06",
@@ -32,19 +32,19 @@
  "data.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "",
-  "live": false
+  "ip": "104.21.16.213",
+  "live": true
  },
  "dataset-collection-prod.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "dataset-collection-qa.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "104.21.16.213",
+  "ip": "172.67.215.242",
   "live": true
  },
  "dataset-collection.prod.symbal.ai": {
@@ -68,7 +68,7 @@
  "dialogue-tree.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "eastus2.dev.symbal.ai": {
@@ -98,7 +98,7 @@
  "integration-engine.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "104.21.16.213",
+  "ip": "172.67.215.242",
   "live": true
  },
  "legacy-calling.symbal.ai": {
@@ -128,7 +128,7 @@
  "platform.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "platform7.symbal.ai": {
@@ -140,8 +140,8 @@
  "realworldfinance.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "",
-  "live": false
+  "ip": "185.158.133.1",
+  "live": true
  },
  "sourcing-api-development.symbal.ai": {
   "first_seen": "2026-10-06",
@@ -158,13 +158,13 @@
  "sourcing-platform-dev.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "sourcing-platform.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "symbal.ai": {
@@ -176,7 +176,7 @@
  "task-factory.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "tree.symbal.ai": {
@@ -194,13 +194,13 @@
  "url.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "104.21.16.213",
+  "ip": "172.67.215.242",
   "live": true
  },
  "voice-chatbot.symbal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "ip": "172.67.215.242",
+  "ip": "104.21.16.213",
   "live": true
  },
  "www.ai-texting.symbal.ai": {
