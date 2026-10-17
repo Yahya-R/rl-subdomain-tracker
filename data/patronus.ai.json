@@ -103,7 +103,7 @@
  },
  "api.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "98.82.220.98",
   "live": true
  },
@@ -199,14 +199,14 @@
  },
  "app.relay.sandbox.patronus.ai": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "ip": "3.170.19.88",
+  "last_seen": "2026-10-17",
+  "ip": "18.238.96.5",
   "live": true
  },
  "auth.dev.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.18.43.182",
+  "ip": "172.64.144.74",
   "live": true
  },
  "auth.patronus.ai": {
@@ -236,25 +236,25 @@
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "13.35.78.39",
+  "ip": "18.155.173.33",
   "live": true
  },
  "bonus.patronus.ai": {
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "ip": "3.170.3.51",
+  "ip": "18.238.109.26",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "13.35.78.56",
+  "ip": "18.155.173.123",
   "live": true
  },
  "chat.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "34.238.199.165",
+  "ip": "44.207.93.219",
   "live": true
  },
  "copyrightcatcher.patronus.ai": {
@@ -325,7 +325,7 @@
  },
  "dwm.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "52.207.199.18",
   "live": true
  },
@@ -400,6 +400,12 @@
   "last_seen": "2026-10-17",
   "ip": "",
   "live": false
+ },
+ "link.relay.sandbox.patronus.ai": {
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "ip": "10.61.170.232",
+  "live": true
  },
  "mars.patronus.ai": {
   "first_seen": "2026-10-06",
@@ -527,6 +533,12 @@
   "ip": "198.202.211.1",
   "live": true
  },
+ "platform.patronus.ai": {
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "ip": "",
+  "live": false
+ },
  "portal.patronus.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
@@ -554,7 +566,7 @@
  "rewrite.minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "35.169.164.6",
+  "ip": "44.216.180.240",
   "live": true
  },
  "rl.patronus.ai": {
@@ -614,7 +626,7 @@
  "wiki.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "185.199.108.153",
+  "ip": "185.199.110.153",
   "live": true
  },
  "www.admin-cegid.azure.onprem.patronus.ai": {
