@@ -19,7 +19,7 @@
  },
  "daytona-minio.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -56,13 +56,13 @@
  "dev-badcards-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-benchmark-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-benchmark.goodstartlabs.com": {
@@ -80,7 +80,7 @@
  "dev-eq-bench.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-eval-platform.goodstartlabs.com": {
@@ -103,7 +103,7 @@
  },
  "dev-portal.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -115,7 +115,7 @@
  },
  "dev-task-reviewer.goodstartlabs.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -128,25 +128,25 @@
  "dev-tournament-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-tournament.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-webhooks.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-17",
   "ip": "10.10.0.30",
   "live": true
  },
  "dev-website.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev2-argocd.goodstartlabs.com": {
@@ -284,7 +284,7 @@
  "tournament-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  },
  "tournament.goodstartlabs.com": {
@@ -296,7 +296,7 @@
  "www.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  }
 }
