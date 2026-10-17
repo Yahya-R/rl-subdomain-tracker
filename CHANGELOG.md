@@ -2,6 +2,22 @@
 
 ## 2026-10-17
 
+### idler.ai
+- forktree.idler.ai (216.24.57.18)
+
+### micro1.ai
+- forms.merit.micro1.ai (3.170.19.49)
+
+### tastelabs.com
+- api.portal.tastelabs.com (136.81.41.33)
+- prod.metabase.tastelabs.com (136.81.196.81)
+- prod.portal.tastelabs.com (136.81.41.33)
+
+### turing.com
+- gdpval-worker-beta-pr-1010.rd.atlas.turing.com (no DNS)
+
+## 2026-10-17
+
 ### mechanize.work
 - quick.mechanize.work (34.149.11.11)
 - taiga-viewer.mechanize.work (136.81.49.233)
