@@ -218,7 +218,7 @@
  "admin.companydata.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.5.146.164",
+  "ip": "10.5.136.146",
   "live": true
  },
  "admin.demo.enterprise.mercor.com": {
@@ -236,7 +236,7 @@
  "admin.preview.enterprise.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "44.209.142.24",
+  "ip": "44.213.184.56",
   "live": true
  },
  "admin.stage.enterprise.mercor.com": {
@@ -254,7 +254,7 @@
  "agent-observability.internal.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.187.228",
+  "ip": "10.4.98.241",
   "live": true
  },
  "agents-coil.api.mercor.com": {
@@ -266,13 +266,13 @@
  "agents-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.104.52",
+  "ip": "10.6.189.178",
   "live": true
  },
  "agents-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.132.27",
+  "ip": "10.1.149.73",
   "live": true
  },
  "agents.enterprise.mercor.com": {
@@ -482,7 +482,7 @@
  "api.data.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.238.96.75",
+  "ip": "99.86.77.23",
   "live": true
  },
  "api.demo.enterprise.mercor.com": {
@@ -500,13 +500,13 @@
  "api.dev.studio.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.18.26.26",
+  "ip": "104.18.27.26",
   "live": true
  },
  "api.enterprise.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "54.158.4.43",
+  "ip": "44.217.247.154",
   "live": true
  },
  "api.gateway.mercor.com": {
@@ -524,7 +524,7 @@
  "api.nango.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "api.novu.mercor.com": {
@@ -536,13 +536,13 @@
  "api.preview.enterprise.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "3.227.207.244",
+  "ip": "184.194.184.47",
   "live": true
  },
  "api.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.9.10.225",
+  "ip": "10.9.13.202",
   "live": true
  },
  "api.staging.enterprise.mercor.com": {
@@ -584,13 +584,13 @@
  "argocd.monk.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "argocd.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.9.12.114",
+  "ip": "10.9.15.189",
   "live": true
  },
  "ashby.api.mercor.com": {
@@ -614,13 +614,13 @@
  "assessments-coil.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.108.4",
+  "ip": "10.4.147.254",
   "live": true
  },
  "assessments-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.156.64",
+  "ip": "10.6.131.66",
   "live": true
  },
  "assessments-coil.stage.api.mercor.com": {
@@ -638,19 +638,19 @@
  "assessments-mercor-api.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.107.213",
+  "ip": "10.6.112.168",
   "live": true
  },
  "assessments-mercor-api.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.101.209",
+  "ip": "10.1.189.57",
   "live": true
  },
  "atlas.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.18.17.58",
+  "ip": "10.18.18.89",
   "live": true
  },
  "austin.llm-gateway.dev.studio.mercor.com": {
@@ -698,13 +698,13 @@
  "aws.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.18.26.26",
+  "ip": "104.18.27.26",
   "live": true
  },
  "aws.go.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "aws.stage.api.mercor.com": {
@@ -848,7 +848,7 @@
  "cas.dev.studio.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.60.132.26",
+  "ip": "10.60.155.198",
   "live": true
  },
  "cas.mercor.com": {
@@ -860,7 +860,7 @@
  "cas.studio.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "52.13.210.32",
+  "ip": "184.34.205.39",
   "live": true
  },
  "catalog-agent.internal.api.mercor.com": {
@@ -878,13 +878,13 @@
  "central-code-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.188.30",
+  "ip": "10.6.118.153",
   "live": true
  },
  "central-code-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.176.39",
+  "ip": "10.1.159.218",
   "live": true
  },
  "clerk.data.mercor.com": {
@@ -902,7 +902,7 @@
  "coil.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.26.26",
+  "ip": "104.18.27.26",
   "live": true
  },
  "connect.nango.mercor.com": {
@@ -932,7 +932,7 @@
  "contracts-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.180.128",
+  "ip": "10.1.156.223",
   "live": true
  },
  "contracts.api.mercor.com": {
@@ -944,13 +944,13 @@
  "contracts.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.177.238",
+  "ip": "10.6.129.139",
   "live": true
  },
  "contracts.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.126.236",
+  "ip": "10.1.96.7",
   "live": true
  },
  "dagster-pipeline.aws.go.mercor.com": {
@@ -986,13 +986,13 @@
  "data-gateway.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.98.44",
+  "ip": "10.6.180.89",
   "live": true
  },
  "data-gateway.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.122.64",
+  "ip": "10.1.152.160",
   "live": true
  },
  "data.api.mercor.com": {
@@ -1022,7 +1022,7 @@
  "data.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "65.8.20.118",
+  "ip": "3.170.103.88",
   "live": true
  },
  "data.preprod.api.mercor.com": {
@@ -1046,25 +1046,25 @@
  "default-v2.stage.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.97.79",
+  "ip": "10.1.139.98",
   "live": true
  },
  "default.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.97.18",
+  "ip": "10.4.150.143",
   "live": true
  },
  "default.coil.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.139.141",
+  "ip": "10.4.121.164",
   "live": true
  },
  "default.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.138.181",
+  "ip": "10.4.98.215",
   "live": true
  },
  "default.preprod.api.mercor.com": {
@@ -1082,7 +1082,7 @@
  "default.preprod.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.140.208",
+  "ip": "10.6.146.183",
   "live": true
  },
  "default.stage.api.mercor.com": {
@@ -1094,7 +1094,7 @@
  "default.stage.coil.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.191.64",
+  "ip": "10.1.100.16",
   "live": true
  },
  "default.stage.go.mercor.com": {
@@ -1118,7 +1118,7 @@
  "demand-gen-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.101.132",
+  "ip": "10.6.185.89",
   "live": true
  },
  "demand-gen-coil.stage.api.mercor.com": {
@@ -1172,7 +1172,7 @@
  "dev.preview.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.3.115.244",
+  "ip": "10.3.181.60",
   "live": true
  },
  "dev.rl-envs.mercor.com": {
@@ -1184,7 +1184,7 @@
  "dev.studio.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "64.239.109.65",
+  "ip": "64.239.109.193",
   "live": true
  },
  "dev.team.mercor.com": {
@@ -1226,7 +1226,7 @@
  "docs.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "76.76.21.241",
+  "ip": "66.33.60.35",
   "live": true
  },
  "dp-2-env.preview.mercor-api.mercor.com": {
@@ -1304,7 +1304,7 @@
  "enterprise.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "32.194.23.194",
+  "ip": "44.214.191.229",
   "live": true
  },
  "enterprise.stage.coil.mercor.com": {
@@ -1328,13 +1328,13 @@
  "events.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "52.2.70.204",
+  "ip": "32.196.85.113",
   "live": true
  },
  "events.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.209.120.157",
+  "ip": "44.199.159.64",
   "live": true
  },
  "external.docs.mercor.com": {
@@ -1346,13 +1346,13 @@
  "fleet.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.88.206.241",
+  "ip": "98.87.184.84",
   "live": true
  },
  "fraud-coil.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.125.245",
+  "ip": "10.4.129.244",
   "live": true
  },
  "fraud-coil.preprod.api.mercor.com": {
@@ -1370,7 +1370,7 @@
  "fraud-mercor-api.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.112.48",
+  "ip": "10.4.148.223",
   "live": true
  },
  "fraud-mercor-api.preprod.api.mercor.com": {
@@ -1442,7 +1442,7 @@
  "growth-mercor-api.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.190.144",
+  "ip": "10.4.149.164",
   "live": true
  },
  "growth-mercor-api.preprod.api.mercor.com": {
@@ -1454,13 +1454,13 @@
  "growth-mercor-api.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.106.12",
+  "ip": "10.1.115.23",
   "live": true
  },
  "gws-mcp.internal.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.160.34",
+  "ip": "10.4.153.19",
   "live": true
  },
  "help.mercor.com": {
@@ -1490,19 +1490,19 @@
  "humandata.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "66.33.60.35",
+  "ip": "66.33.60.34",
   "live": true
  },
  "iam-service.aws.go.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.190.130",
+  "ip": "10.4.147.100",
   "live": true
  },
  "iam-service.preprod.go.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.6.126.26",
+  "ip": "10.6.182.30",
   "live": true
  },
  "iam-service.stage.go.mercor.com": {
@@ -1514,7 +1514,7 @@
  "idp-coil.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.144.252",
+  "ip": "10.4.97.99",
   "live": true
  },
  "idp-coil.preprod.api.mercor.com": {
@@ -1526,7 +1526,7 @@
  "idp-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.138.158",
+  "ip": "10.1.181.69",
   "live": true
  },
  "idp-mercor-api.api.mercor.com": {
@@ -1544,7 +1544,7 @@
  "idp-mercor-api.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.141.26",
+  "ip": "10.1.107.141",
   "live": true
  },
  "in.vpn.mercor.com": {
@@ -1562,7 +1562,7 @@
  "indigo.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.227.200.12",
+  "ip": "32.194.23.194",
   "live": true
  },
  "insightful-ss.aws.go.mercor.com": {
@@ -1592,31 +1592,31 @@
  "intelligence-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.138.112",
+  "ip": "10.6.120.207",
   "live": true
  },
  "intelligence-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.123.52",
+  "ip": "10.1.138.127",
   "live": true
  },
  "internal-api.data.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.17.129.1",
+  "ip": "10.17.223.83",
   "live": true
  },
  "internal.data.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.238.96.57",
+  "ip": "3.170.185.70",
   "live": true
  },
  "internal.docs.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "76.76.21.93",
+  "ip": "66.33.60.35",
   "live": true
  },
  "internal.enterprise.mercor.com": {
@@ -1634,13 +1634,13 @@
  "internal.preprod.data.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.155.173.33",
+  "ip": "52.85.12.117",
   "live": true
  },
  "internal.stage.data.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "65.8.20.107",
+  "ip": "13.32.205.51",
   "live": true
  },
  "interview-proxy.dev.api.mercor.com": {
@@ -1694,7 +1694,7 @@
  "learninghub.stage.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.149.13",
+  "ip": "10.1.116.97",
   "live": true
  },
  "link.mercor.com": {
@@ -1736,7 +1736,7 @@
  "litellm.dev.studio.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "litellm.studio.mercor.com": {
@@ -1874,19 +1874,19 @@
  "livekit.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "34.227.179.162",
+  "ip": "52.44.72.217",
   "live": true
  },
  "livekit.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "52.200.88.192",
+  "ip": "18.233.108.72",
   "live": true
  },
  "llm-api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.211.196.4",
+  "ip": "184.73.159.42",
   "live": true
  },
  "llm-gateway-anurag.dev.studio.mercor.com": {
@@ -1934,7 +1934,7 @@
  "mcp.novu.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.26.26",
+  "ip": "104.18.27.26",
   "live": true
  },
  "mercor-api.mercor.com": {
@@ -1970,7 +1970,7 @@
  "microsoft-office-plugin.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "65.8.20.39",
+  "ip": "3.168.40.74",
   "live": true
  },
  "ml-100-1-env.preview.mercor-api.mercor.com": {
@@ -2102,13 +2102,13 @@
  "modal-gateway.preprod.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "52.54.134.186",
+  "ip": "54.162.204.66",
   "live": true
  },
  "modal-gateway.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "52.201.27.112",
+  "ip": "52.86.182.199",
   "live": true
  },
  "monet.mercor.com": {
@@ -2144,7 +2144,7 @@
  "nango.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "nexus.internal.mercor.com": {
@@ -2156,7 +2156,7 @@
  "novu.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "184.33.173.187",
+  "ip": "52.10.4.205",
   "live": true
  },
  "office.demo.enterprise.mercor.com": {
@@ -2174,25 +2174,25 @@
  "oidc-discovery.enterprise.mercor.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "ip": "10.10.15.56",
+  "ip": "10.10.10.57",
   "live": true
  },
  "oidc-discovery.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.9.15.240",
+  "ip": "10.9.13.220",
   "live": true
  },
  "oidc.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.238.109.18",
+  "ip": "13.225.47.7",
   "live": true
  },
  "oidc.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.238.96.98",
+  "ip": "13.249.141.105",
   "live": true
  },
  "ovpn.mercor.com": {
@@ -2210,7 +2210,7 @@
  "partner.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "54.208.224.160",
+  "ip": "3.227.97.203",
   "live": true
  },
  "payments-coil.api.mercor.com": {
@@ -2252,7 +2252,7 @@
  "pic-gen.r2.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.27.26",
+  "ip": "104.18.26.26",
   "live": true
  },
  "poc.api.mercor.com": {
@@ -2282,7 +2282,7 @@
  "preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.190.161",
+  "ip": "10.6.118.126",
   "live": true
  },
  "preprod.coil.mercor.com": {
@@ -2306,7 +2306,7 @@
  "preprod.data.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "52.85.132.89",
+  "ip": "13.32.205.68",
   "live": true
  },
  "preprod.go.mercor.com": {
@@ -2348,13 +2348,13 @@
  "preprod.short.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.6.140.149",
+  "ip": "10.6.179.149",
   "live": true
  },
  "preprod.team.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.122.241",
+  "ip": "10.6.98.39",
   "live": true
  },
  "preprod.timely.api.mercor.com": {
@@ -2372,7 +2372,7 @@
  "preprod.work.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.129.212",
+  "ip": "10.6.159.77",
   "live": true
  },
  "preview-url.trial.mercor.com": {
@@ -2462,7 +2462,7 @@
  "project-engine.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.151.127",
+  "ip": "10.1.181.59",
   "live": true
  },
  "projects-coil.api.mercor.com": {
@@ -2486,7 +2486,7 @@
  "referrals-coil.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.97.100",
+  "ip": "10.4.153.249",
   "live": true
  },
  "referrals-coil.preprod.api.mercor.com": {
@@ -2498,7 +2498,7 @@
  "referrals-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.177.199",
+  "ip": "10.1.159.109",
   "live": true
  },
  "referrals-mercor-api.api.mercor.com": {
@@ -2510,19 +2510,19 @@
  "referrals-mercor-api.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.120.155",
+  "ip": "10.6.136.195",
   "live": true
  },
  "referrals-mercor-api.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.179.50",
+  "ip": "10.1.130.72",
   "live": true
  },
  "referrals.aws.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.187.49",
+  "ip": "10.4.135.208",
   "live": true
  },
  "referrals.preprod.go.mercor.com": {
@@ -2534,7 +2534,7 @@
  "referrals.stage.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.99.147",
+  "ip": "10.1.132.20",
   "live": true
  },
  "release.enterprise.mercor.com": {
@@ -2558,7 +2558,7 @@
  "riteka.llm-gateway.dev.studio.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.201.65.110",
+  "ip": "52.26.234.8",
   "live": true
  },
  "rl.envs.mercor.com": {
@@ -2576,7 +2576,7 @@
  "rlstudio.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "3.211.59.198",
+  "ip": "52.21.30.127",
   "live": true
  },
  "run.api.gateway.mercor.com": {
@@ -2594,7 +2594,7 @@
  "sftp.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "54.145.56.227",
+  "ip": "54.89.199.219",
   "live": true
  },
  "signin.demo.enterprise.mercor.com": {
@@ -2606,13 +2606,13 @@
  "signin.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "172.64.152.23",
+  "ip": "104.18.35.233",
   "live": true
  },
  "signin.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.35.233",
+  "ip": "172.64.152.23",
   "live": true
  },
  "sims.mercor.com": {
@@ -2636,7 +2636,7 @@
  "slack.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "18.207.233.205",
+  "ip": "52.1.218.178",
   "live": true
  },
  "sourcing-coil.api.mercor.com": {
@@ -2648,13 +2648,13 @@
  "sourcing-coil.preprod.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.6.179.148",
+  "ip": "10.6.139.6",
   "live": true
  },
  "sourcing-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.113.201",
+  "ip": "10.1.176.191",
   "live": true
  },
  "ssr.mercor.com": {
@@ -2708,7 +2708,7 @@
  "stage.data.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "65.8.20.83",
+  "ip": "3.167.183.81",
   "live": true
  },
  "stage.delivery-api.mercor.com": {
@@ -2726,7 +2726,7 @@
  "stage.enterprise.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.9.11.238",
+  "ip": "10.9.15.12",
   "live": true
  },
  "stage.es.mercor.com": {
@@ -2738,7 +2738,7 @@
  "stage.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.146.223",
+  "ip": "10.1.183.52",
   "live": true
  },
  "stage.indigo.mercor.com": {
@@ -2750,14 +2750,14 @@
  "stage.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.147.224",
+  "ip": "10.1.164.46",
   "live": true
  },
  "stage.partner.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.153.4",
-  "live": true
+  "ip": "",
+  "live": false
  },
  "stage.portal.warmloop.mercor.com": {
   "first_seen": "2026-10-06",
@@ -2804,7 +2804,7 @@
  "staging.atlas.mercor.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "ip": "10.19.72.34",
+  "ip": "10.19.32.104",
   "live": true
  },
  "staging.enterprise.mercor.com": {
@@ -2822,7 +2822,7 @@
  "staging.short.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.188.148",
+  "ip": "10.1.113.103",
   "live": true
  },
  "staging.team.mercor.com": {
@@ -2858,7 +2858,7 @@
  "studio-tutorial.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "66.33.60.129",
+  "ip": "66.33.60.194",
   "live": true
  },
  "studio.mercor.com": {
@@ -2876,7 +2876,7 @@
  "switchboard.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "64.239.109.65",
+  "ip": "64.239.109.1",
   "live": true
  },
  "t.mercor.com": {
@@ -2888,7 +2888,7 @@
  "talent-success-coil.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.129.197",
+  "ip": "10.4.107.34",
   "live": true
  },
  "talent-success-coil.preprod.api.mercor.com": {
@@ -2906,7 +2906,7 @@
  "talent-success.aws.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.4.128.207",
+  "ip": "10.4.190.220",
   "live": true
  },
  "talent-success.preprod.api.mercor.com": {
@@ -2918,13 +2918,13 @@
  "talent-success.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.155.63",
+  "ip": "10.1.187.86",
   "live": true
  },
  "talent.docs.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "76.76.21.22",
+  "ip": "66.33.60.67",
   "live": true
  },
  "talex-coil.api.mercor.com": {
@@ -2942,13 +2942,13 @@
  "talex-coil.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.150.154",
+  "ip": "10.1.135.152",
   "live": true
  },
  "talex-event-consumer.aws.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "54.211.129.35",
+  "ip": "34.231.115.224",
   "live": true
  },
  "talex-event-consumer.preprod.go.mercor.com": {
@@ -2960,13 +2960,13 @@
  "talex-event-consumer.stage.go.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.159.48",
+  "ip": "10.1.182.135",
   "live": true
  },
  "talex-mercor-api.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.4.136.30",
+  "ip": "10.4.154.149",
   "live": true
  },
  "talex-mercor-api.preprod.api.mercor.com": {
@@ -2978,7 +2978,7 @@
  "talex-mercor-api.stage.api.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "10.1.179.55",
+  "ip": "10.1.108.128",
   "live": true
  },
  "team-dashboard.preview.mercor-api.mercor.com": {
@@ -3002,7 +3002,7 @@
  "teams.stage.enterprise.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "50.17.47.89",
+  "ip": "3.209.96.10",
   "live": true
  },
  "telemetry-drain.mercor.com": {
@@ -3632,7 +3632,7 @@
  "vllm.studio.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "16.56.7.146",
+  "ip": "16.56.16.84",
   "live": true
  },
  "vpn.india.mercor.com": {
@@ -3692,7 +3692,7 @@
  "work.stage.api.mercor.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-17",
-  "ip": "10.1.137.197",
+  "ip": "10.1.131.35",
   "live": true
  },
  "work7.auth.mercor.com": {
@@ -4376,7 +4376,7 @@
  "www.work.mercor.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "ip": "104.18.26.26",
+  "ip": "104.18.27.26",
   "live": true
  },
  "www.wp-1332-env.preview.mercor-api.mercor.com": {
