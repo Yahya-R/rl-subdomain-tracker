@@ -28,7 +28,7 @@
   "sources": {
    "crtsh": 32,
    "certspotter": null,
-   "hackertarget": 38,
+   "hackertarget": 0,
    "subdomain_center": 7,
    "wayback": null,
    "rapiddns": 0,
@@ -44,7 +44,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-17T22:32",
+  "last_scan": "2026-10-18T05:06",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -349,9 +349,9 @@
  },
  "deeptune.ai": {
   "sources": {
-   "crtsh": 26,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 12,
+   "hackertarget": 0,
    "subdomain_center": 28,
    "wayback": 7,
    "rapiddns": 0,
@@ -367,9 +367,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-17T22:33",
+  "last_scan": "2026-10-18T05:06",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "crtsh"
   ]
  },
  "deeptune.com": {
@@ -877,9 +878,9 @@
  },
  "mercor.com": {
   "sources": {
-   "crtsh": 660,
-   "certspotter": 81,
-   "hackertarget": 51,
+   "crtsh": null,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 283,
    "wayback": 155,
    "rapiddns": 3,
@@ -895,8 +896,11 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-17T22:33",
-  "failed_sources": []
+  "last_scan": "2026-10-18T05:06",
+  "failed_sources": [
+   "certspotter",
+   "crtsh"
+  ]
  },
  "metaphi.ai": {
   "sources": {
@@ -925,7 +929,7 @@
   "sources": {
    "crtsh": 235,
    "certspotter": null,
-   "hackertarget": 51,
+   "hackertarget": 0,
    "subdomain_center": 146,
    "wayback": 54,
    "rapiddns": 1,
@@ -941,7 +945,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-17T22:30",
+  "last_scan": "2026-10-18T05:04",
   "failed_sources": [
    "certspotter"
   ]
