@@ -3,9 +3,9 @@
   "sources": {
    "crtsh": 22,
    "certspotter": null,
-   "hackertarget": 10,
+   "hackertarget": 0,
    "subdomain_center": 33,
-   "wayback": null,
+   "wayback": 12,
    "rapiddns": 1,
    "c99": 0
   },
@@ -19,10 +19,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:49",
+  "last_scan": "2026-10-18T18:55",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "afterquery.com": {
@@ -299,7 +298,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:47",
+  "last_scan": "2026-10-18T18:52",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -479,8 +478,8 @@
  "edotenv.com": {
   "sources": {
    "crtsh": 1,
-   "certspotter": 1,
-   "hackertarget": 1,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 0,
    "wayback": 1,
    "rapiddns": 0,
@@ -496,8 +495,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:49",
-  "failed_sources": []
+  "last_scan": "2026-10-18T18:56",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "emulated.so": {
   "sources": {
@@ -1030,9 +1031,9 @@
  },
  "pareto.ai": {
   "sources": {
-   "crtsh": null,
-   "certspotter": 59,
-   "hackertarget": 42,
+   "crtsh": 68,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 60,
    "wayback": 25,
    "rapiddns": 0,
@@ -1048,9 +1049,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:49",
+  "last_scan": "2026-10-18T18:54",
   "failed_sources": [
-   "crtsh"
+   "certspotter"
   ]
  },
  "parsewave.ai": {
@@ -1205,9 +1206,9 @@
  },
  "proximal.ai": {
   "sources": {
-   "crtsh": null,
-   "certspotter": null,
-   "hackertarget": 4,
+   "crtsh": 5,
+   "certspotter": 5,
+   "hackertarget": 5,
    "subdomain_center": 2,
    "wayback": 3,
    "rapiddns": 0,
@@ -1223,17 +1224,14 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:48",
-  "failed_sources": [
-   "certspotter",
-   "crtsh"
-  ]
+  "last_scan": "2026-10-18T18:53",
+  "failed_sources": []
  },
  "quesma.com": {
   "sources": {
-   "crtsh": null,
+   "crtsh": 14,
    "certspotter": null,
-   "hackertarget": 10,
+   "hackertarget": 0,
    "subdomain_center": 25,
    "wayback": 8,
    "rapiddns": 0,
@@ -1249,19 +1247,18 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:49",
+  "last_scan": "2026-10-18T18:55",
   "failed_sources": [
-   "certspotter",
-   "crtsh"
+   "certspotter"
   ]
  },
  "reasoncore.ai": {
   "sources": {
    "crtsh": 6,
    "certspotter": null,
-   "hackertarget": 4,
+   "hackertarget": 0,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1275,10 +1272,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T12:48",
+  "last_scan": "2026-10-18T18:53",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "refresh.dev": {
