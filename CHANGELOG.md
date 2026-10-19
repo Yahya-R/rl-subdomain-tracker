@@ -1,5 +1,13 @@
 # New subdomains
 
+## 2026-10-19
+
+### datacurve.ai
+- mira-pr-537.datacurve.ai (104.21.20.75)
+- polaris-e2e-a13eb70d-5a98-439f-a795-7970cea916cc.datacurve.ai (172.67.191.226)
+- pr-341.mira-machine.datacurve.ai (44.238.77.190)
+- pr-537.mira-machine.datacurve.ai (44.238.77.190)
+
 ## 2026-10-18
 
 ### datacurve.ai
