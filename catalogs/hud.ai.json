@@ -9,14 +9,14 @@
   {
    "host": "admin.beta.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D9e9d18cb9beb5a0b38028489b58ca7cbd9ba164ede994d8252d3859794b2d864",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D01158c82db39e0be281d812cbc85857615cbac0032ef3e491fb1504687b40cdc",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "admin.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3Dbdbd64450300550e187b95eb3c6f3ee5a57f531546377ddd384bce42e7a53b20",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3D0cf22be9f61c4d884d489b6df879c6693c72bf8b7f823f053ca2100cb2ce1257",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -27,7 +27,7 @@
   {
    "host": "admin.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3Dd6a15f0ea2f9e13fc08a890422ba764ac9e2c04354ea5246ee38547e4bed40fe",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3Dbe651372f4eee03db7d6f9212d0f591c19f307f5e242b81afaba40e5b934fabd",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -61,23 +61,18 @@
   {
    "host": "docs.hud.ai",
    "status": "ok",
-   "url": "https://docs.hud.ai/v6/start",
+   "url": "https://docs.hud.ai/platform/introduction",
    "title": "HUD Documentation - Evaluations and RL Environments.",
    "links": [
     {
-     "url": "https://docs.hud.ai/v6/guides/creating-an-environment",
-     "kind": "page",
-     "text": "Creating Environments"
-    },
-    {
-     "url": "https://docs.hud.ai/v6/guides/running-an-eval",
-     "kind": "page",
-     "text": "Evaluating Agents"
-    },
-    {
-     "url": "https://docs.hud.ai/v6/reference/environment",
+     "url": "https://docs.hud.ai/platform/environments",
      "kind": "page",
      "text": "Environments"
+    },
+    {
+     "url": "https://docs.hud.ai/platform/evaluations",
+     "kind": "page",
+     "text": "Evaluations"
     },
     {
      "url": "https://github.com/hud-evals/hud-python",
@@ -94,7 +89,7 @@
   {
    "host": "forge.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3D29e565e1986cfc03cd30d24558cf66a6688f4f7b07f674d2d0b60048587980d1",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3D0323be4789005f6d8c572ac73deba786b1c20c2455f29eb97d473791d485e3d1",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -133,7 +128,7 @@
   {
    "host": "staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3Dbb945031911c9a98dc615308f602c7cb6208593c1f6fa5ebfdb8d6e51083f7aa",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3D5271c50bef89f0b7abb640aa2bd9d524ef1157d65da23389b0ac00caf96c985e",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -152,7 +147,7 @@
   {
    "host": "toptal.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftoptal.staging.hud.ai%252F%26nonce%3D7dc41c74a592930133674f1764aa5f39f039e8cd895e807819fae0ff980945c6",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftoptal.staging.hud.ai%252F%26nonce%3D839e082aba87f947fe2ea662da95000c1e3ba548f9bbfb4d14e5d21b75fd401d",
    "title": "Login \u2013 Vercel",
    "links": []
   },

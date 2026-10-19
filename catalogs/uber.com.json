@@ -1,6 +1,6 @@
 {
  "domain": "uber.com",
- "live_hosts": 447,
+ "live_hosts": 588,
  "pages": [
   {
    "host": "15205598.uber.com",
@@ -16,7 +16,7 @@
   {
    "host": "academy.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=178be8da-7d62-4947-a172-92fd8de3e2a2&breeze_local_zone=dca23&next_url=https%3A%2F%2Facademy.uber.com%2F&sm_flow_id=VCth2CgS&state=HQUKrTsC4NAB65AcP9Spau-TPLbB_zwHj4Ak6AXefNM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7cbeb9a8-1f66-49f1-a2dc-54bbf2acff58&breeze_local_zone=phx51&next_url=https%3A%2F%2Facademy.uber.com%2F&sm_flow_id=0mHa36nU&state=z-za6kUqwC3IKlU1NVwjEowYyiXYNfutatL6S0Po4q0%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -32,30 +32,62 @@
    "links": []
   },
   {
+   "host": "account-avocado.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=99ecad85-d9d5-4ccd-aa25-b5a87c3e162e&breeze_local_zone=phx50&next_url=https%3A%2F%2Faccount-avocado.uber.com%2F&sm_flow_id=pN4IqxlT&state=dodOidNvgpp-NSesBmqHWtAssJlmBdeyNfO_HXHP40Y%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "account-critical.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=248c8349-9e08-453f-9744-2886d6482057&breeze_local_zone=phx51&next_url=https%3A%2F%2Faccount-critical.uber.com%2F&sm_flow_id=9Zh6rZrD&state=a6l7nyzMabwTe2eIps-ThWt1g2HEFDt-1cFpevoIdFA%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "account-g.uber.com",
+   "status": "ok",
+   "url": "https://weblogin.grab.com/passenger/login?auth_endpoint=https%3A%2F%2Fpartner-api.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fauthorize&browser=Unknown%3A0.0&client_id=8c7b27d66e1142d1aa4565b1f7156fdf&code_challenge=qk7Ic1ir87I2I-_L5B-1TsBE3J9xsd11PmUHeS3uuL4&code_challenge_method=S256&ctx_id=0a94848c9a7a47ce9696d73b5c79769e&device_type=Unknown&forwardedHost=partner-api.grab.com&gw=pgw&login_method=pax&redirect=https%3A%2F%2Fauth.uber.com%2Foauth%2Fbridge%2Fcallback&request_id=3bbcd2c3-2025-44e1-a9fc-5c03a77f4943&response_type=code&scope=mobile.datasharing.uber%20trust.riskdata&service_id=PASSENGER&state=23d42ceb421ee42a",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "account-ifood.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "account-sandbox.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=ea16aed4-558f-4883-a991-65771ab64469&breeze_local_zone=dca50&next_url=https%3A%2F%2Faccount-sandbox.uber.com%2F&sm_flow_id=i-natJtW&state=wa9sUyXcVYoD3aYfAVr7xJdvMbN0NMknx1QhfBejSaM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c70a44c0-d203-4105-b4cc-471ccfaecc4a&breeze_local_zone=phx50&next_url=https%3A%2F%2Faccount-sandbox.uber.com%2F&sm_flow_id=F0MxhmAC&state=wTeNC7q4QsX0XdGcX5pjqITF04wxJu-uKJK3hjmCGQA%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "account-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f66cf4f8-ed96-48a5-a1a8-54e01a5bc837&breeze_local_zone=dca51&next_url=https%3A%2F%2Faccount-staging.uber.com%2F&sm_flow_id=iI8aDay5&state=Z62GYpaAzcjnOm_7ZmJ8pWd1tK3u7IHST9Vo4N6K0zQ%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4f6c7f4f-408f-41df-934a-08484c321a9f&breeze_local_zone=phx50&next_url=https%3A%2F%2Faccount-staging.uber.com%2F&sm_flow_id=-XI1Xorq&state=cQI-VjZzHvypCW-LvoidUFKVlMHGD6vQ6NS-QM5vklM%3D",
    "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "account-wc.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/oauth/bridge?breeze_init_req_id=e682f6ad-0259-4ca9-82e1-c68f8d44453e&breeze_local_zone=phx52&next_url=https%3A%2F%2Faccount-wc.uber.com%2F&sm_flow_id=_8gShDWG&state=TH1lYijEJU1WsPw9y5WEujmP9QHNHk2YLAh7hWNKVOY%3D",
+   "title": "Uber",
    "links": []
   },
   {
    "host": "account.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0be58bae-7925-4015-8d37-8b364e190a4b&breeze_local_zone=dca22&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=pCS_Fjai&state=kqGY540c9CxJsgGeBZ08S1oPsIX1KQtvRWsJO3nYVlc%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=12381737-c730-42e6-a186-1649e88a71ad&breeze_local_zone=phx52&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=i0-jxp5W&state=fh_zXmuTyZ23oqOSVQbBMCbNoVqidPfhh1KOPAeJsDk%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "accounts.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=31db9f05-a830-486b-87b2-de91ff313779&breeze_local_zone=dca51&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=8MW-5Vw9&state=omy-5nlbv5otxYXPRenyFXvRKTE7L84BD5Rg1KHIhNA%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=d2299422-8bff-45bc-b5de-a26d8eb2163d&breeze_local_zone=phx52&next_url=https%3A%2F%2Faccount.uber.com%2F&sm_flow_id=RDfBj_S1&state=EZO_BFIZcuBs17VmEDJXc5raiK82v2GSG9uS2NySJJY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -68,9 +100,13 @@
    "status": "no response"
   },
   {
+   "host": "activedirectory.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "admin.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=93fb3e2c-b2b2-4dc0-96d1-81e8f50ab2fe&breeze_local_zone=dca51&next_url=https%3A%2F%2Fadmin.uber.com%2Fidentity%2F&sm_flow_id=q3AbInj0&state=316y8bXqBU2xV4fQJRtFiEC573nmc3iDnzCSrTuGKoE%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=20a7a849-fd1f-4828-a5be-355eae4bd339&breeze_local_zone=phx50&next_url=https%3A%2F%2Fadmin.uber.com%2Fidentity%2F&sm_flow_id=EX7dyIuU&state=fcWJ5sjlTy40-RmcLm7WmtYX6XXdC2UlYCsIkV0LIzc%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -108,9 +144,16 @@
    ]
   },
   {
+   "host": "advertiser-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f853b63e-4dcd-408b-a8e9-050c49011a97&breeze_local_zone=phx50&next_url=https%3A%2F%2Fadvertiser-staging.uber.com%2F&sm_flow_id=puGqwr-f&state=xrSH8xPpNYD8n3kS_OD-Es12vqNVjBjfZxqy_rsN7EE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "advertiser.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4e2debd7-72f1-4c24-a08a-bc35a4162d39&breeze_local_zone=dca52&next_url=https%3A%2F%2Fadvertiser.uber.com%2F&sm_flow_id=4joUlwNd&state=Rfsh6R3zxYZ1XBiKyQziv6Ws7Es63-U5zNH88PqRXP0%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fe484034-18ec-4609-be64-708c12ab2a5d&breeze_local_zone=phx52&next_url=https%3A%2F%2Fadvertiser.uber.com%2F&sm_flow_id=NQUga_tA&state=WSE6Twe-kKf6b9mK9l3sBwnCY-wtmzmPkrDacUn2vns%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -121,14 +164,14 @@
   {
    "host": "agent-protal-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=d2a8eebc-0cdd-44e0-9fef-70d00bd65ff7&breeze_local_zone=dca22&next_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&privileged_op_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&sm_flow_id=ynMtnKov&state=ZYDl4NaxqO7-2drRAHprh4FDO1pBqpNQu0Or-tyOcMM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=40a154a9-eba4-4b9d-a68d-edc361ac18cf&breeze_local_zone=phx50&next_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&privileged_op_url=https%3A%2F%2Fagent-protal-staging.uber.com%2F&sm_flow_id=VKUj5FBi&state=uPZoCklVhWBqDTdwBGvR_YA_idZaP7B8TgIKF33mVKI%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "aisolutions.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -154,7 +197,7 @@
   {
    "host": "amp.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -171,7 +214,10 @@
   },
   {
    "host": "anz-seniors-card.uber.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://anz-seniors-card.uber.com/",
+   "title": "Uber ANZ Seniors Card Promotionopen",
+   "links": []
   },
   {
    "host": "api-asterisk.uber.com",
@@ -191,6 +237,10 @@
    "url": "https://developer.uber.com/",
    "title": "Uber DevelopersThree linesSearch",
    "links": []
+  },
+  {
+   "host": "approvalservice.uber.com",
+   "status": "no response"
   },
   {
    "host": "appsec-analysis.uber.com",
@@ -249,6 +299,13 @@
    "links": []
   },
   {
+   "host": "auth3-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth3-staging.uber.com/",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "auth3.uber.com",
    "status": "ok",
    "url": "https://auth.uber.com/v2/?auth3_redirect=true",
@@ -258,6 +315,17 @@
   {
    "host": "authn-foo.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "autor.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "avocado.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=1ac54498-d83b-4417-a27d-ecfa0271e353&breeze_local_zone=phx50&next_url=https%3A%2F%2Favocado.uber.com%2F&sm_flow_id=AYsuS3w_&state=5erkrvx8a1t35vWNWqsDcFsLZf69G8QYR0vaitjUfXQ%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "backup.uber.com",
@@ -271,7 +339,15 @@
    "links": []
   },
   {
+   "host": "bastion.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "bb-dca1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "bb-sjc1.uber.com",
    "status": "no response"
   },
   {
@@ -289,7 +365,28 @@
   },
   {
    "host": "beta.uber.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://beta.uber.com/?city=san-francisco",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "bill-help.uber.com",
+   "status": "ok",
+   "url": "https://help.uber.com/riders/article/why-is-there-a-pending-charge-on-my-account-?nodeId=320f2eca-45b7-4b80-ae15-df7edc6d87b1",
+   "title": "Why is there a pending charge on my account? | Riders | Uber HelpX SmallChevron DownSearchFacebookTwitterYoutubeLinkedinInstagram",
+   "links": []
   },
   {
    "host": "billhelp.uber.com",
@@ -301,7 +398,7 @@
   {
    "host": "biz-beta.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8624d6d3-f0b7-4474-b612-875ecd4924b1&breeze_local_zone=dca50&next_url=https%3A%2F%2Fbiz-beta.uber.com%2F&sm_flow_id=HxD7TKOG&state=NcQFUCehfeKz2Jo9BpWXc7ljRxJY5AcvjK3JXS-Jgas%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=6302e887-959f-46dd-b934-61f0dc561fd1&breeze_local_zone=dca51&next_url=https%3A%2F%2Fbiz-beta.uber.com%2F&sm_flow_id=Is6LPBCx&state=kFEMabok2rM2cviFT9Qr80m0djyqOrD8FcaN084bBZA%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -335,6 +432,10 @@
    "status": "no response"
   },
   {
+   "host": "blackbird-staging.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "blackbird.uber.com",
    "status": "no response"
   },
@@ -358,6 +459,27 @@
    "status": "ok",
    "url": "https://www.uber.com/us/en/blog/",
    "title": "Uber's Latest News & Stories | Uber BlogopenopenlinkedinyoutubeinstagramtwitterGlobe",
+   "links": []
+  },
+  {
+   "host": "bonjour-dev.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c243b5cf-2f9b-4927-914c-ac5a10aa762a&breeze_local_zone=phx50&next_url=https%3A%2F%2Fbonjour-dev.uber.com%2F&sm_flow_id=85YpYj-k&state=l9O5dLAxOgdYoNpLi-NAo87V44NFb8-vyTyOyjGULLQ%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "bonjour-phx.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=bc8ff091-df75-4595-8caf-6fbf464ab836&breeze_local_zone=phx52&next_url=https%3A%2F%2Fbonjour-phx.uber.com%2F&sm_flow_id=LfY8hCrJ&state=uOi4sqXnzG4mvppP5g9PiKTxX4mp6dlf41m2MtfKQcM%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "bonjour-qa.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=57edf426-89ea-4eee-848e-a8631d658b11&breeze_local_zone=phx7&next_url=https%3A%2F%2Fbonjour-qa.uber.com%2F&sm_flow_id=c19p77sN&state=t-lSW4Bzo5yB1zv1zMYtSBMRIKRZ1xtq5KosTMem5wg%3D",
+   "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
@@ -387,22 +509,29 @@
   {
    "host": "business-beta.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=134ac38c-5e22-4e01-bc6e-db66a1411bc8&breeze_local_zone=dca51&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=vxDR02U1&state=QE9NvCjxbvyrChbfpAjjO1kgXODla4CawcKzNNA41Cs%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9ba332cf-3425-409f-9756-5cf1f596e175&breeze_local_zone=phx52&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=JaiXNdrM&state=uY7YdLAkeAxzELzwpukR0uJ4kYAYt_EIcsB03WIZlLo%3D",
+   "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "business-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a8082bee-bf99-497a-87e3-9f62e9f2bc43&breeze_local_zone=phx51&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=9TWhPx_0&state=srersKtb3MicxiO2panW1PVAeFEy5kkHkPYZXxeRJ-4%3D",
    "title": "Sign up or Log in with Uber",
    "links": []
   },
   {
    "host": "business.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=6d2a528b-b2ce-4f54-8c4d-862bb98eff91&breeze_local_zone=dca23&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=GCjFz17a&state=HeoerY1xPH_9d5woERCyX1a8Y3ztnpnHKA-Gn5loMuI%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fee913b7-96f2-471e-8038-aa3065543c26&breeze_local_zone=phx7&next_url=https%3A%2F%2Fbusiness.uber.com%2Fselect%2F&sm_flow_id=Qe8wfClC&state=IDFUFmDehx_qq7HzHt3Kmc_IWpMdAy7diRUCHEjqrow%3D",
    "title": "Sign up or Log in with Uber",
    "links": []
   },
   {
    "host": "businesses.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
-   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "url": "https://www.uber.com/?city=san-francisco",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron right smallChevron left smallChevron right smallCh",
    "links": [
     {
      "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
@@ -419,7 +548,7 @@
   {
    "host": "bz.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -435,9 +564,29 @@
    ]
   },
   {
+   "host": "call-prompts-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "call-prompts-static.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "call-prompts-v2.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "call-prompts.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "capability.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "car-rental-console.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=3f9eab3b-d5cb-4d48-99ea-984e7657ec01&breeze_local_zone=dca24&next_url=https%3A%2F%2Fcar-rental-console.uber.com%2F&sm_flow_id=3_J9Ie_n&state=1-3zxtxFT1c02ZSB-GI4TZ3bYUJ7O2z2r9jpfD_8JkY%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=444dd2bb-2309-425c-bf3c-1ed8713a603d&breeze_local_zone=phx50&next_url=https%3A%2F%2Fcar-rental-console.uber.com%2F&sm_flow_id=bq_mxQcb&state=wB79yalVQd9f6HvkU290YrKFdmIV7r6wc4HafqE7rmA%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -449,16 +598,30 @@
    "links": []
   },
   {
+   "host": "central-beta.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=884897e9-c165-474b-924b-39c339b36e51&breeze_local_zone=phx50&next_url=https%3A%2F%2Fcentral-beta.uber.com%2Fv2%2F&sm_flow_id=n_279_eb&state=oS7QHgi-C3ztEyVzqAfS44fpxmVI82FwGx41TLWV-v4%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "central.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a7121009-f861-4a01-b18a-56a28f8d278e&breeze_local_zone=dca52&next_url=https%3A%2F%2Fcentral.uber.com%2Fv2%2F&sm_flow_id=iFKyWHsY&state=GkcZ9zRVhB_5qVWESyokEj3XeryUKm_0DE9ouQV6R-Y%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=1b418f9c-0bc4-4f97-9775-5daab15a445a&breeze_local_zone=phx51&next_url=https%3A%2F%2Fcentral.uber.com%2Fv2%2F&sm_flow_id=_8sJf6wY&state=TVh4Vk9f1RjqSisO0BjM325oD3dLlvLiqe9qb0VFOBs%3D",
    "title": "Sign up or Log in with Uber",
+   "links": []
+  },
+  {
+   "host": "charter-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=49955df0-4749-4471-a4f5-96c7cbc11ce5&breeze_local_zone=phx52&next_url=https%3A%2F%2Fcharter-staging.uber.com%2F&sm_flow_id=VCX9xsMr&state=_NnrnnHDiQvPDeR8LjxDWJDWpes_yrGEV139uZDZEew%3D",
+   "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "chat-support.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=1d2278d0-a6e7-4df5-a4e6-a90cce403c32&breeze_local_zone=dca52&next_url=https%3A%2F%2Fchat-support.uber.com%2F&sm_flow_id=4Vm5g0cw&state=tcCYU4Z9TprOaAdaAUiEBqn24OwZ5TBaeyUvbOkH0FE%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=e88bc9e1-3179-4b4c-afae-5668ba9bdde6&breeze_local_zone=phx50&next_url=https%3A%2F%2Fchat-support.uber.com%2F&sm_flow_id=qosbLDK4&state=775-egdyHAmJNLkSgn6Mei5BW5yjiIjA4A56hrXtFtI%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -467,8 +630,23 @@
    "status": "no response"
   },
   {
+   "host": "ci-gateway.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "ci.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cisionone-email.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "claimsportal.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=56cd1cdb-b946-4b6f-b621-5d10b2d61711&breeze_local_zone=phx52&next_url=https%3A%2F%2Fclaimsportal.uber.com%2F&sm_flow_id=_-uSfteE&state=zi3-aiq8lo23Xh14IDyFAVWoPzR5ijue4tj_eqrns2g%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "click.et.uber.com",
@@ -481,14 +659,14 @@
   {
    "host": "client-scaledsolutions.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9a4217ce-6b68-4d56-a3a2-11112b4b6827&breeze_local_zone=dca23&next_url=https%3A%2F%2Fclient-scaledsolutions.uber.com%2F&sm_flow_id=ZF7_pmC7&state=uaLeEiwBsp2ICrPwLfc5_swUWHtlLUQa-7V3He6AXy8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c5498c7c-ff12-4cf9-8a7c-b797be24b9c5&breeze_local_zone=phx52&next_url=https%3A%2F%2Fclient-scaledsolutions.uber.com%2F&sm_flow_id=UqtobGaL&state=EcEzGzeK_gBVFE-hLPs2tUuns8v8T0AVlT_Uc9XPaX0%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "clients.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cff3ad2d-14c4-4e32-bece-82b3363365f6&breeze_local_zone=dca22&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=yFCGr3kM&state=TR-qOmbIm0IOGQ8iW9cTOf3uYT7iy4YTbqfnM8-VZ4A%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7929a26d-e182-4b6a-97f9-afc8c92d54b1&breeze_local_zone=dca70&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=AsYNt1RI&state=NK9IWzkm67iYNOBNB6dp_f1DmL20D0Qgze20qjtBJhM%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -504,6 +682,10 @@
    "status": "no response"
   },
   {
+   "host": "cloudflare-many-addresses.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cloudflare-weighted.uber.com",
    "status": "no response"
   },
@@ -512,7 +694,15 @@
    "status": "no response"
   },
   {
+   "host": "clusto.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-canary.cfe.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-cloudflare-staging.uber.com",
    "status": "no response"
   },
   {
@@ -528,13 +718,17 @@
    "status": "no response"
   },
   {
+   "host": "cn-dca1.cfe.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-dca1.uber.com",
    "status": "no response"
   },
   {
    "host": "cn-ecg-canary.cfe.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com:443/",
+   "url": "https://www.uber.com:443/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -550,9 +744,13 @@
    ]
   },
   {
+   "host": "cn-ecg-staging.cfe.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-ecg.cfe.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com:443/",
+   "url": "https://www.uber.com:443/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -588,6 +786,10 @@
    "status": "no response"
   },
   {
+   "host": "cn-phx2.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-sjc1.cfe.uber.com",
    "status": "no response"
   },
@@ -600,11 +802,27 @@
    "status": "no response"
   },
   {
+   "host": "cn-staging-geo1.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn-staging-phx2.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-staging-sjc1.uber.com",
    "status": "no response"
   },
   {
+   "host": "cn-staging-sjc4.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cn-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cn.cfe.uber.com",
    "status": "no response"
   },
   {
@@ -616,36 +834,48 @@
    "status": "no response"
   },
   {
+   "host": "cnc.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "comarketing.uber.com",
    "status": "robots.txt disallows"
   },
   {
    "host": "compliance-cdd-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=d473401e-20cc-4f38-9c05-7f51f3e39cea&breeze_local_zone=dca52&next_url=https%3A%2F%2Fcompliance-cdd-staging.uber.com%2F&sm_flow_id=Iysw9XGO&state=OKBqli_3cN-cEwA7nDDj2N0XRzLagEO-wFiUioT5zkY%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4d90ec78-5760-4bd1-8329-bd75d91b9ba0&breeze_local_zone=phx50&next_url=https%3A%2F%2Fcompliance-cdd-staging.uber.com%2F&sm_flow_id=qfKxavox&state=2lHCtl8VkJg-xDB1brVXcU1L9w-wxaPQti0LjAl7lcU%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "compliance-cdd.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=76d2cc40-fc47-4f97-82f4-390100a32179&breeze_local_zone=dca50&next_url=https%3A%2F%2Fcompliance-cdd.uber.com%2F&sm_flow_id=9gXMGX76&state=N06nPmVkb8pe2s2qfJ7HKJHen3pc_cCp8-2JXmtUumE%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cadaf7cb-7ad2-461f-80cd-d995e98f39db&breeze_local_zone=phx52&next_url=https%3A%2F%2Fcompliance-cdd.uber.com%2F&sm_flow_id=9jgGn4qQ&state=cDhUJklJ4yL9yAdV7S8IMqkSagIBQfwQrH7Sb0IKtHU%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "compliance-edd-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=215d4afa-7c3e-4f3f-8786-f2a9a863638a&breeze_local_zone=dca51&next_url=https%3A%2F%2Fcompliance-edd-staging.uber.com%2F&sm_flow_id=gKWG9zgE&state=dFz9WHm3errYE0RWa2lKkPTpBZ0h331qYQe9sROMcOg%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8aca42da-74cd-4d10-9cc3-9f069f43d9c5&breeze_local_zone=phx52&next_url=https%3A%2F%2Fcompliance-edd-staging.uber.com%2F&sm_flow_id=Nwn9z5Vg&state=G2Es8PjbRQsa8IXx9YTI6il2DOdetNlFY8AjeXvK7TA%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "compliance-edd.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=78754ee0-a123-4bf4-bff5-ca096f11a46e&breeze_local_zone=dca52&next_url=https%3A%2F%2Fcompliance-edd.uber.com%2F&sm_flow_id=VyN5tYWo&state=4_liY0n_yszhfzWgBW3yEsuGMltGcaC2cdGfoqmI9nU%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9c347626-6bf3-40d1-9c18-47b588d37144&breeze_local_zone=phx7&next_url=https%3A%2F%2Fcompliance-edd.uber.com%2F&sm_flow_id=t_n_Xq70&state=211Ve679545TMP3ksoQejQiigBxTI_4AC9_R-m_vmWY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
+  },
+  {
+   "host": "compliance-provider-platform.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "compute5098-dca1.prod.uber.com",
+   "status": "no response"
   },
   {
    "host": "conecta.uber.com",
@@ -658,7 +888,7 @@
   {
    "host": "corinforma.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -685,7 +915,15 @@
    "status": "no response"
   },
   {
+   "host": "cpg-api-4d9ce417.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "cpg-api-889255d8.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "cpg-api-b8dea5b2.uber.com",
    "status": "no response"
   },
   {
@@ -703,6 +941,13 @@
   {
    "host": "cpg-api-staging-ea1e19b9.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "credit-card-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cbfabaa9-accc-47e7-aeef-0a435ee96a62&breeze_local_zone=phx52&next_url=https%3A%2F%2Fcredit-card-staging.uber.com%2F&sm_flow_id=7z_7u5_M&state=WiISIt2MjGoTzjC7AJFzmqzwUhnWVamH3rLwC0lPD6g%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "csp.uber.com",
@@ -727,6 +972,10 @@
    ]
   },
   {
+   "host": "db-spares-base22-dca1.prod.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "dba.usuppliers.uber.com",
    "status": "no response"
   },
@@ -735,11 +984,27 @@
    "status": "no response"
   },
   {
+   "host": "dbspares-base81-dca1.prod.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "dc-dca.uber.com",
    "status": "no response"
   },
   {
+   "host": "dc-phx-staging.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "dc-phx.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "dclb01-dca1.prod.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "dclb01-sjc1.prod.uber.com",
    "status": "no response"
   },
   {
@@ -756,7 +1021,7 @@
   {
    "host": "def-staging.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -774,7 +1039,7 @@
   {
    "host": "def.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -791,11 +1056,43 @@
   },
   {
    "host": "delivery-beta.uber.com",
+   "status": "ok",
+   "url": "https://delivery-beta.uber.com/beta-auth",
+   "title": "Arrow launch",
+   "links": []
+  },
+  {
+   "host": "delivery-gpt-plugin.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "delivery.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "design.uber.com",
+   "status": "ok",
+   "url": "https://uber.design/",
+   "title": "Uber Design team",
+   "links": []
   },
   {
    "host": "devbuilds.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "developer-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=65f5b17b-af28-47f1-bcf7-bb6c442a6bca&breeze_local_zone=phx52&next_url=https%3A%2F%2Fdeveloper-staging.uber.com%2F&sm_flow_id=kaQ5HF8w&state=ILD59x4gU3yIa2iq9xr6pJjcVLxCRIgsBUwzHkfOO2o%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "developer.uber.com",
+   "status": "ok",
+   "url": "https://developer.uber.com/",
+   "title": "Uber DevelopersThree linesSearch",
+   "links": []
   },
   {
    "host": "developers.uber.com",
@@ -818,14 +1115,14 @@
   {
    "host": "direct-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=398cbdf6-17ae-45da-9b20-faa0454143d5&breeze_local_zone=dca70&next_url=https%3A%2F%2Fdirect-staging.uber.com%2F&sm_flow_id=O-3wsHlJ&state=hD1bt-bkt3hQ1XWnDF3c_B_cuMUIyIPHzV87R68dz68%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c176b512-9cf1-4509-ac4e-5cb51579f3d7&breeze_local_zone=phx52&next_url=https%3A%2F%2Fdirect-staging.uber.com%2F&sm_flow_id=VX7lVzUc&state=Ry3-PpuRK2YZib4O8Yf5f6m5SxF8uMo_v_ae38Jwr14%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "direct.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=99da1c1c-2185-422e-8b74-41d6770c31c4&breeze_local_zone=dca22&next_url=https%3A%2F%2Fdirect.uber.com%2F&sm_flow_id=UaZN3cbZ&state=hOHXIv_SNyCp7So1BV48nQtkpanMuGApX_zuUifdAxA%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9155e14c-ae9b-4982-bf36-566a3ef371e5&breeze_local_zone=phx51&next_url=https%3A%2F%2Fdirect.uber.com%2F&sm_flow_id=F8WLGImQ&state=56WWEnIMdc_qtB7wZnCtP4F7dLlWGTm8AV3E-agJj_Y%3D",
    "title": "Sign up or Log in with Uber",
    "links": []
   },
@@ -847,7 +1144,7 @@
   {
    "host": "drive.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/us/en/drive/",
+   "url": "https://www.uber.com/us/en/drive/?city=san-francisco",
    "title": "Drive with Uber: An Alternative to Traditional Driving Jobs | UberChevron downChevron down smallChevron left smallChevron right smallChevron left smal",
    "links": [
     {
@@ -858,9 +1155,16 @@
    ]
   },
   {
+   "host": "driver-crash-center-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=56d88d02-7a03-4f85-9d93-bf1b35aae2db&breeze_local_zone=phx51&next_url=https%3A%2F%2Fdriver-crash-center-staging.uber.com%2F&sm_flow_id=eefV4jHZ&state=Rz42m8RYKwnrRPBO1c9eQzbDhYWaWdXpEuZbj-_f-Jg%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "driver-crash-center.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fa1abcf3-7a31-4f40-bd02-7f63e15e2173&breeze_local_zone=dca51&next_url=https%3A%2F%2Fdriver-crash-center.uber.com%2F&sm_flow_id=N7VdgklE&state=2idkWaylMCP0yr-uaiZqM57Y3MfdIhzgKzdCVBtFCYg%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fdf0676f-4285-4afd-b63c-1b014c997ff2&breeze_local_zone=phx51&next_url=https%3A%2F%2Fdriver-crash-center.uber.com%2F&sm_flow_id=gVIvhyWz&state=QakOXYnTdeVRGX87_-Xzk4lA2Q5KrBWiN0adEIRRa90%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -869,6 +1173,13 @@
    "status": "ok",
    "url": "https://driver-trip-demo.uber.com/",
    "title": "Driver trip demo",
+   "links": []
+  },
+  {
+   "host": "driverinjuryprotection.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4b0e44a2-a136-48d3-ab88-47214805ebe1&breeze_local_zone=phx50&next_url=https%3A%2F%2Fdriverinjuryprotection.uber.com%2F&sm_flow_id=i86afuii&state=g-KQ_dxiJFa6JHR0Q7DGFo8zJh9G8xAR0OOfy_2ySyQ%3D",
+   "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
@@ -885,9 +1196,13 @@
   {
    "host": "eats-developer-tools.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7067e770-69ad-4e58-a72f-995735089b71&breeze_local_zone=dca22&next_url=https%3A%2F%2Feats-developer-tools.uber.com%2F&sm_flow_id=-wjS330c&state=38JUzTv4M9RzQSnbmmtSlerzxEWUvHR0LEmRzlRvCkE%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=679701e2-f8ae-434c-9ab9-1abc76b6b742&breeze_local_zone=phx7&next_url=https%3A%2F%2Feats-developer-tools.uber.com%2F&sm_flow_id=0qHvI-A6&state=zBc7VGPRsTmx7BpYMbOUJLIIiTKq06LuIYQmwg3VTQM%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
+  },
+  {
+   "host": "eats-gpt-plugin.uber.com",
+   "status": "no response"
   },
   {
    "host": "eats.uber.com",
@@ -907,9 +1222,20 @@
    "status": "no response"
   },
   {
+   "host": "ecsapi.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "edb-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0ffbbad4-daf7-4e1f-b379-1b919dbd2254&breeze_local_zone=phx8&next_url=https%3A%2F%2Fedb-staging.uber.com%2F&sm_flow_id=z8g7HpCN&state=g0Aioi3VGrRYgsP1F5TKWWvvk5GVt4ALgF2bBcDu8zQ%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "edb.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=27c14d5b-9343-4791-b393-08a24b5f3f21&breeze_local_zone=dca52&next_url=https%3A%2F%2Fedb.uber.com%2F&sm_flow_id=uRPIBcQi&state=IrUN7UDWER82iEfPOF3pk0MswLjy9RTFEX7olsWNPmQ%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=28760bb1-3077-43ff-aef4-9c483ff3afb5&breeze_local_zone=phx52&next_url=https%3A%2F%2Fedb.uber.com%2F&sm_flow_id=nDwJU5EK&state=yfBdFkHDtLxnbnr0D4BkJsC4TU5DkX1aVNsAXoN-zpY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -934,6 +1260,10 @@
    "status": "no response"
   },
   {
+   "host": "edgetest.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "email.mgi.uber.com",
    "status": "no response"
   },
@@ -947,6 +1277,14 @@
   },
   {
    "host": "email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "emergencyline01-uswest2.prod.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "emobility-comms.uber.com",
    "status": "no response"
   },
   {
@@ -1062,21 +1400,42 @@
   {
    "host": "epichealth-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=72bfc06a-a32d-4b5d-9e96-8334fe945e83&breeze_local_zone=dca52&next_url=https%3A%2F%2Fepichealth-staging.uber.com%2F&sm_flow_id=xsuDWYZb&state=wwCDFwXw6KVUJI2FpD_0QunBDQmM6bJe5du7mwRZYxw%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=88f35ae9-a957-4ffc-9ad0-f325d2fadfc9&breeze_local_zone=phx8&next_url=https%3A%2F%2Fepichealth-staging.uber.com%2F&sm_flow_id=mkucouox&state=KSWx8gApOg6ulJResjJ8LgcwSq99exZqiYoKl78qnCg%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "escuela.uber.com",
    "status": "ok",
-   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=YzYyOWM0YjczMDljYTIwZjBhMmUxOTBiMTdiMjRlNDM6UTdSOUYyUk9OOG9wMVk2bDorWUJ1U1RWOUpMTWczR25lc2dxbGt0R1YzTnlLVE43MzU2dXd6bThFVTh5amRCTTkxT09lMWI3VmlWQjF6eWNnV211LzFIWEdjWi9NM3RyVU9sT2w0RU8zNmNROEwzOHQvTng0bFhFZ1Z4WGdRMThEQXcwZGpzT1JnaW9kK2RSMzJYeXhsU0ZTeHlvQThpM0JmVzVvSGx2T3dMQ01iWmVJYU52TlNndUFqb3Q5dk1Yb2FrTk5IUmVxOWpmbzBCL05ROHZ1TndVTjFQbGh4eTdlWTdDZUV2ODFmb0ZPNFJhbjBBPT06aWwyaHIwWEU1QTYvdC9KbHZhS3o5QT09",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=ZTUyYzhhMzZiMTM1MmUxZTg5Y2I5YjlhNGYyNDJhZTY6bFN0NWcxU01VOHhHNjQ1WDpYcHVtZmppSmMrTnAxOFZCNVRCV004Z1c1RTZ5Rks0akZ2cDhuNDc5SmQzQ2VYZnhrU09YczlmM0xORmdWZy9Zd0w1ZUZsNUQ4b2taTDU4aGptejRMZnFTVDVKQVFLSk05aDl4NTQ2eEhXbDdweEZ3ZWtDcktPVmNTanRZb1ZCU3oxSHEvblBjQzVpYjlBSFNQTm1Rbm9UK2xlUFpYRWhJeHNUdnBJRUxBcjRwdDk3Y1J3SkpXS3M4a1cyTmpLanlmV0FDVlhzeFE4ekQvVCtnQnZBMkl3V2g5VXorTmhxNG9nPT06ZUx1dWkxajhDSTMrQnN0NUtpN0Q2dz09",
    "title": "",
+   "links": []
+  },
+  {
+   "host": "est.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=75efdc13-91c5-4c38-bc7f-49fbb3f88846&breeze_local_zone=dca52&next_url=https%3A%2F%2Fest.uber.com%2F&sm_flow_id=xS-fox8N&state=MlKhS6D0qGugt2Tq_Wc8GW4gHmtaZ6tO21sMCUaWC_M%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "evangelion-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b76a7cf4-feb6-4ebe-94e4-abb5be521c34&breeze_local_zone=phx50&next_url=https%3A%2F%2Fevangelion-staging.uber.com%2F&sm_flow_id=WIDq_rFm&state=6hsZ8YB4-KAHpNIBkAJx6Ie4bxFvaZVYxLPcxt7h7-k%3D",
+   "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "event.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=ace21644-01a7-4a6d-b74e-61d80cb8a2f1&breeze_local_zone=dca50&next_url=https%3A%2F%2Fevent.uber.com%2F&sm_flow_id=iDy8FJbc&state=aKy1q0JYdR-OXK9lFnOia63FwWeXSgSigFLgJ0aPJ70%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=51675e8c-f64c-4a0c-8455-4bccd99506a1&breeze_local_zone=dca23&next_url=https%3A%2F%2Fevent.uber.com%2F&sm_flow_id=bBcyeQTj&state=F7WgCAAJdkby5Voi2wxdUbB5YGYB_c12DyNmoEsZ6-I%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "events-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f283722e-47b5-4579-9878-e2692b2f374a&breeze_local_zone=phx52&next_url=https%3A%2F%2Fevents-staging.uber.com%2F&sm_flow_id=U8_X6v_4&state=kIdCclVJkzm7ZPiZPem-V8SrThWVei9YVhEjg6LUyJY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -1085,8 +1444,33 @@
    "status": "no response"
   },
   {
+   "host": "ewf-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "ewf.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/oauth/orchid/errors?breeze_init_req_id=2dd8af4b-da32-44bb-8fd4-cdc34ae1078a&breeze_local_zone=phx8&next_url=https%3A%2F%2Fewf.uber.com%2F&sm_flow_id=PdLJDw-T&state=bxF3dV0oI7sRrspmqYUKZrDQ2dba79quSf5lAcf73Ao%3D",
+   "title": "Auth",
+   "links": []
+  },
+  {
+   "host": "ewp.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=22011dfb-e5de-4a6a-b815-d0fb9a5ca973&breeze_local_zone=phx51&next_url=https%3A%2F%2Fewp.uber.com%2F&sm_flow_id=Ere1K7qn&state=YnsYXfVeJmM7F0X6vFJNP5TjPlpwg9L6GIwbfLcLh84%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "experience.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "explore-dev.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=ec72c951-c32b-4f76-92f2-ed56178abaad&breeze_local_zone=phx50&next_url=https%3A%2F%2Fexplore-dev.uber.com%2F&sm_flow_id=3SkuYY7W&state=Fj02kA7Z-lV0cYSIPJB8VG8j4HeezFacFUslxZJNEOU%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "explore-staging.uber.com",
@@ -1109,7 +1493,7 @@
   {
    "host": "explore.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -1160,7 +1544,7 @@
   {
    "host": "failover.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -1191,15 +1575,30 @@
    "status": "robots.txt disallows"
   },
   {
+   "host": "fleetmatch.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "fleets.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=75b5de82-4106-4318-96ff-a94d33c16ca5&breeze_local_zone=dca70&next_url=https%3A%2F%2Ffleethub.uber.com%2F&sm_flow_id=vpBCgjQU&state=F4N-do4zMAp-xHwG-HcQiyIbx3A0IS0hkyOaV8SC5vM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7d4f86c8-2262-4ee5-8d36-ed5fe26c1ec9&breeze_local_zone=phx51&next_url=https%3A%2F%2Ffleethub.uber.com%2F&sm_flow_id=SttPZjjn&state=pmoM8QPQKuYkrt4p6KyQrehK27ebB3W_Ek3c05GWu3M%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "floweco-staging.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "floweco.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "fly-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=5637cd37-8bff-4eb4-946f-b8a1dae22a6e&breeze_local_zone=phx51&next_url=https%3A%2F%2Ffly-staging.uber.com%2F&sm_flow_id=cSeyk8eZ&state=jNOiiL9KDaXDGVGebp2L17_TLTBTXfwtWogVx-sNy5A%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "fpbi8c1t.uber.com",
@@ -1238,6 +1637,10 @@
    "status": "no response"
   },
   {
+   "host": "freight-ops-lite-staging.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "freight-ops-lite.uber.com",
    "status": "no response"
   },
@@ -1251,30 +1654,48 @@
   {
    "host": "freight-procurement.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c6cb1044-186e-4e28-9c3b-f1aa975dd61e&breeze_local_zone=dca51&next_url=https%3A%2F%2Ffreight-procurement.uber.com%2F&sm_flow_id=EeD8pumi&state=OCotn4GqXkzkg_5MlCtfdPljPDEeGA9tCfM0Oe_Hh-U%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0710a3e2-1428-499f-bd7a-42eb8275dd9e&breeze_local_zone=phx52&next_url=https%3A%2F%2Ffreight-procurement.uber.com%2F&sm_flow_id=evSv2EwV&state=HQMHovK4s_lZbczvj7PEhhYWVjMExIjMp74uGMqmW4M%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "freight-support-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=24715fad-b84a-41d0-b25d-f924bf740e95&breeze_local_zone=dca50&next_url=https%3A%2F%2Ffreight-support-staging.uber.com%2F&sm_flow_id=0qcfUgf8&state=ktH8uqe5rqGFc8UsigWMavMpkYKIJzkqlPcDBjL6gI0%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f015cce6-fd7a-4d63-b4c4-ec272cf9a579&breeze_local_zone=phx50&next_url=https%3A%2F%2Ffreight-support-staging.uber.com%2F&sm_flow_id=0rM6s9y-&state=C45SSV7T0225dEmBrGZN2WsAujNKjh2RBGMeep47fSI%3D",
    "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "freight-support.uber.com",
+   "status": "ok",
+   "url": "https://freight-support.uber.com/",
+   "title": "",
    "links": []
   },
   {
    "host": "freightbonjour-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=6758c806-0175-4125-96d4-b353d8334205&breeze_local_zone=dca51&next_url=https%3A%2F%2Ffreightbonjour-staging.uber.com%2F&sm_flow_id=dqfNFsu6&state=2vBphHGudUBBkaNAlGHZpbY_PMSQp34VGiu8nvRpKuU%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=d314c2f2-9594-4582-8b66-666cacaba589&breeze_local_zone=phx52&next_url=https%3A%2F%2Ffreightbonjour-staging.uber.com%2F&sm_flow_id=oSR-5-mX&state=nZmIw1f75ZtdpWROS0ahoeXRn-JC2KqUE7DY8otqf5c%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "freightbonjour.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f2d439fb-d43e-45d8-829c-f951329b4928&breeze_local_zone=dca52&next_url=https%3A%2F%2Ffreightbonjour.uber.com%2F&sm_flow_id=bF9gERq7&state=AOS4xRzfX_ldRlwbyPLkE1A4WeRJifRYOoUuvphk7_M%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "freightcarrier-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=3a78e556-93e1-40bd-8cb9-37e104332646&breeze_local_zone=dca23&next_url=https%3A%2F%2Ffreightcarrier-staging.uber.com%2Ffreight%2Fcarriers%2Ffleet%2F&sm_flow_id=yxzlTU98&state=EqWyKglGTGqEOp5a2khwh-izMUxW-uIvNhiblba3NOA%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c4b99577-406d-42e5-9b6d-9ceefd0a7fa6&breeze_local_zone=phx52&next_url=https%3A%2F%2Ffreightcarrier-staging.uber.com%2Ffreight%2Fcarriers%2Ffleet%2F&sm_flow_id=nk1GcdUO&state=ZHZcObinwnLm_yTrWl4vY_KQ-YHW0Syp1QYf_NbzQGg%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
+  },
+  {
+   "host": "freightcarrier-testing.uber.com",
+   "status": "no response"
   },
   {
    "host": "freightembeddedanalytics.uber.com",
@@ -1287,7 +1708,7 @@
   {
    "host": "fresh.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -1323,6 +1744,10 @@
    "status": "no response"
   },
   {
+   "host": "frontends-gcp-cloudflare-verification.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "frontends-geo.uber.com",
    "status": "no response"
   },
@@ -1352,7 +1777,7 @@
   {
    "host": "g.uber.com",
    "status": "ok",
-   "url": "https://weblogin.grab.com/passenger/login?auth_endpoint=https%3A%2F%2Fpartner-api.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fauthorize&browser=Unknown%3A0.0&client_id=8c7b27d66e1142d1aa4565b1f7156fdf&code_challenge=vSf7H1IqX0TPZbso2xAW2l5VM3Lb7T7svcOlA9WKpyk&code_challenge_method=S256&ctx_id=f7923388ba2141afb9851a8ae012b6be&device_type=Unknown&forwardedHost=partner-api.grab.com&gw=pgw&login_method=pax&redirect=https%3A%2F%2Fauth.uber.com%2Foauth%2Fbridge%2Fcallback&request_id=521e8cff-c8ff-4e66-a3ff-541ba23626c3&response_type=code&scope=mobile.datasharing.uber%20trust.riskdata&service_id=PASSENGER&state=85a8954533faa541",
+   "url": "https://weblogin.grab.com/passenger/login?auth_endpoint=https%3A%2F%2Fpartner-api.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fauthorize&browser=Unknown%3A0.0&client_id=8c7b27d66e1142d1aa4565b1f7156fdf&code_challenge=eZpmtE94DA23tlVuwRmSkY2lI7QYZ6Z-Zz1NK5cmGEM&code_challenge_method=S256&ctx_id=e2c2db6098434415bb74c86c7305bcc8&device_type=Unknown&forwardedHost=partner-api.grab.com&gw=pgw&login_method=pax&redirect=https%3A%2F%2Fauth.uber.com%2Foauth%2Fbridge%2Fcallback&request_id=19ce6c02-c471-4fc2-ad16-3db6250df102&response_type=code&scope=mobile.datasharing.uber%20trust.riskdata&service_id=PASSENGER&state=61bd0e7b5468ff81",
    "title": "",
    "links": []
   },
@@ -1380,8 +1805,37 @@
    "links": []
   },
   {
+   "host": "getmatched-staging.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "getmatched.uber.com",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "getrush.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/?city=san-francisco",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
+   "host": "gifts-staging.uber.com",
+   "status": "ok",
+   "url": "https://gifts-staging.uber.com/",
+   "title": "Uber - Gift CardsRightRightDown SmallDown SmallDown SmallDown SmallDown SmallDown SmallDown Small",
+   "links": []
   },
   {
    "host": "gifts.uber.com",
@@ -1409,6 +1863,13 @@
    "status": "no response"
   },
   {
+   "host": "go.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/go/home",
+   "title": "Request a Ride with Uber",
+   "links": []
+  },
+  {
    "host": "googlefffffffffbdedc85.uber.com",
    "status": "no response"
   },
@@ -1419,7 +1880,7 @@
   {
    "host": "groups.uber.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://groups.google.com/my-groups&followup=https://groups.google.com/my-groups&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-351856751:1791821219992032",
+   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://groups.google.com/my-groups&followup=https://groups.google.com/my-groups&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-734172117:1792418402041203",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -1430,56 +1891,56 @@
   {
    "host": "guest.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9ae19487-6f38-4238-857e-ce9deeb4326b&breeze_local_zone=dca23&next_url=https%3A%2F%2Fguest.uber.com%2F&sm_flow_id=lrL8Eu1E&state=eui25t5VTyaqDO4dwLkH5s0fNBKgR3D4k5mRmusQ2Y8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=843049a5-3ecc-461a-bc30-c5818a2d35d5&breeze_local_zone=dca22&next_url=https%3A%2F%2Fguest.uber.com%2F&sm_flow_id=Ypvz4Bk7&state=mwkRdPGh_L14RNh_FnHzGsMId6WUtwmdPQkM2U8O49U%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "guestpasses.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c7db99b1-bce4-4f31-95b9-dd066dd71875&breeze_local_zone=dca50&next_url=https%3A%2F%2Fguestpasses.uber.com%2F&sm_flow_id=AA5PM8ow&state=x726_2yf-lXnsf6rGOn-q1afVAOXtVUWYkSU3SFVubI%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9240fa35-ab20-41e6-af50-0a6cce525d6d&breeze_local_zone=dca24&next_url=https%3A%2F%2Fguestpasses.uber.com%2F&sm_flow_id=dMtHajie&state=ycM1cRyjPF9qC1EVm2Agp3y6JHp1bTcKBd3Om1iu29o%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "hcv-supplier.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=6cafc8b9-de15-47c8-995a-057d9b08e55a&breeze_local_zone=dca70&next_url=https%3A%2F%2Fhcv-supplier.uber.com%2F&sm_flow_id=TeZBAnnL&state=2W9SZLtkqEMKDYizt7ZBM89scCFeKUK8GVjxil9Bwb8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=12d7f66e-84df-456c-85af-8d06aa4ee718&breeze_local_zone=phx7&next_url=https%3A%2F%2Fhcv-supplier.uber.com%2F&sm_flow_id=-B0--5MX&state=lJEg52_xzNX28JfrL5x2TDoOAVgPelTPz1VnBgYA-hk%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "health-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a07dbdff-3b2a-4c82-a738-57fe81134b8c&breeze_local_zone=dca52&next_url=https%3A%2F%2Fhealth-staging.uber.com%2Fv2%2F&sm_flow_id=Jr32UUcn&state=yUoD36WAAvAiTWH0A3skrmDIVV0IBdrv-EP-VuecFaY%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=2cbf9829-d7fc-4104-9bff-f3b02ea380b4&breeze_local_zone=phx52&next_url=https%3A%2F%2Fhealth-staging.uber.com%2Fv2%2F&sm_flow_id=9E8FH2Da&state=OZI_bNVN5h1kperMY3xmOIvLKhr2QZp2Hj7Orx7t7I4%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "health.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=1b7002f2-bf7f-4966-b98f-19861d4c960a&breeze_local_zone=dca50&next_url=https%3A%2F%2Fhealth.uber.com%2Fv2%2F&sm_flow_id=DcYewiLS&state=xV77Rr60MCJ9sM4lk4u9jCO17H4kfjXSQXPGDwkQ_TQ%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=ff6572f4-206d-468d-8e3b-d327fbc77385&breeze_local_zone=phx50&next_url=https%3A%2F%2Fhealth.uber.com%2Fv2%2F&sm_flow_id=mJ8cyBGV&state=7_7jkpJQot3jXieKR2bSxXWcPrFJEdRVL1guuBE4GOw%3D",
    "title": "Sign up or Log in with Uber",
    "links": []
   },
   {
    "host": "helix-go-webview-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c3c5e012-a305-4d78-ba3f-88de0251db05&breeze_local_zone=dca50&next_url=https%3A%2F%2Fhelix-go-webview-staging.uber.com%2Fgo%2F&sm_flow_id=lAANNBVf&state=CXtJeS7XsPVRMjC5fpiW1DUXf4RvvMY92AowMOg7UW4%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c0231b7f-e843-4a9a-9c65-9f4bbb477f36&breeze_local_zone=phx52&next_url=https%3A%2F%2Fhelix-go-webview-staging.uber.com%2Fgo%2F&sm_flow_id=n7Y7AwN0&state=kWB6W-Evx67avQOsySKauz-Xcp0HrS-uaUFO-rH9uf8%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "helix-go-webview.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7c67f085-bea1-4054-b0bd-3ee808695994&breeze_local_zone=dca22&next_url=https%3A%2F%2Fhelix-go-webview.uber.com%2Fgo%2F&sm_flow_id=EJ5Qm2Me&state=KU5by0HeEogZjcvgLIP3V2fvff3pMp9y4YkfHQzRPVk%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=83337fd7-4ed5-4e80-8c3e-a8880dd8b639&breeze_local_zone=phx7&next_url=https%3A%2F%2Fhelix-go-webview.uber.com%2Fgo%2F&sm_flow_id=1Si_1Ho4&state=yQL_vMr9hW6B2oc2kxDMLru3ju-XbRRe7CEpUiwftBM%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "help-orchid.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/oauth/orchid/errors?breeze_init_req_id=8b76f0e1-8334-4f45-9b9a-b2ff7172f199&breeze_local_zone=dca52&next_url=https%3A%2F%2Fhelp-orchid.uber.com%2F&sm_flow_id=FMp2LrYO&state=LqaBWas0yDJVoql449fJ1fH-qn6-iA04IxwUNs2YKXo%3D",
+   "url": "https://auth.uber.com/oauth/orchid/errors?breeze_init_req_id=35bfc4a0-8022-464a-bddc-58b0a6ba850d&breeze_local_zone=phx51&next_url=https%3A%2F%2Fhelp-orchid.uber.com%2F&sm_flow_id=glIEjx7w&state=hbpqH-GzA_luD3B5hfHxUfuKT-7p5zbSYUnSJQOFAsM%3D",
    "title": "Auth",
    "links": []
   },
@@ -1500,7 +1961,7 @@
   {
    "host": "hero.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=63cb9d3c-f98a-46e7-92bf-fad440090cd9&breeze_local_zone=dca50&next_url=https%3A%2F%2Ffleethub.uber.com%2F%2F&sm_flow_id=fT9HliUe&state=qea3gENcQ7ayO4sT7dnDwiT1cvTM_Zg2qyIDezxgXfc%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=93a304f6-f080-44eb-8307-528c0ff1cd96&breeze_local_zone=phx7&next_url=https%3A%2F%2Ffleethub.uber.com%2F%2F&sm_flow_id=YpG_RxxG&state=fZmXqibGZxNy8Vn-xOQPgl45GhGRU6FVi2inJqKIF5o%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -1548,7 +2009,7 @@
   {
    "host": "incentives.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=d3f90433-d69c-49f3-84b4-e500fb50d6c3&breeze_local_zone=dca70&next_url=https%3A%2F%2Fincentives.uber.com%2F&sm_flow_id=aHw9Xpi3&state=0wCsyQI4u_5Y9jyEk0IGZNW4Ckytd_inh0Xx5XA_jlY%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=68773bc4-b16e-4b18-99ec-2838d7172660&breeze_local_zone=phx7&next_url=https%3A%2F%2Fincentives.uber.com%2F&sm_flow_id=-YBpl9po&state=KvVTv7OdV83gmHydUg5BlFa3diJOzTIuJPmSPM_1Y-8%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -1567,7 +2028,7 @@
   {
    "host": "inquiries-auth.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=995845c1-dc1d-42a0-9441-c8f80a6b71f9&breeze_local_zone=dca22&next_url=https%3A%2F%2Finquiries-auth.uber.com%2F&sm_flow_id=Ni5XRZYf&state=CUvkdgX23cJR3iTZBTp9uquERPw30qQt9rbbcVrcqJM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a2819c1d-d4af-49a0-ab60-674d771a0ed4&breeze_local_zone=phx50&next_url=https%3A%2F%2Finquiries-auth.uber.com%2F&sm_flow_id=_fDcNH4Q&state=jBYC7I3982ZI3TuuIteOXvs6U2N-sJxLrl8XRU8P5NQ%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -1577,6 +2038,14 @@
    "url": "https://inquiries.uber.com/",
    "title": "Third party incident noticeMenu",
    "links": []
+  },
+  {
+   "host": "integrations.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "interuss-az.uber.com",
+   "status": "no response"
   },
   {
    "host": "interuss-dss.uber.com",
@@ -2226,8 +2695,19 @@
    "status": "no response"
   },
   {
+   "host": "ldap.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "ldapro.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "learn.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7286f869-c139-482c-91b5-15d553610c3d&breeze_local_zone=phx8&next_url=https%3A%2F%2Flearn.uber.com%2F&sm_flow_id=3EQ8HEN1&state=bY-olGfKG0v4OB7Cy1cJOMxxE-hR9GOhuTPlm3PHRtE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "lert.uber.com",
@@ -2245,6 +2725,10 @@
    "status": "no response"
   },
   {
+   "host": "login.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "logorama.uber.com",
    "status": "no response"
   },
@@ -2259,8 +2743,15 @@
   {
    "host": "lost.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a421608e-e6f1-47cd-a5d5-1699aeb42df6&breeze_local_zone=dca22&next_url=https%3A%2F%2Friders.uber.com%2Flost&sm_flow_id=iwVWJQLu&state=yUjzQaE7cWqq4ARIn4JFQLETCZYPob4IjCpL7I-urik%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b280f83b-61a5-49d3-9c00-32e8c5c13f4e&breeze_local_zone=dca51&next_url=https%3A%2F%2Friders.uber.com%2Flost&sm_flow_id=E--ndRbn&state=DmU8UpUZB8U31vrv8pjTJUsdIuPJ2z1mbWmbc2GKkVg%3D",
    "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "m-staging.uber.com",
+   "status": "ok",
+   "url": "https://m-staging.uber.com/go/home",
+   "title": "Request a Ride with Uber",
    "links": []
   },
   {
@@ -2273,7 +2764,7 @@
   {
    "host": "m2.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7f2fa510-2935-499d-8204-b0a39b7c8e88&breeze_local_zone=dca24&next_url=https%3A%2F%2Fhelix-go-webview.uber.com%2Fgo%2Fhome%3Fredirect_referer%3Dm2.uber.com%252F&sm_flow_id=Z4NeUWlD&state=n4jIkcwCfVAp9OMHmtddQwsXaBmN7HewhIEmUEpGugc%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c43223fd-7e62-4206-9b77-33d8561acdbc&breeze_local_zone=phx7&next_url=https%3A%2F%2Fhelix-go-webview.uber.com%2Fgo%2Fhome%3Fredirect_referer%3Dm2.uber.com%252F&sm_flow_id=R7RaN9jz&state=Ca4bOYOpbruTv-dbxmNOi8vZH0zzvNQnAMvmhrehMUE%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -2299,40 +2790,9 @@
   {
    "host": "marketplace.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/us/en/marketplace/",
-   "title": "Marketplace | UberChevron downChevron down smallPlayer playChevron left smallChevron right smallChevron left smallChevron right smallChevron left smal",
-   "links": [
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/",
-     "kind": "page",
-     "text": "Pricing"
-    },
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/driver-promotions/",
-     "kind": "page",
-     "text": "Driver promotions"
-    },
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/route-based-pricing/",
-     "kind": "page",
-     "text": "Route-based pricing"
-    },
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/service-fee/",
-     "kind": "page",
-     "text": "Uber service fee"
-    },
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/surge-pricing/",
-     "kind": "page",
-     "text": "Surge pricing"
-    },
-    {
-     "url": "https://www.uber.com/us/en/marketplace/pricing/upfront-pricing/",
-     "kind": "page",
-     "text": "Upfront pricing"
-    }
-   ]
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=YzhhYWI5YTA3NzRhZWY4OTg5M2Q2MWE2ZmQ3ZWRiZGE6V3QvaUY3VHdlR2txU2ExTzovMjdHMkpMeHh3NVVjWDVhOHlJdC85UFBOTnNNSUpFeEVnc0xFc0FnVTBTWDBUSDBhRHI4UFM5bUJUZkppVUdxcDlZekNPZW1VUFJEdjJ4Y05VWlFRNldZQTljRUlnVlJ6OHR2d2JzWHZoMDB3U29tNW91S1ZyQ1BDRkIwL3hQV3lVQWNzaGZWS0tVQ2tFeGUrTEFpZWlKNEJ3R1FGSGNsMFJzOElxOVpjMXljWmdDLzVaOERyZ0EzSGJRdVNIbitQcTBJZUtBb0F5eHQ1ckRwZXBuTWZoVFphdTFkTHZyL1M4Z25zWHY1eFJsRmRraHpEUT09Okp0VldFWmJnajZia1ZGY2wrS0tSR0E9PQ%3D%3D",
+   "title": "",
+   "links": []
   },
   {
    "host": "merchants.uber.com",
@@ -2350,7 +2810,7 @@
   {
    "host": "messages.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=2aa76595-141f-4877-9bbb-66fbbad7d17e&breeze_local_zone=dca51&next_url=https%3A%2F%2Fmessages.uber.com%2F&sm_flow_id=2_CpafWa&state=xx-8Mn3ZpS_qUBzXVuQI72EaqfEauNQLaIyUZOpuFK0%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a3d49c3f-1cb2-4023-aa35-c6f278c3b8e7&breeze_local_zone=phx50&next_url=https%3A%2F%2Fmessages.uber.com%2F&sm_flow_id=PudAQRRi&state=DBbUBbC1AD2VR2qezvg5r8iTQk9yJamdbUNHRL4YWnw%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -2365,16 +2825,20 @@
   {
    "host": "movement-preprod.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=e2d79e16-1013-4c0e-bbde-6a744cc8ef53&breeze_local_zone=dca23&next_url=https%3A%2F%2Fmovement-preprod.uber.com%2F&sm_flow_id=63sjXouD&state=9e4wiefyUzzGFNeMBKVsDXCp-I-CCaXdx__JDkxQEqw%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0a41ccd6-0096-45b2-b050-308a26af92a5&breeze_local_zone=phx52&next_url=https%3A%2F%2Fmovement-preprod.uber.com%2F&sm_flow_id=-QN1cVJN&state=MmJWvo-PDdh_jQMsXHF9sTvFyhKmkRvH77SZq0-_msU%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "movement.uber.com",
    "status": "ok",
-   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=YTZiYjRmYzY5MDhmOTc1YWMyY2E5MWU0Njg3ZmViYjM6WmJiUW93Z3QrZUp2L1QrUzpaNTFUcG5NdjdYTVJiL0pXcTBtZXdWVEQrR25yZE1IZjMvNm5LM1libkZ4aGZTTFdZSWdOaEI4U2pZNkJYMFVZMjYwSzFub0dRVUxvem5CRFFxWUVPK1ZjYUR4V2ZqZlg5ek1nZE1tY041anZXK2hJRmtldUR0MFNlM0NNMndjOGhCWTZobENISDJFb0FyK241ZGxMZ3RDdGkxZkRvL09VeEJJa1J4cFFDaEY2aElyN285VFc1NzcyRWREdWFmU1UrUW4rZTltMnZhc05GazJUQUpUazJnMlc1TXFieTU2RFhrLy9nV3drR2JMV0MydkJYWk9GKzZ4WjFuRytFMXpVOjdYZzFxQ09yMkRZckg1ZC9MRmdBMVE9PQ%3D%3D",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=MjI5MTlhMzNmNmJhOGRiN2QyODUzODMyZjY0Y2VhMTU6OUgzeVp4cUNvV1BLYysybTpmMWpLZ0dWU0N4alJKYTZTR09qYVY5d0hGclZjZGl2QUw2ZmREeS9ZSnBtekwreWZlRThjdmtnUzNnYXhkZzRMd2pvaG9SWEZpWHQ1VDRQSGpHVTYvVVB3VzZZUWd1Zjh3TDNQdDNMMWQreXBkNGg2T3BZbXRTdm00elVRN2U0OUJBRUV0Rk9idStPSGMyT1psc2lTOHFWSTQwQ3hVemNmam92T0lORXk1bFhwZ2tMZUh4RzQvRDRPOTNLdGYzcXRTeEZyZFJMOGZyVmV1bzVqTy84N3pBQStjR0lkR01OajYva1EydENuTi9xVVhmTklOcjUyL1gwMm9kYXhPU3hlOnlvMjNvWGczcGdKL1ZLeWRvNDB0bVE9PQ%3D%3D",
    "title": "",
    "links": []
+  },
+  {
+   "host": "mta11.et.uber.com",
+   "status": "no response"
   },
   {
    "host": "mta12.et.uber.com",
@@ -2409,7 +2873,15 @@
    "status": "no response"
   },
   {
+   "host": "mta22.et.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "mta23.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta24.et.uber.com",
    "status": "no response"
   },
   {
@@ -2425,7 +2897,23 @@
    "status": "no response"
   },
   {
+   "host": "mta28.et.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "mta3.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta30.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta31.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta32.et.uber.com",
    "status": "no response"
   },
   {
@@ -2437,7 +2925,15 @@
    "status": "no response"
   },
   {
+   "host": "mta6.et.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "mta7.et.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "mta8.et.uber.com",
    "status": "no response"
   },
   {
@@ -2447,7 +2943,7 @@
   {
    "host": "myprivacy.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -2476,6 +2972,10 @@
    ]
   },
   {
+   "host": "noemail.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "notifier.uber.com",
    "status": "no response"
   },
@@ -2485,6 +2985,10 @@
   },
   {
    "host": "o.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "o10.email.uber.com",
    "status": "no response"
   },
   {
@@ -2528,11 +3032,23 @@
    "status": "no response"
   },
   {
+   "host": "o20.email.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "o21.email.uber.com",
    "status": "no response"
   },
   {
+   "host": "o22.email.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "o23.email.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "o24.email.uber.com",
    "status": "no response"
   },
   {
@@ -2556,6 +3072,10 @@
    "status": "no response"
   },
   {
+   "host": "o30.email.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "o31.email.uber.com",
    "status": "no response"
   },
@@ -2572,10 +3092,14 @@
    "status": "no response"
   },
   {
+   "host": "onboarding.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "org.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
-   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "url": "https://www.uber.com/?city=san-francisco",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron right smallChevron left smallChevron right smallCh",
    "links": [
     {
      "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
@@ -2597,6 +3121,17 @@
    "links": []
   },
   {
+   "host": "p2.uber.com",
+   "status": "robots.txt disallows"
+  },
+  {
+   "host": "p3.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=995ac9c8-422e-4a02-a639-a79d16b61036&breeze_local_zone=phx51&next_url=https%3A%2F%2Fp3.uber.com%2F&sm_flow_id=8djmAk8Q&state=GEtL7V6cBPIW-zGxcT6LPmhTYVX3vvJHiWKlrEncivE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "pac.uber.com",
    "status": "ok",
    "url": "https://pac.uber.com/sso/?relay_state_url=https%3A%2F%2Fpac.uber.com",
@@ -2610,16 +3145,27 @@
   {
    "host": "parking-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=3ac1c524-81fd-4fd0-94c9-8540a5713273&breeze_local_zone=dca23&next_url=https%3A%2F%2Fparking-staging.uber.com%2F&sm_flow_id=1mFc-ZKV&state=efnts40ukgqAPbVLckuKROA9eFS2idm2vZMEVnOfJX4%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0865a40b-6f72-478d-9819-2edde2d6b625&breeze_local_zone=phx8&next_url=https%3A%2F%2Fparking-staging.uber.com%2F&sm_flow_id=sdQS0HBB&state=bzaBNAG5QqGqFWDNt-S-MoO6i8x6jTOhZtvY-U7ezG4%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "partner.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=5e7192f8-b1d5-4d6a-b8a6-351452f46622&breeze_local_zone=phx50&next_url=https%3A%2F%2Fdrivers.uber.com%2F&sm_flow_id=-h5gq-hg&state=2Y8IkkC-0FT9stqjJuIXS_d54sEBiF0lqqgo8IT4JQM%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "partners-platform.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=01558a4d-c8c9-4254-a065-6faecaf3fbe7&breeze_local_zone=dca51&next_url=https%3A%2F%2Fpartners-platform.uber.com%2F&sm_flow_id=yJnFwIMa&state=i14wCW1taTYR7qJdrpEnkHdxZnh3SfZp9z44HbN7lIw%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "partners-staging.uber.com",
-   "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=01f2d318-db90-4b65-8955-4bab69247a96&breeze_local_zone=dca51&next_url=https%3A%2F%2Fpartners-staging.uber.com%2F&sm_flow_id=BxUr_yhA&state=C5skZVe10HI-htS2nXk4njKR18lDULXJu2zHHx7QaZ0%3D",
-   "title": "Sign up or Log in with UberUber",
-   "links": []
+   "status": "robots.txt disallows"
   },
   {
    "host": "pass.uber.com",
@@ -2632,7 +3178,7 @@
   {
    "host": "paypay.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=419e26dd-9f1d-4811-b2dd-6111d54010b1&breeze_local_zone=dca70&next_url=https%3A%2F%2Fpaypay.uber.com%2F&sm_flow_id=djKfNOxz&state=PDKDF-nJbf5ZTxbSCmEu_plBFtgj1dAAi7zcqpQApa8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=65f9194c-9603-47c7-848e-07090063724b&breeze_local_zone=phx51&next_url=https%3A%2F%2Fpaypay.uber.com%2F&sm_flow_id=mvVNU7k4&state=pnT0ZX4ATbLecpIM9Xnaag8KvQPdcPcLxn_sQCifmOY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -2689,29 +3235,84 @@
    "status": "no response"
   },
   {
+   "host": "privacy.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/global/en/privacy-notice-riders-order-recipients/",
+   "title": "Uber Privacy Notice: Riders & Order RecipientsDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDown",
+   "links": [
+    {
+     "url": "https://help.uber.com/riders/article/whats-in-your-data-download?nodeId=3d476006-87a4-4404-ac1e-216825414e05",
+     "kind": "page",
+     "text": "most requested data"
+    },
+    {
+     "url": "https://myprivacy.uber.com/exploreyourdata/download",
+     "kind": "page",
+     "text": "Download Your Data"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/22e1d5ed-04ec-54cd-ab11-dafb9f37a68f.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/6dc1de13-23b5-5fd1-bdd2-34fd90fa3607.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/7217de23-9e1d-5c8b-a078-6baef6740af5.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/c512312b-ba26-4d4e-8be2-8031d105205f.pdf",
+     "kind": "file",
+     "text": "Previous version of the Privacy Notice"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/d7e0f993-afe9-44f2-aa22-004a1b0c0861.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/e52ccd9a-d7d8-5f0c-9c0b-4a890bcabd02.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://tb-static.uber.com/prod/udam-assets/f1b236d5-56e4-515a-bb5d-2f15354b4a16.pdf",
+     "kind": "file",
+     "text": "here"
+    },
+    {
+     "url": "https://www.uber.com/us/en/marketplace/pricing/",
+     "kind": "page",
+     "text": "prices and driver/delivery person fares"
+    }
+   ]
+  },
+  {
    "host": "product-platform.uber.com",
    "status": "ok",
-   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=ZjBkYTFkZGExYzUxMmRiMzQ4MThjOTAzNWM3ZTExOTM6OTJDblVXbnVaMTloZzN0dzpMUTBlekdIQmljOXExTlphdHJtaDFuYXlkWE13UTY5OEMwZDdqcmFPMHJYeGpBQ05DbnpmcldLZnhQWENtRGQrbUxLOHA1SFAvS1RZaUlENWVlcFNwSU9iaFI0cG5vaVlEUWd3em92bml6enNkQnUweWpqU3B0UGRQZDltR2NZYVBudGVOdjJ5dzl1SDdaYm8zVXpIUGFGV25TQUN4UzJpVUE0RHZNY3BqbXlyUGs3MVcvRXM3SGZtdnRmRWo0d0VpcExHMTRyWm0vREpNU1k0QXdSV0g3T3ZJUlk9OnVRY0N0S3cyZTdvd2xzRnNxeW9UMmc9PQ%3D%3D",
-   "title": "",
-   "links": []
+   "url": "https://jobs.uber.com/en/",
+   "title": "Uber Careers",
+   "links": [
+    {
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdb_Y9Bv8-lWDMbpidF2GKXsxzNh11wUUVS7fM1znOfEJsVeA/viewform",
+     "kind": "hosted",
+     "text": "this form"
+    },
+    {
+     "url": "https://drive.google.com/file/d/1AnjIsLGwKoyv-aVZIc6ljkTQPqMIat6z/view?uclick_id=4b00023b-22c6-4100-a761-0cd64252b264",
+     "kind": "hosted",
+     "text": "Know Your Rights: Workplace Discrimination is Illegal"
+    }
+   ]
   },
   {
    "host": "profiles.uber.com",
-   "status": "ok",
-   "url": "https://www.uber.com/",
-   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
-   "links": [
-    {
-     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
-     "kind": "page",
-     "text": "Download the Driver app"
-    },
-    {
-     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
-     "kind": "page",
-     "text": "Download the Uber app"
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "pt-jump.uber.com",
@@ -2746,7 +3347,7 @@
   {
    "host": "qantas.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0c3d34f9-8a0f-4164-a787-6bd3bda7abca&breeze_local_zone=dca52&next_url=https%3A%2F%2Fqantas.uber.com%2F&sm_flow_id=o98mG71w&state=H8lJF31aNxnB-qteeYULpKTIFpN9I22628lWyPNA0qI%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=31274603-bbc4-4a72-8a2e-694f041ad1bc&breeze_local_zone=phx51&next_url=https%3A%2F%2Fqantas.uber.com%2F&sm_flow_id=gcqmUmhm&state=k35Z3tN26tGz-DtE0Y7xdPQhn8tkeAT-276QxiseFBE%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -2772,8 +3373,26 @@
    "status": "no response"
   },
   {
+   "host": "r.uber.com",
+   "status": "ok",
+   "url": "https://vouchers.uber.com/c/",
+   "title": "Uber Vouchers",
+   "links": []
+  },
+  {
+   "host": "ramendca.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "ramenphx.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "receipts.uber.com",
+   "status": "ok",
+   "url": "https://receipts.uber.com/not-found",
+   "title": "Receipt",
+   "links": []
   },
   {
    "host": "redeem-beta.uber.com",
@@ -2788,23 +3407,41 @@
    "status": "no response"
   },
   {
-   "host": "reports.uber.com",
+   "host": "rent-webview.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=deaa4618-86bd-4e8c-8c33-ca716c9781e2&breeze_local_zone=dca52&next_url=https%3A%2F%2Freports.uber.com%2F&sm_flow_id=riEkP1Ot&state=sUkzDmNiw3EjlkWfEPNy_cXXVsQtzl85lHoF4wicDr8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=736bf480-df4a-441b-a9f9-985d1b51c6cf&breeze_local_zone=phx52&next_url=https%3A%2F%2Frent-webview.uber.com%2F&sm_flow_id=gNyBcaZl&state=joq2OYVDXQVnK3GoNx4sHuKoy1zQDGrZswwt2bpGbx8%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
+   "host": "reports.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=21ff142f-abd3-4cde-9318-82e0c11cb41f&breeze_local_zone=phx52&next_url=https%3A%2F%2Freports.uber.com%2F&sm_flow_id=jf8tN6mj&state=KjAQKEzzG-Rxy8qY5QHQkHYkstK1pXK2tWuRoBKiOUY%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "restaurant-help.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "restaurant-signup-staging.uber.com",
    "status": "ok",
-   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=ZDg2NDJiYmYwOTIxOWRkNTQyMTBmZTBhMTE2OWUwYWI6L005TmFVT2ZrRVp5M2QzUjphaWRlVTF1RzRFVVgzdVBGaS9EWlJmKzJmdGwwZ1Y0QXNQRjRkTUM5cnV1aFFrMUFmRWVLQ05NR1REQXFYTFVRVTEyTThDV0JtWXRET1JMNGpyVG10VFlQU0YvL3VmNFU5WXkrR2d2cTBsODlOU2pteTBzZWZ1L2FWclF1d0xQMEdNbVRYWHRObmpYaGpma1NjLzhZREU2amxQWEpLVDV1Rk9aUFU2WEV4bnJIa29uQzlpN0Q1RTdkclJPNU8yemR0Ujkza0NWZ0Z2Z25JL0J0UTlLQnZ4c09OQ1ljMHc5TW1OWVB5MU01Q1JVQ1FrZ2hiMlVtZXM1N2YwdFlHZz09OktCVjMwQThxUGQvYmJrL204WktPemc9PQ%3D%3D",
-   "title": "",
+   "url": "https://merchants.ubereats.com/us/en/s/signup/",
+   "title": "Become an Uber Eats Partner | Uber EatsopenopenopenWhatsappDownDownDownDownDownlinkedinyoutubeinstagramtwitterGlobe",
    "links": []
   },
   {
    "host": "restaurant-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=69afc0a7-8e62-48f5-91de-f344dc8a14be&breeze_local_zone=dca22&next_url=https%3A%2F%2Fmerchants-staging.ubereats.com%2Fmanager%2F&sm_flow_id=6HyHRCSe&state=Y4NfPs0e40wdejb2ZrStS9JxaFcpeeNdn4CKQegmyyI%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=78e375d2-6787-4208-9fb7-02bff13991f6&breeze_local_zone=phx52&next_url=https%3A%2F%2Fmerchants-staging.ubereats.com%2Fmanager%2F&sm_flow_id=gAqByYIO&state=YNouCnIC8cIjxSjXOppJA-Y_yNe8oMDyfkHnWHACxao%3D",
+   "title": "Sign up or Log in with UberUber Eats",
+   "links": []
+  },
+  {
+   "host": "restaurant.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fcfd6a6a-4bae-4123-869e-78dd82cff23c&breeze_local_zone=phx51&next_url=https%3A%2F%2Fmerchants.ubereats.com%2Fmanager%2F&sm_flow_id=Hfp5Hu8M&state=AryI40sDJK6Hqk2f5u4gYrIKsQLmDQRdLMB1LekUkVk%3D",
    "title": "Sign up or Log in with UberUber Eats",
    "links": []
   },
@@ -2815,21 +3452,28 @@
   {
    "host": "restaurants.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8b789e52-3791-4358-ac3e-be879871afe1&breeze_local_zone=dca50&next_url=https%3A%2F%2Fmerchants.ubereats.com%2Fmanager%2F&sm_flow_id=To5TXCBn&state=tTnokzk95_AieRMIBt-D2Qt3gTMyXqrXddYOZ1HW5E8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b0953b62-1d0f-411e-b8e4-ef7d66dc56e9&breeze_local_zone=phx52&next_url=https%3A%2F%2Fmerchants.ubereats.com%2Fmanager%2F&sm_flow_id=sEYPunVA&state=4LPHAsL6L4xerEzFPSTvzciyB9AwzbrlrBsQtxLR56I%3D",
    "title": "Sign up or Log in with UberUber Eats",
    "links": []
   },
   {
    "host": "rewards-beta.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4e5efe27-957e-4383-b0fa-542d631c2fd1&breeze_local_zone=dca51&next_url=https%3A%2F%2Frewards-beta.uber.com%2F&sm_flow_id=vL5btuXY&state=kI6q7hOI9tC_gOUfSSG-HDcE-c1r1BEil6UiJMHCfjk%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cbe776b8-1fbe-464f-bf6c-f1d26e726518&breeze_local_zone=phx50&next_url=https%3A%2F%2Frewards-beta.uber.com%2F&sm_flow_id=DYlG6Nkj&state=qKkR3kPkWC9HgF8B8uRqEXYjCZkf4azZ6EM4uKOScb8%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "rider.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=e1f8958b-a583-4f30-9751-28b456f89e11&breeze_local_zone=dca22&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=odcyujbc&state=Ih_wHrumH9DZj91rWOuOtmZwf8nc-CvOv98oMysXUHY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "riders.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=5b3cde98-2dc9-4876-82e5-36bbf3b2e24e&breeze_local_zone=dca51&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=p-y2GVfJ&state=MR-n5LRxeqNh4xFfinvLcU274bqBP-B63ua0BdA84RM%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fd8848fa-4b2e-4a72-bfab-2d029a3e5f69&breeze_local_zone=dca52&next_url=https%3A%2F%2Friders.uber.com%2F&sm_flow_id=f_MAdcVY&state=eEzgJf-aIGKrFZPKR4PW8h8YsmwmcgtQ4H8QWQTiZR8%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -2898,7 +3542,7 @@
   {
    "host": "rush.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -2916,6 +3560,20 @@
   {
    "host": "s.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "sandbox-api-v2.uber.com",
+   "status": "ok",
+   "url": "https://developer.uber.com/",
+   "title": "Uber DevelopersThree linesSearch",
+   "links": []
+  },
+  {
+   "host": "sandbox-api.uber.com",
+   "status": "ok",
+   "url": "https://developer.uber.com/",
+   "title": "Uber DevelopersThree linesSearch",
+   "links": []
   },
   {
    "host": "sao.uber.com",
@@ -2942,20 +3600,27 @@
   {
    "host": "scaledsolutions-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=947dca2c-de44-4278-a5d6-8827ed58b25b&breeze_local_zone=dca51&next_url=https%3A%2F%2Fearn-uberaisolutions-staging.uber.com%2F&sm_flow_id=vlr9mzpU&state=GSieqBbOCP-hgLe-25YO1gdnO77RMZzULWIDky86C7g%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7ff7200d-ad97-4a65-8ca2-d2db8f13045e&breeze_local_zone=phx50&next_url=https%3A%2F%2Fearn-uberaisolutions-staging.uber.com%2F&sm_flow_id=r6x921Qn&state=VHyu6eBq-Hpox3eNvEJh5cpZKv7iS1vTRx6he7HbmJk%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "scaledsolutions.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cb7c3cb6-bc16-4187-824d-e101b48356e7&breeze_local_zone=dca52&next_url=https%3A%2F%2Fearn-uberaisolutions.uber.com%2F&sm_flow_id=JF6LSNC7&state=xQockpzWONtnES9CA-yfYUCkZBr-Haamd_mIvDQObh0%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b06b7b0a-6e20-4733-8d4a-fbab66c6faa6&breeze_local_zone=phx52&next_url=https%3A%2F%2Fearn-uberaisolutions.uber.com%2F&sm_flow_id=sszQcKD3&state=rZmk9_LIPrfrJir8W9Gu7Rfak06IUzN9voyj1JSrGcI%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "sd6gx58d.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "security.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=OTkyOWVmY2NmZjg2N2NhMzIzYjllM2ViNDY0NDE4ZWI6b0hvS2Z0NkxveUxMRlZnMjpQeXB5OCt5S2tPL3hiK1E3clBXL3U4MC9ON1ZpWlZLZ1l6aFlxZ0FCQ08xdGJzVlB6TUs0L0NvZzd1aHFucnp0VTNMajR6ODhZVHhVZ0JwSFRPYXQvN3dOU2ZkZXJtWWl0TEhIT1dpN1dTUVM5RXM1dWpqK21UQS9jRlhOWG9IcnJ1NGxTR0NIREQwN2I3cjdhcmxSeXpaQUF1M3ZNbCtjNExnSFVJbVNPWDdLMUtUeEhxRnhGdWdYd0loRVdkVm9EYU02blhFdkQvNHI0ZGRqY1hiejhRR2lTeWl6OnRqODBIVVB0cXRPWGJoT1NuelFUUUE9PQ%3D%3D",
+   "title": "",
+   "links": []
   },
   {
    "host": "settlement-it.uber.com",
@@ -2966,7 +3631,19 @@
    "status": "no response"
   },
   {
+   "host": "sftp-dca-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "sftp-phx.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "sftp.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "share-beta.uber.com",
    "status": "no response"
   },
   {
@@ -3021,9 +3698,13 @@
   {
    "host": "spotlight.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a4dc21f4-3bc3-4c5e-b6dc-11686e0766bc&breeze_local_zone=dca50&next_url=https%3A%2F%2Fspotlight.uber.com%2F&sm_flow_id=rCH0Lg1M&state=1adCmQfgFZCi0Y3xyjU6k9or7eTWbmpkWDUAoHz1U8A%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=9d7c9d97-a0c9-4e92-8e6f-7d927338d1b8&breeze_local_zone=phx51&next_url=https%3A%2F%2Fspotlight.uber.com%2F&sm_flow_id=VlwEOmJR&state=7uixJxF7F6hqR8NpnWGtL6GSjsQ9T65t9PHJSyzc-AI%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
+  },
+  {
+   "host": "sr.uber.com",
+   "status": "no response"
   },
   {
    "host": "staging-in.gighub.uber.com",
@@ -3059,8 +3740,26 @@
    "status": "no response"
   },
   {
+   "host": "status01-uswest2.prod.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "summary.uber.com",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "supplier-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4e34f1a1-3dec-47c9-b2fa-64ad22ad8d5d&breeze_local_zone=phx7&next_url=https%3A%2F%2Fsupplier-staging.uber.com%2F&sm_flow_id=ZcH71JZs&state=nplUIX8yvTmvVQ7fWrR4G9YN2e_5otGlRyHQHuzkO8E%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "supplier.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=46930fd7-39e0-4626-a8eb-e3ddce0f0a73&breeze_local_zone=phx51&next_url=https%3A%2F%2Ffleethub.uber.com%2F&sm_flow_id=DgGqx1tr&state=Hp9an2x_JmGr9w6RE-IfWOIC6puc5OnLubCQRS6bWBE%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "support.uber.com",
@@ -3070,9 +3769,30 @@
    "links": []
   },
   {
+   "host": "survey-staging.uber.com",
+   "status": "ok",
+   "url": "https://survey-staging.uber.com/",
+   "title": "Uber Survey",
+   "links": []
+  },
+  {
+   "host": "survey.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cc133e67-a476-476b-a287-08f807bfbc75&breeze_local_zone=phx50&next_url=https%3A%2F%2Fsurvey.uber.com%2F&sm_flow_id=57XVS-Ug&state=DEZSamVgHu9nfz2sqX71lsPfV7F4CNbQvfjORaKlewA%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "sustainability-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8a1f00a8-875c-47aa-9b25-c230b31cdae8&breeze_local_zone=phx50&next_url=https%3A%2F%2Fsustainability-staging.uber.com%2F&sm_flow_id=B0TMM91P&state=bsXtQ-s0fE85H96h3nBSbKt_2YcKHmOkFfz7QabBvCk%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "sustainability.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=bfd26a31-4959-4b14-8a67-cfb6a21afd33&breeze_local_zone=dca50&next_url=https%3A%2F%2Fsustainability.uber.com%2F&sm_flow_id=iICawub7&state=jUr67yeCk6ByAcCNAs6LPgYEjkU-P6wn4z8F3FO4XSk%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a9603069-501d-46fb-b3bf-14ef20ab2ae9&breeze_local_zone=phx52&next_url=https%3A%2F%2Fsustainability.uber.com%2F&sm_flow_id=fbKDsKP2&state=tcHzjKhu8HCg8HtN1Ktiunxd4GbmCdzD-uPLmDige2o%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -3082,6 +3802,10 @@
   },
   {
    "host": "switchboard-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "switchboard.uber.com",
    "status": "no response"
   },
   {
@@ -3124,6 +3848,10 @@
    "status": "no response"
   },
   {
+   "host": "tc.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "tdottest1.uber.com",
    "status": "ok",
    "url": "https://app.short.io/users/dashboard/206086/links",
@@ -3135,6 +3863,17 @@
    "status": "no response"
   },
   {
+   "host": "texter-staging.uber.com",
+   "status": "no response"
+  },
+  {
+   "host": "todayblog.uber.com",
+   "status": "ok",
+   "url": "https://def.uber.com/en/challenge?from_service=dWJlci1zaXRlcw%3D%3D&q=YTQ2OWY1OTUwMzgwNjNiMzAxZmY3MmZlNzJmZTAwMmM6bFJiOFFTblJOdzJlOWpqNDpEVTVYUi9na1doZzFGeFA5REhyOHhTUXZ0eVRwL1dSTkxHMFN0aC9UN1BkMmlJU2F6cjJHb20wS21RNjNkaER3ejVSVUlTVHNuWWpCR1FRTEZBSDBOT2RmL2JvU01HQmtVaDJmSUQyRHRtTnJ1WlJBSzB3WENzRThPY2Jmcnc1bmcyZzFGNHMyZWNxMWVuTFhBSGhEOXhPOHlFRStJaDZnS0NZMDVQUlJVK2RIR3kranlmTk1wek5UTlZsWGVRZFh5cStzeU0xRG9HQ05MRms0REFOdmxaMnJhcGNPK0FyYVMyNlo4VjlROUxFPTpIM3VkMU9OM2pkQ3pKZDBPWk5GY1R3PT0%3D",
+   "title": "",
+   "links": []
+  },
+  {
    "host": "together.uber.com",
    "status": "ok",
    "url": "https://together.uber.com/",
@@ -3142,13 +3881,20 @@
    "links": []
   },
   {
-   "host": "tour-staging.uber.com",
+   "host": "tools.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "tour-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=afc406ba-e528-46e4-ab37-1aa1e124acfc&breeze_local_zone=phx50&next_url=https%3A%2F%2Ftour-staging.uber.com%2Flogin-redirect&sm_flow_id=IZSrQwjT&state=bDSc6xfCo3eJ9NlE5wk_0EuwmXtJJ5glsucYezfON_I%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
   },
   {
    "host": "track.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -3185,6 +3931,13 @@
    "links": []
   },
   {
+   "host": "travel-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=99afe359-deb0-4f8b-8bdb-ccbd1d955c7e&breeze_local_zone=dca20&next_url=https%3A%2F%2Fm-staging.uber.com%2Flogin-redirect%2F&sm_flow_id=trejikym&state=zGUNr5QaaglDZeFg3z0fJ8I9XV57cwQb1pbFPpiElB8%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "travel.uber.com",
    "status": "ok",
    "url": "https://travel.uber.com/",
@@ -3210,7 +3963,7 @@
   {
    "host": "uber-com-careers.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=8834de5e-e364-49fa-9c0a-be738f24e5f2&breeze_local_zone=dca50&next_url=https%3A%2F%2Fuber-com-careers.uber.com%2F&sm_flow_id=aMkZR7ye&state=A0RiREskz7oC4AzxcXMQFn6YptOc5sQtJ25v363zksA%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=5aebaa4e-628e-4838-9b1c-1ad5650348fe&breeze_local_zone=dca51&next_url=https%3A%2F%2Fuber-com-careers.uber.com%2F&sm_flow_id=Pb8B82LN&state=_0bR9daS_2vzAqwuxt9Fr_NRQYR-cYyqE7bhmUqTZLY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -3250,28 +4003,42 @@
   {
    "host": "uflexiworks-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=accb380c-7afe-43b6-a1d1-9f4fdfccf2ce&breeze_local_zone=dca70&next_url=https%3A%2F%2Fuflexiworks-staging.uber.com%2F&sm_flow_id=MGXJJb5v&state=TzwWGojPyCt0Xsae9Bf6I_eJQ3lMHNMqvsI0y8MQ0cw%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7ad1a392-1889-426e-be66-ea072c51f224&breeze_local_zone=phx52&next_url=https%3A%2F%2Fuflexiworks-staging.uber.com%2F&sm_flow_id=Blcdh0wX&state=N86x-w0GJUu7Jh8NnuudYJWWrmQtW8zm9HPMf4STc5U%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "ulabel-preprod.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=7b2a400a-84e8-4648-82a6-7b2e6787d3e2&breeze_local_zone=dca51&next_url=https%3A%2F%2Fulabel-preprod.uber.com%2F&privileged_op_url=https%3A%2F%2Fulabel-preprod.uber.com%2F&sm_flow_id=eT2UzeqY&state=xgyWk61n3Kfok_ryc0SY1VJlJZJKecPDGYqiL4mcOrg%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=b1508874-85e1-4918-92d3-6dc883426604&breeze_local_zone=phx51&next_url=https%3A%2F%2Fulabel-preprod.uber.com%2F&privileged_op_url=https%3A%2F%2Fulabel-preprod.uber.com%2F&sm_flow_id=8tQKo6Oy&state=W9I3kjOPcQhqsArQMKyE0eQ53ooGFcUi04ITFwmiflY%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "ulabel-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f12f80ed-53d3-4a3e-8747-f470c146ac28&breeze_local_zone=dca52&next_url=https%3A%2F%2Fulabel-staging.uber.com%2F&sm_flow_id=R5pOfkeM&state=HxoznTa5i9woVez4gzJ3ca5y__fZYjeqFRRDQEFdJew%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=48ed1369-dbf7-4634-a9f2-36586942918e&breeze_local_zone=phx50&next_url=https%3A%2F%2Fulabel-staging.uber.com%2F&sm_flow_id=OhbA6fvO&state=-01rWytsy8_6SEITtgDYHV3hu93vYkZgpeg4C3XsX1k%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
+   "host": "unsubscribe.uber.com",
+   "status": "ok",
+   "url": "https://unsubscribe.uber.com/unsubscribe/",
+   "title": "",
+   "links": []
+  },
+  {
+   "host": "upuppies-staging.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=22c26385-1f6b-48b5-9d94-0fd012abc76b&breeze_local_zone=phx51&next_url=https%3A%2F%2Fupuppies-staging.uber.com%2F&sm_flow_id=ySIOcYWX&state=ZckhPP_tB3mOKS4au5DBwEfv8xhFKahtvXR1CFmX-Ng%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "upuppies.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=f3952355-db0d-409a-a53e-154edbc5b8aa&breeze_local_zone=dca52&next_url=https%3A%2F%2Fupuppies.uber.com%2F&sm_flow_id=bM_wMxQN&state=NzGUp1Wxg3EzYuVOnz77ePU15z7u6NSVHCyGiDk47So%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c4d390b0-a7af-49b0-8d5a-e121b9f005ad&breeze_local_zone=phx52&next_url=https%3A%2F%2Fupuppies.uber.com%2F&sm_flow_id=jXrs4TRa&state=EFqYEskpGilomoTCRIw-bF8I-dVm1QPUc9d8WwOS3ks%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -3303,9 +4070,13 @@
    "status": "no response"
   },
   {
+   "host": "utmbeta.uber.com",
+   "status": "no response"
+  },
+  {
    "host": "v.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {
@@ -3325,6 +4096,13 @@
    "status": "no response"
   },
   {
+   "host": "vault.uber.com",
+   "status": "ok",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=5d39f4d6-7e88-4c8d-979f-76811553c005&breeze_local_zone=phx52&next_url=https%3A%2F%2Fwallet.uber.com%2F%3Ffeature%3Dbanking%26source%3Dearners-platform&sm_flow_id=9D_gMUKm&state=ydq330xmbSqLAfmRmiWK2XJPoNyfO8XlgH_OLd6obkA%3D",
+   "title": "Sign up or Log in with UberUber",
+   "links": []
+  },
+  {
    "host": "vaultfrontend01-dca1.prod.uber.com",
    "status": "no response"
   },
@@ -3335,14 +4113,14 @@
   {
    "host": "vehicle-solutions-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=32c6166d-e0b5-409a-ab55-a05822084796&breeze_local_zone=dca50&next_url=https%3A%2F%2Fvehicle-solutions-staging.uber.com%2Fv2%2F&sm_flow_id=M51DqCOq&state=X6cwqsCwIYxK9e5-OidyMsdqrvCpyDiARD7rqy0MQQ8%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=4a7ef809-e765-490a-8065-9aa1faf249f7&breeze_local_zone=dca50&next_url=https%3A%2F%2Fvehicle-solutions-staging.uber.com%2Fv2%2F&sm_flow_id=NjqWWKP4&state=EARhCou3WhR5qg2J5jVys2RAk75mV3nWWYkohcY9Lz4%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "vehicle-staging.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=cef3bca3-b2d1-4d9f-8bf1-e435140811e8&breeze_local_zone=dca52&next_url=https%3A%2F%2Fsupplier-staging.uber.com%2Fterms%2F&sm_flow_id=JMqi5bjO&state=bqdIctJr2Nua7H5o7ZujDReIPhvKkpzUvR4jOcCkFh0%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=fa209f03-3259-4ec8-b7a7-a773520eb115&breeze_local_zone=phx51&next_url=https%3A%2F%2Fsupplier-staging.uber.com%2Fterms%2F&sm_flow_id=osLxft3F&state=DEVdbJRCYOofh37boK1i87FtkyXhjfBd7ynExvYJ3Fg%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -3369,7 +4147,7 @@
   {
    "host": "wallet.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=0529d1e4-bcaa-4cb5-9643-ee801bce637d&breeze_local_zone=dca23&next_url=https%3A%2F%2Fwallet.uber.com%2F&sm_flow_id=lbmgotqu&state=mr57eRYVS39ekOxeE_mGEmTI-mha70Q7KWoJt8boK6U%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=c271be8a-0335-40cb-afe7-a35e80e44115&breeze_local_zone=phx50&next_url=https%3A%2F%2Fwallet.uber.com%2F&sm_flow_id=wDx1fzk0&state=Ri3QTp2iEEEtz0GumBaJPEEr4TX9rekcmvLx8N-Gsu8%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
@@ -3388,8 +4166,33 @@
    "links": []
   },
   {
+   "host": "webber.uber.com",
+   "status": "ok",
+   "url": "https://www.uber.com/?city=san-francisco",
+   "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
+   "links": [
+    {
+     "url": "https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Driver app"
+    },
+    {
+     "url": "https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id]",
+     "kind": "page",
+     "text": "Download the Uber app"
+    }
+   ]
+  },
+  {
    "host": "webinars.uber.com",
    "status": "no response"
+  },
+  {
+   "host": "www.lert.uber.com",
+   "status": "ok",
+   "url": "https://lert.uber.com/",
+   "title": "",
+   "links": []
   },
   {
    "host": "www.uber.com",
@@ -3416,14 +4219,14 @@
   {
    "host": "xlb.uber.com",
    "status": "ok",
-   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a2dd6fe8-9e92-4f78-adf9-9e3252168acc&breeze_local_zone=dca70&next_url=https%3A%2F%2Fxlb.uber.com%2F&sm_flow_id=NZv7qunN&state=fc2OXNNojMNUy5tjJ0ZEUte6RepS2lUk6YcpPKckIWo%3D",
+   "url": "https://auth.uber.com/v2/?breeze_init_req_id=a1aadbf9-95b7-4064-97fe-46fb854d1d1a&breeze_local_zone=phx51&next_url=https%3A%2F%2Fxlb.uber.com%2F&sm_flow_id=btRIWuNK&state=5VOi2plSZ8exhoJKuf1pigS24TdtJCgoATFRTqslBZ4%3D",
    "title": "Sign up or Log in with UberUber",
    "links": []
   },
   {
    "host": "y.uber.com",
    "status": "ok",
-   "url": "https://www.uber.com/",
+   "url": "https://www.uber.com/?city=san-francisco",
    "title": "Explore the Uber Platform | Uber United StatesClockChevron down smallClockChevron down smallChevron left smallChevron right smallChevron left smallChe",
    "links": [
     {

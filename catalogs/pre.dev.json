@@ -1,6 +1,6 @@
 {
  "domain": "pre.dev",
- "live_hosts": 135,
+ "live_hosts": 137,
  "pages": [
   {
    "host": "2.7.pre.dev",
@@ -261,6 +261,10 @@
    "status": "no response"
   },
   {
+   "host": "docs-next.pre.dev",
+   "status": "no response"
+  },
+  {
    "host": "docs.pre.dev",
    "status": "ok",
    "url": "https://docs.pre.dev/overview",
@@ -423,6 +427,13 @@
   {
    "host": "iskry-wiedzy-16de.pre.dev",
    "status": "no response"
+  },
+  {
+   "host": "lifemed-regenerative-c828.pre.dev",
+   "status": "ok",
+   "url": "https://lifemed-regenerative-c828.pre.dev/",
+   "title": "LifeMed Regenerative Center | Stem Cell, Exosome & Peptide Therapy in Miami Beach",
+   "links": []
   },
   {
    "host": "mail.pre.dev",

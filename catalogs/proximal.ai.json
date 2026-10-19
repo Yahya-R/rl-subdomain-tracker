@@ -1,6 +1,6 @@
 {
  "domain": "proximal.ai",
- "live_hosts": 5,
+ "live_hosts": 4,
  "pages": [
   {
    "host": "codebases.proximal.ai",
@@ -14,13 +14,6 @@
    "status": "ok",
    "url": "https://platform.proximal.ai/auth/login",
    "title": "Proximal Labs",
-   "links": []
-  },
-  {
-   "host": "portal.proximal.ai",
-   "status": "ok",
-   "url": "https://portal.proximal.ai/",
-   "title": "MCP Portal - Cloudflare MCP portal",
    "links": []
   },
   {

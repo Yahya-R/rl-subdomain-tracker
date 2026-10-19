@@ -1,6 +1,6 @@
 {
  "domain": "micro1.ai",
- "live_hosts": 194,
+ "live_hosts": 202,
  "pages": [
   {
    "host": "adm.micro1.ai",
@@ -66,6 +66,10 @@
   },
   {
    "host": "api-dev.titan.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-preprod.forms.merit.micro1.ai",
    "status": "no response"
   },
   {
@@ -200,6 +204,10 @@
    "status": "no response"
   },
   {
+   "host": "api.roots.micro1.ai",
+   "status": "no response"
+  },
+  {
    "host": "api.shelf.micro1.ai",
    "status": "no response"
   },
@@ -314,9 +322,9 @@
      "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
     },
     {
-     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
      "kind": "page",
-     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -365,15 +373,29 @@
   {
    "host": "dagster-dev.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1942443838%3A1791820969317724&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=OhUlvc39Cy7sLyaBZTyVMPYPvd4Jpm6Ulx05_UgHdb0%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAORs42mHzA0hB1L1IO-VQQgOrchCcqCy-0dFqAGPQ5bBRxLMXoKkyzZZJnWZoimUwhigBKn7w_CM5lIfMO3nwAO5j56zMlAYefVzQlXpVLa86nFusvXCi8Az42VEe5KsLhgf1uk-cDIPkBQVT4TuRVv7C7tzqDs2MPG22Lw8Q7OBJYecBMVP0KGZYK5jItklTiegSmWY2FeiIOI_ETxtzcSBfyfLkWU9_ETu03zyjPDgiyVBSDCz3CWheHEGSan5ZFGo_DD6Cy4GzHdP77XKA7mnwBQnFjiW2Afd60hdEe7UhaqReLAzwE5mY_VXRxcw4H4YYfFKf9PmqzzgzCRy4-_HR4o9uTxB-8T5AyPdDNmhEuYnHyA9jyt07xTrPOw1hG2o8ewx6jj2op5i3mklUy9An4OhzlPI2GoGXAigj8-8pnq3KFaa1EV1okiUBE9X1p9XFYjwsuvm-6sZSKg9CbvZ7fJTPCNjAQEEHFAiGpWTH-w-vE%26flowName%3DGeneralOAuthFlow%26as%3DS-1942443838%253A1791820969317724%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcfRmI_Ywd7iJ-LiUrqpcOcMn-jeNCsVZBTYZ_wZDrDAWxYElAvBC0TlTDSXEBZtVgk-nQecmbZp9SRvdP0snvCXGcKIVZNWErFjX3dobImyYbnWH4w",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S2030525699%3A1792418032085346&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=EdWyUh7uSdCJMSIjgzJvbb4VeeYFvNc7Q1Sv8nMqWyA%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPNIfgpsv0TUR3LF5cIp_EZlK_Cyqy9M7k15mO50RA_F2eNwZVyK_m3ncNerFykrlFWcLrILeiEW8nkV7sxgoStHLETapuEAGj9nk47nF5XaohLWN7SEUstV8dMQiFxhlJec6UYEYPu5bQOoa6RgIVUnxaD9xfqyFOhLaBTwdq5D88roDpWU66SaYSC41R5HQ80CR9TxAjtCfRvaJoaC9i1cvv7WoNPnKkhz9d_UwsMt3WICBGCd0BdlF_5C37S_mGeomxMmhP-z5haZUFhsKakZsA7oMAPM4UlQb9ANo2CBioqK-9LIMLfRQ9Ea6A6GFG4J6UYfRSa-eAiD6SEzUSzKyZ9h-oaCeWu5aZazWj7s08kDigOTgZNq7Kg6XO2B5OJ8GBhcc_hG5331xGp7zdalqlIqYGeEEp3icCGuJGSTckJwdfqyIhDjV8bm_TnrnPJ2CQpgTaKNx7YNpHCwy-HUPABVOO03MO37Kv3N5Snr-QIMqM%26flowName%3DGeneralOAuthFlow%26as%3DS2030525699%253A1792418032085346%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcdx-efHnqc11jVWQ7Sk4X3-yvM3NZ64Fv-JRRYtU73JjAujQqfg7CsmZCHuOE1ESUU8LWUuJauZvQ1oKaaNzjoJonWhkFKKGmPMrYj2OqEGkKLX3pk",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-dev.research.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1443530533%3A1791820969268393&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=nePg-gvBwstn1YG0pyI2gPragVHZSal7r3nUFDMm20Q%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOIbSPOz-yDKouai3WrN76iMQGk4st2j5rdwWu5fl-RhxUbLte9ZipMMURliSFaX7XkoreEV4O2W6-3P73ygIPzHVr8nnAqL0OcrnrEGGjJ4gIBReptOsjh4hZUWIuPTsgpV8zJOdh7oFcUNZGRnLKgGjcvMpefTIZ0aIBO9kfLcpOzHx8yCHXf4PUzJlJivo6j8X6tvWaaNnIInED3wG25bREq5tCrSeWG1lIUuUdZWsyCx5w3JKtmJvOmUF_XDQ2vnKjkdHx6tehUFG0V4bIzUOBZWAwt2j45UUSqDJoN8_IKsPvaWnrJRprrLo1-HSOxftVPRDprHK5cbTctV49FUWx_yNPC1BdrU8gM6i4O58F-SByeXasYbrGwTcW4LlMFXv1qa9pyVt8paXrY8YzsvbWnItz49_Z7qeq191fSexg37xyke2pc9hhX2pjkikibsjXp2ZDl2stupwbtGXMCmSxrhruM5n2gDuFl9e31jRGJnTi8J2PJ-6o84Q4ffheReIT0%26flowName%3DGeneralOAuthFlow%26as%3DS1443530533%253A1791820969268393%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxccUivWaIr6OQmeYEHASUHhlkfe0gDMrJPRVw1cMBEg-uRvEzl4Om3S3IPSBZrggOEMDDTLOJCFVLBdbJyHKNFvQPDikqOJ8tXPDtE7Wsh8AXw_maBU",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1040725457%3A1792418032461563&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=MiXS0veGhh3kbJemLxCCQXZjQgzyOpV5j-XwPgVgYkc%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANccz7Yhk4VlKfKWLKB0bvDhwBbCpchraEF43Du90D1hJECw78fIJeJJZ8mgTyjkVRhgk_UQReaRL5RfVyAhQFJDWlpd1NKerL0Q7KB2Fy3NCVAJVF1z62OiymQRiQjnioPXN7QQvZt-6S5kGny6QECO525eamyBTPJ59T0rWHfGaf9v9ISE1cwrUda-2tK6V9MoPRpfxxh7GZCvX-RmVnulpccFm6xO794eD43dGEg4r5KcueNpoMF6wWIlYtaiIZnERo7zoqJTgaymuOcoLIyZYAphEzP8gkGsM8RS2WOsFq9kVOYMjWvdbL37txpJ-oBV1qnRDUx3gEOU3rZKhzO2lEUq5wcdI9ImQR7JJFHZxJbQszv9dcVQHTbFGmjyzEWusvnpTRz3mYEB_Ksu3ZKUkLlYg_RtfVW3uSNLNQmSlN96lziqtYX43Ze_BBEcbA5Z6UwX2JrF2aimtnrOT-6613Ete4whT0_dXPlyccCOoVECyuHdHhlnyuau1jRFcD1S8hm%26flowName%3DGeneralOAuthFlow%26as%3DS1040725457%253A1792418032461563%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxccIiyzNJQb6meBx1f9do6mLMzDBHBey82dLC_Q6mSUf7f2xc-I0K80Y24dMEdT8qVg3lpviLrvkgtqt1WXnieJapZRH8PMdahppps1OkSiQ6BZoNK0",
    "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "dagster-preprod.forms.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://dagster-preprod.forms.merit.micro1.ai/",
+   "title": "Dagster",
+   "links": []
+  },
+  {
+   "host": "dagster-prod.forms.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://dagster-prod.forms.merit.micro1.ai/",
+   "title": "Dagster",
    "links": []
   },
   {
@@ -383,7 +405,7 @@
   {
    "host": "dagster.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1410017104%3A1791820970159722&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=V-Q-PJL4hBrTKn9nz88T-fcGo89WmZtUQ5E82PisM3o%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOks1Y4dQqfxnLzjmK1WDNHmSwbz9tf6OXBo-dsQw1nPnQd7Egsw2Dm-D8-ikbOIqD1vcZrpnvQgmER8KljMOgihKi05hdbjIDBGSfCwHdPC35EqUW_jL5y9uxwXffTZvGcPD-VenvazgLrmEgxNiiRVwodfLEiYi9xovGE3RgZoBQT1tgmGipjIYSWsgBp_bgx_I2W00jU1m194obm3HU3WS2J_YTiPAN-sj_gevfTmwwmScRbkIWnFSWVzczyUqyhhQOXkFaGHSG2Gdnmthq4mU1a2oDNR2-Eld738BhfR7RNi5h1T1T1YA6Y-73BK6opMQ2vEcAuhoMx0Pz2CWswaOeiFw7h1vYALa2Oe8Kj2pnr3Tt_Z-tGWPMQby7DZrFV-xExbPUW1NE--zJLfhqARiY5IagMs83hySi-SCV_zwOWk-5zxJHcVNtUg60mn7BmjaNW2zVlXeqc3UmPnSx4_nu2kMMwAlv5iuQtJ9FLJv6H2Y0%26flowName%3DGeneralOAuthFlow%26as%3DS1410017104%253A1791820970159722%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcc6oS1zCRkAbcXc_ThjUAnKkJpP4SI9iIRlZdxjgJ02PCEBT9q4Ns2gXxTbskzbjUsacfsb5bZq3C_r1U9Z7MxhcuvpncdEbcbrKqfSEQ69-beGuhM",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-2094338187%3A1792418034246687&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=G3xGPUpJC5vw3NzEdklPYMyCuV8MhZEJyAxOqkVRqPU%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMpu2uPH9xjtvLduxAlz96PcS2Ubig9pnNHJ3YlTShgMdaSV12buJ1qV8E1pGo4XynQSZjbF2cFiQkJhOoE4vYe8QHDnFUhJYmIGb_7Z9EMWjuWqciIiTywrm0Ku-6RQGy_WlKqntCtrd3QQat5lp-YTGIx-Y08MF_0JzFLA8rNxEzRJstfVzIevdkaiF2JFlk_4v1vtTdaBydMEcuRn-jK3cJQJt5w8lUgy3W2d10CdG6FeQvweyShP2vQl92m9Pb9X53TiIhXGJq3O-PgOgDlGO8q4N4KeIS-qvP8nRiP8frB9TvVGe7DpCyUrK6gH9fxJpHr0DR_kpjXecS1tyUHAijIu_7vpQ8Iza-isg8iVUkI3yzy3_gtfK8HA2HaiWG3XROufma5n3WVQf902its7RAi6uf1Shw5ARD33ggkzFfk3RzHqqjTqrXTGm3qjYWMMU0uHzvzc1l9iMRW-QvAroRTBErZNhKYyWV-stH9XjT8Dt4%26flowName%3DGeneralOAuthFlow%26as%3DS-2094338187%253A1792418034246687%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcc09xBjIb5Jk_qwCWE35mCY7wm6U_eyMl5MMnO2sKpa6zaORHShlFWibNhDwZJA-4q0zuuhcPQUNPndlm3EZS1AxoKgkpGvrNz5qSM_f3tSdUFMWOU",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -497,6 +519,13 @@
    "links": []
   },
   {
+   "host": "forms.merit.micro1.ai",
+   "status": "ok",
+   "url": "https://forms.merit.micro1.ai/",
+   "title": "Feedback programs | micro1",
+   "links": []
+  },
+  {
    "host": "gpt-vetting-feedbacks.micro1.ai",
    "status": "no response"
   },
@@ -510,7 +539,7 @@
   {
    "host": "health-experts.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S890142701:1791820974325915",
+   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1593225456:1792418038988832",
    "title": "Google Drive: Sign-in",
    "links": []
   },
@@ -518,7 +547,7 @@
    "host": "helix.micro1.ai",
    "status": "ok",
    "url": "https://helix.micro1.ai/",
-   "title": "HelixHelix",
+   "title": "Helix",
    "links": []
   },
   {
@@ -626,6 +655,10 @@
    "links": []
   },
   {
+   "host": "login.flow.gov.micro1.ai",
+   "status": "no response"
+  },
+  {
    "host": "lumi.micro1.ai",
    "status": "ok",
    "url": "https://lumi.micro1.ai/",
@@ -655,9 +688,9 @@
      "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
     },
     {
-     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
      "kind": "page",
-     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -905,7 +938,7 @@
   {
    "host": "specula.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1844251199%3A1791820982721183&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=uPH-zd8PAcg72sfTzWBzPWHBki9i1PPWQD6C-aSYP7A&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREETO1Vt5A1O7el4YzlCmy4ULk2QzNDbd2EMPgbqqpsdz_LyCdpp7kM4tOWyp_4Z1XBAwkuhKduYfBzERt6tazd9qK6LvpXF22oZHZBUz2u5ryyhN4-DUIw4e1nee1XzY2bA1N897-m0psgyEPSIDZ3iG4houA_oN4cqRPMKDDGPSC8mPJoRmy399wcFu0YE6pyr-lveb69VjyckESeytvTH7NrKYohqZysVzZMZwQa3LNEcmQzbSZua6-z2ocpMTtKF3G2ehKZFod2TGudK-7fy47D3fOO3bdJwOcA13XadF-SGaQzckEMoptkSQvNU8zAfBxQ9ByzdA-47L_GJTGZ8saO_2-B0oqzbyO33C-01AiXsKEAmDTUQXSt4u1hMLwJvcVdEjtS253cJjwr1ZyFg_-Z-tsfyNtSmS6gqbke4sWPt2p5IeS-yGMiwSF_fc4roT52tTKoCXeE7xW9JhpUmPFL5st1gV6b1SLe9XKrAj9iBZSpH84DUFpnTOEoZwN_6S71eyg7IOOH_ZDkz_1IiEGJHte9kdeCQ-SuCKs_YExGH-yp9P3GkBq4vvRTujWMD9wJBeLs5tZ1CAdXbOs1orN-fF-BUuIynvj19c3iaf2J1jqJZOVLoA_E2ZQBv2i3ZztLg2MEVq9_RfQ8dpOTZD_RXf1DN5v3dk2G910bDKIwBemDDzKCDe7p8h9eSx2kyWli1cBeUg-lLa_b0Ll86t04yrWoDHe2-u4o5JjFADN0g_NMhD1hSzAyukAMUJdE3yZCwqIlcRk4ekPqWbtz5QpK5VWNDPjNOPVOagFdg7vmwPIrXwPLYF4er5EWdOSiYlrOih2Yw7sX_2NT4B98ztj2aKh-lw0qrGZn2NG6lxTWfiQsZnWY7pJRBUOW-MYTxCKkV9_jqGWgDOTV8dKFm9PBlU0gvyHX2a6AUSbKpHZkjvnjLIvaimqrAPJ4ZdeXi6H-KaKa_aOXULI7aUQ37kW5kaF5gmZ_9jY2AnxoA9KhLCwBOfZhZ0EOfZc_ax3tCHbKg6R6QM8hwRwZhDn1E2OMLy20Yox7UapcPHSZKM6exvn1XFAhI5N4UEmn5wbFa6rwAiI9bJDfr9MjINffiNOsV2-UG9v4UWh9ha40x7jPhrP-z6pB&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOGwMnTITPqJRgWgbYqWxycsJ5OB8soh7he3BLKj3UBBnE8W9SchBGKHilMaknHF4CPrrhpjXcn2ydXBoRRfGEV_v_2c1PdT4B195MENFUKCvnok2nXYgyToUzwrMgVTImjuHXD4sYLj9SLeckdiOqV66xPxhovsI7gy0yY9639R258ZOvWaykt4u7hXnaqgIpzjZnbh0pLVO2YCFB1P74Dn431X8RO-3BSkgroJgM0p0H44oWCStLKMXRJjsG4U2LPfoINA1-k5Un7DO3XjBvQlkZP9leS7Nc8HtvHK0xsZmwuig1XSuuD07Mw6ZF_m-ZVQWwCs_WQD6IpKjWLs1g_ZnJDjdB1RyFOTEoQ3HX23ckoeKGdm5FbUE93lE3RSxeG1G7njf42njxsDiV7pEBXmFxbx3ddTOaqM4KaKoO7YVr51zDpkAtU9Yi8e6n9sQvkIPPoQ3DwgqOmBY9JGTeEE4bApg%26flowName%3DGeneralOAuthFlow%26as%3DS-1844251199%253A1791820982721183%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfkL7BXiKVK51bAYhXCVf1nvHaB4y96bOhBZiQcf9aM1kmT1oLWKQ-RnmyxqGDzRO4YskLAyxGLK4fjISh8FItDitwKCKJzv7__HOsSDLNpid0XIrc",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-737073731%3A1792418046492249&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=r4uYwYErwWC0tRA4JHPFn0bu8nJGi9tavxVBX5JCSG0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREErcx_v3Yfgz9ocaSzjvXCBiVPEgmvAWvnScEJqcttA-7FUHBJ477SJ0cs5K1A2Iw3CJM9qryHsAPBDysss6np4pV47KuJFgtxe_LYihb0M8Tp6U4pme-Pu7hFYbnc4uNbqoWd7YcwgXdr-WOCiDQccr8td5adGc8Y8yytCiIT-RUIUBftwIZrBAZ1k-KDhorYKxOTsEPLKi2rSCODpHGyaFogqTKVmKx7N7dpr_yoc9oao3QCLaB9Q1z-lSybHjk-1Qy-JWZbk7RXfhrnInYZY7YWPxs_EJFcketC1JKKWjxiqjmj5y0ZXe25NBhI8Qszh4YrupXFInQ0pFP-eUATsfvnD09hz6BaM45V7Y20mSkCR-bP_G5XuRkEm07m64wYqAZJODO-2B5aSUeQfSSY-ehrFFhDLWNp94S4F8sPo0U3gU7pCIWKBfx9EACqhIdco--_8nTlLDNxu2xJRTviOjI9FsBjVevW-DWmhn46_1SRT335nOBYx6tBRIMr_CxGqegoHbHogiwoLoJpJ1iW0BVkgl5TnAKK6kDH0pQN7yWtral5Wzco4WznJQFYGZ7nXhMBYnhqVI0DsMViJzXhKtfFqydWINwtzF50TxNcq0pA99s1NyFp1Httbv_wQl1cp0_nuFW6h3gpHwJ6OuvDoo5NUclBMIL9uaGd5KNYomeED6FOkys3g7op7GZj1xOz8acS-YHQH0QrlFn0d0zhYiSZ5mgwO7W65-WmFtwaOoFN5-NHsZ_4srX63w5mGwPy3H7SC-bFLNLxlOdUrQeC3WaogsWSd_fYFOMoxoByYM2AULWaUOb3r0Mv06iLakvS0Yy_lYSv1DksYSynN-HtuXZZCmBquWeQilpYhMpt_UmIK5Ea_8zLBEdE-rfTnJKSrE0CytdUYlpxnoL1CXjmHvefNtqPXlkyrML-e4U5qjViww6p7gVTcN6gp1VB1MjBduVQ72xECiTOTL3fBlGL8gZ0ka7WGOKAJbJ6xRcxInisQttUaZtW5CpiK-RBFhGkUoXl-ylhCJ5TcHfyEkQlIZivz4ApTrKN60bu4ZWekyT5hgCysz564EiOARkXUU0fuLDqPYpsPip0XbUkGSDP0DmkdFesHr_Z66z3j8DYgN8Gzh_3hvbk&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANJq6f3nZdRl3V6BcrTIe024GmoBHcy1QmfRFC_KdTgfDTLhDIYk7QD4ZXpFqMZrISnQ2ttJdJjjdDtFrZpgtXYp5zRpfK0Qpiyj-Pu2Rqi2Mn6yOnTL4mk2Pb7T49VFFBQ9FF6TPe3gHHehBTdZyEufAW9z6eqTnvbUpGPQxgPXQC0VUJMrDo9GhdZUYQk2aWU5sJicBVZa0RNVQdb6NaJ0s0Jsf1V7B40urjbxRPVyxE-mL7mEyuPVbc7j75kzfpjpUhipwU_PmFFiRkMEonpHTcnXHSKQPa8Nq2y8jCeYwv7VmF5hoTxDRnP7weQr2pRg9IGq7Cy7IsG0tN8lqP1RtEvoKkEfgZ_HXxLRKCK_386QynyiO08b8LaaY4eV5_msnhX4Bra1ddw1O9gkBRpkTTRxcZq4pqsbuqsytHzITz-za8ZpZEMVKFK8pqGcuyWr9vvlJiKjbc1VMkTqxji9N4ZaQ%26flowName%3DGeneralOAuthFlow%26as%3DS-737073731%253A1792418046492249%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcd6dTW4FXneDMBd3QaB6wPEQpZWuuErr_jJ0XyR_J-MyUoYyVevuSa3UnnnEYIMQf6HP8ENI_ZleR-Q-E9CXLEvXG5_rqwzh0LwKMGAqis8xQ0BUgc",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -964,6 +997,13 @@
    "status": "no response"
   },
   {
+   "host": "staging.comm.micro1.ai",
+   "status": "ok",
+   "url": "https://staging.comm.micro1.ai/",
+   "title": "micro1 Communications",
+   "links": []
+  },
+  {
    "host": "staging.cortex.micro1.ai",
    "status": "ok",
    "url": "https://staging.cortex.micro1.ai/",
@@ -990,6 +1030,10 @@
   },
   {
    "host": "static-content.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "studio.flow.gov.micro1.ai",
    "status": "no response"
   },
   {
@@ -1126,9 +1170,9 @@
      "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
     },
     {
-     "url": "https://www.micro1.ai/benchmark/realm-legal",
+     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
      "kind": "page",
-     "text": "Realm: Legal reasoning benchmarkThe standard for evaluating legal reasoning in AI systems"
+     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -1224,10 +1268,6 @@
    "kind": "page"
   },
   {
-   "url": "https://www.micro1.ai/benchmark/realm-legal",
-   "kind": "page"
-  },
-  {
    "url": "https://www.micro1.ai/benchmark/realm-financial",
    "kind": "page"
   },
@@ -1248,11 +1288,11 @@
    "kind": "page"
   },
   {
-   "url": "https://www.micro1.ai/benchmark/realm-pathology-report-v2",
+   "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
    "kind": "page"
   },
   {
-   "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+   "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
    "kind": "page"
   },
   {
@@ -1281,6 +1321,10 @@
   },
   {
    "url": "https://www.micro1.ai/forum/contextual-evals-for-enterprise-ai-agents",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/forum/retrieval-benchamrk-launch",
    "kind": "page"
   },
   {

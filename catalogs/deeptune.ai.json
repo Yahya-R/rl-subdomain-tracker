@@ -1,6 +1,6 @@
 {
  "domain": "deeptune.ai",
- "live_hosts": 12,
+ "live_hosts": 11,
  "pages": [
   {
    "host": "accounting-samples.deeptune.ai",
@@ -28,13 +28,6 @@
    "links": []
   },
   {
-   "host": "computer-samples.deeptune.ai",
-   "status": "ok",
-   "url": "https://computer-samples.deeptune.ai/",
-   "title": "Deeptune \u00b7 Computer Use Environments",
-   "links": []
-  },
-  {
    "host": "deeptune.ai",
    "status": "ok",
    "url": "https://deeptune.com/",
@@ -48,7 +41,7 @@
   {
    "host": "mai-sample.deeptune.ai",
    "status": "ok",
-   "url": "https://deeptune.cloudflareaccess.com/cdn-cgi/access/login/mai-sample.deeptune.ai?kid=5bdb1cc2883aeaf97aee7521a8f6d0dbd99610b31872c434864fb601ac513afa&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM3ZWRhNDhiZTQ0YjlmMWE2M2I4YmMzNzg1OWEzZDBhZDAzNWMwNzAxYzA4N2I2N2EyZjE4YmIyYTQ5NzZhYzMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjViZGIxY2MyODgzYWVhZjk3YWVlNzUyMWE4ZjZkMGRiZDk5NjEwYjMxODcyYzQzNDg2NGZiNjAxYWM1MTNhZmEiLCJob3N0bmFtZSI6Im1haS1zYW1wbGUuZGVlcHR1bmUuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTgyMTgwMCwibmJmIjoxNzkxODIxNTAwLCJpYXQiOjE3OTE4MjE1MDAsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJhNDc4ODgzNmRjN2U1MmVlZjI1Mzc4YmYwYWY2Y2I2ZDM5OGIwYjkwNjg1ZDVkZjA0YjVlNmMxOGE1NTEyMzg3In0.rQDdsDy44tm4-cRuhkLEvVNfocaA-1NB-ru0T8y8Q3ApTva3SPcH7aslDMBZZGzV3uHk76n9T1XwDkQO6GXYxENypov5ZLKTEAepFoKXiOp_Xqgfgw4KzVQDz5IWkLRzX2xTEHUhjt3pgeAdhQCvozil6jz3VOrTREK_lDJ2MzgbrqbDuZQQOxzu68QaJVrosnnJbc3_3wUpopuAc7xXFIhzF47XBCo293E9h-R6TBzTB4Xnr0PsXvwfo02gy4yutlTHm8XJl3Pgxydg_zO_N2VED9NZ_Geg_8PqkqLKhasMLFNWSV1DLFlymUTssLS5dcvwNom16ZKUVwoIKEbhSw&redirect_url=%2F",
+   "url": "https://deeptune.cloudflareaccess.com/cdn-cgi/access/login/mai-sample.deeptune.ai?kid=5bdb1cc2883aeaf97aee7521a8f6d0dbd99610b31872c434864fb601ac513afa&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM3ZWRhNDhiZTQ0YjlmMWE2M2I4YmMzNzg1OWEzZDBhZDAzNWMwNzAxYzA4N2I2N2EyZjE4YmIyYTQ5NzZhYzMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjViZGIxY2MyODgzYWVhZjk3YWVlNzUyMWE4ZjZkMGRiZDk5NjEwYjMxODcyYzQzNDg2NGZiNjAxYWM1MTNhZmEiLCJob3N0bmFtZSI6Im1haS1zYW1wbGUuZGVlcHR1bmUuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MjQxODk0OSwibmJmIjoxNzkyNDE4NjQ5LCJpYXQiOjE3OTI0MTg2NDksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJkYTkwNmJlMzA1ODBjMzU1YzMyNmYwNzM3OGMxYTBjNTRhMzQyMjJjOTZiNThkNGIxMTgzMzU1ZWRjMzk3M2NiIn0.Gqt3zkuh3b72eT265dJx6GNxvUT-FoN8OpZnCMX8ky1r2yJBX9P3kVcxpQ5QNMPD5gPaiqoagSK7UoLA__u-ANYDrjEyNwrDVBGY_oNt6MLXHXdYKG-0YDZYP8tm3q1UPBtfksX4b7gd93r4WubucvYGxHrJhRe4-qoJQ-plhhMLpYyDrDR0o2B_jKtaHnEwrD49zDcHggIBqLYondDNWScr3RdS3bY2ptyw76PLf7U9edYyCS2VNKl_T2gp80CIlQKuzy9vqsBdX5Ab3xSeGsYHVc8UFXe0Nxhy-iakwaYKrlA8eMqZnKbUv9-Ve0vy4qtrtvma4ztPgjlFyZrpKw&redirect_url=%2F",
    "title": "Sign in \u30fb Cloudflare Access",
    "links": []
   },

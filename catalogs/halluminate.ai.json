@@ -1,6 +1,6 @@
 {
  "domain": "halluminate.ai",
- "live_hosts": 34,
+ "live_hosts": 35,
  "pages": [
   {
    "host": "aa.halluminate.ai",
@@ -194,6 +194,13 @@
    "status": "no response"
   },
   {
+   "host": "samples.halluminate.ai",
+   "status": "ok",
+   "url": "https://samples.halluminate.ai/login",
+   "title": "Halluminate Samples",
+   "links": []
+  },
+  {
    "host": "skyscanner.halluminate.ai",
    "status": "ok",
    "url": "https://skyscanner.halluminate.ai/",
@@ -203,7 +210,7 @@
   {
    "host": "staging.horizon.halluminate.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.horizon.halluminate.ai%252F%26nonce%3D1a6a37171afcb3b1b5ccca80f21600e915c0f1d8c2735bcc0806174aea599bbe",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.horizon.halluminate.ai%252F%26nonce%3D8cc9f52b5e6a393d2ca1b5873adef7290a99f3446b1c2f0c01160b02a3eceaa8",
    "title": "Login \u2013 Vercel",
    "links": []
   },

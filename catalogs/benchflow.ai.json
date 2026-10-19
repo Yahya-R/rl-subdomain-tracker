@@ -1,6 +1,6 @@
 {
  "domain": "benchflow.ai",
- "live_hosts": 135,
+ "live_hosts": 150,
  "pages": [
   {
    "host": "amberber-671ee842.preview.benchflow.ai",
@@ -471,44 +471,8 @@
    "host": "hub.benchflow.ai",
    "status": "ok",
    "url": "https://hub.benchflow.ai/",
-   "title": "BenchFlow \u2014 A frontier environment lab for AI agents",
-   "links": [
-    {
-     "url": "https://arxiv.org/abs/2602.12670",
-     "kind": "hosted",
-     "text": "Paper (arXiv)"
-    },
-    {
-     "url": "https://arxiv.org/abs/2604.05172",
-     "kind": "hosted",
-     "text": "Paper (arXiv)"
-    },
-    {
-     "url": "https://github.com/benchflow-ai/ClawsBench",
-     "kind": "hosted",
-     "text": "GitHub"
-    },
-    {
-     "url": "https://github.com/benchflow-ai/benchflow",
-     "kind": "hosted",
-     "text": "GitHub"
-    },
-    {
-     "url": "https://github.com/benchflow-ai/skillsbench",
-     "kind": "hosted",
-     "text": "GitHub"
-    },
-    {
-     "url": "https://hub.benchflow.ai/research/clawsbench",
-     "kind": "page",
-     "text": "02\u00b7 EnvironmentClawsBenchFive mock workplaces \u2014 Gmail, Calendar, Drive, Docs, Slack \u2014 wire-compatible with the upstream "
-    },
-    {
-     "url": "https://hub.benchflow.ai/research/skillsbench",
-     "kind": "page",
-     "text": "01\u00b7 BenchmarkSkillsBenchThe first benchmark for whether procedural skills \u2014 instructions, scripts, references an agent l"
-    }
-   ]
+   "title": "BenchFlow Hub",
+   "links": []
   },
   {
    "host": "pay.benchflow.ai",
@@ -554,7 +518,19 @@
    "status": "no response"
   },
   {
+   "host": "sikai08089-38b04bb9.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
    "host": "sikai08089-8f27692d.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sikai08089-a8e046eb.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "sikai08089-af9367a8.preview.benchflow.ai",
    "status": "no response"
   },
   {
@@ -566,7 +542,15 @@
    "status": "no response"
   },
   {
+   "host": "tastechattestsender-04eb89bd.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
    "host": "tastechattestsender-05f75330.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-06c2afe5.preview.benchflow.ai",
    "status": "no response"
   },
   {
@@ -582,11 +566,43 @@
    "status": "no response"
   },
   {
+   "host": "tastechattestsender-22364fbd.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-2b56a663.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
    "host": "tastechattestsender-2d4199b8.preview.benchflow.ai",
    "status": "no response"
   },
   {
+   "host": "tastechattestsender-37c96e4d.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-4120a5af.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-5f0d8a7c.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
    "host": "tastechattestsender-8127dfda.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-92891ebc.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-9359cdf7.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-aca3bc5d.preview.benchflow.ai",
    "status": "no response"
   },
   {
@@ -602,6 +618,10 @@
    "status": "no response"
   },
   {
+   "host": "tastechattestsender-be9501d1.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
    "host": "tastechattestsender-d61f1ce0.preview.benchflow.ai",
    "status": "no response"
   },
@@ -611,6 +631,10 @@
   },
   {
    "host": "tastechattestsender-dea329c9.preview.benchflow.ai",
+   "status": "no response"
+  },
+  {
+   "host": "tastechattestsender-e67b26f9.preview.benchflow.ai",
    "status": "no response"
   },
   {

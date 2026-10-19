@@ -1,12 +1,19 @@
 {
  "domain": "idler.ai",
- "live_hosts": 9,
+ "live_hosts": 10,
  "pages": [
   {
    "host": "api.idler.ai",
    "status": "ok",
    "url": "https://api.idler.ai/",
    "title": "",
+   "links": []
+  },
+  {
+   "host": "forktree.idler.ai",
+   "status": "ok",
+   "url": "https://forktree.idler.ai/",
+   "title": "forktree",
    "links": []
   },
   {
@@ -32,7 +39,7 @@
   {
    "host": "looky.idler.ai",
    "status": "ok",
-   "url": "https://white-cell-6563.cloudflareaccess.com/cdn-cgi/access/login/looky.idler.ai?kid=574f6a5a24e5f236c2291b522b298308b8583e3324b5f8d6b56ce4783eeb7736&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjYyNjM2YzYxYjkzMTVkMTIwNGZhMTQwYzgyZjI5NjAxZGNlMTJjZjFmODEwMGFjZjZiMjUwNTc3ZWZlNTZlYmEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU3NGY2YTVhMjRlNWYyMzZjMjI5MWI1MjJiMjk4MzA4Yjg1ODNlMzMyNGI1ZjhkNmI1NmNlNDc4M2VlYjc3MzYiLCJob3N0bmFtZSI6Imxvb2t5LmlkbGVyLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE4MjE4NjUsIm5iZiI6MTc5MTgyMTU2NSwiaWF0IjoxNzkxODIxNTY1LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiODFmODQwMmY3ZWQ4NGFkOGY5MzhjOWZlN2QyZDQwMDQ4MDBkMGRiNjE0NDc5NDhkY2Y0MzI3MmE3ZTNiYzExNyJ9.QW8R5VE_A-DiwE5qKOX3rPXNgyHTyEqEsM9_v7oeblrYKcgnTh4miliuwmobeLHBdz7Vlokhy_5XOEwYKhYcKo1LQoB4mR6kajCRDZ-NopzChzZQbrdotMH9XraXjXVNPkd1Ayn-lPER8GhVexk4qoEUYofY5qtJU56gztgGAO5brDVAuHMas4BXtAaPOWEJFBkBbQifOn5HwwAyklwQEh_NyKERfocaiezcpYUu_0BPTMh72fCtn0cDnWQzJ5C8cZdl2Al9wHiVVWRvTckB2Quy-o40a8TQzQ6IttisWytCSJpMtRtjx3CrjuM_DLjPNg1S4_v3fD-tkaETZab-Hw&redirect_url=%2F",
+   "url": "https://white-cell-6563.cloudflareaccess.com/cdn-cgi/access/login/looky.idler.ai?kid=574f6a5a24e5f236c2291b522b298308b8583e3324b5f8d6b56ce4783eeb7736&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjYyNjM2YzYxYjkzMTVkMTIwNGZhMTQwYzgyZjI5NjAxZGNlMTJjZjFmODEwMGFjZjZiMjUwNTc3ZWZlNTZlYmEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU3NGY2YTVhMjRlNWYyMzZjMjI5MWI1MjJiMjk4MzA4Yjg1ODNlMzMyNGI1ZjhkNmI1NmNlNDc4M2VlYjc3MzYiLCJob3N0bmFtZSI6Imxvb2t5LmlkbGVyLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTI0MTg5NzQsIm5iZiI6MTc5MjQxODY3NCwiaWF0IjoxNzkyNDE4Njc0LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMTM4NjA3NTIzYmUxNTQ1MWMyNzQ5Y2Q5ZWYzOTg1ZWMwNDk3Mjc3MTJmZTQzM2ViODdlZTg2MzVhMTgyNDQxMCJ9.UmPWve9GKl_zEjfIM0BRn3NHElc40qPuoVPnfpBpfxcuTlAC_or7Pwevq4FnCcB4M71B1yLKVcgjehURJGpy7GnkQHpgamF64xHUKM706oApdDq9caElzdvT6gV1HZxc_je1KgbONQK5i3bj9S0FU88EXOGoeRrW6ZjZ4B5exNUp2FDfyYLYrF6JPnkt_TNzmttEK2Mr-1cg-BfsPipQ215PoG_Mnyr9lLQ47xjTfcxIWFL9UDTyWJAJvwhF9gaJhboqIy-1WnIQsABEWKp-M7k02axk2mh3MrqgcydAl2wvlt_Oa84XvVYJbaFGHMioYB5_5Wzf8pCWPSpmqBYlaQ&redirect_url=%2F",
    "title": "Sign in \u30fb Cloudflare Access",
    "links": []
   },
@@ -57,7 +64,7 @@
   {
    "host": "staging.idler.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.idler.ai%252F%26nonce%3D23770162d5b0c4c56482bdfe6377500a05d8724a913f0e2de9f5c7ccecaff329",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.idler.ai%252F%26nonce%3Dad0e5717ba0b8981fff3141a827602314811f0d8bccf19060a3d94e750888a67",
    "title": "Login \u2013 Vercel",
    "links": []
   },

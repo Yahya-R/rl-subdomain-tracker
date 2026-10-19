@@ -56,7 +56,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
      "kind": "page",
-     "text": "XLANGOSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. Long-horizon computer use XLANG Lab (Unive"
+     "text": "OSWorld 2.0 Evaluates computer-use agents on 108 long-horizon workflows. Long-horizon computer use XLANG Lab (University"
     },
     {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
@@ -354,14 +354,14 @@
      "text": "Software Engineering SWE-bench CLI Evaluates validated multi-file code changes in open-source repositories. By pass@11Op"
     },
     {
-     "url": "https://devweb26.snorkel.ai/leaderboard/terminal-bench-4-0/",
-     "kind": "page",
-     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
-    },
-    {
      "url": "https://devweb26.snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://devweb26.snorkel.ai/leaderboard/terminal-bench/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
     },
     {
      "url": "https://devweb26.snorkel.ai/leaderboard/workplace-agents/",
@@ -402,17 +402,17 @@
    "title": "Data-centric AI for the enterprise | Snorkel AI",
    "links": [
     {
-     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/data-management/uploading-a-dataset",
+     "url": "https://docs.snorkel.ai/docs/26.7/user-guide/data-management/uploading-a-dataset",
      "kind": "page",
      "text": "Uploading a dataset"
     },
     {
-     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/evaluation/evaluation-overview",
+     "url": "https://docs.snorkel.ai/docs/26.7/user-guide/evaluation/evaluation-overview",
      "kind": "page",
      "text": "Evaluation overview"
     },
     {
-     "url": "https://docs.snorkel.ai/docs/26.1/user-guide/evaluation/evaluation-workflow-overview",
+     "url": "https://docs.snorkel.ai/docs/26.7/user-guide/evaluation/evaluation-workflow-overview",
      "kind": "page",
      "text": "Get started"
     },
@@ -541,11 +541,6 @@
      "url": "https://leaderboard.snorkel.ai/",
      "kind": "page",
      "text": "Leaderboards (opens in a new tab)"
-    },
-    {
-     "url": "https://snorkel.ai/all-models/",
-     "kind": "page",
-     "text": "OpenAI Sep 29, 2026 GPT-6.1 Sol RANK BY BENCHMARK Agentic Coding 2.0 42.8% #2/14 SnorkelFinance 2.0 6.6% #12/14 SnorkelL"
     },
     {
      "url": "https://snorkel.ai/data-development/",
@@ -728,19 +723,39 @@
      "text": "Learn more about Terminal-Bench 3.0"
     },
     {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
-     "kind": "page",
-     "text": "Learn more about Terminal-Bench 4.0"
-    },
-    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Learn more about Terminal-Bench-Science"
     },
     {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench/",
+     "kind": "page",
+     "text": "Learn more about Terminal-Bench 4.0"
+    },
+    {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
      "kind": "page",
      "text": "Learn more about WorkplaceAgents"
+    },
+    {
+     "url": "https://snorkel.ai/models/gpt-6-1-sol",
+     "kind": "page",
+     "text": "OpenAI Sep 29, 2026 GPT-6.1 Sol RANK BY BENCHMARK Agentic Coding 2.0 42.8% #2/14 SnorkelFinance 2.0 6.6% #12/14 SnorkelL"
+    },
+    {
+     "url": "https://snorkel.ai/models/gpt-6-astra",
+     "kind": "page",
+     "text": "OpenAI Sep 03, 2026 GPT-6 Astra RANK BY BENCHMARK Agentic Coding 2.0 47.6% #1/14 Agents\u2019 Last Exam 34.2% #2/43 SnorkelFi"
+    },
+    {
+     "url": "https://snorkel.ai/models/grok-4-7",
+     "kind": "page",
+     "text": "xAI Sep 21, 2026 Grok 4.7 RANK BY BENCHMARK Agentic Coding 2.0 31.9% #8/14 Senior SWE-Bench 27.4% #9/22 SnorkelFinance 2"
+    },
+    {
+     "url": "https://snorkel.ai/models/opus-5-5",
+     "kind": "page",
+     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #3/14 Agents\u2019 Last Exam 38.2% #1/43 SnorkelFi"
     },
     {
      "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
@@ -764,7 +779,7 @@
    "title": "Snorkel AI Security Portal | Powered by SafeBase",
    "links": [
     {
-     "url": "https://security.snorkel.ai/?amp%3Bamp%3Bamp%3Bsource=click&amp%3Bamp%3BitemName=access_control&amp%3Bamp%3Bsource=click&amp%3Bsource=click&itemName=documents&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
+     "url": "https://security.snorkel.ai/?amp%3Bamp%3Bamp%3Bamp%3Bsource=click&amp%3Bamp%3Bamp%3BitemUid=38b62117-19f2-4e4e-b679-9421b66c114e&amp%3Bamp%3Bamp%3Bsource=click&amp%3Bamp%3BitemUid=ef061e5b-a2f4-469e-92bc-ab973e3d7842&amp%3Bamp%3Bsource=click&amp%3BitemUid=c41ff7d5-98e7-4d79-9594-fd8ef93a2838&amp%3Bsource=click&itemName=endpoint_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
      "kind": "page",
      "text": "REPORTSSecurity Whitepaper"
     }
@@ -946,7 +961,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/mbabench-2/",
      "kind": "page",
-     "text": "Enterprise Environments MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-wr"
+     "text": "Knowledge Work MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-written tas"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
@@ -999,14 +1014,14 @@
      "text": "Agentic Coding Terminal-Bench 3.0 Evaluates terminal agents on containerized tasks across seven domains. By Resolution R"
     },
     {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
-     "kind": "page",
-     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
-    },
-    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
     },
     {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
@@ -1156,7 +1171,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/mbabench-2/",
      "kind": "page",
-     "text": "Enterprise Environments MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-wr"
+     "text": "Knowledge Work MBABench 2.0 Evaluates agents on building financial models in spreadsheets, across 101 expert-written tas"
     },
     {
      "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
@@ -1209,14 +1224,14 @@
      "text": "Agentic Coding Terminal-Bench 3.0 Evaluates terminal agents on containerized tasks across seven domains. By Resolution R"
     },
     {
-     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
-     "kind": "page",
-     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
-    },
-    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Science & Research Terminal-Bench-Science Evaluates agents on scientific workflows derived from researchers\u2019 own work. B"
+    },
+    {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench/",
+     "kind": "page",
+     "text": "Agentic Coding Terminal-Bench 4.0 Evaluates terminal agents on continuously updated software-engineering tasks. By Resol"
     },
     {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
@@ -1625,22 +1640,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/librarydesignbench/",
    "kind": "page"
   },
@@ -1669,27 +1668,7 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/digital-work-index/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/workplace-agents/",
    "kind": "page"
   },
   {
@@ -1713,7 +1692,43 @@
    "kind": "page"
   },
   {
+   "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/workplace-agents/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/snorkel-manufacturing/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench/",
+   "kind": "page"
+  },
+  {
    "url": "https://snorkel.ai/leaderboard/mbabench-2/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/senior-swe-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
    "kind": "page"
   },
   {

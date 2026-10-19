@@ -1,6 +1,6 @@
 {
  "domain": "vetto.ai",
- "live_hosts": 92,
+ "live_hosts": 94,
  "pages": [
   {
    "host": "anetto.vetto.ai",
@@ -133,6 +133,10 @@
   },
   {
    "host": "email.notify.vetto.ai",
+   "status": "no response"
+  },
+  {
+   "host": "email.vetto.ai",
    "status": "no response"
   },
   {
@@ -341,7 +345,14 @@
   {
    "host": "sandbox.arena.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3D87cb20b89e0452e5facac8bcd4f8700e5f8bc1e2ea6ddc1f1431bdfd9a32aa65",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Debd5e0915e43e6ae85e345e9783bf2f253ed2f994ef3247334bef5584c230ac9",
+   "title": "Login \u2013 Vercel",
+   "links": []
+  },
+  {
+   "host": "sandbox.atlas.vetto.ai",
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Df2031387569bc5e0c1fc2a6942ae6aa3dc147a1e22c341387e461f3979fda78f",
    "title": "Login \u2013 Vercel",
    "links": []
   },

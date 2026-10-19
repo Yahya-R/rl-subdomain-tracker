@@ -1,6 +1,6 @@
 {
  "domain": "wirestock.io",
- "live_hosts": 67,
+ "live_hosts": 68,
  "pages": [
   {
    "host": "agencies.wirestock.io",
@@ -127,16 +127,7 @@
   },
   {
    "host": "development.api.wirestock.io",
-   "status": "ok",
-   "url": "https://t1.teknodrem.com/",
-   "title": "Free Template Download - Content",
-   "links": [
-    {
-     "url": "https://development.api.wirestock.io/?token=FgfFig9nclsM6wQPfL339D2LSaCQPGBIIdd9zBvXDS09JaC6U6GS",
-     "kind": "page",
-     "text": "Free Template Download"
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "development.backend.wirestock.io",
@@ -198,6 +189,13 @@
   {
    "host": "ftps.data-program.wirestock.io",
    "status": "no response"
+  },
+  {
+   "host": "gdp.wirestock.io",
+   "status": "ok",
+   "url": "https://gdp.wirestock.io/login",
+   "title": "GDP Wirestock",
+   "links": []
   },
   {
    "host": "generated-images.wirestock.io",
@@ -279,16 +277,7 @@
   },
   {
    "host": "staging.wirestock.io",
-   "status": "ok",
-   "url": "https://staging.wirestock.io/",
-   "title": "StockSpark - Latest News & Guides",
-   "links": [
-    {
-     "url": "https://staging.wirestock.io/2014-hyundai-models-new-cars-reviews-pricing.html",
-     "kind": "page",
-     "text": ""
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "superset.wirestock.io",
@@ -375,31 +364,11 @@
    "kind": "page"
   },
   {
-   "url": "https://wirestock.io/datasets/brand-kit",
+   "url": "https://wirestock.io/datasets/sports-videos",
    "kind": "page"
   },
   {
-   "url": "https://wirestock.io/datasets/video-edits",
-   "kind": "page"
-  },
-  {
-   "url": "https://wirestock.io/datasets/virtual-try-on",
-   "kind": "page"
-  },
-  {
-   "url": "https://wirestock.io/datasets/digital-art",
-   "kind": "page"
-  },
-  {
-   "url": "https://wirestock.io/datasets/high-bit-video",
-   "kind": "page"
-  },
-  {
-   "url": "https://wirestock.io/datasets/infographics",
-   "kind": "page"
-  },
-  {
-   "url": "https://wirestock.io/datasets/product-mockups",
+   "url": "https://wirestock.io/datasets/contact",
    "kind": "page"
   },
   {
@@ -407,11 +376,31 @@
    "kind": "page"
   },
   {
-   "url": "https://wirestock.io/datasets/sports-videos",
+   "url": "https://wirestock.io/datasets/product-mockups",
    "kind": "page"
   },
   {
-   "url": "https://wirestock.io/datasets/contact",
+   "url": "https://wirestock.io/datasets/infographics",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/datasets/digital-art",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/datasets/virtual-try-on",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/datasets/video-edits",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/datasets/brand-kit",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/datasets/high-bit-video",
    "kind": "page"
   },
   {
@@ -432,6 +421,10 @@
   },
   {
    "url": "https://wirestock.io/gen-ai-resources/best-dataset-providers-2026",
+   "kind": "page"
+  },
+  {
+   "url": "https://wirestock.io/gen-ai-resources/video-datasets-for-machine-learning",
    "kind": "page"
   }
  ]

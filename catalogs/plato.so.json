@@ -1,6 +1,6 @@
 {
  "domain": "plato.so",
- "live_hosts": 35,
+ "live_hosts": 37,
  "pages": [
   {
    "host": "amazon-2.plato.so",
@@ -89,6 +89,13 @@
    ]
   },
   {
+   "host": "eddy.plato.so",
+   "status": "ok",
+   "url": "https://shadow.plato.so:443/login",
+   "title": "Sign in \u00b7 Shadow",
+   "links": []
+  },
+  {
    "host": "forge.plato.so",
    "status": "ok",
    "url": "https://forge.plato.so/",
@@ -163,13 +170,20 @@
    "status": "no response"
   },
   {
+   "host": "shadow.plato.so",
+   "status": "ok",
+   "url": "https://shadow.plato.so/login",
+   "title": "Sign in \u00b7 Shadow",
+   "links": []
+  },
+  {
    "host": "sims.plato.so",
    "status": "no response"
   },
   {
    "host": "sky.plato.so",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-133386581%3A1791821628587578&approval_prompt=force&client_id=228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fsky.plato.so%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&service=lso&state=7qkt22KbxO2gBArMwga1PKK0PEP5PGMiBDrGjvVa4dA%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPdpClOSNoRdGcJTHUd0i6i0vs-vYng3d1Zwsdq1Cy7nyy0fS7omyRoEDayv6ABB8hr3Yu9QUViT7cJ4w9iXETMpWa3hq1AqTgYGZTu4Okh5u48tGd2hIbgucXD-tRbqUiLCOR2cU565JLbwMwTTp4i-PT-2hxd0C_xndoUL79b1Ytm4ug05Kl_1PVevTAKGDSTBzgdeNRds0NtrI66ep0al8kAWeGwAiI498mTLvwsQR9td2BtWFNkTCjmOZd0E2LZPcyplZuNjqIDYR8koyuUyFxWnA9jRrng96wDVQvt6NJp7_Z9x0penqAZ3_8N0R_hegU1DyVy354gG_hwsN3eNviYZQ-ERZLZfiLOttgzKC2uSbSEV9HHrSTVLC_w1hI4CquohcfCrdodFQ8OJFoRRmw9ujayFT_PclpA6a0eJes4Rz-wShhjq7-KtAwwNOk52tQBdjlgyMDKMVPPeD9utqEn4A%26flowName%3DGeneralOAuthFlow%26as%3DS-133386581%253A1791821628587578%26client_id%3D228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsky.plato.so&rart=ANgoxcfR29zThARgnQfFNe4eBJPsyrOinLmIGm0FJ6aan6VmFxI6gwEwvttrIY064L5SffrOJivnMP44l3mIG5RRH1qHi5jkQ_Y_QOP7lYqA_5B2iezb2Tk",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S909926664%3A1792418808122309&approval_prompt=force&client_id=228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fsky.plato.so%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&service=lso&state=ftyEdaFaxPLB5o2dgC5WIxOoCA03nwgAomWH43e2JPw%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANwRhMx2eU2jiToAxtJz9va71xqXMXCa3GZeOYnfkGdDrWazm6GV1DqIZngR1QqvCpJ0dxqd92gibsgGYyRYZ5L127J87t3UlzNmFRVsmyo5c7EV9zO_dzHaL49S9miMyCov2ghzrwJ-Jyq8eqV2Lj-_5dunQcdYQPH6hVWjr8NVl3Z7rZTlBox5bTeKnlWKEHyBKUjeUuX3XFp3-tkDDNjw3Jdp4iPAb6jN3BAFZWwtrMPkLZkpUAC1hQ13mpe9L7Uh4tGaW_ku55NBEnUjjo9qI6KhOkeKZFq8brlTd-kcs0BjhS94UnM3AR4MFhdDooakUyq53JrRyHoWZGhKyKR3MY-B3DhZodIVrdcaRoM-m1IYd725VjxwPwGanegTta3Ud2auqTJvN_z6Hp6V6i56fOiDPeHLEU0aq9LB0h-hJwbU2mBkQVpzssYZ8y6AXY8_G8_FpTY_ppj2Fsiqg_dL_pp2w%26flowName%3DGeneralOAuthFlow%26as%3DS909926664%253A1792418808122309%26client_id%3D228729477892-6rjrk3e685j56op9kgasetpcnrg56f85.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsky.plato.so&rart=ANgoxccrivGPKdY6Q5GeSP-d_C6qEZfbpV2mDxhsOK-S6-VBydS63a_5pabYlSQ0DmukoatuUYE0pmFQDVpyKrqmPh2vzVlgJARXcCfQvjxZEv1B5zjSWg0",
    "title": "Sign in - Google Accounts",
    "links": []
   },
