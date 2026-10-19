@@ -71,7 +71,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T22:33",
+  "last_scan": "2026-10-19T04:52",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -97,7 +97,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T22:34",
+  "last_scan": "2026-10-19T04:53",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -596,7 +596,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T22:34",
+  "last_scan": "2026-10-19T04:53",
   "failed_sources": [
    "certspotter"
   ]
@@ -1391,7 +1391,7 @@
  "snorkel.ai": {
   "sources": {
    "crtsh": 22,
-   "certspotter": null,
+   "certspotter": 19,
    "hackertarget": 0,
    "subdomain_center": 31,
    "wayback": 18,
@@ -1408,10 +1408,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-18T22:35",
-  "failed_sources": [
-   "certspotter"
-  ]
+  "last_scan": "2026-10-19T04:55",
+  "failed_sources": []
  },
  "surgehq.ai": {
   "sources": {
