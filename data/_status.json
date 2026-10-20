@@ -876,9 +876,9 @@
  },
  "mercor.com": {
   "sources": {
-   "crtsh": 668,
+   "crtsh": 670,
    "certspotter": null,
-   "hackertarget": 51,
+   "hackertarget": 0,
    "subdomain_center": 283,
    "wayback": 155,
    "rapiddns": 3,
@@ -894,7 +894,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-20T04:56",
+  "last_scan": "2026-10-20T14:13",
   "failed_sources": [
    "certspotter"
   ]
