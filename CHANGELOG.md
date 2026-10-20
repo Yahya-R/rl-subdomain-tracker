@@ -1,5 +1,19 @@
 # New subdomains
 
+## 2026-10-20
+
+### afterquery.com
+- authz.afterquery.com (136.68.169.221)
+
+### datacurve.ai
+- mira-pr-547.datacurve.ai (172.67.191.226)
+- polaris-e2e-1a6fa244-b137-4693-99bb-e1274d815790.datacurve.ai (104.21.20.75)
+- pr-543.mira-machine.datacurve.ai (44.238.77.190)
+- pr-547.mira-machine.datacurve.ai (44.238.77.190)
+
+### tastelabs.com
+- preview.hdp.tastelabs.com (34.120.183.23)
+
 ## 2026-10-19
 
 ### turing.com
