@@ -61,7 +61,7 @@
  },
  "10.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -283,7 +283,13 @@
  },
  "2-wwwq.a.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
+ "2.aha.a.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -329,6 +335,12 @@
   "ip": "",
   "live": false
  },
+ "20115.a.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "20127.a.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
@@ -343,7 +355,7 @@
  },
  "2014k.a.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -397,7 +409,7 @@
  },
  "222.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -541,7 +553,7 @@
  },
  "2e2da3.mx.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -649,7 +661,7 @@
  },
  "39l8.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -661,7 +673,7 @@
  },
  "3aee3a.mx.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -679,7 +691,7 @@
  },
  "3come.uber.spacespace.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -793,7 +805,7 @@
  },
  "44v44m1162.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -889,7 +901,7 @@
  },
  "4e1eaa.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1063,7 +1075,7 @@
  },
  "65m.mx.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1429,7 +1441,7 @@
  },
  "9.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1484,6 +1496,12 @@
  "973.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-14",
+  "ip": "",
+  "live": false
+ },
+ "97ca7b20.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1561,8 +1579,8 @@
  },
  "a.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "a1405.spmail.uber.com": {
@@ -1597,7 +1615,7 @@
  },
  "a4e03.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1711,7 +1729,7 @@
  },
  "abd9a.mx.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -1777,8 +1795,8 @@
  },
  "academyforbusiness.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "52.85.132.61",
+  "last_seen": "2026-10-21",
+  "ip": "13.249.141.7",
   "live": true
  },
  "acc-dev.uber.com": {
@@ -1825,8 +1843,8 @@
  },
  "accessibility.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.5",
   "live": true
  },
  "accessorycategorizer.prod.uber.com": {
@@ -1931,6 +1949,12 @@
   "ip": "",
   "live": false
  },
+ "accountk.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "accountq.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-18",
@@ -1939,8 +1963,8 @@
  },
  "accounts.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "accounts7.dev.uber.com": {
@@ -1993,19 +2017,19 @@
  },
  "activedirectory-dca1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "192.168.108.110",
   "live": true
  },
  "activedirectory-sjc1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "192.168.44.110",
   "live": true
  },
  "activedirectory.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "192.168.44.110",
   "live": true
  },
@@ -2041,7 +2065,7 @@
  },
  "acura-astra-4m.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2060,6 +2084,12 @@
  "acura-enclave-4o.dev.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-13",
+  "ip": "",
+  "live": false
+ },
+ "acura-equinox-3o.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2146,6 +2176,12 @@
   "last_seen": "2026-10-17",
   "ip": "",
   "live": false
+ },
+ "ad.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
+  "live": true
  },
  "ad32.uber.com": {
   "first_seen": "2026-10-11",
@@ -2335,7 +2371,7 @@
  },
  "administrators.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2425,7 +2461,7 @@
  },
  "adsacademy.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "32.192.107.201",
   "live": true
  },
@@ -2443,7 +2479,7 @@
  },
  "advertiser-stagingk.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2665,7 +2701,7 @@
  },
  "aierdatiyu.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2683,7 +2719,7 @@
  },
  "aion.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2731,8 +2767,8 @@
  },
  "aisolutions.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.18.17.34",
+  "last_seen": "2026-10-21",
+  "ip": "104.18.16.34",
   "live": true
  },
  "aixino.mx.dev.uber.com": {
@@ -2767,7 +2803,7 @@
  },
  "ajr.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2779,14 +2815,14 @@
  },
  "ak-gaia7.dev.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "ak04a6qc.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "52.85.132.75",
+  "last_seen": "2026-10-21",
+  "ip": "13.32.205.119",
   "live": true
  },
  "akali.a.dev.uber.com": {
@@ -2923,7 +2959,7 @@
  },
  "alexkim.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -2960,6 +2996,12 @@
  "alfa-romeo-s-class-3w.dev.uber.com": {
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
+  "ip": "",
+  "live": false
+ },
+ "alfa-romeo-vanagon-793.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3115,7 +3157,7 @@
  },
  "algarveu.cfe.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3151,7 +3193,7 @@
  },
  "alliance.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3187,7 +3229,7 @@
  },
  "alpha-cn-sjc1k.cfe.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3223,7 +3265,7 @@
  },
  "alphadev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3361,13 +3403,13 @@
  },
  "amex.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "amex.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3433,7 +3475,7 @@
  },
  "an-settlement.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3661,7 +3703,7 @@
  },
  "annah.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3907,7 +3949,7 @@
  },
  "apac.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3955,7 +3997,7 @@
  },
  "api-an-settlement.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -3967,7 +4009,7 @@
  },
  "api-asterisk.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.128.134.38",
   "live": true
  },
@@ -4015,8 +4057,8 @@
  },
  "api-influencer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "52.8.44.115",
+  "last_seen": "2026-10-21",
+  "ip": "184.169.164.227",
   "live": true
  },
  "api-maps.uber.com": {
@@ -4051,8 +4093,8 @@
  },
  "api.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "api01q.syd1.uber.com": {
@@ -4243,7 +4285,7 @@
  },
  "appstore-auto.aws.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4357,7 +4399,7 @@
  },
  "aptera-turbo-7q.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4423,7 +4465,7 @@
  },
  "arcadia.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4687,7 +4729,7 @@
  },
  "ashleyq1.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4741,7 +4783,7 @@
  },
  "assets-share.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4753,7 +4795,7 @@
  },
  "assets.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "98.89.86.73",
   "live": true
  },
@@ -4765,7 +4807,7 @@
  },
  "astana.cfe.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -4897,7 +4939,7 @@
  },
  "astonmartin-probe-7u.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5071,7 +5113,7 @@
  },
  "atlas.cloudapp.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5143,7 +5185,7 @@
  },
  "audi-cirrus-6s.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5203,7 +5245,7 @@
  },
  "auditingg.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5239,7 +5281,7 @@
  },
  "augustaa.cfe.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5347,7 +5389,7 @@
  },
  "austin-stratus-5q.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5377,7 +5419,7 @@
  },
  "austink.cfe.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5533,7 +5575,7 @@
  },
  "authdev.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5629,7 +5671,7 @@
  },
  "automate.sandbox.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5737,13 +5779,13 @@
  },
  "aws-dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "aws.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5767,7 +5809,7 @@
  },
  "ayesha9.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5791,7 +5833,7 @@
  },
  "az37.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -5911,7 +5953,7 @@
  },
  "b6253e.prod.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6211,7 +6253,7 @@
  },
  "bangalore.cfe.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6301,7 +6343,7 @@
  },
  "base.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "52.51.23.169",
   "live": true
  },
@@ -6415,7 +6457,7 @@
  },
  "bastion-dca83.prod.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6445,7 +6487,7 @@
  },
  "bastion-oob01-dca8.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6533,6 +6575,12 @@
   "ip": "",
   "live": false
  },
+ "bastion-phx39.prod.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "bastion-phx3m.uber.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
@@ -6547,7 +6595,7 @@
  },
  "bastion-phx4a.prod.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6691,7 +6739,7 @@
  },
  "bastion03.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -6793,8 +6841,8 @@
  },
  "bb-sjc1.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
-  "ip": "69.48.218.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "bb-sjc1e.uber.com": {
@@ -6913,8 +6961,8 @@
  },
  "beacon.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.8",
   "live": true
  },
  "bean.dev.uber.com": {
@@ -7091,6 +7139,12 @@
   "ip": "",
   "live": false
  },
+ "bentley-ipsum-9q.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "bentley-journey-7o.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-17",
@@ -7255,8 +7309,8 @@
  },
  "beta.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "betadev.uber.com": {
@@ -7285,7 +7339,7 @@
  },
  "bezierinfo.sptrans.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -7405,7 +7459,7 @@
  },
  "bigmaco.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -7423,7 +7477,7 @@
  },
  "bigpunk9.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -7441,7 +7495,7 @@
  },
  "bill.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -7561,20 +7615,20 @@
  },
  "biz-beta.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.5",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "biz-eats.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "ip": "104.36.194.114",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "biz-stage.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "52.52.129.83",
+  "last_seen": "2026-10-21",
+  "ip": "54.153.1.71",
   "live": true
  },
  "biz-stagee.uber.com": {
@@ -7585,8 +7639,8 @@
  },
  "biz.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "biz1.world.uber.com": {
@@ -7597,8 +7651,8 @@
  },
  "bizblog.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "bizblogq.uber.com": {
@@ -7609,7 +7663,7 @@
  },
  "bizsys.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "13.56.0.178",
   "live": true
  },
@@ -7699,7 +7753,7 @@
  },
  "blackswan5.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -7795,8 +7849,8 @@
  },
  "blog.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "blog01.syd1.uber.com": {
@@ -7861,13 +7915,19 @@
  },
  "blogapi.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "blogc.bloodhound-staging.uber.com": {
   "first_seen": "2026-10-18",
   "last_seen": "2026-10-19",
+  "ip": "",
+  "live": false
+ },
+ "blogc.trip-dc2.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8023,7 +8083,7 @@
  },
  "bloodhound-dca1.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8041,7 +8101,7 @@
  },
  "bloodhound-staging.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8171,6 +8231,12 @@
   "ip": "",
   "live": false
  },
+ "bmw-deville-3k.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "bmw-electra-9i.dev.uber.com": {
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-14",
@@ -8245,13 +8311,13 @@
  },
  "bnlls1.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "bob3c.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8270,6 +8336,12 @@
  "bocaikaisongcaijin.mx.dev.uber.com": {
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-20",
+  "ip": "",
+  "live": false
+ },
+ "bocairuanjianwang.mx.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8359,13 +8431,13 @@
  },
  "bom1-cp01.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "bom1-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8513,11 +8585,23 @@
   "ip": "",
   "live": false
  },
+ "boulderk.cfe.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "bounce.uber.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
   "ip": "192.28.144.217",
   "live": true
+ },
+ "bounceg.et.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
  },
  "bounces.uber.com": {
   "first_seen": "2026-10-11",
@@ -8539,7 +8623,7 @@
  },
  "boxe.twt0.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8563,7 +8647,7 @@
  },
  "bpan.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8689,7 +8773,7 @@
  },
  "brand.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.194.80",
   "live": true
  },
@@ -8738,6 +8822,12 @@
  "brazil-enterprisewebe.syao.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-14",
+  "ip": "",
+  "live": false
+ },
+ "brazil.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8857,7 +8947,7 @@
  },
  "bryan1.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8869,7 +8959,7 @@
  },
  "bryan3.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8941,7 +9031,7 @@
  },
  "bthompsoa.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -8953,7 +9043,7 @@
  },
  "bu387.mx.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -9091,13 +9181,13 @@
  },
  "bugatti-gransport-3.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "bugatti-ipsum-8w.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -9469,14 +9559,14 @@
  },
  "business.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "businesses.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.17.74.206",
+  "last_seen": "2026-10-21",
+  "ip": "104.17.72.206",
   "live": true
  },
  "businessesq.uber.com": {
@@ -9865,7 +9955,7 @@
  },
  "camtasiarelaya.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -9901,7 +9991,7 @@
  },
  "candidate9.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -9913,7 +10003,7 @@
  },
  "canoncopier.mx.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10015,7 +10105,7 @@
  },
  "careersemail.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "52.184.251.130",
   "live": true
  },
@@ -10033,7 +10123,7 @@
  },
  "careersinfo.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10219,7 +10309,7 @@
  },
  "catalog.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10345,7 +10435,7 @@
  },
  "cdn-devc.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10381,7 +10471,7 @@
  },
  "cdn.prod2.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10417,7 +10507,7 @@
  },
  "cdn5.spmail.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10489,7 +10579,7 @@
  },
  "cef2go.prod.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10519,8 +10609,8 @@
  },
  "central-beta.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "central-betac.uber.com": {
@@ -10537,7 +10627,7 @@
  },
  "central.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.195.2",
   "live": true
  },
@@ -10639,7 +10729,7 @@
  },
  "cfe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10693,7 +10783,7 @@
  },
  "cgibbs2.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10915,7 +11005,7 @@
  },
  "chef-automate-testing.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10933,7 +11023,7 @@
  },
  "chef-automate.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10945,7 +11035,7 @@
  },
  "chef-infra.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10963,19 +11053,19 @@
  },
  "chef-testing.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "chef.sandbox.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "chef.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -10987,19 +11077,19 @@
  },
  "chefauto-sandbox.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "chefauto.sandbox.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "chefautomate-testing.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11035,7 +11125,7 @@
  },
  "chefinfraserver-testing.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11059,13 +11149,13 @@
  },
  "chenjinu.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "chennai.cfe.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11575,7 +11665,7 @@
  },
  "chrysler-celica-8y.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11845,37 +11935,37 @@
  },
  "cisionone-email.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.111.99.212",
   "live": true
  },
  "citi.encryption.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "citi.mutualauth.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "citi.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "citi.signature.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "citie.signature.production.tokenizer.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11893,7 +11983,7 @@
  },
  "cjantze.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -11905,8 +11995,8 @@
  },
  "claimsportal.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "ip": "104.36.194.73",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "clampse.dev.uber.com": {
@@ -11947,7 +12037,7 @@
  },
  "clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12007,7 +12097,7 @@
  },
  "click.et.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "198.245.92.61",
   "live": true
  },
@@ -12019,7 +12109,7 @@
  },
  "click1.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12115,7 +12205,7 @@
  },
  "closek.aws.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12127,7 +12217,7 @@
  },
  "cloud-integrations-stage.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12139,7 +12229,7 @@
  },
  "cloud-integrations.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12151,7 +12241,7 @@
  },
  "cloud.et.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "128.17.81.3",
   "live": true
  },
@@ -12175,25 +12265,25 @@
  },
  "cloudflare-legacy.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "cloudflare-many-addresses.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.81",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.96",
   "live": true
  },
  "cloudflare-weighted.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "cloudflare.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "69.48.218.1",
   "live": true
  },
@@ -12295,7 +12385,7 @@
  },
  "clusto-vpc-us-west-2y.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12367,7 +12457,7 @@
  },
  "cms.profile.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12535,8 +12625,8 @@
  },
  "cn-dc1.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "cn-dc2.uber.com": {
@@ -12583,8 +12673,8 @@
  },
  "cn-dca1.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "cn-dca11.cfe.uber.com": {
@@ -12643,7 +12733,7 @@
  },
  "cn-ecg.cfe.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.98.127.226",
   "live": true
  },
@@ -12667,8 +12757,8 @@
  },
  "cn-gcp.cfe.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "35.201.81.34",
+  "last_seen": "2026-10-21",
+  "ip": "35.227.224.91",
   "live": true
  },
  "cn-geo1-redirect.cfe.uber.com": {
@@ -12679,19 +12769,19 @@
  },
  "cn-geo1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.17",
   "live": true
  },
  "cn-geo1y.cfe.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "cn-lb1.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12703,8 +12793,8 @@
  },
  "cn-neg.cfe.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.80",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "cn-negs.cfe.uber.com": {
@@ -12781,13 +12871,13 @@
  },
  "cn-slow1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "cn-slow2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12811,7 +12901,7 @@
  },
  "cn-sta.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12895,7 +12985,7 @@
  },
  "cn.cdn.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12907,7 +12997,7 @@
  },
  "cn.gcp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -12919,7 +13009,7 @@
  },
  "cn1.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13183,8 +13273,8 @@
  },
  "comarketing.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.66",
   "live": true
  },
  "comc.sptrans.uber.com": {
@@ -13231,7 +13321,7 @@
  },
  "commander.aws.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13369,13 +13459,13 @@
  },
  "compliance.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "compliance.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13447,7 +13537,7 @@
  },
  "compute9689i.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13627,7 +13717,7 @@
  },
  "cont6k.mx.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13639,13 +13729,13 @@
  },
  "contact.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "155.226.135.238",
+  "last_seen": "2026-10-21",
+  "ip": "155.226.157.182",
   "live": true
  },
  "contactm.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13753,7 +13843,7 @@
  },
  "contentmediam.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -13969,7 +14059,7 @@
  },
  "corbin-passat-5q.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14119,13 +14209,13 @@
  },
  "countdown.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "courier-process-sp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
@@ -14143,7 +14233,7 @@
  },
  "cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14275,7 +14365,7 @@
  },
  "crcdb01-sjc1g.prod.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14353,7 +14443,7 @@
  },
  "critical-ch-issue-samples.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14365,7 +14455,7 @@
  },
  "crl.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14455,7 +14545,7 @@
  },
  "cs409618e.aws.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14515,7 +14605,7 @@
  },
  "cs83.sptrans.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14671,8 +14761,8 @@
  },
  "csp.uber.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "csps-efpc.uber.com": {
@@ -14773,7 +14863,7 @@
  },
  "cust55a.mx.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -14935,7 +15025,7 @@
  },
  "daewoo-aspen-6.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15169,7 +15259,13 @@
  },
  "daihatsu-blazer-2q.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
+ "daihatsu-cirrus-6s.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15235,7 +15331,7 @@
  },
  "daihatsu-odyssey-3m.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15271,7 +15367,7 @@
  },
  "daihatsu-spectra-3k.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15433,7 +15529,7 @@
  },
  "danielq0.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15565,7 +15661,7 @@
  },
  "datadev9.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15643,7 +15739,7 @@
  },
  "davidliu-lighthouse2c.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15721,7 +15817,7 @@
  },
  "db-spares-base02-dca19.prod.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15751,7 +15847,7 @@
  },
  "dba.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "141.148.176.88",
   "live": true
  },
@@ -15823,7 +15919,7 @@
  },
  "dbspares-base81-dca1q.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15871,7 +15967,7 @@
  },
  "dc-dca.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.192.148",
   "live": true
  },
@@ -15883,7 +15979,7 @@
  },
  "dc-phx.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "103.50.92.143",
   "live": true
  },
@@ -15919,7 +16015,7 @@
  },
  "dca1-adcorp-vip.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15937,43 +16033,43 @@
  },
  "dca1-cp01.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-cp02.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-cp02.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-dc05.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-dc06.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dca1-dc07.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -15997,7 +16093,7 @@
  },
  "dca1-resilient.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -16159,7 +16255,7 @@
  },
  "dclb01.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -16345,7 +16441,7 @@
  },
  "deeplinks.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -16411,7 +16507,7 @@
  },
  "delete.aha.a.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -16541,6 +16637,12 @@
   "ip": "",
   "live": false
  },
+ "desrq.mx.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "destination-web.uber.com": {
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-20",
@@ -16657,7 +16759,7 @@
  },
  "dev-alpha.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -16879,7 +16981,7 @@
  },
  "dev-demo.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17029,7 +17131,7 @@
  },
  "dev-europee.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17137,7 +17239,7 @@
  },
  "dev-githube.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17246,6 +17348,12 @@
  "dev-jenkinso.uber.com": {
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-11",
+  "ip": "",
+  "live": false
+ },
+ "dev-jira.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17365,7 +17473,7 @@
  },
  "dev-node.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17479,7 +17587,7 @@
  },
  "dev-previewg.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17539,7 +17647,7 @@
  },
  "dev-proxyu.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17569,7 +17677,7 @@
  },
  "dev-regione.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17821,7 +17929,7 @@
  },
  "dev-toolbar.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -17959,13 +18067,13 @@
  },
  "dev.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dev.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18043,7 +18151,7 @@
  },
  "deva.reset.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18055,7 +18163,7 @@
  },
  "devacc.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18067,7 +18175,7 @@
  },
  "devaccountingc.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18223,7 +18331,7 @@
  },
  "devblog.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18253,8 +18361,8 @@
  },
  "devbuilds.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.99",
+  "last_seen": "2026-10-21",
+  "ip": "3.170.185.50",
   "live": true
  },
  "devbuilds1.uber.com": {
@@ -18547,7 +18655,7 @@
  },
  "deve.events.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18566,6 +18674,12 @@
  "deve.machine.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
+ "deve.mx.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18649,8 +18763,8 @@
  },
  "developer.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "developer7.uber.com": {
@@ -18752,6 +18866,12 @@
  "devenginec.uber.com": {
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
+ "devengineering.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18865,7 +18985,7 @@
  },
  "devgateway.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18889,7 +19009,7 @@
  },
  "devgist.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -18985,13 +19105,13 @@
  },
  "devicetype.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "devint.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19045,7 +19165,7 @@
  },
  "devk.developer.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19099,7 +19219,7 @@
  },
  "devm.iad.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19157,6 +19277,12 @@
   "ip": "",
   "live": false
  },
+ "devmirrora.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "devnautilus.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-12",
@@ -19171,7 +19297,7 @@
  },
  "devnet.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19321,7 +19447,7 @@
  },
  "devpayment.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19345,7 +19471,7 @@
  },
  "devpriv.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19381,7 +19507,7 @@
  },
  "devprofiles.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -19663,7 +19789,7 @@
  },
  "devssl.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20023,7 +20149,7 @@
  },
  "di97.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20101,7 +20227,7 @@
  },
  "dilyan-mr-jobs.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20173,8 +20299,8 @@
  },
  "direct.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "dis4e.mx.dev.uber.com": {
@@ -20197,7 +20323,7 @@
  },
  "disableddev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20221,7 +20347,7 @@
  },
  "discover-dish-static.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20323,7 +20449,7 @@
  },
  "dliu3.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20437,7 +20563,7 @@
  },
  "doc.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20461,7 +20587,7 @@
  },
  "dockerdevc.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20551,7 +20677,7 @@
  },
  "documents.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20563,7 +20689,7 @@
  },
  "dodge-amanti-3m.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20617,7 +20743,7 @@
  },
  "dodge-mountaineer-6o.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20689,7 +20815,7 @@
  },
  "doge29.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20767,13 +20893,13 @@
  },
  "downloads7.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "dpodq.mx.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -20887,8 +21013,8 @@
  },
  "drive.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.121",
   "live": true
  },
  "driver-crash-center-staging.uber.com": {
@@ -21079,7 +21205,7 @@
  },
  "dswa76.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -21301,7 +21427,7 @@
  },
  "dyn9.prod2.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -21367,8 +21493,8 @@
  },
  "e.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "e18b7c1a.uber.com": {
@@ -21481,7 +21607,7 @@
  },
  "eagle-california-3m.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -21667,7 +21793,7 @@
  },
  "easyiosc.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -21703,8 +21829,8 @@
  },
  "eats.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.17",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "ebay.uber.com": {
@@ -21767,6 +21893,12 @@
   "ip": "",
   "live": false
  },
+ "ecgsitegenerationtest.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "ecgsitegenerationtestpp.uber.com": {
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
@@ -21787,7 +21919,7 @@
  },
  "echin-dev.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -21943,7 +22075,7 @@
  },
  "edge.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22003,8 +22135,8 @@
  },
  "edgetest.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.5",
   "live": true
  },
  "edinburghc.cfe.uber.com": {
@@ -22087,7 +22219,7 @@
  },
  "eerduosinalikeyidubo.mx.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22183,7 +22315,7 @@
  },
  "einas1.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22201,7 +22333,7 @@
  },
  "eitai.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22411,32 +22543,32 @@
  },
  "email.mgi.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "34.102.239.211",
+  "last_seen": "2026-10-21",
+  "ip": "34.110.180.34",
   "live": true
  },
  "email.mgm.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.102.239.211",
   "live": true
  },
  "email.mgmk.pocemail.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "email.mgt.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "34.102.239.211",
+  "last_seen": "2026-10-21",
+  "ip": "34.110.180.34",
   "live": true
  },
  "email.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.66",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.17",
   "live": true
  },
  "email1.mgt.uber.com": {
@@ -22519,7 +22651,7 @@
  },
  "emergencyline.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22555,7 +22687,7 @@
  },
  "emi-frauda.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22645,7 +22777,7 @@
  },
  "en.contact.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22741,7 +22873,7 @@
  },
  "encrypt.citi.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22783,8 +22915,8 @@
  },
  "eng.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.80",
   "live": true
  },
  "engdev.uber.com": {
@@ -22808,6 +22940,12 @@
  "engine-dev.uber.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-20",
+  "ip": "",
+  "live": false
+ },
+ "engine-deve.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -22837,14 +22975,14 @@
  },
  "enginedevy.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "engineering.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.17",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.121",
   "live": true
  },
  "engineeringdev.uber.com": {
@@ -23017,7 +23155,7 @@
  },
  "ericgu.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -23215,7 +23353,7 @@
  },
  "etlc.spmail.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -23323,7 +23461,7 @@
  },
  "europewestdev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -23545,8 +23683,8 @@
  },
  "experience.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.17",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "experience3.uber.com": {
@@ -23587,8 +23725,8 @@
  },
  "explore-staging.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.121",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "explore.uber.com": {
@@ -23599,7 +23737,7 @@
  },
  "exploreg.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -23707,8 +23845,8 @@
  },
  "f.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "207.174.61.1",
+  "last_seen": "2026-10-21",
+  "ip": "91.197.243.143",
   "live": true
  },
  "f2x.spmail.uber.com": {
@@ -23773,8 +23911,8 @@
  },
  "failover.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "fairthorpe-a3-3e.dev.uber.com": {
@@ -23821,7 +23959,7 @@
  },
  "fairthorpe-familia-8y.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -23939,6 +24077,12 @@
   "ip": "",
   "live": false
  },
+ "fairthorpe-supreme-7.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "fairthorpe-swift-1.dev.uber.com": {
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
@@ -24037,13 +24181,13 @@
  },
  "falknerc.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "falknerxa.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24143,9 +24287,15 @@
   "ip": "",
   "live": false
  },
+ "feed.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "feedback.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "147.75.243.50",
   "live": true
  },
@@ -24163,7 +24313,7 @@
  },
  "feilu1.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24205,7 +24355,7 @@
  },
  "ferrari-amg-3u.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24235,7 +24385,7 @@
  },
  "ferrari-cherokee-4q.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24395,6 +24545,12 @@
   "ip": "",
   "live": false
  },
+ "fh05.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "fhezpz27.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
@@ -24473,6 +24629,12 @@
   "ip": "",
   "live": false
  },
+ "fiat-evolution-6k.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "fiat-gemini-3q.dev.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-11",
@@ -24511,7 +24673,7 @@
  },
  "fiat-pathfinder-6k.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24571,7 +24733,7 @@
  },
  "fightlistsolution3.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -24679,7 +24841,7 @@
  },
  "fillmore-integra-8u.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -25129,7 +25291,7 @@
  },
  "foose-justy-4o.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -25195,7 +25357,7 @@
  },
  "foose-regency-7.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -25241,6 +25403,12 @@
   "ip": "",
   "live": false
  },
+ "foose-yukon-xl-8g.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "ford-aerio-7.dev.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-11",
@@ -25249,7 +25417,7 @@
  },
  "ford-beetle-1i.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -25393,13 +25561,13 @@
  },
  "fpbi8c1t.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "3.33.143.12",
+  "last_seen": "2026-10-21",
+  "ip": "15.197.157.117",
   "live": true
  },
  "fpfcpn2u.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "172.66.1.166",
   "live": true
  },
@@ -25597,8 +25765,8 @@
  },
  "freight-support.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-14",
-  "ip": "69.48.218.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "freight-testu.uber.com": {
@@ -25681,8 +25849,8 @@
  },
  "freighttableau.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.87",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.5",
   "live": true
  },
  "fremonty.dev.uber.com": {
@@ -25733,6 +25901,12 @@
   "ip": "",
   "live": false
  },
+ "frontend02.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "frontend02u.uber.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-13",
@@ -25759,14 +25933,14 @@
  },
  "frontend09-sjc1s.prod.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "frontends-all.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "103.50.92.143",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.192.148",
   "live": true
  },
  "frontends-cloud-fips.uber.com": {
@@ -25777,14 +25951,14 @@
  },
  "frontends-cloud.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.194.80",
   "live": true
  },
  "frontends-cloudflare-legacy.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "frontends-cloudflare-legacyq.uber.com": {
@@ -25795,8 +25969,8 @@
  },
  "frontends-cloudflare.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "frontends-cloudflarebm.uber.com": {
@@ -25807,8 +25981,8 @@
  },
  "frontends-dc.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "103.50.92.143",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.192.148",
   "live": true
  },
  "frontends-dc9.uber.com": {
@@ -25849,8 +26023,8 @@
  },
  "frontends-mtls-cloudflare-usso.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "frontends-mtls-gcp-usso.uber.com": {
@@ -25867,7 +26041,7 @@
  },
  "frontends-primary.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.192.148",
   "live": true
  },
@@ -25897,7 +26071,7 @@
  },
  "frontends.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.192.148",
   "live": true
  },
@@ -26042,6 +26216,12 @@
  "furiosa-accord-4u.dev.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-13",
+  "ip": "",
+  "live": false
+ },
+ "furiosa-caravan-1q.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26215,7 +26395,7 @@
  },
  "fyg.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26263,7 +26443,7 @@
  },
  "galaxy.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26359,7 +26539,7 @@
  },
  "gaobin19a.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26384,6 +26564,12 @@
  "gaobin99.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-17",
+  "ip": "",
+  "live": false
+ },
+ "garfielda.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26543,6 +26729,12 @@
   "ip": "",
   "live": false
  },
+ "gbfs.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "gchandra.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-15",
@@ -26677,7 +26869,7 @@
  },
  "geo-beq.cfe.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26689,7 +26881,7 @@
  },
  "geo-cooper-countryman-6k.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26737,7 +26929,7 @@
  },
  "geo-frontends-all-dca1.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.192.148",
   "live": true
  },
@@ -26749,7 +26941,7 @@
  },
  "geo-frontends-all-phx2.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "103.50.92.143",
   "live": true
  },
@@ -26761,7 +26953,7 @@
  },
  "geo-frontends-dca1.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "104.36.192.148",
   "live": true
  },
@@ -26785,7 +26977,7 @@
  },
  "geo-frontends-sjc1s.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26809,7 +27001,7 @@
  },
  "geo-millenia-5c.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -26995,14 +27187,14 @@
  },
  "getnikolac.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "getrush.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "getrush5.uber.com": {
@@ -27151,7 +27343,7 @@
  },
  "giftcards.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27193,25 +27385,31 @@
  },
  "gighub-telephony.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "gighub.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "gil1.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "gilibeast7.dev.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
+ "gilley0.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27223,7 +27421,7 @@
  },
  "gist-dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27517,13 +27715,13 @@
  },
  "glustero.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "gm.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27559,7 +27757,7 @@
  },
  "gmc-coachbuilder-5k.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27721,7 +27919,7 @@
  },
  "goda.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27763,7 +27961,7 @@
  },
  "golden-revival2m.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -27905,6 +28103,12 @@
   "ip": "",
   "live": false
  },
+ "goldfein.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "googlefffffffffbdedc85.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
@@ -27985,13 +28189,13 @@
  },
  "gratitude.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "grayson-saitamae.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28063,8 +28267,8 @@
  },
  "groove.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "100.62.223.226",
+  "last_seen": "2026-10-21",
+  "ip": "100.56.89.184",
   "live": true
  },
  "groups.uber.com": {
@@ -28075,7 +28279,7 @@
  },
  "groupweb.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28135,7 +28339,7 @@
  },
  "gs-share3c.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28159,8 +28363,8 @@
  },
  "gslink.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "18.238.109.119",
+  "last_seen": "2026-10-21",
+  "ip": "143.204.204.97",
   "live": true
  },
  "gswe.dev.uber.com": {
@@ -28171,7 +28375,7 @@
  },
  "gta5.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28237,8 +28441,8 @@
  },
  "guest.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "guestpasses.uber.com": {
@@ -28285,7 +28489,7 @@
  },
  "guojimingzhuyulem.gmc-transam-4.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28321,7 +28525,7 @@
  },
  "gurafu-matchingw.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28393,7 +28597,7 @@
  },
  "gvt.net.br.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28549,7 +28753,7 @@
  },
  "hail29.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28807,7 +29011,7 @@
  },
  "hatch.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -28915,7 +29119,7 @@
  },
  "health.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "69.48.218.1",
   "live": true
  },
@@ -29035,8 +29239,8 @@
  },
  "help-r.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-18",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "help-restaurant.uber.com": {
@@ -29059,8 +29263,8 @@
  },
  "help.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "helpdev.uber.com": {
@@ -29135,6 +29339,12 @@
   "ip": "",
   "live": false
  },
+ "henrik2.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "henry.dev.uber.com": {
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
@@ -29161,8 +29371,8 @@
  },
  "hero.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "hester9.dev.uber.com": {
@@ -29251,7 +29461,7 @@
  },
  "hillman-blazer-8s.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29317,7 +29527,7 @@
  },
  "hillman-loyale-6s.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29365,13 +29575,13 @@
  },
  "hillman-regency-7s.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "hillman-rocky-7w.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29389,7 +29599,7 @@
  },
  "hillman-stealth-8s.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29491,7 +29701,7 @@
  },
  "hlee1c.alpha.a.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29533,7 +29743,7 @@
  },
  "hoey19.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29605,7 +29815,7 @@
  },
  "holden-outback-4o.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29815,7 +30025,7 @@
  },
  "honda-stratus-4e.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -29857,37 +30067,37 @@
  },
  "hopping-bunny-hop-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.187.199.189",
   "live": true
  },
  "hopping-bunny-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.187.199.189",
   "live": true
  },
  "hopping-hare-hop-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "hopping-hare-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "hopping-rabbit-hop-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "136.117.185.34",
   "live": true
  },
  "hopping-rabbit-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "136.117.185.34",
   "live": true
  },
@@ -29917,7 +30127,7 @@
  },
  "host-ck.mx.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30139,7 +30349,7 @@
  },
  "hummer-aveo-1.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30265,7 +30475,7 @@
  },
  "hvrk.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30325,7 +30535,7 @@
  },
  "hyan-1c.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30385,7 +30595,7 @@
  },
  "hyphening-comm.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30451,7 +30661,7 @@
  },
  "hyundai-millenia-7q.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -30571,9 +30781,15 @@
  },
  "iaddev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
+ },
+ "iadm-staging.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.17",
+  "live": true
  },
  "iangie01.dev.uber.com": {
   "first_seen": "2026-10-07",
@@ -30763,8 +30979,8 @@
  },
  "image.et.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "23.52.212.164",
+  "last_seen": "2026-10-21",
+  "ip": "23.61.100.146",
   "live": true
  },
  "image.uber.com": {
@@ -30823,7 +31039,7 @@
  },
  "in.gighub.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -30973,7 +31189,7 @@
  },
  "infiniti-sigma-4s.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31027,19 +31243,19 @@
  },
  "influencer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "52.9.39.134",
+  "last_seen": "2026-10-21",
+  "ip": "54.219.151.140",
   "live": true
  },
  "influencerlogin.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "54.219.151.140",
+  "last_seen": "2026-10-21",
+  "ip": "52.9.39.134",
   "live": true
  },
  "influencerreports.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "54.219.151.140",
   "live": true
  },
@@ -31285,7 +31501,7 @@
  },
  "investor.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "162.159.130.11",
   "live": true
  },
@@ -31303,8 +31519,8 @@
  },
  "io.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.9",
   "live": true
  },
  "ip-0-6g.mx.dev.uber.com": {
@@ -31315,7 +31531,7 @@
  },
  "ip-10-121-67-217c.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31387,7 +31603,7 @@
  },
  "ip-10-23-160-41m.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31525,13 +31741,13 @@
  },
  "irs.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "irsc.dev.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31621,7 +31837,7 @@
  },
  "isuzu-diamante-5s.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31681,7 +31897,7 @@
  },
  "isuzu-riolet-7o.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31717,7 +31933,7 @@
  },
  "isuzu-torrent-8m.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31735,7 +31951,7 @@
  },
  "ite.daewoo-mkz-2.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31763,6 +31979,12 @@
   "ip": "",
   "live": false
  },
+ "ittools01-dmz1g.prod.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "ittools01.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-14",
@@ -31777,7 +31999,7 @@
  },
  "ivelin1.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31807,7 +32029,7 @@
  },
  "iviskici.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31819,7 +32041,7 @@
  },
  "jackien7.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -31921,7 +32143,7 @@
  },
  "jaguar-escape-7g.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32263,7 +32485,7 @@
  },
  "jchang.dev.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32377,7 +32599,7 @@
  },
  "jeep-fortwo-6m.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32503,7 +32725,7 @@
  },
  "jeloi2.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32635,7 +32857,7 @@
  },
  "jensen-rsx-1.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32923,7 +33145,7 @@
  },
  "jiao2.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -32935,7 +33157,7 @@
  },
  "jiao8.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33031,7 +33253,7 @@
  },
  "jingc2ami.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33169,7 +33391,7 @@
  },
  "jira.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33281,6 +33503,12 @@
   "ip": "",
   "live": false
  },
+ "jmilne-golden-febe.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "jmilne-golden-p2s.dev.uber.com": {
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-12",
@@ -33313,7 +33541,7 @@
  },
  "jmishra1a.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33349,7 +33577,7 @@
  },
  "jobs.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.18.20.249",
   "live": true
  },
@@ -33379,8 +33607,8 @@
  },
  "join.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.4",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.114",
   "live": true
  },
  "jojo.dev.uber.com": {
@@ -33529,7 +33757,7 @@
  },
  "jquery.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33601,7 +33829,7 @@
  },
  "junaid-cs9.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33620,6 +33848,12 @@
  "juncao.dev.uber.com": {
   "first_seen": "2026-10-18",
   "last_seen": "2026-10-20",
+  "ip": "",
+  "live": false
+ },
+ "juncaoli.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33763,7 +33997,7 @@
  },
  "jyhong85.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33775,7 +34009,7 @@
  },
  "jyu-april-boxi.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33787,7 +34021,7 @@
  },
  "jyu-jan-16-box.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -33929,6 +34163,12 @@
   "ip": "",
   "live": false
  },
+ "kare.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "kare49.dev.uber.com": {
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-20",
@@ -33995,6 +34235,12 @@
   "ip": "",
   "live": false
  },
+ "kathuange.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "kathy-griffina.mx.dev.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-13",
@@ -34015,7 +34261,7 @@
  },
  "kazys-ldap.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -34069,7 +34315,7 @@
  },
  "kcp-gateway.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "69.48.216.4",
   "live": true
  },
@@ -34129,7 +34375,7 @@
  },
  "kerberos.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "10.6.0.74",
   "live": true
  },
@@ -34285,7 +34531,7 @@
  },
  "kia-mark-vii-7i.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -34411,7 +34657,7 @@
  },
  "kiosk-auth-staging.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -34537,7 +34783,7 @@
  },
  "klh.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -34801,7 +35047,7 @@
  },
  "ktrang.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -34921,7 +35167,7 @@
  },
  "lab.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "141.148.176.88",
   "live": true
  },
@@ -34951,7 +35197,7 @@
  },
  "lambdai.yunfei-cf-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35143,7 +35389,7 @@
  },
  "lanamc.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35173,7 +35419,7 @@
  },
  "land-rover-fiesta-8c.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35324,6 +35570,12 @@
  "langley-us-west-2s.dev.uber.com": {
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-20",
+  "ip": "",
+  "live": false
+ },
+ "langley01-dev1s.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35851,7 +36103,7 @@
  },
  "leorleor.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35863,8 +36115,8 @@
  },
  "lert.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "155.226.135.238",
+  "last_seen": "2026-10-21",
+  "ip": "155.226.157.182",
   "live": true
  },
  "lessonlymail.uber.com": {
@@ -35882,6 +36134,12 @@
  "leviathang.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
+ "lexc.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35905,7 +36163,7 @@
  },
  "lexus-exige-1g.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35971,7 +36229,7 @@
  },
  "lexus-tredia-7o.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -35995,7 +36253,7 @@
  },
  "lexus-xlr-v-5e.dev.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36043,7 +36301,7 @@
  },
  "libphonenumber.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36083,6 +36341,12 @@
   "ip": "",
   "live": false
  },
+ "lilg.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "lili-1.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-18",
@@ -36109,7 +36373,7 @@
  },
  "lili.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36217,7 +36481,7 @@
  },
  "lincoln-fox-4s.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36248,6 +36512,12 @@
  "lincoln-montegomonterey-7k.dev.uber.com": {
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-18",
+  "ip": "",
+  "live": false
+ },
+ "lincoln-mulsanne-3c.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36295,7 +36565,7 @@
  },
  "lincoln.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36343,8 +36613,8 @@
  },
  "link.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "35.232.188.232",
+  "last_seen": "2026-10-21",
+  "ip": "34.134.238.127",
   "live": true
  },
  "linkurl.uber.com": {
@@ -36427,7 +36697,7 @@
  },
  "livekit.oci-dubai.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36481,7 +36751,7 @@
  },
  "lm.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -36571,8 +36841,8 @@
  },
  "lobby-cms.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.1",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "lobby-cms5.uber.com": {
@@ -36751,8 +37021,8 @@
  },
  "logorama.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
-  "ip": "104.36.194.73",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.114",
   "live": true
  },
  "logosa.mx.dev.uber.com": {
@@ -36769,7 +37039,7 @@
  },
  "logs2.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "10.6.0.1",
   "live": true
  },
@@ -36967,7 +37237,7 @@
  },
  "love.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37069,7 +37339,7 @@
  },
  "lucinda1.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37087,7 +37357,7 @@
  },
  "luigia.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37147,7 +37417,7 @@
  },
  "lxe0017.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37285,8 +37555,8 @@
  },
  "m2.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.73",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.66",
   "live": true
  },
  "m3.uber.com": {
@@ -37373,6 +37643,12 @@
   "ip": "",
   "live": false
  },
+ "maestro01-sjc1.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "mahler.dev.uber.com": {
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-20",
@@ -37393,8 +37669,8 @@
  },
  "mail.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "172.217.75.121",
+  "last_seen": "2026-10-21",
+  "ip": "74.125.201.121",
   "live": true
  },
  "mail01.uber.com": {
@@ -37477,25 +37753,25 @@
  },
  "management-courier-process-sp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
  "management-settlement-it.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "management-settlement-nl.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
  "management-ubereats-portal-nl.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37573,7 +37849,7 @@
  },
  "mantass1.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37585,7 +37861,7 @@
  },
  "manual-devservera.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37681,8 +37957,8 @@
  },
  "marketplace.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "marketplaceo.uber.com": {
@@ -37831,7 +38107,7 @@
  },
  "maserati-hearse-4q.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -37951,7 +38227,7 @@
  },
  "matt2.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -38141,6 +38417,12 @@
   "ip": "",
   "live": false
  },
+ "maybach-lacrosse-5y.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "maybach-mentor-8u.dev.uber.com": {
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-18",
@@ -38323,7 +38605,7 @@
  },
  "mazda-gransport-1g.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -38371,7 +38653,7 @@
  },
  "mazda-navajo-7o.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -38563,7 +38845,7 @@
  },
  "mclaren-xr4ti-1i.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -38647,7 +38929,7 @@
  },
  "me607.mx.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -38935,7 +39217,7 @@
  },
  "merchants.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.18.17.34",
   "live": true
  },
@@ -39019,7 +39301,7 @@
  },
  "mercury-firebird-3i.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39217,7 +39499,7 @@
  },
  "merkur-coachbuilder-3m.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39319,8 +39601,8 @@
  },
  "messages.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.73",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "metrics.uber.com": {
@@ -39355,7 +39637,7 @@
  },
  "mezz29.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39541,7 +39823,7 @@
  },
  "mhtoo.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39565,7 +39847,7 @@
  },
  "mi.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39841,7 +40123,7 @@
  },
  "mingmin1g.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -39919,7 +40201,7 @@
  },
  "mini-entourage-1m.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40015,7 +40297,7 @@
  },
  "mini-thunderbird-5i.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40183,7 +40465,7 @@
  },
  "mitsubishi-gli-6q.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40411,7 +40693,7 @@
  },
  "mmallozz5.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40471,8 +40753,8 @@
  },
  "mobile-content.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.8",
   "live": true
  },
  "mobile-messaging.dev.uber.com": {
@@ -40609,7 +40891,7 @@
  },
  "moralsandethics.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40687,7 +40969,7 @@
  },
  "morgan-monza-7s.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40723,7 +41005,7 @@
  },
  "morgan-seville-1q.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40765,14 +41047,14 @@
  },
  "movement-preprod.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.114",
   "live": true
  },
  "movement.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.9",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.4",
   "live": true
  },
  "movie1o.mx.dev.uber.com": {
@@ -40819,7 +41101,7 @@
  },
  "mr37.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40873,7 +41155,7 @@
  },
  "mshum7.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -40913,6 +41195,12 @@
   "ip": "",
   "live": false
  },
+ "mta10.et.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "198.245.86.116",
+  "live": true
+ },
  "mta11.et.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-13",
@@ -40933,7 +41221,7 @@
  },
  "mta14.et.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "136.147.138.196",
   "live": true
  },
@@ -41017,7 +41305,7 @@
  },
  "mta27.et.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "13.111.64.157",
   "live": true
  },
@@ -41347,7 +41635,7 @@
  },
  "myra3.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41501,6 +41789,12 @@
   "ip": "",
   "live": false
  },
+ "nagpur.cfe.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "nana.dev.uber.com": {
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
@@ -41551,7 +41845,7 @@
  },
  "nardac-cherrypt9.mx.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41593,13 +41887,19 @@
  },
  "nationsbenefit.prod.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "nationsbenefit.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
+ "nautilus.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41653,7 +41953,7 @@
  },
  "nc27.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41737,7 +42037,7 @@
  },
  "neoc.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41755,13 +42055,13 @@
  },
  "net1-cp01.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "net1-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -41815,13 +42115,13 @@
  },
  "newsroom.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.114",
   "live": true
  },
  "newsroomapi.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -42223,7 +42523,7 @@
  },
  "nissan-miata-6k.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -42337,7 +42637,7 @@
  },
  "niuniuzhenrendubowangzhan.mx.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -42607,7 +42907,7 @@
  },
  "o21.email.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "167.89.42.176",
   "live": true
  },
@@ -42775,19 +43075,19 @@
  },
  "oci-dubai-dev.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "oci-dubai-testing.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "ocportal.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -42973,7 +43273,7 @@
  },
  "oldsmobile-rallywagon-4w.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -42991,7 +43291,7 @@
  },
  "oldsmobile-seville-7.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43087,8 +43387,8 @@
  },
  "onboarding.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "ond.mx.dev.uber.com": {
@@ -43171,7 +43471,7 @@
  },
  "optima3.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43207,8 +43507,8 @@
  },
  "org.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.127",
+  "last_seen": "2026-10-21",
+  "ip": "13.226.53.56",
   "live": true
  },
  "origin.uber.com": {
@@ -43243,7 +43543,7 @@
  },
  "oslo.cfe.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43343,6 +43643,12 @@
   "ip": "",
   "live": false
  },
+ "ozan.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "ozan29.dev.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-11",
@@ -43357,7 +43663,7 @@
  },
  "p.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "207.174.61.1",
   "live": true
  },
@@ -43405,13 +43711,13 @@
  },
  "pac.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "23.62.226.115",
+  "last_seen": "2026-10-21",
+  "ip": "23.200.156.15",
   "live": true
  },
  "page-dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43423,7 +43729,7 @@
  },
  "pages.et.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "198.245.92.62",
   "live": true
  },
@@ -43441,7 +43747,7 @@
  },
  "pan.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43487,6 +43793,12 @@
   "ip": "",
   "live": false
  },
+ "panoz-amigo-9k.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "panoz-aspen-2g.dev.uber.com": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-20",
@@ -43513,7 +43825,7 @@
  },
  "panoz-premier-2m.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43681,8 +43993,8 @@
  },
  "partners-platform.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "partners-staging.uber.com": {
@@ -43705,7 +44017,7 @@
  },
  "pat.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43957,7 +44269,7 @@
  },
  "peiwu-sandboxe.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -43975,8 +44287,8 @@
  },
  "pending.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.80",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.8",
   "live": true
  },
  "pending3.uber.com": {
@@ -44011,26 +44323,26 @@
  },
  "people.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.80",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.8",
   "live": true
  },
  "peopletech-dev.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "peopletech-stage.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "54.176.243.80",
   "live": true
  },
  "peopletech.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "54.176.138.51",
+  "last_seen": "2026-10-21",
+  "ip": "13.56.128.166",
   "live": true
  },
  "pep-s2.uber.com": {
@@ -44089,7 +44401,7 @@
  },
  "peugeot-classic-6s.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44329,8 +44641,8 @@
  },
  "photo.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.9",
   "live": true
  },
  "photobooth.uber.com": {
@@ -44341,7 +44653,7 @@
  },
  "photography.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44353,13 +44665,13 @@
  },
  "photos.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "php.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44371,7 +44683,7 @@
  },
  "phx1-resilient.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44383,25 +44695,25 @@
  },
  "phx2-cp01.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "phx2-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "phx2-cp02.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "phx2-cp02.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44455,7 +44767,7 @@
  },
  "pilot.ucollect.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -44533,7 +44845,7 @@
  },
  "pki-command-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44647,7 +44959,7 @@
  },
  "plymouth-aventador-1o.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44737,7 +45049,7 @@
  },
  "plymouth-sable-1u.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44785,7 +45097,7 @@
  },
  "pmckee-goldeno.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44845,7 +45157,7 @@
  },
  "pontiac-achieva-1a.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -44969,6 +45281,12 @@
   "ip": "",
   "live": false
  },
+ "pontiac-swift-4s.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "pontiac-tempo-2o.dev.uber.com": {
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-20",
@@ -45001,7 +45319,7 @@
  },
  "poolpass.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45125,6 +45443,12 @@
   "ip": "",
   "live": false
  },
+ "porsche-cube-9s.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "porsche-discovery-2m.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
@@ -45187,7 +45511,7 @@
  },
  "porsche-nsx-7.dev.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45277,7 +45601,7 @@
  },
  "porsche-supra-9q.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45427,7 +45751,7 @@
  },
  "prj.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45445,7 +45769,7 @@
  },
  "prod.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45457,7 +45781,7 @@
  },
  "prod2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45499,7 +45823,7 @@
  },
  "products-integrationk.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45589,7 +45913,7 @@
  },
  "provdb.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45631,13 +45955,13 @@
  },
  "pt.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
-  "ip": "69.48.218.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "ptc.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.54.72.47",
   "live": true
  },
@@ -45661,8 +45985,8 @@
  },
  "publicsafety.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "155.226.135.236",
+  "last_seen": "2026-10-21",
+  "ip": "155.226.157.188",
   "live": true
  },
  "publicsafetye.uber.com": {
@@ -45685,7 +46009,7 @@
  },
  "puppet-packer-uds9.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45721,7 +46045,7 @@
  },
  "puppetmaster02g.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -45739,7 +46063,7 @@
  },
  "pwhlqddwqyjoo.mx.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46045,7 +46369,7 @@
  },
  "qlu2.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46057,20 +46381,20 @@
  },
  "qopmg.mx1.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "qprevents.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "44.209.183.23",
+  "last_seen": "2026-10-21",
+  "ip": "100.62.199.226",
   "live": true
  },
  "qr.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "207.174.61.1",
+  "last_seen": "2026-10-21",
+  "ip": "91.197.243.143",
   "live": true
  },
  "quan29.dev.uber.com": {
@@ -46123,7 +46447,7 @@
  },
  "quic-cni.cfe.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46165,8 +46489,8 @@
  },
  "r.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "r13n-beta3.dev.uber.com": {
@@ -46177,7 +46501,7 @@
  },
  "r3lzn5.mx.dev.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46207,7 +46531,7 @@
  },
  "rahulrama.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46417,7 +46741,7 @@
  },
  "rambler-expedition-567w.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46555,13 +46879,13 @@
  },
  "rambo13.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "rambo14.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -46615,14 +46939,14 @@
  },
  "ramendca.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "ramenphx.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "ramesh-sentinel01.dev.uber.com": {
@@ -47263,7 +47587,7 @@
  },
  "research.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -47281,7 +47605,7 @@
  },
  "resilient.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -47329,8 +47653,8 @@
  },
  "restaurant.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.2",
   "live": true
  },
  "restaurant7.uber.com": {
@@ -47341,8 +47665,8 @@
  },
  "restauranthelp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "155.226.135.236",
+  "last_seen": "2026-10-21",
+  "ip": "155.226.157.176",
   "live": true
  },
  "restaurants-stagingm.uber.com": {
@@ -47353,13 +47677,13 @@
  },
  "restaurants.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.8",
   "live": true
  },
  "restrictedazureo.solgi.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -47479,7 +47803,7 @@
  },
  "ride.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -47671,7 +47995,7 @@
  },
  "rolls-royce-envoy-3u.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -47989,7 +48313,7 @@
  },
  "rpt.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48097,13 +48421,13 @@
  },
  "rtc-streaming.dev.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "193.123.74.160",
   "live": true
  },
  "rtc-streaming.prod.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "145.241.116.255",
   "live": true
  },
@@ -48157,55 +48481,55 @@
  },
  "rtsp-dev1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "130.211.21.90",
   "live": true
  },
  "rtsp-dev2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "8.232.178.184",
   "live": true
  },
  "rtsp-sip-dev1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.20.144.158",
   "live": true
  },
  "rtsp-sip-dev2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "35.235.112.102",
   "live": true
  },
  "rtsp-sip-staging1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.20.226.203",
   "live": true
  },
  "rtsp-sip-us-west2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.20.183.39",
   "live": true
  },
  "rtsp-staging1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.111.250.170",
   "live": true
  },
  "rtsp-turn-dev1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.94.95.43",
   "live": true
  },
  "rtsp-us-west2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "8.232.102.120",
   "live": true
  },
@@ -48265,7 +48589,7 @@
  },
  "rush4.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48313,7 +48637,7 @@
  },
  "rwangbox1a.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48349,7 +48673,7 @@
  },
  "rydc.mx.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48553,7 +48877,7 @@
  },
  "safetyreport.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48577,7 +48901,7 @@
  },
  "saigona.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48727,7 +49051,7 @@
  },
  "sandbox.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -48793,8 +49117,8 @@
  },
  "sao.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.87",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "sapsupport.mx.dev.uber.com": {
@@ -49009,7 +49333,7 @@
  },
  "saturn-ploughboy-4o.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49165,19 +49489,19 @@
  },
  "sbx.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "141.148.176.88",
   "live": true
  },
  "scaledsolutions-asmt-staging.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "scaledsolutions-asmt.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -49262,6 +49586,12 @@
  "scion-explorer-7.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
+  "ip": "",
+  "live": false
+ },
+ "scion-justy-5e.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49375,7 +49705,7 @@
  },
  "scottbe.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49405,8 +49735,8 @@
  },
  "sd6gx58d.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.73",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.87",
   "live": true
  },
  "sda.mx.dev.uber.com": {
@@ -49447,7 +49777,7 @@
  },
  "sdltubf1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49555,7 +49885,7 @@
  },
  "segubox.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49663,7 +49993,7 @@
  },
  "serviceg.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49681,13 +50011,13 @@
  },
  "settlement-it.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
  "settlement-nl.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
@@ -49705,7 +50035,7 @@
  },
  "sfo9-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -49729,7 +50059,7 @@
  },
  "sftp-phx.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "103.50.92.144",
   "live": true
  },
@@ -50021,6 +50351,12 @@
   "ip": "",
   "live": false
  },
+ "shelburgc.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "shelby-acclaim-9i.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
@@ -50071,7 +50407,7 @@
  },
  "shelby-fivehundred-2i.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50119,7 +50455,7 @@
  },
  "shelby-raider-1q.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50437,7 +50773,7 @@
  },
  "shue.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50497,7 +50833,7 @@
  },
  "shuo5.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50557,13 +50893,13 @@
  },
  "signin.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "signup.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50599,7 +50935,7 @@
  },
  "sim02.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50671,37 +51007,37 @@
  },
  "sin1-cp01.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sin1-cp01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sin1-cp04.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sin1-cp04.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sin1-cp05.clearpass.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sin1-cp05.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50749,13 +51085,13 @@
  },
  "sip-asterisk.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.173.152.253",
   "live": true
  },
  "sip.dev.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "84.235.245.126",
   "live": true
  },
@@ -50767,13 +51103,13 @@
  },
  "sip.oci-dubai.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sip.prod.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "193.123.75.67",
   "live": true
  },
@@ -50827,7 +51163,7 @@
  },
  "sisil0.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50845,7 +51181,7 @@
  },
  "sit.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "141.148.176.88",
   "live": true
  },
@@ -50917,7 +51253,7 @@
  },
  "sjc1-adcorp-vip.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50929,19 +51265,19 @@
  },
  "sjc1-dc05.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sjc1-dc06.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sjc1-dc07.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -50959,13 +51295,13 @@
  },
  "sjc1-resilient-prod-appl01.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "sjc1-resilient.corp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51073,13 +51409,13 @@
  },
  "skylinee.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "skynet-east.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51151,8 +51487,8 @@
  },
  "slack-apps.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-19",
-  "ip": "69.48.218.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "slagle1.dev.uber.com": {
@@ -51199,8 +51535,8 @@
  },
  "sli.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.2",
+  "last_seen": "2026-10-21",
+  "ip": "3.170.152.5",
   "live": true
  },
  "slobdell.dev.uber.com": {
@@ -51379,13 +51715,19 @@
  },
  "smart-scirocco-9i.dev.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "smart-sport-3m.dev.uber.com": {
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-18",
+  "ip": "",
+  "live": false
+ },
+ "smart-suburban-4k.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51535,7 +51877,7 @@
  },
  "sodigitalk.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51577,7 +51919,7 @@
  },
  "song88duchang9.mx.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51589,7 +51931,7 @@
  },
  "songtiyanjinpingtaik.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51721,7 +52063,7 @@
  },
  "spiked-mystique-1m.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51799,7 +52141,7 @@
  },
  "spm.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51865,7 +52207,7 @@
  },
  "spyker-cars-avanti-3u.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -51923,6 +52265,12 @@
   "ip": "",
   "live": false
  },
+ "spyker-grand-prix-turbo-7s.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "spyker-interceptor-5c.dev.uber.com": {
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-20",
@@ -51931,7 +52279,7 @@
  },
  "spyker-jimmy-2g.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52057,7 +52405,7 @@
  },
  "sri-cba.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52171,7 +52519,7 @@
  },
  "srlsi.mx.dev.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52297,7 +52645,7 @@
  },
  "staging-in.gighub.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -52309,25 +52657,25 @@
  },
  "staging-pilot.ucollect.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "staging-uais-intake.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "staging-us.gighub.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
  "staging.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52363,7 +52711,7 @@
  },
  "stapler.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52393,14 +52741,14 @@
  },
  "static.host.gvt.net.br.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-16",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "static.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.94",
+  "last_seen": "2026-10-21",
+  "ip": "13.32.164.10",
   "live": true
  },
  "staticdev.uber.com": {
@@ -52549,7 +52897,7 @@
  },
  "stevea.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52853,6 +53201,12 @@
   "ip": "",
   "live": false
  },
+ "studebaker-thunderbird-6u.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "studebaker-truck-1a.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
@@ -52901,6 +53255,12 @@
   "ip": "",
   "live": false
  },
+ "sturexa.mx.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "sub-198-226-104.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
@@ -52915,7 +53275,7 @@
  },
  "subaru-boxster-2s.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -52981,7 +53341,7 @@
  },
  "subaru-reno-9w.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53053,7 +53413,7 @@
  },
  "sugarcrm.mx.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53065,13 +53425,13 @@
  },
  "sumeetvg.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "summary.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "184.169.164.227",
   "live": true
  },
@@ -53143,7 +53503,7 @@
  },
  "sup.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53197,13 +53557,13 @@
  },
  "supplier.uber.com": {
   "first_seen": "2026-10-18",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.195.2",
   "live": true
  },
  "suppliers-staging.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53227,7 +53587,7 @@
  },
  "support-amsi.calp4.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53239,8 +53599,8 @@
  },
  "support.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.73",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.9",
   "live": true
  },
  "supportdev.uber.com": {
@@ -53281,8 +53641,8 @@
  },
  "survey.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.1",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.2",
   "live": true
  },
  "surveymonkey.uber.com": {
@@ -53659,20 +54019,20 @@
  },
  "szymon.gruszecki.has.hacked.prod2.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "t.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "207.174.61.1",
+  "last_seen": "2026-10-21",
+  "ip": "91.197.243.143",
   "live": true
  },
  "t2.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.73",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.17",
   "live": true
  },
  "t8878.dev.uber.com": {
@@ -53821,7 +54181,7 @@
  },
  "taxi.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53857,14 +54217,14 @@
  },
  "tb-static-staging.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.195.1",
   "live": true
  },
  "tb-static.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.1",
   "live": true
  },
  "tb-staticq.uber.com": {
@@ -53881,13 +54241,13 @@
  },
  "tbgs-static-staging.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.126.226.194",
   "live": true
  },
  "tbgs-static.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.126.224.211",
   "live": true
  },
@@ -53899,14 +54259,14 @@
  },
  "tbs-static-staging.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.126.230.117",
   "live": true
  },
  "tbs-static.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.29",
+  "last_seen": "2026-10-21",
+  "ip": "18.154.110.99",
   "live": true
  },
  "tc-free-candy.dev.uber.com": {
@@ -53953,8 +54313,8 @@
  },
  "tdottest1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "91.197.243.143",
+  "last_seen": "2026-10-21",
+  "ip": "207.174.61.1",
   "live": true
  },
  "te-cne.cfe.uber.com": {
@@ -53977,7 +54337,7 @@
  },
  "team-staging.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -53989,8 +54349,8 @@
  },
  "team.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.73",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.5",
   "live": true
  },
  "teamdev.uber.com": {
@@ -54061,7 +54421,7 @@
  },
  "tejassun5c.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -54161,6 +54521,12 @@
   "ip": "",
   "live": false
  },
+ "tesla-mazda2-8m.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "tesla-mountaineer-3m.dev.uber.com": {
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
@@ -54205,7 +54571,7 @@
  },
  "tesla-viper-5i.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -54253,7 +54619,7 @@
  },
  "test-https-lb.cfe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -54361,13 +54727,13 @@
  },
  "testcdn.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "testcdn1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -54379,7 +54745,7 @@
  },
  "testme.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -54847,8 +55213,8 @@
  },
  "together.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "65.8.20.41",
+  "last_seen": "2026-10-21",
+  "ip": "13.249.141.80",
   "live": true
  },
  "togusa.dev.uber.com": {
@@ -54902,6 +55268,12 @@
  "tomato.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
+  "ip": "",
+  "live": false
+ },
+ "tomcat.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55039,7 +55411,7 @@
  },
  "toyota-f430-spider-8u.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55153,7 +55525,7 @@
  },
  "toyota-vigor-6m.dev.uber.com": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55207,19 +55579,19 @@
  },
  "tracking.ibi.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "185.255.9.197",
   "live": true
  },
  "tracking.ibm.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "185.255.9.197",
   "live": true
  },
  "tracking.ibt.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "185.255.9.197",
   "live": true
  },
@@ -55297,7 +55669,7 @@
  },
  "transparencyreport.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55309,7 +55681,7 @@
  },
  "travel.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.195.2",
   "live": true
  },
@@ -55333,7 +55705,7 @@
  },
  "trev2.dev.uber.com": {
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55387,7 +55759,7 @@
  },
  "trialdev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55501,7 +55873,7 @@
  },
  "tst.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55579,13 +55951,13 @@
  },
  "turn.rtc-streaming.dev.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "139.185.47.162",
   "live": true
  },
  "turn.rtc-streaming.prod.oci-me-dubai-1.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "139.185.50.127",
   "live": true
  },
@@ -55631,6 +56003,12 @@
   "ip": "",
   "live": false
  },
+ "twsk.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "twt0.dev.uber.com": {
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
@@ -55657,7 +56035,7 @@
  },
  "tyler.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55682,6 +56060,12 @@
  "tylerd1.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "tylers.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55711,7 +56095,7 @@
  },
  "u1765.mx.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -55765,7 +56149,7 @@
  },
  "uais-intake.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -55783,7 +56167,7 @@
  },
  "uat.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "141.148.176.88",
   "live": true
  },
@@ -55801,14 +56185,14 @@
  },
  "uber-to-prove.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.216.80",
   "live": true
  },
  "uber.spacespace.uber.com": {
@@ -55837,7 +56221,7 @@
  },
  "ubereats-portal-nl.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "34.243.40.136",
   "live": true
  },
@@ -55928,6 +56312,12 @@
  "uday19.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
+  "ip": "",
+  "live": false
+ },
+ "udeploy-mgmt01-us-west-2.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56089,7 +56479,7 @@
  },
  "uns-zk-test-3k.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56137,7 +56527,7 @@
  },
  "us.gighub.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "199.36.158.100",
   "live": true
  },
@@ -56167,13 +56557,13 @@
  },
  "usuppliers-oci.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "132.226.45.162",
   "live": true
  },
  "usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "132.226.45.162",
   "live": true
  },
@@ -56287,13 +56677,13 @@
  },
  "va-wai7.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "va-wai8.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56353,7 +56743,7 @@
  },
  "vammoc.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56479,7 +56869,7 @@
  },
  "vcb-sjc1.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56563,7 +56953,7 @@
  },
  "vendor-gateway-prove-identity.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -56671,7 +57061,7 @@
  },
  "view.et.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "198.245.92.63",
   "live": true
  },
@@ -56953,7 +57343,7 @@
  },
  "volkswagen-qx56-9w.dev.uber.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57061,7 +57451,7 @@
  },
  "volvo-boxster-3k.dev.uber.com": {
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57097,7 +57487,7 @@
  },
  "volvo-freelander-3o.dev.uber.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57151,7 +57541,7 @@
  },
  "volvo-roadrunner-2u.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57199,7 +57589,7 @@
  },
  "vouchers.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "104.36.195.2",
   "live": true
  },
@@ -57373,7 +57763,7 @@
  },
  "wakko.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57415,7 +57805,7 @@
  },
  "wangpaidawanjiabiqug.mx.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57487,7 +57877,7 @@
  },
  "wastelandg.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57679,7 +58069,7 @@
  },
  "web3820.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57692,6 +58082,12 @@
  "webapl.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-19",
+  "ip": "",
+  "live": false
+ },
+ "webapp.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -57733,8 +58129,8 @@
  },
  "webinars.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "184.192.120.136",
+  "last_seen": "2026-10-21",
+  "ip": "100.62.199.226",
   "live": true
  },
  "webizk.mx.dev.uber.com": {
@@ -57745,7 +58141,7 @@
  },
  "webjoina.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58033,7 +58429,7 @@
  },
  "winweb27.uber.com": {
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58105,7 +58501,7 @@
  },
  "wlarsona.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58231,7 +58627,7 @@
  },
  "wsun19.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58303,7 +58699,7 @@
  },
  "wulinzhizungongluek.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58351,13 +58747,13 @@
  },
  "www.amex.production.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "www.amex.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58393,7 +58789,7 @@
  },
  "www.beacon.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58405,13 +58801,13 @@
  },
  "www.bizsys.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "www.blog.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58513,7 +58909,7 @@
  },
  "www.cpe.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58526,6 +58922,12 @@
  "www.dba.usuppliers.uber.com": {
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
+  "ip": "",
+  "live": false
+ },
+ "www.dca1-resilient.corp.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58561,13 +58963,13 @@
  },
  "www.engineering.uber.com": {
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "www.feedback.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58633,7 +59035,7 @@
  },
  "www.login.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58663,13 +59065,13 @@
  },
  "www.nationsbenefit.prod.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
  "www.nationsbenefit.sandbox.tokenizer.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58717,7 +59119,7 @@
  },
  "www.pac.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58741,7 +59143,7 @@
  },
  "www.peopletech-stage.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58765,7 +59167,7 @@
  },
  "www.publicsafety.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58783,7 +59185,7 @@
  },
  "www.restauranthelp.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58861,7 +59263,7 @@
  },
  "www.u003eeng.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-10",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -58879,13 +59281,13 @@
  },
  "www.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.195.2",
+  "last_seen": "2026-10-21",
+  "ip": "69.48.218.1",
   "live": true
  },
  "www.usuppliers.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59015,6 +59417,12 @@
   "ip": "",
   "live": false
  },
+ "wzhao3.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "wzhao5.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
@@ -59029,13 +59437,13 @@
  },
  "x.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.4",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "x15.mx.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59156,6 +59564,12 @@
  "xianw3.dev.uber.com": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-18",
+  "ip": "",
+  "live": false
+ },
+ "xianw4.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59287,7 +59701,7 @@
  },
  "xingweiy-golden-dev3.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59359,7 +59773,7 @@
  },
  "xinzhao1a.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59419,7 +59833,7 @@
  },
  "xlb.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "69.48.218.1",
   "live": true
  },
@@ -59449,7 +59863,7 @@
  },
  "xm57.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59575,7 +59989,7 @@
  },
  "xx37.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-19",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -59617,8 +60031,8 @@
  },
  "y.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "ip": "69.48.216.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "ya2tvhnfvf19edbg6wqnec80mkq7sralwbi4psjz.uber.com": {
@@ -59731,7 +60145,7 @@
  },
  "yamaha-sorento-7m.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60235,7 +60649,7 @@
  },
  "youlong-1i.dev.uber.com": {
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60247,7 +60661,7 @@
  },
  "youlongc.dev.uber.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60313,7 +60727,13 @@
  },
  "yu37.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
+ "yuan-ec2k.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60325,7 +60745,7 @@
  },
  "yuanlu-golden.dev.uber.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60511,8 +60931,8 @@
  },
  "yunfei-cf-test.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
-  "ip": "104.36.194.17",
+  "last_seen": "2026-10-21",
+  "ip": "104.36.194.80",
   "live": true
  },
  "yutong-goldene.dev.uber.com": {
@@ -60595,7 +61015,7 @@
  },
  "yuxin5.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-11",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -60649,7 +61069,7 @@
  },
  "z.uber.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-20",
+  "last_seen": "2026-10-21",
   "ip": "52.2.56.64",
   "live": true
  },
@@ -60805,7 +61225,7 @@
  },
  "zenyangtui28ganga.mx.dev.uber.com": {
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -61057,7 +61477,7 @@
  },
  "zhuwang.mx.dev.uber.com": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -61163,6 +61583,12 @@
   "ip": "",
   "live": false
  },
+ "zsong3.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "",
+  "live": false
+ },
  "zsong4.dev.uber.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
@@ -61184,6 +61610,12 @@
  "zuixinbifenm.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-16",
+  "ip": "",
+  "live": false
+ },
+ "zuoning1.dev.uber.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
@@ -61255,7 +61687,7 @@
  },
  "zuqiuxiezibaiweipujiu.mx.dev.uber.com": {
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-10-21",
   "ip": "",
   "live": false
  },
