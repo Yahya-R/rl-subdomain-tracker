@@ -8,7 +8,7 @@
  "api-staging.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "13.32.115.64",
+  "ip": "3.171.76.126",
   "live": true
  },
  "api.pareto.ai": {
@@ -26,7 +26,7 @@
  "assets.kikuyu.preview.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "18.238.171.70",
+  "ip": "3.162.103.47",
   "live": true
  },
  "assets.preview.kikuyu.pareto.ai": {
@@ -44,7 +44,7 @@
  "augmentations.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "13.224.187.22",
+  "ip": "18.160.41.107",
   "live": true
  },
  "auth.pareto.ai": {
@@ -62,7 +62,7 @@
  "beta-development.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "beta-developmentc.pareto.ai": {
@@ -74,7 +74,7 @@
  "beta-test.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "beta-testg.pareto.ai": {
@@ -86,7 +86,7 @@
  "beta.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "development.applied-ai.pareto.ai": {
@@ -128,8 +128,8 @@
  "feedback-development.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "",
-  "live": false
+  "ip": "76.76.21.241",
+  "live": true
  },
  "feedback.pareto.ai": {
   "first_seen": "2026-10-05",
@@ -146,7 +146,7 @@
  "forte-development.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.1",
+  "ip": "216.150.16.129",
   "live": true
  },
  "forte-developmente.pareto.ai": {
@@ -158,43 +158,43 @@
  "forte-staging.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.129",
   "live": true
  },
  "forte.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "forte.preview.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.129",
+  "ip": "216.150.16.193",
   "live": true
  },
  "gdm.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.129",
   "live": true
  },
  "genesis.research.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "",
-  "live": false
+  "ip": "172.253.139.121",
+  "live": true
  },
  "googleadsconversion.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "66.33.60.67",
+  "ip": "66.33.60.66",
   "live": true
  },
  "gym-factory.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "44.255.239.15",
+  "ip": "44.250.124.92",
   "live": true
  },
  "hash.pareto.ai": {
@@ -212,7 +212,7 @@
  "kikuyu.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "44.230.142.128",
+  "ip": "52.42.19.25",
   "live": true
  },
  "kikuyu.preview.pareto.ai": {
@@ -224,13 +224,13 @@
  "kikuyu.staging.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "16.147.167.228",
+  "ip": "35.95.203.141",
   "live": true
  },
  "llm-gateway.staging.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "52.34.168.170",
+  "ip": "35.160.140.42",
   "live": true
  },
  "luna.pareto.ai": {
@@ -248,13 +248,13 @@
  "neptune.pareto.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "ip": "18.161.134.12",
+  "ip": "108.139.29.117",
   "live": true
  },
  "og-image.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "66.33.60.129",
+  "ip": "76.76.21.22",
   "live": true
  },
  "ots-rl.applied-ai.pareto.ai": {
@@ -266,7 +266,7 @@
  "ots.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "pareto.ai": {
@@ -320,13 +320,13 @@
  "rl-samples.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "samples.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.129",
+  "ip": "216.150.16.1",
   "live": true
  },
  "sandbox.applied-ai.pareto.ai": {
@@ -338,7 +338,7 @@
  "sandbox.sentinel.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "108.156.245.74",
+  "ip": "3.171.100.110",
   "live": true
  },
  "sec.pareto.ai": {
@@ -356,7 +356,7 @@
  "sentinel.pareto.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "52.84.199.13",
+  "ip": "18.160.46.34",
   "live": true
  },
  "sentinel.sandbox.applied-ai.pareto.ai": {
@@ -392,7 +392,7 @@
  "staging.eqbench.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "44.231.25.215",
+  "ip": "54.70.98.151",
   "live": true
  },
  "staging.forte.pareto.ai": {
@@ -428,14 +428,14 @@
  "twilio-slack-sms.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "76.76.21.241",
+  "ip": "66.33.60.67",
   "live": true
  },
  "work-development.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "",
-  "live": false
+  "ip": "66.33.60.66",
+  "live": true
  },
  "work-developmentw.pareto.ai": {
   "first_seen": "2026-10-07",
@@ -446,13 +446,13 @@
  "work-staging.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "66.33.60.35",
+  "ip": "66.33.60.130",
   "live": true
  },
  "work.pareto.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "76.76.21.61",
+  "ip": "76.76.21.22",
   "live": true
  },
  "www.api-development.pareto.ai": {
@@ -536,7 +536,7 @@
  "www.forte.preview.pareto.ai": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.1",
   "live": true
  },
  "www.googleadsconversion.pareto.ai": {

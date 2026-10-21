@@ -2,6 +2,26 @@
 
 ## 2026-10-21
 
+### datacurve.ai
+- git-0c735e3a-5773-4868-9c32-1451822dbb0d.datacurve.ai (172.67.191.226)
+- polaris-e2e-0ab8c426-030b-4b21-84eb-2ada323250b1.datacurve.ai (172.67.191.226)
+- polaris-e2e-ae70ac3a-53b9-40cc-8010-11c322f5663e.datacurve.ai (104.21.20.75)
+- pr-268.mira-machine.datacurve.ai (44.238.77.190)
+- pr-275.mira-machine.datacurve.ai (44.238.77.190)
+- pr-473.mira-machine.datacurve.ai (44.238.77.190)
+- pr-475.mira-machine.datacurve.ai (44.238.77.190)
+- pr-477.mira-machine.datacurve.ai (44.238.77.190)
+- worker-pr-475.mira-machine.datacurve.ai (44.238.77.190)
+- worker-pr-477.mira-machine.datacurve.ai (44.238.77.190)
+
+### joinhandshake.com
+- mimir.orbit.joinhandshake.com (34.83.213.49)
+
+### turing.com
+- tasks-staging.stem.turing.com (136.68.247.252)
+
+## 2026-10-21
+
 ### mercor.com
 - livekit-0-1-3-crowe-azure.release.enterprise.mercor.com (no DNS)
 
