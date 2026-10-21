@@ -719,7 +719,7 @@
   "sources": {
    "crtsh": 9,
    "certspotter": 9,
-   "hackertarget": 7,
+   "hackertarget": 8,
    "subdomain_center": 7,
    "wayback": 1,
    "rapiddns": 0,
@@ -735,7 +735,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T13:48",
+  "last_scan": "2026-10-21T20:13",
   "failed_sources": []
  },
  "incalmo.ai": {
@@ -744,7 +744,7 @@
    "certspotter": 4,
    "hackertarget": 4,
    "subdomain_center": 2,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -758,10 +758,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T13:49",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-10-21T20:15",
+  "failed_sources": []
  },
  "joinhandshake.com": {
   "sources": {
@@ -1197,10 +1195,10 @@
  "preferencemodel.com": {
   "sources": {
    "crtsh": 19,
-   "certspotter": null,
+   "certspotter": 2,
    "hackertarget": 2,
    "subdomain_center": 33,
-   "wayback": null,
+   "wayback": 4,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1214,11 +1212,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T13:50",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
+  "last_scan": "2026-10-21T20:17",
+  "failed_sources": []
  },
  "proximal.ai": {
   "sources": {
@@ -1406,7 +1401,7 @@
    "certspotter": 19,
    "hackertarget": 20,
    "subdomain_center": 31,
-   "wayback": 18,
+   "wayback": null,
    "rapiddns": 3,
    "c99": 0
   },
@@ -1420,8 +1415,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T13:50",
-  "failed_sources": []
+  "last_scan": "2026-10-21T20:17",
+  "failed_sources": [
+   "wayback"
+  ]
  },
  "surgehq.ai": {
   "sources": {
@@ -1580,11 +1577,11 @@
  },
  "turing.com": {
   "sources": {
-   "crtsh": 1736,
+   "crtsh": 1737,
    "certspotter": 97,
-   "hackertarget": 50,
+   "hackertarget": 51,
    "subdomain_center": 500,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 30,
    "c99": 0
   },
@@ -1598,10 +1595,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T13:49",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-10-21T20:15",
+  "failed_sources": []
  },
  "uber.com": {
   "sources": {
