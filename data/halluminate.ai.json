@@ -8,7 +8,7 @@
  "admin.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.65",
+  "ip": "64.239.109.193",
   "live": true
  },
  "amazon.halluminate.ai": {
@@ -62,7 +62,7 @@
  "captcha-env.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.65",
   "live": true
  },
  "collab.halluminate.ai": {
@@ -74,7 +74,7 @@
  "delta.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.129",
+  "ip": "64.239.109.65",
   "live": true
  },
  "dev.api.halluminate.ai": {
@@ -116,14 +116,14 @@
  "ebay.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.65",
   "live": true
  },
  "environments.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "",
-  "live": false
+  "ip": "64.239.123.129",
+  "live": true
  },
  "excel-vm.collab.halluminate.ai": {
   "first_seen": "2026-10-06",
@@ -146,7 +146,7 @@
  "flights.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.129",
+  "ip": "64.239.123.193",
   "live": true
  },
  "good-buy.halluminate.ai": {
@@ -164,31 +164,31 @@
  "google-shopping.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.129",
+  "ip": "64.239.123.65",
   "live": true
  },
  "greenhouse-databricks-solutions-architect.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.1",
+  "ip": "64.239.123.129",
   "live": true
  },
  "grounding-env.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.65",
   "live": true
  },
  "halluminate.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "",
-  "live": false
+  "ip": "216.150.1.1",
+  "live": true
  },
  "hipcamp.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.1",
   "live": true
  },
  "horizon.halluminate.ai": {
@@ -212,13 +212,13 @@
  "japan-airlines.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.1",
+  "ip": "64.239.123.129",
   "live": true
  },
  "kayak.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.129",
   "live": true
  },
  "linkedin.halluminate.ai": {
@@ -236,13 +236,13 @@
  "megamart.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.65",
+  "ip": "64.239.123.129",
   "live": true
  },
  "momondo.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.123.1",
+  "ip": "64.239.123.65",
   "live": true
  },
  "pe-env.halluminate.ai": {
@@ -254,7 +254,7 @@
  "pe-sample.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "qa.halluminate.ai": {
@@ -290,7 +290,7 @@
  "skyscanner.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.193",
   "live": true
  },
  "staging.horizon.halluminate.ai": {
@@ -440,7 +440,7 @@
  "www.halluminate.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-21",
-  "ip": "64.239.109.65",
+  "ip": "64.239.109.1",
   "live": true
  },
  "www.hipcamp.halluminate.ai": {
