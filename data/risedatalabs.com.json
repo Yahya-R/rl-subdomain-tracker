@@ -14,19 +14,19 @@
  "alps.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.129",
+  "ip": "216.150.1.1",
   "live": true
  },
  "annotations.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.193",
   "live": true
  },
  "arenas.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "assistant.risedatalabs.com": {
@@ -44,7 +44,7 @@
  "clerk.comet.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "clerk.rl-labs.risedatalabs.com": {
@@ -59,10 +59,16 @@
   "ip": "3.22.179.232",
   "live": true
  },
+ "data.risedatalabs.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "216.150.1.129",
+  "live": true
+ },
  "doom.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "experts.risedatalabs.com": {
@@ -80,7 +86,7 @@
  "karakoram.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "langfuse.risedatalabs.com": {
@@ -100,6 +106,12 @@
   "last_seen": "2026-10-21",
   "ip": "",
   "live": false
+ },
+ "partners.risedatalabs.com": {
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "ip": "216.150.16.1",
+  "live": true
  },
  "peak20.risedatalabs.com": {
   "first_seen": "2026-10-06",
@@ -152,13 +164,13 @@
  "team.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.1.129",
+  "ip": "216.150.16.1",
   "live": true
  },
  "team.staging.risedatalabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "testing.comet.risedatalabs.com": {

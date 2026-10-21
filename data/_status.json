@@ -631,7 +631,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:06",
+  "last_scan": "2026-10-21T14:12",
   "failed_sources": [
    "certspotter"
   ]
@@ -858,7 +858,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:04",
+  "last_scan": "2026-10-21T14:11",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -921,7 +921,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 3,
-   "wayback": null,
+   "wayback": 8,
    "rapiddns": 1,
    "c99": 0
   },
@@ -935,10 +935,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:06",
+  "last_scan": "2026-10-21T14:12",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "micro1.ai": {
@@ -986,7 +985,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:08",
+  "last_scan": "2026-10-21T14:13",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1190,7 +1189,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:08",
+  "last_scan": "2026-10-21T14:14",
   "failed_sources": [
    "certspotter"
   ]
@@ -1327,10 +1326,10 @@
  "risedatalabs.com": {
   "sources": {
    "crtsh": 31,
-   "certspotter": null,
+   "certspotter": 25,
    "hackertarget": 0,
    "subdomain_center": 4,
-   "wayback": 2,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1344,15 +1343,15 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:07",
+  "last_scan": "2026-10-21T14:12",
   "failed_sources": [
-   "certspotter"
+   "wayback"
   ]
  },
  "scale.com": {
   "sources": {
    "crtsh": 2687,
-   "certspotter": 98,
+   "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 499,
    "wayback": null,
@@ -1369,8 +1368,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:08",
+  "last_scan": "2026-10-21T14:13",
   "failed_sources": [
+   "certspotter",
    "wayback"
   ]
  },
@@ -1697,7 +1697,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-21T05:07",
+  "last_scan": "2026-10-21T14:13",
   "failed_sources": [
    "certspotter"
   ]
