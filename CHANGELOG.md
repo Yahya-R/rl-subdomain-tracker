@@ -2,6 +2,80 @@
 
 ## 2026-10-21
 
+### mercor.com
+- livekit-0-1-3-crowe-azure.release.enterprise.mercor.com (no DNS)
+
+### micro1.ai
+- api-prod.forms.merit.micro1.ai (54.237.28.185)
+
+### risedatalabs.com
+- data.risedatalabs.com (216.150.1.129)
+- partners.risedatalabs.com (216.150.16.1)
+
+### turing.com
+- argocd.acc-ops.turing.com (136.68.173.159)
+- bp.turing.com (8.233.226.160)
+- gdpval-worker-beta-pr-1244.rd.atlas.turing.com (34.117.251.255)
+- hangar.acc-ops.turing.com (136.68.173.159)
+- workflows.acc-ops.turing.com (136.68.173.159)
+
+### uber.com
+- 10.a.dev.uber.com (no DNS)
+- 1plus1.uber.com (no DNS)
+- 4709861.uber.com (no DNS)
+- 7hf.aws.uber.com (no DNS)
+- againm.prod.uber.com (no DNS)
+- arturasl-dev-servers.dev.uber.com (no DNS)
+- asseng.dev.uber.com (no DNS)
+- aue.uber.com (no DNS)
+- avyas9.dev.uber.com (no DNS)
+- backend9.commander.aws.uber.com (no DNS)
+- balei.mx.dev.uber.com (no DNS)
+- bill-faq.uber.com (69.48.216.4)
+- bjiang2.dev.uber.com (no DNS)
+- buick-milan-7k.dev.uber.com (no DNS)
+- chameleon-preview.uber.com (no DNS)
+- chengyuduiduizi.mx.dev.uber.com (no DNS)
+- citi9.sandbox.tokenizer.uber.com (no DNS)
+- cs4061303.prod.uber.com (no DNS)
+- cs412229.spmail.uber.com (no DNS)
+- daewoo-leone-6q.dev.uber.com (no DNS)
+- davidk.mx.dev.uber.com (no DNS)
+- destinationg.uber.com (no DNS)
+- dev-cliente.uber.com (no DNS)
+- dev-private.uber.com (no DNS)
+- douniubianpai.mx.dev.uber.com (no DNS)
+- ericmai3a.dev.uber.com (no DNS)
+- fiat-chevette-370m.dev.uber.com (no DNS)
+- filedev.uber.com (no DNS)
+- fractal.uber.com (no DNS)
+- g3e.sptrans.uber.com (no DNS)
+- gid.uber.com (no DNS)
+- gitolite05g.uber.com (no DNS)
+- haowei.dev.uber.com (no DNS)
+- help-chatc.uber.com (no DNS)
+- infiniti-2e-4m.dev.uber.com (no DNS)
+- jensen-i-miev-6m.dev.uber.com (no DNS)
+- maserati-silhouette-5.dev.uber.com (no DNS)
+- maserati-truck-9u.dev.uber.com (no DNS)
+- merkur-country-3.dev.uber.com (no DNS)
+- mez-dev-snap-5m.dev.uber.com (no DNS)
+- mint1.mx.dev.uber.com (no DNS)
+- mirror01a.syd.uber.com (no DNS)
+- morgan-endeavor-5o.dev.uber.com (no DNS)
+- oldsmobile-thunderbird-6w.dev.uber.com (no DNS)
+- pengzhai2c.dev.uber.com (no DNS)
+- pennyc.dev.uber.com (no DNS)
+- saostatic.uber.com (no DNS)
+- simonc4.dev.uber.com (no DNS)
+- stage-bliss-events.uber.com (no DNS)
+- timu.dev.uber.com (no DNS)
+- uberjho1.dev.uber.com (no DNS)
+- ylogin7.dev.uber.com (no DNS)
+- zsong2.dev.uber.com (no DNS)
+
+## 2026-10-21
+
 ### benchflow.ai
 - tastechattestsender-77809860.preview.benchflow.ai (76.76.21.21)
 
