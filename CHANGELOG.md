@@ -1,5 +1,67 @@
 # New subdomains
 
+## 2026-10-22
+
+### datacurve.ai
+- pr-276.mira-machine.datacurve.ai (44.238.77.190)
+
+### micro1.ai
+- api.digital-twin.micro1.ai (172.184.252.180)
+
+### uber.com
+- bugatti-altima-3a.dev.uber.com (no DNS)
+- carrots-vipul.dev.uber.com (no DNS)
+- cherami-builder.dev.uber.com (no DNS)
+- chrysler-santafe-1m.dev.uber.com (no DNS)
+- ciptest.mx.dev.uber.com (no DNS)
+- cn-phx2.cfe.uber.com (104.36.194.9)
+- cs328c.email.uber.com (no DNS)
+- csmithi.dev.uber.com (no DNS)
+- dev-staging.uber.com (no DNS)
+- dev-toolbare.uber.com (no DNS)
+- devaccounting.uber.com (no DNS)
+- devc.cdn.uber.com (no DNS)
+- devsandbox.uber.com (no DNS)
+- eca.uber.com (no DNS)
+- ensembled-is-patchg.dev.uber.com (no DNS)
+- gilleyi.dev.uber.com (no DNS)
+- gitc.dev.uber.com (no DNS)
+- github-deve.uber.com (no DNS)
+- gleb4.dev.uber.com (no DNS)
+- global.uber.com (no DNS)
+- gmatching.dev.uber.com (no DNS)
+- honda-veyron-6g.dev.uber.com (no DNS)
+- huangmavsrecik.mx.dev.uber.com (no DNS)
+- hyd1-metadatacache.corp.uber.com (no DNS)
+- icinga01-dca1.uber.com (no DNS)
+- isuzu-brougham-6u.dev.uber.com (no DNS)
+- isuzu-precis-2g.dev.uber.com (no DNS)
+- jlu-api.dev.uber.com (no DNS)
+- leiz11.dev.uber.com (no DNS)
+- lstaples.mx.dev.uber.com (no DNS)
+- mercedes-sedona-9s.dev.uber.com (no DNS)
+- merkur-cayman-8s.dev.uber.com (no DNS)
+- metin2e.mx.dev.uber.com (no DNS)
+- mezzaninem.dev.uber.com (no DNS)
+- mirage.dev.uber.com (no DNS)
+- mst15gzqf.mx.dev.uber.com (no DNS)
+- onemanwildfirei.dev.uber.com (no DNS)
+- peis-dev-0.dev.uber.com (no DNS)
+- plamenm.dev.uber.com (no DNS)
+- qx49.dev.uber.com (no DNS)
+- sim04.dev.uber.com (no DNS)
+- ssb-dev.uber.com (no DNS)
+- studebaker-aurora-3.dev.uber.com (no DNS)
+- sunil2.dev.uber.com (no DNS)
+- sweetse.dev.uber.com (no DNS)
+- tardisa.dev.uber.com (no DNS)
+- toyota-beetle-6o.dev.uber.com (no DNS)
+- trev3.dev.uber.com (no DNS)
+- warsaw.cfe.uber.com (no DNS)
+- www.saostatic.uber.com (no DNS)
+- xfjy9.mx.dev.uber.com (no DNS)
+- yannan3.dev.uber.com (no DNS)
+
 ## 2026-10-21
 
 ### uber.com
