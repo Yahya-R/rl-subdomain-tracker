@@ -831,7 +831,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:16",
+  "last_scan": "2026-10-22T20:36",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -987,7 +987,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:14",
+  "last_scan": "2026-10-22T20:36",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1174,7 +1174,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 136,
-   "wayback": null,
+   "wayback": 22,
    "rapiddns": 1,
    "c99": 0
   },
@@ -1188,10 +1188,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:16",
+  "last_scan": "2026-10-22T20:37",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "preferencemodel.com": {
@@ -1302,7 +1301,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 49,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1316,10 +1315,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:18",
+  "last_scan": "2026-10-22T20:38",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "risedatalabs.com": {
@@ -1353,8 +1351,8 @@
    "crtsh": 2687,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 500,
-   "wayback": 2,
+   "subdomain_center": 499,
+   "wayback": null,
    "rapiddns": 21,
    "c99": 0
   },
@@ -1368,9 +1366,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:13",
+  "last_scan": "2026-10-22T20:36",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "wayback"
   ]
  },
  "sepalai.com": {
@@ -1478,7 +1477,7 @@
  "tacitlabs.co": {
   "sources": {
    "crtsh": 2,
-   "certspotter": 2,
+   "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 2,
    "wayback": 2,
@@ -1495,8 +1494,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:17",
-  "failed_sources": []
+  "last_scan": "2026-10-22T20:37",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "tastelabs.com": {
   "sources": {
@@ -1646,7 +1647,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:20",
+  "last_scan": "2026-10-22T20:39",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1680,10 +1681,10 @@
  "vetto.ai": {
   "sources": {
    "crtsh": 90,
-   "certspotter": null,
+   "certspotter": 59,
    "hackertarget": 0,
    "subdomain_center": 8,
-   "wayback": null,
+   "wayback": 10,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1697,11 +1698,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T14:16",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
+  "last_scan": "2026-10-22T20:37",
+  "failed_sources": []
  },
  "vmax.ai": {
   "sources": {
