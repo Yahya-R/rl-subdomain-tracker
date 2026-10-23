@@ -382,10 +382,10 @@
  "deeptune.com": {
   "sources": {
    "crtsh": 17,
-   "certspotter": null,
-   "hackertarget": 5,
+   "certspotter": 9,
+   "hackertarget": 0,
    "subdomain_center": 26,
-   "wayback": 12,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -399,9 +399,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-23T04:57",
+  "last_scan": "2026-10-23T20:19",
   "failed_sources": [
-   "certspotter"
+   "wayback"
   ]
  },
  "diffuselabs.ai": {
@@ -779,9 +779,9 @@
   "sources": {
    "crtsh": 1,
    "certspotter": null,
-   "hackertarget": 1,
+   "hackertarget": 0,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -795,10 +795,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-23T04:56",
+  "last_scan": "2026-10-23T20:16",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "latch.bio": {
@@ -1053,9 +1052,9 @@
   "sources": {
    "crtsh": 26,
    "certspotter": null,
-   "hackertarget": 26,
+   "hackertarget": 25,
    "subdomain_center": 2,
-   "wayback": 2,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1069,9 +1068,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-23T04:56",
+  "last_scan": "2026-10-23T20:16",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "wayback"
   ]
  },
  "patronus.ai": {
@@ -1625,9 +1625,9 @@
  },
  "verita-ai.com": {
   "sources": {
-   "crtsh": 57,
+   "crtsh": 1,
    "certspotter": null,
-   "hackertarget": 48,
+   "hackertarget": 0,
    "subdomain_center": 18,
    "wayback": null,
    "rapiddns": 0,
@@ -1643,7 +1643,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-23T04:58",
+  "last_scan": "2026-10-23T20:21",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1704,9 +1704,9 @@
   "sources": {
    "crtsh": 93,
    "certspotter": null,
-   "hackertarget": 50,
+   "hackertarget": 0,
    "subdomain_center": 196,
-   "wayback": null,
+   "wayback": 39,
    "rapiddns": 31,
    "c99": 0
   },
@@ -1720,10 +1720,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-23T04:57",
+  "last_scan": "2026-10-23T20:17",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  }
 }
