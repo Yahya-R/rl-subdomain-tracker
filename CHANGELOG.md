@@ -2,6 +2,11 @@
 
 ## 2026-10-23
 
+### bespokelabs.ai
+- horizon-proxy-edge.bespokelabs.ai (104.20.42.226)
+
+## 2026-10-23
+
 ### goodstartlabs.com
 - dev-matchmaker.goodstartlabs.com (34.31.97.223)
 - dev-portal-api.goodstartlabs.com (34.31.97.223)

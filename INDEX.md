@@ -4,19 +4,19 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 
 | Root | Subdomains | Live | Baseline | Failed sources (last run) |
 |---|---|---|---|---|
-| [abundant.ai](data/abundant.ai.json) | 34 | 10 | yes | certspotter |
+| [abundant.ai](data/abundant.ai.json) | 34 | 10 | yes | crtsh, wayback |
 | [afterquery.com](data/afterquery.com.json) | 47 | 45 | yes | - |
 | [alignai.co](data/alignai.co.json) | 17 | 17 | yes | certspotter, wayback |
 | [andromede.ai](data/andromede.ai.json) | 101 | 101 | yes | certspotter, wayback |
 | [anthromind.com](data/anthromind.com.json) | 4 | 3 | yes | certspotter, wayback |
 | [aptura.ai](data/aptura.ai.json) | 18 | 13 | yes | certspotter, wayback |
 | [arimlabs.ai](data/arimlabs.ai.json) | 14 | 11 | yes | - |
-| [aviro.ai](data/aviro.ai.json) | 8 | 6 | yes | certspotter |
-| [benchflow.ai](data/benchflow.ai.json) | 166 | 156 | yes | - |
-| [bespokelabs.ai](data/bespokelabs.ai.json) | 39 | 23 | yes | certspotter |
+| [aviro.ai](data/aviro.ai.json) | 8 | 6 | yes | crtsh, wayback |
+| [benchflow.ai](data/benchflow.ai.json) | 166 | 156 | yes | crtsh, wayback |
+| [bespokelabs.ai](data/bespokelabs.ai.json) | 40 | 24 | yes | crtsh, wayback |
 | [chakra.dev](data/chakra.dev.json) | 41 | 4 | yes | certspotter |
-| [collinear.ai](data/collinear.ai.json) | 39 | 15 | yes | certspotter |
-| [cua.ai](data/cua.ai.json) | 929 | 27 | yes | certspotter |
+| [collinear.ai](data/collinear.ai.json) | 39 | 15 | yes | crtsh, wayback |
+| [cua.ai](data/cua.ai.json) | 929 | 27 | yes | crtsh |
 | [datacurve.ai](data/datacurve.ai.json) | 429 | 412 | yes | certspotter |
 | [deeptune.ai](data/deeptune.ai.json) | 39 | 11 | yes | certspotter |
 | [deeptune.com](data/deeptune.com.json) | 30 | 6 | yes | certspotter |
@@ -48,13 +48,13 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 | [pareto.ai](data/pareto.ai.json) | 101 | 44 | yes | certspotter, wayback |
 | [parsewave.ai](data/parsewave.ai.json) | 28 | 25 | yes | certspotter |
 | [patronus.ai](data/patronus.ai.json) | 134 | 47 | yes | certspotter |
-| [phinity.ai](data/phinity.ai.json) | 2 | 2 | yes | certspotter |
+| [phinity.ai](data/phinity.ai.json) | 2 | 2 | yes | crtsh, wayback |
 | [plato.so](data/plato.so.json) | 78 | 37 | yes | certspotter, wayback |
 | [pre.dev](data/pre.dev.json) | 165 | 137 | yes | - |
 | [preferencemodel.com](data/preferencemodel.com.json) | 33 | 2 | yes | certspotter |
 | [proximal.ai](data/proximal.ai.json) | 5 | 4 | yes | certspotter |
-| [quesma.com](data/quesma.com.json) | 28 | 11 | yes | certspotter |
-| [reasoncore.ai](data/reasoncore.ai.json) | 6 | 4 | yes | certspotter |
+| [quesma.com](data/quesma.com.json) | 28 | 11 | yes | crtsh, wayback |
+| [reasoncore.ai](data/reasoncore.ai.json) | 6 | 4 | yes | crtsh, wayback |
 | [refresh.dev](data/refresh.dev.json) | 56 | 11 | yes | wayback |
 | [risedatalabs.com](data/risedatalabs.com.json) | 34 | 22 | yes | wayback |
 | [scale.com](data/scale.com.json) | 3086 | 997 | yes | crtsh, wayback |

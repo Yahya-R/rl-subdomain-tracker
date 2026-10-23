@@ -306,9 +306,9 @@
  },
  "cua.ai": {
   "sources": {
-   "crtsh": 791,
-   "certspotter": null,
-   "hackertarget": 0,
+   "crtsh": null,
+   "certspotter": 23,
+   "hackertarget": 26,
    "subdomain_center": 498,
    "wayback": 288,
    "rapiddns": 0,
@@ -324,9 +324,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-22T23:53",
+  "last_scan": "2026-10-23T14:08",
   "failed_sources": [
-   "certspotter"
+   "crtsh"
   ]
  },
  "datacurve.ai": {
