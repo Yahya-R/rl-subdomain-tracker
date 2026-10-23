@@ -2,6 +2,83 @@
 
 ## 2026-10-23
 
+### benchflow.ai
+- tastechattestsender-677f44fb.preview.benchflow.ai (76.76.21.21)
+
+### datacurve.ai
+- git-07733a41-c329-4669-8e7e-ac13f817289d.datacurve.ai (104.21.20.75)
+- nexus-lighthouse.internal.datacurve.ai (104.21.20.75)
+- polaris-e2e-9a91ec76-61f1-4800-951c-8e4437d02694.datacurve.ai (172.67.191.226)
+
+### turing.com
+- matching-staging-new.turing.com (34.36.216.15)
+
+### uber.com
+- 10ccc.mx.dev.uber.com (no DNS)
+- 4hb3.aws.uber.com (no DNS)
+- 5.uber.com (no DNS)
+- anyserverm.aws.uber.com (no DNS)
+- asm.patagonia.uber.com (no DNS)
+- austin-cirrus-3w.dev.uber.com (no DNS)
+- bentley-firefly-5k.dev.uber.com (no DNS)
+- billings.cfe.uber.com (no DNS)
+- bird2a.dev.uber.com (no DNS)
+- blobg.core.uber.com (no DNS)
+- cadillac-passat-5s.dev.uber.com (no DNS)
+- cerebro-testingm.dev.uber.com (no DNS)
+- chevrolet-mclaren-7y.dev.uber.com (no DNS)
+- chrisc-dev.dev.uber.com (no DNS)
+- clickpmsp.uber.com (69.48.216.73)
+- coinbase9.dev.uber.com (no DNS)
+- communitiesg.uber.com (no DNS)
+- csong4.dev.uber.com (no DNS)
+- ctr.uber.com (no DNS)
+- deen.uber.com (no DNS)
+- dev-service.uber.com (no DNS)
+- devchevrolete.uber.com (no DNS)
+- fiat-carens-1m.dev.uber.com (no DNS)
+- fiat-tracer-1m.dev.uber.com (no DNS)
+- fillmore-gransport-6q.dev.uber.com (no DNS)
+- freebirda.dev.uber.com (no DNS)
+- frontends-cloud-fipsu.uber.com (no DNS)
+- getmassage.dev.uber.com (no DNS)
+- ghcpi-devk.uber.com (no DNS)
+- holden-phaeton-5o.dev.uber.com (no DNS)
+- jasim6.dev.uber.com (no DNS)
+- jeep-camaro-2e.dev.uber.com (no DNS)
+- jeep-raider-7.dev.uber.com (no DNS)
+- jensen-bronco-6o.dev.uber.com (no DNS)
+- jingc1.dev.uber.com (no DNS)
+- jyo-awsg.dev.uber.com (no DNS)
+- k7yulechengbaijialexianjin5.mx.dev.uber.com (no DNS)
+- khg.dev.uber.com (no DNS)
+- ktran-2a.dev.uber.com (no DNS)
+- landrover-expedition-5w.dev.uber.com (no DNS)
+- lincoln-amg-3.dev.uber.com (no DNS)
+- lotus-aviator-8k.dev.uber.com (no DNS)
+- miami7.cfe.uber.com (no DNS)
+- ng27.dev.uber.com (no DNS)
+- nomad7.dev.uber.com (no DNS)
+- pengchengudr.dev.uber.com (no DNS)
+- plymouth-spider-4u.dev.uber.com (no DNS)
+- quasary.dev.uber.com (no DNS)
+- rechner11.mx.dev.uber.com (no DNS)
+- rip3e.mx.dev.uber.com (no DNS)
+- rom-nintendods.mx.dev.uber.com (no DNS)
+- saab-shadow-3m.dev.uber.com (no DNS)
+- sark.dev.uber.com (no DNS)
+- scion-volare-7k.dev.uber.com (no DNS)
+- statsdex37.uber.com (no DNS)
+- sv2.uber.com (no DNS)
+- volkswagen-blazer-1q.dev.uber.com (no DNS)
+- volvo-protege-1k.dev.uber.com (no DNS)
+- wduan02.dev.uber.com (no DNS)
+- yamaha-panamera-7s.dev.uber.com (no DNS)
+- yu2.dev.uber.com (no DNS)
+- zaixianpaijiuw.mx.dev.uber.com (no DNS)
+
+## 2026-10-23
+
 ### micro1.ai
 - stage.ops.micro1.ai (18.238.192.92)
 
