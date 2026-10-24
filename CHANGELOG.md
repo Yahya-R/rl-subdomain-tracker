@@ -2,6 +2,11 @@
 
 ## 2026-10-24
 
+### mercor.com
+- crowe-test.release.enterprise.mercor.com (64.236.81.241)
+
+## 2026-10-24
+
 ### datacurve.ai
 - deepswe-downloads.datacurve.ai (13.226.238.33)
 
