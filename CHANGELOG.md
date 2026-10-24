@@ -2,6 +2,61 @@
 
 ## 2026-10-24
 
+### datacurve.ai
+- deepswe-downloads.datacurve.ai (13.226.238.33)
+
+### dissei.ai
+- outcomes-lab.dissei.ai (104.26.12.144)
+
+### uber.com
+- 3c4.aws.uber.com (no DNS)
+- 6bc03e5ad9.uber.com (no DNS)
+- administrator.a.dev.uber.com (no DNS)
+- adw.dev.uber.com (no DNS)
+- atsumare.mx.dev.uber.com (no DNS)
+- bill2.dev.uber.com (no DNS)
+- bmwmotorrad.uber.com (no DNS)
+- cdnm.contact.uber.com (no DNS)
+- chao-dev1c.dev.uber.com (no DNS)
+- chefauto7.sandbox.cpe.uber.com (no DNS)
+- cpcontactsg.uber.com (no DNS)
+- cypress.prod.uber.com (no DNS)
+- deathstar7.dev.uber.com (no DNS)
+- dev-securee.uber.com (no DNS)
+- ede0494ae9.uber.com (no DNS)
+- enhancesm.prod.uber.com (no DNS)
+- fargoi.cfe.uber.com (no DNS)
+- found.prod.uber.com (no DNS)
+- frontends-alli.uber.com (no DNS)
+- frontends-dc-staging.uber.com (104.36.192.150)
+- frontends-mtls-usso-batch-2.uber.com (no DNS)
+- haoyouxishijiexiazai.mx.dev.uber.com (no DNS)
+- histories.uber.com (no DNS)
+- honda-civic-6k.dev.uber.com (no DNS)
+- hqin-s1.dev.uber.com (no DNS)
+- hua-golden.dev.uber.com (no DNS)
+- infiniti-cl-4s.dev.uber.com (no DNS)
+- jasim2.dev.uber.com (no DNS)
+- jrs.dev.uber.com (no DNS)
+- kejlberg4e.dev.uber.com (no DNS)
+- kenzanboo.dev.uber.com (no DNS)
+- lincoln-phantom-4u.dev.uber.com (no DNS)
+- m-qa1.uber.com (no DNS)
+- mediasite.uber.com (no DNS)
+- mercedes-benz-x-90-6i.dev.uber.com (no DNS)
+- mrbrowning-master7.dev.uber.com (no DNS)
+- mzaidi2a.dev.uber.com (no DNS)
+- peder2.dev.uber.com (no DNS)
+- porsche-mazdaspeed-3-7q.dev.uber.com (no DNS)
+- slave2.dev.uber.com (no DNS)
+- smart-outback-8m.dev.uber.com (no DNS)
+- staff.uber.com (no DNS)
+- t.dev.uber.com (no DNS)
+- test-new-ebert-269.dev.uber.com (no DNS)
+- wenzhouzuqiubaoi.mx.dev.uber.com (no DNS)
+
+## 2026-10-24
+
 ### mercor.com
 - 0-1-2-azure.release.enterprise.mercor.com (no DNS)
 - api-0-1-2-azure.release.enterprise.mercor.com (no DNS)
