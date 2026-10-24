@@ -1,5 +1,11 @@
 # New subdomains
 
+## 2026-10-24
+
+### mercor.com
+- 0-1-2-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-2-azure.release.enterprise.mercor.com (no DNS)
+
 ## 2026-10-23
 
 ### benchflow.ai
