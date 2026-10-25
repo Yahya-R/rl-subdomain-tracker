@@ -19,7 +19,7 @@
  },
  "daytona-minio.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -97,7 +97,7 @@
  },
  "dev-matchmaker.goodstartlabs.com": {
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "34.31.97.223",
   "live": true
  },
@@ -109,13 +109,13 @@
  },
  "dev-portal-api.goodstartlabs.com": {
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "34.31.97.223",
   "live": true
  },
  "dev-portal.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -127,7 +127,7 @@
  },
  "dev-task-reviewer.goodstartlabs.com": {
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "10.10.0.30",
   "live": true
  },
@@ -140,25 +140,25 @@
  "dev-tournament-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  },
  "dev-tournament.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "dev-webhooks.goodstartlabs.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "10.10.0.30",
   "live": true
  },
  "dev-website.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  },
  "dev2-argocd.goodstartlabs.com": {
@@ -217,13 +217,13 @@
  },
  "matchmaker.goodstartlabs.com": {
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "35.226.223.46",
   "live": true
  },
  "p96a69tyxry03.dev-sbx-gateway.goodstartlabs.com": {
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "34.31.97.223",
   "live": true
  },
@@ -260,7 +260,7 @@
  "prod-badcards-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "prod-eval-platform.goodstartlabs.com": {
@@ -307,7 +307,7 @@
  },
  "pwg12qmnnpfx8.sbx-gateway.goodstartlabs.com": {
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-24",
+  "last_seen": "2026-10-25",
   "ip": "34.31.97.223",
   "live": true
  },
@@ -326,19 +326,19 @@
  "tournament-api.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  },
  "tournament.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "104.21.83.159",
+  "ip": "172.67.178.100",
   "live": true
  },
  "www.goodstartlabs.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-25",
-  "ip": "172.67.178.100",
+  "ip": "104.21.83.159",
   "live": true
  }
 }
