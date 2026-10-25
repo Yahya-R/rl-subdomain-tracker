@@ -995,9 +995,9 @@
  },
  "originator.inc": {
   "sources": {
-   "crtsh": 53,
+   "crtsh": 51,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 46,
    "subdomain_center": 42,
    "wayback": null,
    "rapiddns": 0,
@@ -1013,7 +1013,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T05:11",
+  "last_scan": "2026-10-25T19:17",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1325,8 +1325,8 @@
  "scale.com": {
   "sources": {
    "crtsh": null,
-   "certspotter": 98,
-   "hackertarget": 0,
+   "certspotter": null,
+   "hackertarget": 51,
    "subdomain_center": 500,
    "wayback": null,
    "rapiddns": 21,
@@ -1342,8 +1342,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T05:11",
+  "last_scan": "2026-10-25T19:21",
   "failed_sources": [
+   "certspotter",
    "crtsh",
    "wayback"
   ]
