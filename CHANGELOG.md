@@ -2,6 +2,20 @@
 
 ## 2026-10-25
 
+### joinhandshake.com
+- api.orbit.joinhandshake.com (34.83.213.49)
+
+### mercor.com
+- api-0-1-3-crowe-azure.release.enterprise.mercor.com (no DNS)
+
+### micro1.ai
+- api-dev.forms.merit.micro1.ai (3.220.153.253)
+
+### turing.com
+- gdpval-worker-beta-pr-1046.rd.atlas.turing.com (no DNS)
+
+## 2026-10-25
+
 ### bespokelabs.ai
 - horizon-agent-edge.bespokelabs.ai (172.66.155.249)
 - horizon-api-edge.bespokelabs.ai (104.20.42.226)
