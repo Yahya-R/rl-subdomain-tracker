@@ -2,6 +2,62 @@
 
 ## 2026-10-25
 
+### cua.ai
+- oidc.staging.cua.ai (44.228.20.154)
+
+### normal.ai
+- review.normal.ai (172.67.143.1)
+
+### pre.dev
+- links.news.pre.dev (13.225.47.118)
+
+### tastelabs.com
+- preview.hdp.staging.tastelabs.com (34.8.139.170)
+
+### uber.com
+- 38go.email.uber.com (no DNS)
+- 4709861c.uber.com (no DNS)
+- 7.uber.com (no DNS)
+- advantage.uber.com (no DNS)
+- alien.dev.uber.com (no DNS)
+- ardogold.dev.uber.com (no DNS)
+- audi-tundramax-7m.dev.uber.com (no DNS)
+- baby-hippo.dev.uber.com (no DNS)
+- buick-enclave-1o.dev.uber.com (no DNS)
+- carlos3.dev.uber.com (no DNS)
+- cartops.uber.com (no DNS)
+- cerebro-supplyc.dev.uber.com (no DNS)
+- cmsconnectu.uber.com (no DNS)
+- cn-staging-sjc4.cfe.uber.com (34.111.27.223)
+- cps.uber.com (no DNS)
+- dealt.uber.com (no DNS)
+- dev-region.uber.com (no DNS)
+- devedge5.uber.com (no DNS)
+- devm.gitlab.uber.com (no DNS)
+- devrestricted.uber.com (no DNS)
+- ef83c3b4.uber.com (no DNS)
+- europedev.uber.com (no DNS)
+- foose-monaco-3m.dev.uber.com (no DNS)
+- fowlere.spmail.uber.com (no DNS)
+- ftl.prod.ftl.uber.com (no DNS)
+- gaobin11c.dev.uber.com (no DNS)
+- gmc-slx-7i.dev.uber.com (no DNS)
+- henriki.dev.uber.com (no DNS)
+- houston.cfe.uber.com (no DNS)
+- jackxu1i.dev.uber.com (no DNS)
+- jialu-7.dev.uber.com (no DNS)
+- logana.dev.uber.com (no DNS)
+- mkonjeti1a.dev.uber.com (no DNS)
+- off-d-record.mx.dev.uber.com (no DNS)
+- plymouth-special-7u.dev.uber.com (no DNS)
+- porsche-240sx-89.dev.uber.com (no DNS)
+- saturn-caliber-8i.dev.uber.com (no DNS)
+- saturn-lacrosse-5g.dev.uber.com (no DNS)
+- scion-monza-8o.dev.uber.com (no DNS)
+- www.testcdn.uber.com (no DNS)
+
+## 2026-10-25
+
 ### joinhandshake.com
 - api.orbit.joinhandshake.com (34.83.213.49)
 
