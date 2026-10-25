@@ -1,5 +1,59 @@
 # New subdomains
 
+## 2026-10-25
+
+### bespokelabs.ai
+- horizon-agent-edge.bespokelabs.ai (172.66.155.249)
+- horizon-api-edge.bespokelabs.ai (104.20.42.226)
+- pdk-417-identity-edge.bespokelabs.ai (104.20.42.226)
+- tbs-dash.bespokelabs.ai (34.8.82.86)
+
+### plato.so
+- assembly.plato.so (18.145.178.241)
+
+### uber.com
+- afinch-vagrantg.dev.uber.com (no DNS)
+- barisg.dev.uber.com (no DNS)
+- base-role02-sjc1o.prod.uber.com (no DNS)
+- caledoniaprojectw.aws.uber.com (no DNS)
+- call-prompts-static9.uber.com (no DNS)
+- chryslerdeva.uber.com (no DNS)
+- connectgateway.uber.com (no DNS)
+- corbin-caravan-2u.dev.uber.com (no DNS)
+- csong0.dev.uber.com (no DNS)
+- dc.dev.uber.com (no DNS)
+- devc.bucket.uber.com (no DNS)
+- doopy.mx.dev.uber.com (no DNS)
+- drearyk.mx.dev.uber.com (no DNS)
+- gurafu-ago.dev.uber.com (no DNS)
+- jouybari.mx.dev.uber.com (no DNS)
+- kdiggity.dev.uber.com (no DNS)
+- leiz4.dev.uber.com (no DNS)
+- lotus-virage-9k.dev.uber.com (no DNS)
+- lucasmarshallm.dev.uber.com (no DNS)
+- maserati-tank-5w.dev.uber.com (no DNS)
+- maybach-focus-6s.dev.uber.com (no DNS)
+- menno-eu-golden1i.dev.uber.com (no DNS)
+- mkto.uber.com (104.17.70.206)
+- mta.et.uber.com (198.245.86.114)
+- olivia-test-trident.dev.uber.com (no DNS)
+- panoz-lumina-6i.dev.uber.com (no DNS)
+- perth9.cfe.uber.com (no DNS)
+- profitablea.mx.dev.uber.com (no DNS)
+- saturn-electra-3k.dev.uber.com (no DNS)
+- sboucher0a.dev.uber.com (no DNS)
+- sbylhz.mx.dev.uber.com (no DNS)
+- scream.dev.uber.com (no DNS)
+- sfranke.dev.uber.com (no DNS)
+- sjc1-ndesvip.corp-dev.uber.com (no DNS)
+- srini-p22c.dev.uber.com (no DNS)
+- tj2e.dev.uber.com (no DNS)
+- tp31g.mx.dev.uber.com (no DNS)
+- twexler-clustoa.dev.uber.com (no DNS)
+- vaidas2e.dev.uber.com (no DNS)
+- www.ext.uber.com (no DNS)
+- www.investor.uber.com (no DNS)
+
 ## 2026-10-24
 
 ### originator.inc
