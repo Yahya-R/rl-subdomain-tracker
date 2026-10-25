@@ -2,6 +2,11 @@
 
 ## 2026-10-25
 
+### mercor.com
+- livekit-0-1-5-crowe-azure.release.enterprise.mercor.com (no DNS)
+
+## 2026-10-25
+
 ### cua.ai
 - oidc.staging.cua.ai (44.228.20.154)
 
