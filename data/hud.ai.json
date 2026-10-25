@@ -2,7 +2,7 @@
  "accounts.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "admin-staging.hud.ai": {
@@ -14,25 +14,25 @@
  "admin.beta.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "66.33.60.194",
+  "ip": "76.76.21.22",
   "live": true
  },
  "admin.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "admin.legacy.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "66.33.60.67",
+  "ip": "66.33.60.193",
   "live": true
  },
  "admin.staging.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "76.76.21.93",
+  "ip": "76.76.21.98",
   "live": true
  },
  "admin5.hud.ai": {
@@ -44,7 +44,7 @@
  "api.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "32.190.233.114",
+  "ip": "32.185.156.79",
   "live": true
  },
  "app.hud.ai": {
@@ -74,13 +74,13 @@
  "clerk.beta.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.billing.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "clerk.hud.ai": {
@@ -92,7 +92,7 @@
  "clerk.vendor.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "dashboard.hud.ai": {
@@ -104,7 +104,7 @@
  "docs.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "76.76.21.142",
+  "ip": "66.33.60.67",
   "live": true
  },
  "feed.hud.ai": {
@@ -116,7 +116,7 @@
  "forge.hud.ai": {
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-25",
-  "ip": "216.150.16.129",
+  "ip": "216.150.1.193",
   "live": true
  },
  "gmail.hud.ai": {
@@ -140,13 +140,13 @@
  "inference.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "35.160.7.149",
+  "ip": "35.167.101.187",
   "live": true
  },
  "legacy.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.193",
   "live": true
  },
  "mail.hud.ai": {
@@ -170,7 +170,7 @@
  "mcp.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "54.202.33.220",
+  "ip": "44.238.9.21",
   "live": true
  },
  "outlook.hud.ai": {
@@ -212,7 +212,7 @@
  "rl.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "54.202.63.158",
+  "ip": "44.226.245.252",
   "live": true
  },
  "shop.hud.ai": {
@@ -242,13 +242,13 @@
  "toptal.beta.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "66.33.60.35",
+  "ip": "76.76.21.164",
   "live": true
  },
  "toptal.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "216.150.16.193",
+  "ip": "216.150.16.1",
   "live": true
  },
  "toptal.staging.hud.ai": {
@@ -260,7 +260,7 @@
  "trust.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "216.150.1.193",
+  "ip": "216.150.16.129",
   "live": true
  },
  "vendor-staging.hud.ai": {
@@ -272,19 +272,19 @@
  "vendor.beta.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "66.33.60.66",
+  "ip": "76.76.21.142",
   "live": true
  },
  "vendor.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "vendor.legacy.hud.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-25",
-  "ip": "76.76.21.142",
+  "ip": "76.76.21.123",
   "live": true
  },
  "vendor.staging.hud.ai": {
