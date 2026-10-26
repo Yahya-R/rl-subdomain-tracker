@@ -1,5 +1,20 @@
 # New subdomains
 
+## 2026-10-26
+
+### datacurve.ai
+- git-v1.polaris.datacurve.ai (104.21.20.75)
+- pr-272.mira-machine.datacurve.ai (44.238.77.190)
+- pr-286.mira-machine.datacurve.ai (44.238.77.190)
+- pr-336.mira-machine.datacurve.ai (44.238.77.190)
+- titanfall.internal.datacurve.ai (172.67.191.226)
+
+### joinhandshake.com
+- access.orbit.joinhandshake.com (34.83.213.49)
+
+### turing.com
+- gdpval-worker-beta-pr-1066.rd.atlas.turing.com (no DNS)
+
 ## 2026-10-25
 
 ### mercor.com
