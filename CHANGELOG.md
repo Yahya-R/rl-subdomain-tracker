@@ -3,6 +3,63 @@
 ## 2026-10-26
 
 ### datacurve.ai
+- pr-480.mira-machine.datacurve.ai (44.238.77.190)
+
+### mercor.com
+- livekit-0-1-6-crowe-azure.release.enterprise.mercor.com (no DNS)
+
+### uber.com
+- 2.dev.uber.com (no DNS)
+- answers.uber.com (no DNS)
+- arturasl-precise-appq.dev.uber.com (no DNS)
+- austin-eldorado-7k.dev.uber.com (no DNS)
+- austin-escape-1.dev.uber.com (no DNS)
+- bastion-oob01-phx4.uber.com (no DNS)
+- cn-staging-phx2o.cfe.uber.com (no DNS)
+- comc.email.uber.com (no DNS)
+- cpg-api-09210b83.uber.com (104.36.194.87)
+- csong5.dev.uber.com (no DNS)
+- dev-elasticbeanstalko.uber.com (no DNS)
+- docsapi.uber.com (no DNS)
+- dw.dev.uber.com (no DNS)
+- endorphin.mx.dev.uber.com (no DNS)
+- fly-stagingk.uber.com (no DNS)
+- foose-ram-3500-club-4a.dev.uber.com (no DNS)
+- freight-test.uber.com (no DNS)
+- gatewaysite.uber.com (no DNS)
+- gslb.uber.com (no DNS)
+- huim2.dev.uber.com (no DNS)
+- hummer-vantage-1m.dev.uber.com (no DNS)
+- jeffs2.dev.uber.com (no DNS)
+- kmantas-jessie9.dev.uber.com (no DNS)
+- merkur-excursion-7k.dev.uber.com (no DNS)
+- milo5.dev.uber.com (no DNS)
+- mr27.dev.uber.com (no DNS)
+- myaccounta.foose-acclaim-2.dev.uber.com (no DNS)
+- nissan-alcyone-svx-1o.dev.uber.com (no DNS)
+- partnerspartnersi.dev.uber.com (no DNS)
+- plymouth-hybrid-1u.dev.uber.com (no DNS)
+- rchiang1.dev.uber.com (no DNS)
+- rwangbox2c.dev.uber.com (no DNS)
+- ryantous1a.dev.uber.com (no DNS)
+- safetycenter-staging.uber.com (no DNS)
+- seattlea.cfe.uber.com (no DNS)
+- seppblatterwithblackpeople.mx.dev.uber.com (no DNS)
+- sportsbook.uber.com (no DNS)
+- srussell6e.dev.uber.com (no DNS)
+- studebaker-sentra-8q.dev.uber.com (no DNS)
+- study-weiq.dev.uber.com (no DNS)
+- svc.uber.com (no DNS)
+- theboxa.dev.uber.com (no DNS)
+- tracyk.dev.uber.com (no DNS)
+- vishalbk.dev.uber.com (no DNS)
+- vr.dev.uber.com (no DNS)
+- vybs.dev.uber.com (no DNS)
+- zhenqianzhenrendudizhuy.mx.dev.uber.com (no DNS)
+
+## 2026-10-26
+
+### datacurve.ai
 - git-v1.polaris.datacurve.ai (104.21.20.75)
 - pr-272.mira-machine.datacurve.ai (44.238.77.190)
 - pr-286.mira-machine.datacurve.ai (44.238.77.190)
