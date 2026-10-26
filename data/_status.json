@@ -530,7 +530,7 @@
    "crtsh": 3,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 0,
+   "subdomain_center": null,
    "wayback": 1,
    "rapiddns": 0,
    "c99": 0
@@ -545,9 +545,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T22:56",
+  "last_scan": "2026-10-26T05:07",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "subdomain_center"
   ]
  },
  "exabite.ai": {
@@ -635,8 +636,8 @@
    "crtsh": 13,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 4,
-   "wayback": null,
+   "subdomain_center": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -650,10 +651,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T22:58",
+  "last_scan": "2026-10-26T05:08",
   "failed_sources": [
    "certspotter",
-   "wayback"
+   "subdomain_center"
   ]
  },
  "halluminate.ai": {
@@ -846,8 +847,8 @@
    "crtsh": 51,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 80,
-   "wayback": 31,
+   "subdomain_center": null,
+   "wayback": null,
    "rapiddns": 3,
    "c99": 0
   },
@@ -861,9 +862,11 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T23:00",
+  "last_scan": "2026-10-26T05:09",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "subdomain_center",
+   "wayback"
   ]
  },
  "markovstudios.com": {
@@ -871,8 +874,8 @@
    "crtsh": 6,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 2,
-   "wayback": 3,
+   "subdomain_center": null,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -886,9 +889,11 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T23:00",
+  "last_scan": "2026-10-26T05:12",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "subdomain_center",
+   "wayback"
   ]
  },
  "mechanize.work": {
@@ -948,7 +953,7 @@
    "crtsh": 18,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 3,
+   "subdomain_center": null,
    "wayback": null,
    "rapiddns": 1,
    "c99": 0
@@ -963,9 +968,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T23:05",
+  "last_scan": "2026-10-26T05:11",
   "failed_sources": [
    "certspotter",
+   "subdomain_center",
    "wayback"
   ]
  },
@@ -1177,8 +1183,8 @@
    "crtsh": 55,
    "certspotter": 42,
    "hackertarget": 0,
-   "subdomain_center": 57,
-   "wayback": 6,
+   "subdomain_center": null,
+   "wayback": null,
    "rapiddns": 1,
    "c99": 0
   },
@@ -1192,8 +1198,11 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T22:59",
-  "failed_sources": []
+  "last_scan": "2026-10-26T05:09",
+  "failed_sources": [
+   "subdomain_center",
+   "wayback"
+  ]
  },
  "pre.dev": {
   "sources": {
@@ -1560,7 +1569,7 @@
    "crtsh": 3,
    "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": 2,
+   "subdomain_center": null,
    "wayback": null,
    "rapiddns": 1,
    "c99": 0
@@ -1575,9 +1584,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-25T23:03",
+  "last_scan": "2026-10-26T05:09",
   "failed_sources": [
    "certspotter",
+   "subdomain_center",
    "wayback"
   ]
  },
