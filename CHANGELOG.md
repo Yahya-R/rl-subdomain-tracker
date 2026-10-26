@@ -2,6 +2,40 @@
 
 ## 2026-10-26
 
+### uber.com
+- 48gu.aws.uber.com (no DNS)
+- alexf2.dev.uber.com (no DNS)
+- api-staging.uber.com (no DNS)
+- bucket-dev.uber.com (no DNS)
+- cadillac-passat-3y.dev.uber.com (no DNS)
+- cf-legacy-migrationk.uber.com (no DNS)
+- chrysler-acadia-2s.dev.uber.com (no DNS)
+- citrix.uber.com (no DNS)
+- deeplinks-stagingq.uber.com (no DNS)
+- eagle-sierra-5e.dev.uber.com (no DNS)
+- emily1.dev.uber.com (no DNS)
+- enc.irvingcpg.uber.com (no DNS)
+- fenbaihecaibacangjitu.mx.dev.uber.com (no DNS)
+- geo1.uber.com (no DNS)
+- gp75.sptrans.uber.com (no DNS)
+- hqin.dev.uber.com (no DNS)
+- insurance-hub.uber.com (104.36.194.5)
+- library.syao.dev.uber.com (no DNS)
+- lille9.cfe.uber.com (no DNS)
+- mod01e.mx.dev.uber.com (no DNS)
+- nikhila.dev.uber.com (no DNS)
+- panoz-sparrow-8o.dev.uber.com (no DNS)
+- pikey3.dev.uber.com (no DNS)
+- rolls-royce-cayenne-7w.dev.uber.com (no DNS)
+- serv0e.mx.dev.uber.com (no DNS)
+- songszonal.mx.dev.uber.com (no DNS)
+- spiked-monza-7a.dev.uber.com (no DNS)
+- srini35.dev.uber.com (no DNS)
+- volkswagen-apv-2w.dev.uber.com (no DNS)
+- www.m.uber.com (no DNS)
+
+## 2026-10-26
+
 ### datacurve.ai
 - pr-480.mira-machine.datacurve.ai (44.238.77.190)
 
