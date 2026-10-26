@@ -1,6 +1,6 @@
 {
  "domain": "goodstartlabs.com",
- "live_hosts": 39,
+ "live_hosts": 44,
  "pages": [
   {
    "host": "apply.goodstartlabs.com",
@@ -66,7 +66,15 @@
    "status": "no response"
   },
   {
+   "host": "dev-matchmaker.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
    "host": "dev-otel-collector.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "dev-portal-api.goodstartlabs.com",
    "status": "no response"
   },
   {
@@ -132,6 +140,14 @@
    "status": "no response"
   },
   {
+   "host": "matchmaker.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "p96a69tyxry03.dev-sbx-gateway.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
    "host": "portal.goodstartlabs.com",
    "status": "ok",
    "url": "https://portal.goodstartlabs.com/",
@@ -164,6 +180,10 @@
   },
   {
    "host": "proxy.daytona.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "pwg12qmnnpfx8.sbx-gateway.goodstartlabs.com",
    "status": "no response"
   },
   {

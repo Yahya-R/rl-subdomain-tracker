@@ -1,6 +1,6 @@
 {
  "domain": "micro1.ai",
- "live_hosts": 202,
+ "live_hosts": 203,
  "pages": [
   {
    "host": "adm.micro1.ai",
@@ -53,6 +53,10 @@
    "status": "no response"
   },
   {
+   "host": "api-dev.forms.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
    "host": "api-dev.merit.micro1.ai",
    "status": "no response"
   },
@@ -70,6 +74,10 @@
   },
   {
    "host": "api-preprod.forms.merit.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api-prod.forms.merit.micro1.ai",
    "status": "no response"
   },
   {
@@ -149,6 +157,10 @@
   },
   {
    "host": "api.dev-search.kai.micro1.ai",
+   "status": "no response"
+  },
+  {
+   "host": "api.digital-twin.micro1.ai",
    "status": "no response"
   },
   {
@@ -242,23 +254,12 @@
    "status": "no response"
   },
   {
-   "host": "api.synth2.micro1.ai",
-   "status": "no response"
-  },
-  {
    "host": "api.titan-rhea.micro1.ai",
    "status": "no response"
   },
   {
-   "host": "api.titan.micro1.ai",
-   "status": "no response"
-  },
-  {
    "host": "apollo.cortex.micro1.ai",
-   "status": "ok",
-   "url": "https://apollo.cortex.micro1.ai/",
-   "title": "Sign in \u2014 Cortex Apollo",
-   "links": []
+   "status": "no response"
   },
   {
    "host": "assets-cdn.zara.micro1.ai",
@@ -317,14 +318,19 @@
    "title": "Data lab to train frontier models & evaluate agents | micro1",
    "links": [
     {
-     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "url": "https://www.micro1.ai/benchmark/medical-index",
      "kind": "page",
-     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+     "text": "Medical IndexThe micro1 Medical Index brings our medical benchmarks together in one place.Index"
     },
     {
-     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
+     "url": "https://www.micro1.ai/benchmark/pharma-bench",
      "kind": "page",
-     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
+     "text": "PharmaBenchThe standard for evaluating frontier models on clinical development documentation"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology",
+     "kind": "page",
+     "text": "RealmPathology BenchmarkA pathology report is a diagnosis written in a language most people can\u2019t read. RealmPathology t"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -373,14 +379,14 @@
   {
    "host": "dagster-dev.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S2030525699%3A1792418032085346&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=EdWyUh7uSdCJMSIjgzJvbb4VeeYFvNc7Q1Sv8nMqWyA%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPNIfgpsv0TUR3LF5cIp_EZlK_Cyqy9M7k15mO50RA_F2eNwZVyK_m3ncNerFykrlFWcLrILeiEW8nkV7sxgoStHLETapuEAGj9nk47nF5XaohLWN7SEUstV8dMQiFxhlJec6UYEYPu5bQOoa6RgIVUnxaD9xfqyFOhLaBTwdq5D88roDpWU66SaYSC41R5HQ80CR9TxAjtCfRvaJoaC9i1cvv7WoNPnKkhz9d_UwsMt3WICBGCd0BdlF_5C37S_mGeomxMmhP-z5haZUFhsKakZsA7oMAPM4UlQb9ANo2CBioqK-9LIMLfRQ9Ea6A6GFG4J6UYfRSa-eAiD6SEzUSzKyZ9h-oaCeWu5aZazWj7s08kDigOTgZNq7Kg6XO2B5OJ8GBhcc_hG5331xGp7zdalqlIqYGeEEp3icCGuJGSTckJwdfqyIhDjV8bm_TnrnPJ2CQpgTaKNx7YNpHCwy-HUPABVOO03MO37Kv3N5Snr-QIMqM%26flowName%3DGeneralOAuthFlow%26as%3DS2030525699%253A1792418032085346%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcdx-efHnqc11jVWQ7Sk4X3-yvM3NZ64Fv-JRRYtU73JjAujQqfg7CsmZCHuOE1ESUU8LWUuJauZvQ1oKaaNzjoJonWhkFKKGmPMrYj2OqEGkKLX3pk",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1442031677%3A1793021414956624&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=0x0b1s3zjfEy3CAIIUByFcQ6mNT1SSBB35Gja46xUNg%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPuVZGXNHtPDtdatNQAVLdty_Pvw4UO3_Y9JI2ve0iRVrZlTfvzIx-Sp5Jlf5JszPL0UvC7HhIHmu0VCCYBFBa5jCgx73ycc6tALjEGq03qF9_GVaclNR3T4_a51lXjwULRyHUyPHjKchY0_PRf0zmvDio0LVh85_A-sHb51-cBNTOV8UOekpEX7RpObpKxAbseta3N9bAlBRFZwKzdjstw3U1YTPvuAViOmSvSP1Pte7yzXfGBkPk8u3fLMDHkU5k0cBn1TMkpmdxbzdO2uk-eqodMpbyFnEVO3KnuB6hqzghPNPna-1fqGRTXdUs2bT_hPlEkGON6DTFD0pWWIwj9gESRkBV3nW0L42Q3PTbM4wS5z6nypNXCNAoo_zRL6c09_mNfXi_n_7ThXqtdyWPfuFjQl2y2bUUoCBiL8dqB4mPgmfYMUTxKrgv0GoSZiEL7pPEi705sy9r1MFhf73FFq-aqc1dEoEhVJ7S9GZYiRvsB9tg%26flowName%3DGeneralOAuthFlow%26as%3DS-1442031677%253A1793021414956624%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxce4QrQbw_E4PNIaFaHwOypT8CtFslTRs7PvqTsnEXy6UtPOWa7PbKV4sQV0be-vtuR5enVpykUGQ-vR_Lxbjc2psgsKyoVdV5KOPI5yUM1ZXG3RX5E",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-dev.research.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1040725457%3A1792418032461563&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=MiXS0veGhh3kbJemLxCCQXZjQgzyOpV5j-XwPgVgYkc%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANccz7Yhk4VlKfKWLKB0bvDhwBbCpchraEF43Du90D1hJECw78fIJeJJZ8mgTyjkVRhgk_UQReaRL5RfVyAhQFJDWlpd1NKerL0Q7KB2Fy3NCVAJVF1z62OiymQRiQjnioPXN7QQvZt-6S5kGny6QECO525eamyBTPJ59T0rWHfGaf9v9ISE1cwrUda-2tK6V9MoPRpfxxh7GZCvX-RmVnulpccFm6xO794eD43dGEg4r5KcueNpoMF6wWIlYtaiIZnERo7zoqJTgaymuOcoLIyZYAphEzP8gkGsM8RS2WOsFq9kVOYMjWvdbL37txpJ-oBV1qnRDUx3gEOU3rZKhzO2lEUq5wcdI9ImQR7JJFHZxJbQszv9dcVQHTbFGmjyzEWusvnpTRz3mYEB_Ksu3ZKUkLlYg_RtfVW3uSNLNQmSlN96lziqtYX43Ze_BBEcbA5Z6UwX2JrF2aimtnrOT-6613Ete4whT0_dXPlyccCOoVECyuHdHhlnyuau1jRFcD1S8hm%26flowName%3DGeneralOAuthFlow%26as%3DS1040725457%253A1792418032461563%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxccIiyzNJQb6meBx1f9do6mLMzDBHBey82dLC_Q6mSUf7f2xc-I0K80Y24dMEdT8qVg3lpviLrvkgtqt1WXnieJapZRH8PMdahppps1OkSiQ6BZoNK0",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1509617081%3A1793021415064941&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=F7qcM-XB-HhUD-cxnFQ46RgoLxUgJJiBgfxw34_5Bmo%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOu-hxULsNc-37jCHhZSg-cDhtBiyWG0KjKGmbaYm6WZVwsTuiEHHSn8XfjngH7uNN1Agb1eJdwpFi3m8djokEmxYYFnAiQuFqpCWVFA2R8cVMLfMV6KzGXbiNYqu8f0tvmhtrEjKDpMEKrqBidp1-DSRVvBuPLDuRKD4PUmJwXTGdVTGb_M4ttXQjVD8gEgDLJhe5FsDmeG50X2qX4tlLbXYgglN1ajlVql8cmz9Vid5W5mG2XXUc6RXzXEXYlZ4IFW7FBgiN_iaiT4cCwI0klSR0JOAl1VjiZDYG6p_Dd-cpbOWk7r6rNlZhpjGgQQfk63gafRjBXqS6v31E4GYVpIgDUtEvMRhvR-o2domUGRtluFzN2MbozYg6nBs7uUzsbraNTW_WWpam3hclrhZWGMhJdobyo-4a51tB-7S9hvgWG8fXtSUAGmpNS-06p1bASmSdd1MRb9RJtqv0vnaUWLm6TRuUfLJyM_XTXs9wv_eGWOLy_C8RbrUt_FfbZFApkUB-N%26flowName%3DGeneralOAuthFlow%26as%3DS-1509617081%253A1793021415064941%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxcfrMezE7sr--KDEJQD6m132FjRt_vS9go3_TEBdMVCbqE5CKYct8Y5b-OFHiA0_deOrBCoJVgrHAsvDkDRolo78lrTvGZ_RUww4b_OEVBZiaIHi8hI",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -405,7 +411,7 @@
   {
    "host": "dagster.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-2094338187%3A1792418034246687&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=G3xGPUpJC5vw3NzEdklPYMyCuV8MhZEJyAxOqkVRqPU%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMpu2uPH9xjtvLduxAlz96PcS2Ubig9pnNHJ3YlTShgMdaSV12buJ1qV8E1pGo4XynQSZjbF2cFiQkJhOoE4vYe8QHDnFUhJYmIGb_7Z9EMWjuWqciIiTywrm0Ku-6RQGy_WlKqntCtrd3QQat5lp-YTGIx-Y08MF_0JzFLA8rNxEzRJstfVzIevdkaiF2JFlk_4v1vtTdaBydMEcuRn-jK3cJQJt5w8lUgy3W2d10CdG6FeQvweyShP2vQl92m9Pb9X53TiIhXGJq3O-PgOgDlGO8q4N4KeIS-qvP8nRiP8frB9TvVGe7DpCyUrK6gH9fxJpHr0DR_kpjXecS1tyUHAijIu_7vpQ8Iza-isg8iVUkI3yzy3_gtfK8HA2HaiWG3XROufma5n3WVQf902its7RAi6uf1Shw5ARD33ggkzFfk3RzHqqjTqrXTGm3qjYWMMU0uHzvzc1l9iMRW-QvAroRTBErZNhKYyWV-stH9XjT8Dt4%26flowName%3DGeneralOAuthFlow%26as%3DS-2094338187%253A1792418034246687%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcc09xBjIb5Jk_qwCWE35mCY7wm6U_eyMl5MMnO2sKpa6zaORHShlFWibNhDwZJA-4q0zuuhcPQUNPndlm3EZS1AxoKgkpGvrNz5qSM_f3tSdUFMWOU",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1509617081%3A1793021416475376&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=6mmEe5oTF3wvBXQAXQym7VUgp3ldzJhVGJV9WFwyow0%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMCT7ts2xSoA-qchc5iunhLLHQkzGV8OwQijpc_qe3w55pD0Y5fTxY8V05NMO2kjrMQZjxyu-2kN4Jwrmvstt1RevEbfFC0hwT6FEuwpnliv4qcUET-jY-ly4f0XZyLbTwZIDXHciS5o9RbevDqG5L3uwH8RQJjxzBjIb548pTUEYWLMj6dAhwuTG7cHturWx8Nug-eLCa6HnStcPFqt873g74LetOBonHjHOKUpfx22g61vBDRQmgN4TQPRQ9L_TL1mAHwsGjK5MMibRUDkj60G2TBNjd428R9iKmnoIEOBk0ol_jENkUmhAehHZG7ipUPo0x_IzbvvoD5IPttlrMbASNaHVwVwyhWOvauvxQbuPWH9ShrSxR0XmSpu0E_OYtiFCpE4NDMtfOWEnCO46ILGKrdZjZlZLE53Lt6-iBu_LWBPsh5v81SzVJFFxostsXVMPXglG2Yjx8V1bU1hUCotfZw83NdNpXxxBT0wGpfU5p5tfM%26flowName%3DGeneralOAuthFlow%26as%3DS-1509617081%253A1793021416475376%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcdPXB_a_7nImVL3DJV_ATJSxKPAjQ7_AwsO2HOY3gTinEOgT8vLgqn2mW3xNtQewAScRCfza6Qvr4fTyWnbChw8X7ab4djZjPwnD9a--q327dH6Jo0",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -526,8 +532,8 @@
    "links": []
   },
   {
-   "host": "gpt-vetting-feedbacks.micro1.ai",
-   "status": "no response"
+   "host": "grafana.stage.helix.micro1.ai",
+   "status": "robots.txt disallows"
   },
   {
    "host": "hardware.micro1.ai",
@@ -539,7 +545,7 @@
   {
    "host": "health-experts.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1593225456:1792418038988832",
+   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S53656125:1793021421817298",
    "title": "Google Drive: Sign-in",
    "links": []
   },
@@ -594,10 +600,6 @@
    "links": []
   },
   {
-   "host": "interview-prod-api.micro1.ai",
-   "status": "no response"
-  },
-  {
    "host": "interview.micro1.ai",
    "status": "robots.txt disallows"
   },
@@ -618,8 +620,8 @@
   {
    "host": "kb.micro1.ai",
    "status": "ok",
-   "url": "https://kb.micro1.ai/kb/introduction",
-   "title": "Introduction - Knowledge Base | micro1",
+   "url": "https://kb.micro1.ai/login?redirect=%2F",
+   "title": "",
    "links": []
   },
   {
@@ -683,14 +685,19 @@
    "title": "Data lab to train frontier models & evaluate agents | micro1",
    "links": [
     {
-     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "url": "https://www.micro1.ai/benchmark/medical-index",
      "kind": "page",
-     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+     "text": "Medical IndexThe micro1 Medical Index brings our medical benchmarks together in one place.Index"
     },
     {
-     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
+     "url": "https://www.micro1.ai/benchmark/pharma-bench",
      "kind": "page",
-     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
+     "text": "PharmaBenchThe standard for evaluating frontier models on clinical development documentation"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology",
+     "kind": "page",
+     "text": "RealmPathology BenchmarkA pathology report is a diagnosis written in a language most people can\u2019t read. RealmPathology t"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -938,7 +945,7 @@
   {
    "host": "specula.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-737073731%3A1792418046492249&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=r4uYwYErwWC0tRA4JHPFn0bu8nJGi9tavxVBX5JCSG0&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREErcx_v3Yfgz9ocaSzjvXCBiVPEgmvAWvnScEJqcttA-7FUHBJ477SJ0cs5K1A2Iw3CJM9qryHsAPBDysss6np4pV47KuJFgtxe_LYihb0M8Tp6U4pme-Pu7hFYbnc4uNbqoWd7YcwgXdr-WOCiDQccr8td5adGc8Y8yytCiIT-RUIUBftwIZrBAZ1k-KDhorYKxOTsEPLKi2rSCODpHGyaFogqTKVmKx7N7dpr_yoc9oao3QCLaB9Q1z-lSybHjk-1Qy-JWZbk7RXfhrnInYZY7YWPxs_EJFcketC1JKKWjxiqjmj5y0ZXe25NBhI8Qszh4YrupXFInQ0pFP-eUATsfvnD09hz6BaM45V7Y20mSkCR-bP_G5XuRkEm07m64wYqAZJODO-2B5aSUeQfSSY-ehrFFhDLWNp94S4F8sPo0U3gU7pCIWKBfx9EACqhIdco--_8nTlLDNxu2xJRTviOjI9FsBjVevW-DWmhn46_1SRT335nOBYx6tBRIMr_CxGqegoHbHogiwoLoJpJ1iW0BVkgl5TnAKK6kDH0pQN7yWtral5Wzco4WznJQFYGZ7nXhMBYnhqVI0DsMViJzXhKtfFqydWINwtzF50TxNcq0pA99s1NyFp1Httbv_wQl1cp0_nuFW6h3gpHwJ6OuvDoo5NUclBMIL9uaGd5KNYomeED6FOkys3g7op7GZj1xOz8acS-YHQH0QrlFn0d0zhYiSZ5mgwO7W65-WmFtwaOoFN5-NHsZ_4srX63w5mGwPy3H7SC-bFLNLxlOdUrQeC3WaogsWSd_fYFOMoxoByYM2AULWaUOb3r0Mv06iLakvS0Yy_lYSv1DksYSynN-HtuXZZCmBquWeQilpYhMpt_UmIK5Ea_8zLBEdE-rfTnJKSrE0CytdUYlpxnoL1CXjmHvefNtqPXlkyrML-e4U5qjViww6p7gVTcN6gp1VB1MjBduVQ72xECiTOTL3fBlGL8gZ0ka7WGOKAJbJ6xRcxInisQttUaZtW5CpiK-RBFhGkUoXl-ylhCJ5TcHfyEkQlIZivz4ApTrKN60bu4ZWekyT5hgCysz564EiOARkXUU0fuLDqPYpsPip0XbUkGSDP0DmkdFesHr_Z66z3j8DYgN8Gzh_3hvbk&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANJq6f3nZdRl3V6BcrTIe024GmoBHcy1QmfRFC_KdTgfDTLhDIYk7QD4ZXpFqMZrISnQ2ttJdJjjdDtFrZpgtXYp5zRpfK0Qpiyj-Pu2Rqi2Mn6yOnTL4mk2Pb7T49VFFBQ9FF6TPe3gHHehBTdZyEufAW9z6eqTnvbUpGPQxgPXQC0VUJMrDo9GhdZUYQk2aWU5sJicBVZa0RNVQdb6NaJ0s0Jsf1V7B40urjbxRPVyxE-mL7mEyuPVbc7j75kzfpjpUhipwU_PmFFiRkMEonpHTcnXHSKQPa8Nq2y8jCeYwv7VmF5hoTxDRnP7weQr2pRg9IGq7Cy7IsG0tN8lqP1RtEvoKkEfgZ_HXxLRKCK_386QynyiO08b8LaaY4eV5_msnhX4Bra1ddw1O9gkBRpkTTRxcZq4pqsbuqsytHzITz-za8ZpZEMVKFK8pqGcuyWr9vvlJiKjbc1VMkTqxji9N4ZaQ%26flowName%3DGeneralOAuthFlow%26as%3DS-737073731%253A1792418046492249%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcd6dTW4FXneDMBd3QaB6wPEQpZWuuErr_jJ0XyR_J-MyUoYyVevuSa3UnnnEYIMQf6HP8ENI_ZleR-Q-E9CXLEvXG5_rqwzh0LwKMGAqis8xQ0BUgc",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-283446987%3A1793021432094630&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=E9kWLsnP-UuH0FU1NWFTm54bLuGt91SiJQfOG9hhalA&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=ATbdjREE0O2-4daPg0h6W3x1pljP-PjBFcFOVX-nQCmLmUcluy4WGgO8dAr6fmERi5TwBX11G1EWvYWp8xb8VeNSh7xZ4nF3vXxI8Rc7wTmzoH82ZhdNDxmrP7LuPSitNhSh9h_h8WeOmA_tzb6r2857UEg9vYvwK5gaAG2pPvgABDE1dQ0nmy5zhKJyVQf80ciOXF31OgupufCr2UYOjXTbCfdPTeMKlkDImaM0zhpR0ilu1QdHeHFEI9ekL3VXKyDqvnG-RdmyqQm3HTrwoptO4YubtiPHiNgd7ivL1WFhUr1qQcnUEQNJPVbazban-jNUmES2WMv740qh0aFcaUohc1Hf5tt36BInpbG9l20ed7Bm6YuAoFwvYxoYDtK5Rj8v9cmql8EZXRvtoO700v7KxtNHsfZTRPqT1YJQwJpp_7WTHkc_7nXpSgPevACjGlJmizsRDGSOk8dpguyTvx8mH5TSwP-18OiZXkBpUHTNanEyXIYjn0ToXrj_rBTUCww0ij9p-g2LzqbpGrNHqKVFp71Amuue4sNVpzjdZMhfQzUf9Vu-0HhBIRd68T76VeewZot_Hs5dQpS0aGZGxKL0MBGTZvAA3tIEMCkOBgYs4Bm4cCKnZ0f3qD15rY9xb8YSEYDSRsr4up-YbuatPl75cZlYLdBif9Eu0ipVMnFs2K88eV9KyOr0DAOqUYztNwBTIwSfBwd067VyQ7okNigBlzZU9IcWUootrjRTUKtA4YDQpmDOZsxeM2DJ9XQ-QMvjz6CtzmlGwNj_zXyewLQRqmEPAhXRrqU-3yLIZYolxlIS0b85EgVTAYQtKnPoRlE1A9lcFlLxPJIWNpsrOO2AQ77x8m-MS-WUKIV14Wsk4C8LO2cucraxEPElFBIWKfopDx18HeiCfqBPuNELbXDeveZ2Eb-Y8bqJRIakgs3Uj4JxuBx8IPbhLOD2J7cnRznv4T-QZLbxn4_eE8CoqasUjwMbHZLyZELbTaiR4mKZwQgQL6zG_u--Jcl2bkCNm-_m6pRxYJz9DnWsYRWDPzxQ2L0PV9k82RU9qSHc72eaX7cPLNeYGEDxA3gzBUzQudyEE4MYbdzGozGBwpaEdpY7-4WSAePhcuTdWGxfkXR_1cMuSEpm1MLOq37t&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMaynxG_4xeCdNiAM5ySn8jHPQ46UYsGqGqYM2no8x7MT8-HLHY_trgQum07joJRzCVyTIsv80z7IIMIht_szuP4DObfVel37jsH88upcTjrKfTnQKFY064D8hxAp-IWis7j2aeyPAxttsgXTWPTTTrNMBwGHpKj4O0L9PW-Uuf-JrP2SXsQbIMMk3bd7cCZqMJau9AQo2TKH-2hxsSyS4Xo7Bmt-F8_SnO55_yIbVLyLwgcZsdOyku7s7UyNLM2COfkGOMW_LIQTTVF5oe_r9EyRFcJzygs1wEjRZ9WyWfGs5ZM_4GAYFoKEbYlnqBkdQHgPe1rCqvKAdlEAyyA4YHMjETW7VTOCLFehaH4ApfxeH6dhWfndYEBHOfJUDtAF8qgtxxAaJKJCw3Vz0rSg4SK_q4sQzJH0z47j3kjc21OuQAvZa0Qb5w_AByzc4IhL0JdGcwr3EvI_9ujgfAxozyxuN3ZQ%26flowName%3DGeneralOAuthFlow%26as%3DS-283446987%253A1793021432094630%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccbUFEGCUxdxqg4LJ7qZah4TkuRIHeD_P-BrPfcpwqONr0hib_d2NIeMBey_nlGXBOC4Jbr_SSYv6P2zCI7rnDRpJVbra-ZcLGVUzWaP1oTa26PSEI",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -993,6 +1000,10 @@
    "links": []
   },
   {
+   "host": "stage.ops.micro1.ai",
+   "status": "robots.txt disallows"
+  },
+  {
    "host": "staging-api.lumi.micro1.ai",
    "status": "no response"
   },
@@ -1034,7 +1045,10 @@
   },
   {
    "host": "studio.flow.gov.micro1.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://login.flow.gov.micro1.ai/realms/nebari/protocol/openid-connect/auth?client_id=flow-studio-flow-studio&code_challenge=S6jJTajOp2rcL35B0EbGTRtRswGMjO4N3n4fmcrE-_o&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fstudio.flow.gov.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=openid%20profile%20email%20groups&state=eyJ1cmwiOiJodHRwczovL3N0dWRpby5mbG93Lmdvdi5taWNybzEuYWkvIiwiY3NyZl90b2tlbiI6ImZmMmZjMjFkYTEyYzcyZDguMXdhRHluM2pxdDJ1THcvVTgrM3dQMjlnOE5hQldWSk1VSHZTVTduSFJKbz0ifQ",
+   "title": "Sign in to nebari",
+   "links": []
   },
   {
    "host": "sunday.robotics.micro1.ai",
@@ -1045,13 +1059,6 @@
    "status": "ok",
    "url": "https://synth.micro1.ai/auth/login",
    "title": "Synthetic Content Studio",
-   "links": []
-  },
-  {
-   "host": "synth2.micro1.ai",
-   "status": "ok",
-   "url": "https://synth2.micro1.ai/",
-   "title": "m1 Synth",
    "links": []
   },
   {
@@ -1091,6 +1098,13 @@
    "status": "ok",
    "url": "https://trail.micro1.ai/",
    "title": "Custom domain check",
+   "links": []
+  },
+  {
+   "host": "trust.micro1.ai",
+   "status": "ok",
+   "url": "https://trust.micro1.ai/",
+   "title": "micro1 Trust Center | Powered by SafeBase",
    "links": []
   },
   {
@@ -1165,14 +1179,19 @@
    "title": "Data lab to train frontier models & evaluate agents | micro1",
    "links": [
     {
-     "url": "https://www.micro1.ai/benchmark/cortex-retrieval-bench",
+     "url": "https://www.micro1.ai/benchmark/medical-index",
      "kind": "page",
-     "text": "CortexRetrievalBenchAn evaluation of AI retrieval systems' ability to find and rank authoritative sources for financial "
+     "text": "Medical IndexThe micro1 Medical Index brings our medical benchmarks together in one place.Index"
     },
     {
-     "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
+     "url": "https://www.micro1.ai/benchmark/pharma-bench",
      "kind": "page",
-     "text": "LegalReasonBenchThe standard for evaluating realistic long-horizon legal reasoning"
+     "text": "PharmaBenchThe standard for evaluating frontier models on clinical development documentation"
+    },
+    {
+     "url": "https://www.micro1.ai/benchmark/realm-pathology",
+     "kind": "page",
+     "text": "RealmPathology BenchmarkA pathology report is a diagnosis written in a language most people can\u2019t read. RealmPathology t"
     },
     {
      "url": "https://www.micro1.ai/cortex",
@@ -1276,10 +1295,6 @@
    "kind": "page"
   },
   {
-   "url": "https://www.micro1.ai/benchmark/realm-pathology-report",
-   "kind": "page"
-  },
-  {
    "url": "https://www.micro1.ai/benchmark/long-extraction",
    "kind": "page"
   },
@@ -1293,6 +1308,26 @@
   },
   {
    "url": "https://www.micro1.ai/benchmark/legal-reason-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/ivo-micro1-contract-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/medical-index",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/wellness-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/pharma-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/realm-pathology",
    "kind": "page"
   },
   {

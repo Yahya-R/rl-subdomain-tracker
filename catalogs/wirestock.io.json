@@ -1,6 +1,6 @@
 {
  "domain": "wirestock.io",
- "live_hosts": 68,
+ "live_hosts": 69,
  "pages": [
   {
    "host": "agencies.wirestock.io",
@@ -258,6 +258,10 @@
    "url": "https://prod.office.wirestock.io/",
    "title": "Office Tools | Wirestock",
    "links": []
+  },
+  {
+   "host": "project-designer.wirestock.io",
+   "status": "no response"
   },
   {
    "host": "reface.wirestock.io",

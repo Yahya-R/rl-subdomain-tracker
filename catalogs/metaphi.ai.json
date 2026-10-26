@@ -4,16 +4,7 @@
  "pages": [
   {
    "host": "agent.metaphi.ai",
-   "status": "ok",
-   "url": "https://metaphi.ai/",
-   "title": "Metaphi AI",
-   "links": [
-    {
-     "url": "https://metaphi.ai/benchmarks",
-     "kind": "page",
-     "text": "Benchmarks"
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "api.metaphi.ai",
@@ -46,16 +37,7 @@
   },
   {
    "host": "environments.metaphi.ai",
-   "status": "ok",
-   "url": "https://metaphi.ai/",
-   "title": "Metaphi AI",
-   "links": [
-    {
-     "url": "https://metaphi.ai/benchmarks",
-     "kind": "page",
-     "text": "Benchmarks"
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "evals.metaphi.ai",
@@ -77,6 +59,11 @@
      "url": "https://metaphi.ai/benchmarks",
      "kind": "page",
      "text": "Skip to content"
+    },
+    {
+     "url": "https://metaphi.ai/benchmarks/companygym",
+     "kind": "page",
+     "text": "CompanyGym"
     },
     {
      "url": "https://metaphi.ai/benchmarks/enterpriseswe",
@@ -125,41 +112,7 @@
   },
   {
    "host": "research.metaphi.ai",
-   "status": "ok",
-   "url": "https://research.metaphi.ai/",
-   "title": "Metaphi AI",
-   "links": [
-    {
-     "url": "https://arxiv.org/abs/2603.22744",
-     "kind": "hosted",
-     "text": "LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks"
-    },
-    {
-     "url": "https://enterpriseswe.com",
-     "kind": "page",
-     "text": "EnterpriseSWE: Evaluating agents on long-horizon enterprise software engineering tasks"
-    },
-    {
-     "url": "https://evals.metaphi.ai",
-     "kind": "page",
-     "text": "Agent evaluations"
-    },
-    {
-     "url": "https://evals.metaphi.ai/cobolbench/blog",
-     "kind": "page",
-     "text": "COBOLBench: Measuring Frontier Agents on Enterprise COBOL"
-    },
-    {
-     "url": "https://huggingface.co/metaphilabs",
-     "kind": "page",
-     "text": "Off the shelf datasets"
-    },
-    {
-     "url": "https://kennet.metaphi.ai/whitepaper",
-     "kind": "page",
-     "text": "Environments must evolve with models"
-    }
-   ]
+   "status": "no response"
   },
   {
    "host": "work.metaphi.ai",
@@ -167,46 +120,16 @@
   },
   {
    "host": "worlds.metaphi.ai",
-   "status": "ok",
-   "url": "https://worlds.metaphi.ai/",
-   "title": "Metaphi AI",
-   "links": [
-    {
-     "url": "https://arxiv.org/abs/2603.22744",
-     "kind": "hosted",
-     "text": "LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks"
-    },
-    {
-     "url": "https://enterpriseswe.com",
-     "kind": "page",
-     "text": "EnterpriseSWE: Evaluating agents on long-horizon enterprise software engineering tasks"
-    },
-    {
-     "url": "https://evals.metaphi.ai",
-     "kind": "page",
-     "text": "Agent evaluations"
-    },
-    {
-     "url": "https://evals.metaphi.ai/cobolbench/blog",
-     "kind": "page",
-     "text": "COBOLBench: Measuring Frontier Agents on Enterprise COBOL"
-    },
-    {
-     "url": "https://huggingface.co/metaphilabs",
-     "kind": "page",
-     "text": "Off the shelf datasets"
-    },
-    {
-     "url": "https://kennet.metaphi.ai/whitepaper",
-     "kind": "page",
-     "text": "Environments must evolve with models"
-    }
-   ]
+   "status": "no response"
   }
  ],
  "sitemap_hits": [
   {
    "url": "https://metaphi.ai/benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://metaphi.ai/benchmarks/companygym",
    "kind": "page"
   },
   {
@@ -219,6 +142,10 @@
   },
   {
    "url": "https://metaphi.ai/benchmarks/lh-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://metaphi.ai/benchmarks/companygym/memo",
    "kind": "page"
   },
   {

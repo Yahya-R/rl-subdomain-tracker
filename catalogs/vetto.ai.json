@@ -345,14 +345,14 @@
   {
    "host": "sandbox.arena.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Debd5e0915e43e6ae85e345e9783bf2f253ed2f994ef3247334bef5584c230ac9",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Dcdda219358969113fac5c89fa9466ca943c68b3d1c260f559eda0983709400cc",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "sandbox.atlas.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Df2031387569bc5e0c1fc2a6942ae6aa3dc147a1e22c341387e461f3979fda78f",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Dbd8e0aee551641022733ab1e69ee3759aeb4bd0ffbd7128fcb2aab6a6bbc97e7",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -443,11 +443,6 @@
    "title": "Vetto \u2014 Data is an interface",
    "links": [
     {
-     "url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
-     "kind": "page",
-     "text": "The Difficulty of Creating Hard, Fair, and Valid Benchmarks"
-    },
-    {
      "url": "https://vetto.ai/companies/leaderboards/",
      "kind": "page",
      "text": "leaderboards"
@@ -499,11 +494,6 @@
    "title": "Vetto \u2014 Data is an interface",
    "links": [
     {
-     "url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
-     "kind": "page",
-     "text": "The Difficulty of Creating Hard, Fair, and Valid Benchmarks"
-    },
-    {
      "url": "https://vetto.ai/companies/leaderboards/",
      "kind": "page",
      "text": "leaderboards"
@@ -526,6 +516,10 @@
   },
   {
    "url": "https://vetto.ai/companies/leaderboard-programbench-vetted/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-slopcode-vetted/",
    "kind": "page"
   },
   {

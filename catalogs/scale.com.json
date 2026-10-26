@@ -1,7 +1,11 @@
 {
  "domain": "scale.com",
- "live_hosts": 1018,
+ "live_hosts": 1000,
  "pages": [
+  {
+   "host": "00000199.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
   {
    "host": "00090501.azure.workspace.egp.scale.com",
    "status": "no response"
@@ -1097,10 +1101,6 @@
    "status": "no response"
   },
   {
-   "host": "admin.demo.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "admin.eydev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
@@ -1118,10 +1118,6 @@
   },
   {
    "host": "admin.manta-demo-staging.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "admin.mayo-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1219,7 +1215,10 @@
   },
   {
    "host": "agentbox.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://agentbox.eydev.azure.workspace.egp.scale.com/login",
+   "title": "Agentbox",
+   "links": []
   },
   {
    "host": "agentex.26071701.azure.workspace.egp.scale.com",
@@ -1236,7 +1235,7 @@
   {
    "host": "agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=Pr4DYz-ZG7scqzNNcCBncbZhWjYOmpuU67a6BhEwZWUXkh-x9wUGPXQFOXeoReVCCRuSLhP1x7-FuA-bOzuiwnAkD5wEKiWFq-69qqaD-DFL5YuZXS882wfsYeGeWH0Slzn1G75drezNmHu0-B2CEJOVxTshxtSuo_Fvl3PME1NEkuaQaDco3Qv1zgcf87up92PVsVlZt2oZ6vWf73gpSZ_Xgd2YxeYllnQlU3_g5B-tx-DPq4aAjxtzvKlPQMJTCjEHpI22KNmI1iYk5WbY3turCOQaJPFpjJrh8Dmqk2n_Qrqbr4GC7uO7aucJN-OjrgPeBCjT5QtyqcXKHtFgRUpmQBfy4Z2qHxEX7lp9l1Q-16T4d4Ns8b1gFs_7dfe8ZEqcGoHwX7fbJAp3VU5EbDqpvGFLz4corQN_zMu4sp8XluZNVBSXM0jRX38oTE3d-G_Eu3SdeiU-9ckqzxZqQHD1KVLwZs2_1rEf0jdwRigERtC_9qOyXrtHyOeQfTZZ-wtHzJmQsrTaTNiJbH3KCHFlPqftnCqoxdYDFhSJHgKyzvxhzDxOc2h8B7T6iu5qbyonsgQIraUeH6E2SbQxDOByE78ShvUSQTKqjJ5GA1sFCWvbllouQYo6gAHkk1BBj28sJOBQp7cVq4U7t_h66imEQ-itI1ZIXkwiCIaMZEBa_oUk_UBMmpOeRDazFl6sFi9HXepKbPy9QKkBnlappXU9SJaxbetC6QZ0Fxn0mCqBwGH6hKGRmMeSmVCI6Z2LwaYmOLk5xoGQTYbhDMwm-K5lsksQG_qRlo9eQbgAgCdf0IaoTqi6TQWGLNx1DeSN6cq47EFGvYevXDtktmdD5ftqwvOPcH194Ve8Uu7oFWb-VV2S3u1-Fia_s7cLfvtKuD0AjFnbqWIv9IaMmx-z5iJ3E_OL8Ol8xcYu69TWtYMhEu9TYsJRH2slB1L-IbQZiHMIhT9XE5z2T_MEEfY9LQURaBuHShUhoWOeIQpCW52faTDNOGvU804Cauk6fASLsxnWyu9Hrt6zISslQcFRY3M0NT0ouGw41wa1wZDZCxyANX0sDDHqcbJr7r4byjubeGbG9M6DVs3g1UiMIP_DEDNmnrmvr18zNuvmlM89ctjlc8LP34LGW-PBaMTY4L0yMrDqPUpeDMTEtvcShT6f4kvL967DgMq5Oz9EN17aaHiwv_9a2pmm-nLAGHIgialedZ04GtMC0S4nb-Sg8vy2ACim9lmtccQua6Rp2uZVTRJxrS6POYoJcNtTAw4CbYdz_YwG1ph9RtwTT8QH-fVyZoZlRSU7ep7Wev5xBREOM6lj3xvmp_WRcK6EaTEizm1iqL13uPNCWNmN6weCU3r6zI3vyjOQKWdpuhEsPzrEFFCrhv9T68-6vYKs8NtEvoW70SRo9JpNiKcclbJrOwBPZ5jYIZMcTU2x1ZhNltmaIO3dI_vvzBMOCV7dAMCvDuin9-K_CtHXvUphsjTE3rLAi5769iNh2mtqmEDIad-EBK6NiPWZ4VbWDolD6p5n7jFfDDzRgqT6SzG4ootcTG_qa5p7Yf169VcahISw6O-P9dEdyawtd0FyT9bjLFcSZlneQRg8xsZIB-vPVKRZUxWlMJNhXeTx-22eX7U7oG4vnAUayd3Iy0rYBuSWKpduHLS3qbwd0cSZ__TYo8dnScZl0R2Ou_vZauotm0GgDkKDBYE5I6uUUAMB9wdzmMZYJOccu5w3TfaxYWhUsuX0zAUt0-IXaNmDCIgeIpvm-eXJwwRCFz6z6J97E797muFqaAMntPKOPQgm_49ufiZMhGhOLKoaqg7TpWl4NBNVUwKqJ0RmA7XCxKPJDXRKc959H2pJpUzET2bxp9YAlWE4a-FJC9pKfpuE8mJVPy3qeP1qjsxrQYkzRi3RPcFdLdHEPsrr0KhqaVi3OcDNcqhgg1iuCCpdy4tfyyvsKqMrOJV-mSFBeOg62AQLjaztIBXYUfGMYmDqPMmqqqe8gV_NhbTKipIXzpdRAX9gOkPeaKkvf8E5QI3Dcg-ysJhjtnpKpvxCRo7I7YhtY9w34rmZtYhkoKKvZAot-KXT0Pi4xF19Lit3Qo-lyKhLGBM5XVDUliqISZDn17fEMZBiLtmqO8meW2KM1U8M23qu6OI_U5lm-vHX67JoIUaYZH1V5d6jEGt-d4-jppTXb7GJzXSWYrrKWmpcNvpaug7KuDJ188GTDOryjzDcoIOhGlUhhadIfTo4HSJ3XZ8Xd4sgUR-5srcBap1GKy52VClSDZBdD_xO7o4CDRadg4YsZ3JU0HXYWGVD",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=4KHuYY8ERSDnpXO__qo3iIeBsELf3d58w3q25ClP9tPbEzQCmMLqe79S4RWGYP0Xaad-tltuS91OugWRZvDGvGtwIkabPfTCkZ6DMOfHUAshRaIpuOURBlXX2Xcq4_tGOb2rA_Adp3zMOW342v1RLADeG8e223lzgl3VxdqhAEMT41RhYlpNPuPBhmTPFYxoVGgqB6AgEMNaR7EHMQxUqUSs8tyxKouiNGhlBLwBCl-42CMpNVweQ43u9g8UlIXl354AFd1KP6aqg09wl-wE__J4GXtOssYcJ3aUG0KjXIvHb6F5NvF0oWBJ-ujn5p38nCE6cwk__kgc8f3tDNyPCke5LOXf-KKiKSkQZge6u6yNnYVkTA1VKswLLyNFigtUxJjye5S7eJLm7xZqsts5-j6hpl-Pze1P7ApfZZkIlVLDU7v5jLFx2z6FIvwzAL_1gJVNIJvABfd4q4SZ9cCWq5pyC1LP1-TWNWexxkTNKviLmQcWKxPMlwTKYMrm2iFOe1Gb7Jpq2Z2Wr6xpPQfrkn7GlLSTFq1UHXtR4CJTchBcQeYL970jQ6JhOkUSuFgj3fq8DJjZAtxf1tDF4Cx_EINEsTzzLX2oj9D2FfckLpFq8NcJYjQ4oPDlJWj2cyMzmADpPdGwhBiKU-EUR2gD7wnRDYgtV_U3a0WXnU_kv79mSKS_tDgmWKQpmZuf5TUYKNW14Eq-59Ks3WveKtiV_Ume_QBL7yq_cbVjHIW8U4w1AV3TYSzeot4iMFtL5tLahn7_nlU3q8hPwyRL_9zwG2oMKsOgZwEMIWyozXXcApqm4MHUREM0CeuP1dTa2Gcpa41b0RdW1XkQB7iZfuFHdilKK1Fohig5ut4qUZeZIbmY-VwrlZ6bHKDzcTzloMfo77qJ3RTtUc2iWDrUjbCgpKnLeu5JogPRT9DulNGBlrHhoADeXm2N80jyiWebMoUb9KefNxZsLAfBeqX3n2XDk9Z1uTVeqDy6rIlgda4wbkukdm36nBg-rDF6m283fwfg0DvVJGRtwdPKb4jW7mrylujiKaCu8mGzPZFn8M0HOQSReWXP5_nulQdK3jqn5lD0CkruReEg2YuG_qdVPQnoqY-6DsYXX9Y43AG9dn-JygP5aGS_MZeJ6CnJcDzWPRHeouv_nUJGisEcEkdCd6fUZEhe-bws_z0LdzV7MkrMY775O5bUPEQiltU5YVc_UyZTVEpa3EzVOkDqiJc-QoBPcLifD32rPeta87sidrkL8SgsbzoLodw23cAseJtCrm7UlWh4Lp3Z41u-r5L70XW5wkaFwC03Ky1lBfQt5qZ-gYTzjRW7b0co_NKTCc0T0d68lgU3eR0J_KcwxFO-liTSjiIPK26FpthD0CwfSStcdI_G0DN9lrdRl5xBcuGualcwK3NYnvNUNhimMztePi5FuVpIEpyrw41vdXjUNIaalppwvp6YAOfGllUlzhAjgcyBYGWa_ovxIvvPCgEF1sKCUIG66G3n9fjf1uJnWMJcTcSLesG5lw8PDHrEeex7EVO-5aOa_2bIWONGSAAK4fr6C8EragyG0ZMTw0R5sGRT6Pxf66qudncguwwOI6QmBecZ1DBBNZuIBH2sgX1qssupNsn6i5Fz1SfjEEj_LXhWz-a0DMR3cZhDRo64PCn65IJxzwWw5cZFIEyz-RcOnPcdLUwky9IPo7VbNPrcbUc9VatfCxTYPssxOjUwhXwaG1kg-zpV_RIraItHMTLXq9dhr1g6jBjMfmYpOO3Xkx9b8Gw2EGoa2FSiNo7ZkhkH76wVTEv637R20orpD8DjHgOv1VSzihD_Klj96SXlzmor6OLHB4UDOmMlQJGkbYXVlZ3bcFVCIAZJgJq4lE0dYBDlqJfQdKL_IsnwjDNMcvg-Q6RpZiwTSr-BKx_UjzwGDzSzpsuPEKXSroQpjdIw6-ffWSrx3W0LpP9XT7qZaZXhDiIa81dnm8TIECTsETwrH97cwWJhCWIsSxgeVbCu_JFa-dDttq9hgMiXcTALrubzDw_24iD_Ro6gYOwk6fGDnHG2CFysfZ0tRudj2KJQuJnVCx28bNNr7tgFeD3MwdsIqdiL8a55iI8aV9NTjGp8C2PbNg3N1iVcDAoKbCUDtI7LOeeDBsw6-qfR4MDBx287I2zTctoOR_KtRzW-siRQfsXwlzX2vfknv6TX2wZzU_bmMW_5o0yQO5aSRShBPLKx7DXNXSR8Du-TZMkQEuqkBajagO2jX70C8syjJJ9ceGAx6zW_3pPvu_abWItWJ-k-evclKITWwuUT1ny5tGEgjwA%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -1345,10 +1344,6 @@
   },
   {
    "host": "api-internal.99081213.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "api-internal.dla-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1496,15 +1491,7 @@
    "status": "no response"
   },
   {
-   "host": "api.demo.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "api.dev-sgp-gcp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "api.dla-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1549,10 +1536,6 @@
   },
   {
    "host": "api.manta-staging.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "api.mayo-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -1706,7 +1689,7 @@
   {
    "host": "app.agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=93pMVyApsYA8axB_HDGrSbWb7NlJPeZUtukJ4kgqPrCUncYvrXvIZVZHFyS3oAFWyiDu4IIFnVkiDZhTzeglvt2MrSyVUgfwSc83aRBsdH_NEmErCA0FWAn2c3NolVrrKitwbqYNvXxXtUe7xPfKffqS7dQTql7R1o_ekWp-lCAtyd2ykuSh3cbdjuDiiKqCqFUOdWyBlzCFhaWFEIhL-feDu7tpuODNHkv-EFfKEHHJ1tVkJcDnCM7HnD4q_PkPJHgyrvK15PjFmRGu5__Pmhido4EN5zGmDyZ55i2Cq_PoxU0CK6MUDgbhYJ_qs-J_xtKuod0xFHEzQqdT-eSMiQK5UB356h2qeNeKmiC8qzFkbWY7aZPjnB7_TcBR1g0Wl8SMd66cdPou5lrEHxbGDU0v-Ec-JYJNpolwQ-358mo4B2iHdo8TvLJ2hHA0kOiKqs5H8FHw4xAwHIW-CyZWySnfKlGCaaRiGuYWKL4K6N7mYCRVqqnviNoB_E4yrHeNMUiiO70dTd3IoJ2wLQFNNQqNoMbiiWTASHVjuCdO6OEu_aIeQpLj2YIXiO3Irwl6TYUEqZ6waIZFoCOnDNGKH4HqqzXO91gl2hUTteSEX6uNBTRexlJR2LoKA9-K9Iee1QKMwo0m1le5KiYk5TARDfeg1iK9PZEnqRVPPmQyQUnFAD2OWN3XWpN2uKJSUMeWWxejBnDQdspPZ-eUBVEZ4FKJtr9c6hsBeFc3BvEKbduegdHNxKpAVCbU3XZT3YK5MpKl8DRCwBhdIzIP0riKGVWUpVTzOuI3NhaEf0W_3FBhXxn5ZIxm_k-4ngToCF-24f_fMrzLMKoch6QNni0keQaW_mpjyJ7zkgzAIfAFRG16f95XkgCU3ke22kuZuh31ehf1Zgp7TLSSaso1m-PbmPzz9FUr9WW6-igVCVd5kLusr2I54ciLZ8GBoSvSOgmlCjdtNt_SPA-RzWRqOy38FqxaQ0zQzSQs8FIrhD2DGN-IvgYp1CAByQwrvSzWGBljn4cq_tI_y5HPmOtsEypjsqnNEEW8OMB46fI2y-N10PV7r5jb47pye9uU5lq_fg84wyTGPXQzFTP0ozqTYnrHuOQ3DvuzWzaEEfYV4aLztaSRgDvbD5I-KxPYNYU3xWPT_BM6BVmmiubFx44bkPnvAXm-bDn232UR8VJBQt5neo4DE3-7PvdgOaSY6AQeiqqtCCFitB7cO6a66zN-01GbzAWRm6L0EOSQdOYs5T1mbzrHhqNCyF7wimPG1O8zJ0aX4cjmLFJWAMr79SZIuREU-arkHW6UDtZOb1GLWjjjp4omoUeYfU_klw4LWpD5eKu6Sy1wX5K7coi9oolxWGSao5p0JaTffYYmiMbvxhVdCVgwVy9tL-FKMy5VEa-oxSocjcFMyEU6RU_K1hr_TCmC4cfd2EeVnDH31b4qtZf_wkk-_sePishWB1yrkTV-Z5wwvAOneTfxQKx61CTf-Irs-glUCfDV-mXMT0r0N3yisc40GB3ZIICqwiR2R1EuPisuQkfc6mEgsicTIvjp4EgGV6v4V9iLNj4gSoyqrE_UTUKvhfmeYZoCFmW8EzvNcuhP1-2_X4hh3P6YVTqYGZsxaK0tOD7B1J91frG1rs4SHK-Z4FuHyefTDwqO70JYA8yze5bDmqxY6eK0dQ1fAn1Fy9q10g516h6OkkeB2zg4cIUp4GHHC70s2B-MrKP48nGRNC_3MmVPuo6h93WO2yirHb7Ff2QmaWIKDy75rklrDY82kxYAE2iJxHD_eGck5b8H_fo8_2bpGwU-MJ8ohgyHBxRNYpYpclR6j7JK_775HHNuW2oGRPsy_R0w9-lQKYlg9tVRMd6jWG6Jhf_ngvJG9Su82sVkR8_VMsj7W8bxJkpTYt_jleTNMb4L1Q7I-G5Rutfc35CJ7FLJZEkJGdr74AppSJMp-O7pf2WbXXbggJ5deGJfdjM9xAkWcYKKFFiLDCL7i4NO1u1VxkWxnALPj6Rm307iMvCo_srXyv8gDeHSTXUoTxEbKv4nH9DlmpoTLqesWmnM6TktCMQqZJMfynLOgmMDk6AmK1Si55WPvkAY3iC0KvPD6poR2J5X-L_AHI2pMZfW9VnzpBuQMLvj5r731dR57PVribNN73fxXWNy5wWFsLzQhX-_DDnESaFRos_xy6Cht1fdg-nJ7GIBgTTsl8BeFYWFVl5raHlO0cQC4fqWgufkuEZcrhieKp5A-eUeCFYcfqAlMYNtTtawhaxnt9fhqCJPQB56MdKsekpkH-ZdeOrX0T3taQ%3D%3D",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=OatFVFtYc89ParAKwT0XilgGURtMOVz4vynfPyvVcoPzh6UpRO_b6wse_UrV2pwP5YPEWTO2UAH8ENO2gY2qAJEo8Zk7PeHgRrfxanqbnGLnbPnIl28VFc6xxtucIf5ss3kvoKORDPJuTNGRLzpsCCIjqOXxLthN18TemTrCRBDNu3KG0stwge8holIXfypkkeqBHQg5h1bU-IwipDdwpmCjKMY5Z298qzSz7zHEWAHvszqdIDF0kWVr6g9LzwZu-r51xLkfD4NxJAmJoY-6lpBRW_qUQ0lTHgTzBy5Z9RV-iYF9QOBI6S-4wg_t9x3tcccfqXNs9AgVvGo8goHBjB9qsndYc1kOcl--LtpckICkqI59ATWP44iQEWrzDT4pveu7eknyFfEAN_I2MOBSOEEHGhEMumie6O8SnM1kOE2SGErq7lyYQxyppn-Rcba3AyS_hiSGOLuaI5HE0zRDKYV2v8hLNTE5NyvRFgGOnytT9ceG1ZfU8W6Hv1_VNm6xfiEZl-mtFuf20wwtxYP0pJLSgs80WlPC0PPobK6FWCfPxMJpCwrJLuQOKlRghehxm_FXrrTpIi6pbJSSPyuY6nrc-GoGp5OPYcKTtYpDxuyFQQMSRNkV_-z9oM8YXMyPc32ogW-affc1KdJBaHWXHqv6K1mf45lR9ax1AUmLeYy3Tqea_HbMHBIIe73An2X6pX-x-oNwGBmCehm19w-7RBt1jKv3RzH-ofrnmVGIjBFqiCoPPxnF_QqONiFIxi8u9AO4OO99H5zdbb-ekVzHvdtsV2CE72atShZsqXI9mZWEselVA0quCbaHsOhvizdIaCE_c7xU5tIvOR2dQnhNa16qHMZMs738FMgGMIXCjIdAORKGKyq4NllJoIVDJdF6CJPguugoyaitZQhZecwzfi-Ob_c8iaF0mnFYBAXNfEVfz5lomlV12WCkjgeRtK0MqTgojyEH4pczFUM5h_CNTR0OSPTlasDwxLGlCGpYi5Zl1cwTtYTQ3jAAy-R-NHuUlGLKpkC_AGvuM5ErLj0r49TR9RxVw13rjWLTQldFXb5Z-8qyaVCGcodaH0UgUpQOnZ69Mxar_OQMOAm9YOqfa8uV-AFrSIAqBu1-NIYqXnbj3PKjo0RTZhsIOtlB1806e1ccPOdzMm4dXHaroahU2qkJOhuqR4E55P20Ua4AfZPTl0iD012i6G8kLTtlIiS12A8q5wqHgyfdPAvxNpy5KWRqeB0s6a_ECeHJESi6P61S3WObwIBpYUihfduyX0B645l5FkO2LzTY4lcQnzJINh9bG5TY2ejlOdpOH827HxtUa9zTvkoucwbfUZ8BwlDcU3s1w_LwIZXIVE4LMWvxFZL2Tx_moW90vK2e55iFYCnF5A6p3gvwR9CDrouRQAITAlBTaZgp_h3jmo9Lzc8AkJhEGooMM8PdAgTIz0SUSbQZCDwUoBUkbTI6Z-lfb8W49hghnNpdKrrpxFGpP7T8dnYW5fEZIgAA1Ay-rQPjP4GrM4ISrN6DWog9qDQ_Nt7USgWM0PV1fdJHq-gduS99OybvRxD0xhh87a16Kv3EmdXs07h5pAqjAWLN7ztEbBcI87aW3r0EseG60CNH67VmQUeZlqf0w_1zcRrf2vZ-k1d1XBM1SBDdT0fJt8Ut9lKp1kIp5AXmafYe0QiCC5qM2HonW6MTojbnVMCjB03EXYISnCvgpvc9L2R0NPslLthT_l3MFOz2w9UnfTpfyWmYtNjodexMqVOp0QK90HaWx1xQLZUmpCntoZOuEi6FNG7QHo-Ct0qdKTStOX3g1WynbFlV1ywQnHZe1ZCK_Jkb5_ovqddgKBmlaEz2_asgCcYS-HlLUq6qxl2pYS9YKDVrFZipXqwsuGuGhg_lk0G1y6LDy98mzBvjLAcknjgIM7J4xYEGHLJtQO1d-9AihbLs32K27nH-H2oMpVMKqd7DgEFAocbag-yyFGK7KYTfNHsXTtBx3s3ZdlYe_MQpc85kzobUrjggj16jKrAfY7Y6sOdysp0pIhn7bDFMFkRM1CtEbcLBMNmYhRDmG9UmcApbxXyZmLIgdjhiFGD3LcXaghd6KYxMqeTeLjC5q2WgNhT51IMwnDuWiILS_v6F6UWnuO7bzUK4QMYJzdn2iBJyRITtl2qyseJmu-_Ry7B8ros0XtAfxiHygJxH0-oUXpm2EjpRynGqg-1WGHQU3FaPBuTWFlAPMEx7MKbAr6BxmZEUANql3q9c72Wi6cWf1pvC8mX6v9_1u_rMpvFAkw0hI1oW3sbBt3T1ba8C44M%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -1757,13 +1740,9 @@
   {
    "host": "app.dev-sgp-gcp.scale.com",
    "status": "ok",
-   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=pQPnYv8XLiAoTG_nQFIHn9SOemI3W1AaBeG-5uc1pxWk3RB0CTc-R15cz748WoGZlBMvdZyAlwTR9U4o5i5rTm7GNKe_ebTubPHselfZpt5SVm6y6Sfa7N2O6f6-H07YQbaHWG_W21Alf2ZifndE288WvKgvLmKNPOZbSvGdqKuv67j5WWBtZLGq12MV-7Nf2OL3JDLS9JTBqiKaNZtk5NlLIjRxQso-0YpeFRWDdKSFHOm9AIWf7yRLMeBPvHgSgZD7spaqauyTLuVagEh52mCd8IypOR-XfyFkzBP7d9K2ZKouz727YP3uVtGX46_OvVNjBTdgu6NoWcWPrBMeC-MElc4ga7proyP7cJ2rNccehp6bBlcKOTXWYxYEEm4oHAEoy90JLqAmNOIDq1ftp3Nhj9q6z4fnRveudYEdK_oXgIDMRpAqnPVXMpo4espCkr_rn5fuHkkEO4L0RmD1xs-k5TBfKO562SepVK-abjm0LATicMDicqlasN-nT_TilVG1J8D_pzL1YHa9hTLN2C8ih4xe8VS4zDJl5buKXqQTfS9EVhtUnXuQL2a-02P0SoKlc_D5OXLdD6t_F6kMv3j06jgbyPX0bEvD-u-6RhqhSezn3gbU13k7yLDXXNAkSD_4QsTq9PMzyYconlvGNOVq5Zey5b8jIzVV1Ka7tVy0Cv3PvnpRodfOI5-cRlJc7EJn7YJs9vRMYTTvfPF-_Gg-PCnMITgiG3NSpu7GMPVzne1_ySF7Fa6UqBitNkgKDm-2D3Ax6Ob1u-YCXMEqpuWCQyKL2zDCaySGbqMEl3c4J3fbcokqU--kzoNeZ2kTxl9m2-7j7Kc4hhZhtSJVYTrvgI3_9dkEXKfToR__3I_ZXRCudUnKNJdO9465MSLbl1NWsptwlrvUvbEvYawu81K1aLeIKdEE7c2KktJTBicWmDcxdGU2AboIEldU_aff0FaIrbM-dBM9nAvyvgvsxQp9PYwXH5XaoHEixJm2dHZVxZ0UOGPoWPqyAanrLzsxqzDi7xRNmC-OReXTsmA5Lm5mgo9zCPHqvIsrRcPGjpineuQyg-hixM-DuAyinVlmFWgc8_WDg_XRo8M0UZdx13ei13HVWzuTUZBw1eyiGWiqtzeJWnQkuFs-HfOGtMXo8Jdv_go_HoUOy-OfHyCRJPfEEjYwJhXZvN2Kns3n5Sc6AUMCQqdqB0SdzK-yA7k4-S20hkmCu1dKL5z---oK41CWoByMvxAfOu6S4XBSuBdrxDg1sVtOC0HwJj53VSQPXuXdQvWaUVZdRYOMUbpS0PRwSKjbD0Z8entQmmMa4Pb3XFq88tPDjTE89I1-SBG3NgHSProRnN1m4TZKYp5xDQ26UsTRY-VaqTfTz8I2JFnFWQ9Q4kXWlj2zol7JmumhSp-aaKEKkIqLIawssOLRcVrF5O-NMt5J7kcbDTwiTdwHww4UDVcaT3kPJgHBH1NZ4wx2uMqegZeasWCqTd8eaUQmTtYH3umqTdNiMNARXxQSilyoDDqp2nC-fIdV1wxx9k2xXbDsayVogiGaneSN_JsO-H3vuxiH5E3OmBVSe3enRKGTXQp3zsGn73moDVYe9z277_SgxTxaKJbh_YGhMd42Rqii796Ee7bkmL4Rn18obICOKaNM1q3SJe0U5dmxToBgNDNhsRUD_GonnrtBkTekQt6_3tkVfGzw0E-9hj5OmZgjJwZUnPKXEm9pNghRbjYMVsabIGkAixZbfvcKpMpIS8zculESdtMeTv2J0s1Uac03iP0NsBvun4SBQFjYL3TvXvO7W7UAdMLsPnSooN2XFAxgFI5mcyx-8wv4PrpOX8wD0U9uCaNegJ7o3qmf5yJapnUdk-KNNhIB8OSlDGsk32I2yVM0ovm7xy2Wg70Xi7XYLX_s9-yaP9zo0qi_RvCojocpssJ8up-qi3POQfkz8tkGZjf-g03nronOmC4uP2Dz2voK79e7bnHo2ECobh34V67qAlpcDLeVgc8kNOMXmdPiGL0AAcRkbhDRKWlCt9DUMhbxZu8sUBfVSwEzF6Vn_3jn33c7-6iHkoOLNhFO_mmlrUrDDXEW-bMBvcERGx0pAroWlnnujsWvEkZNFyY5OfGHNzo3vurJ2mlxQkvvVr2uyokkxyYj8pn2BNoMna1JVr8UDgnymzf9z_uijsSdEDtBWRNDckBgHcqiX99hAHI7JKicc7jyKHrMDTVxWewmsaZbk_Ayavb2Gwo1u_lI8sR3GkXrua1XwNk4URUgpMs_kD-0GSSSprP1Xe8%3D",
+   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=4diIYL3Xhp7msNG7VJOJxx6TuuN82RnPEc6jN2QjjwTalZluwXuDdFhpZ_qPjVfE4d91PvMOkVPYMV8Zx8r4Mbk4SJJUL-sq8bQsbQiRYplVpdybUQh_zLCS8ROloUm3uewj0mdtnr_4X1M1lRGbxrYwVO5JBhj4qzSk4mohHvWdK3VpDY3WAYhwRpLlnXgYUT8e2_jprM8YwtUEu4pjogmYKCaH4mct8tPMfCQiYL4HNhNx8PnUd50SEE8JQAZvgp-5B-OKnK6yUnb_c6LEsXyYM2v_rc2Wx8qMrjdAbJ8_oyhYF_U0X9k9rPdshccVU5zYyCMYUsdgIPaagUHw-3Wr_6KfZKz9ixaQOF6chIfsgwV6MTKBnLSPgrUWhpy2ERXiKNwKMd_cxffS3ALpnqyUJRsX0eUXwcEZfb-ZR8vlUBGsOZnwd9oDoMjZflp45DQ-TX-Bs42QQnwib3FN-qVEli_kls-UxcAU8_B5id7oBpIZz-gFFfHZ1H5xyvfbPuM_t4NQwaobtliKyjnWzln2LgVYE4C2OPPPrDqt4p2vvYJMw_q86o8bRAbSjyls4pPOoDvoHVYUpH5-ksHpGUgA4KkIp3_R7TkgUu6JgtZxJnhvQPvvo7Mjkx2g8lw8zh2UTlrEoBSx514VTSzGYQy9bsJbJqTKyHSIR2j01Pk77hRnLYpgFsUXpi958dGiheVCct46UWFQOx29gj_EM8m7RtM9LELamUUtDrrXTi91yhhJAx0qq3fKM5MiGXWdYbsbmycYmgLHIZttkXwPtMSu7WIWrho7qQRpSpw2YemXrp0lStCd-4OFcD8gu44b1-LwUi8wcsPgZvNqS72gay7k5DLU8Fpv1rdaIT0EcJzPp-q1qJzK5ibsSA4_wY8ztGf0ZUrICOTZZc-h7wAusqUXNXhHUDsRrwrI_6ATtY4Nnj3txG5o5saEZI5n7E4JOeSBeFQnMn3YMWEzIEU2ultFmySUD0CUvzby--DvB2Ybkhl9vEpiafp7fEjKMABthKStLhS9W8PDJ_2BRbl10KW9Q0vfsNDn-EfY8mzdbahZ12rx-gen3jM3Ut7zYanROT3uejRr04YrAyLhRcfTqcS-AfxDaHHN0iN_i0S3V8nDnlM5XC2A88rWm8qk4ouSEk3uke0b1v35pmdTjrnQs-0JPlnPY11zEsOZ2OLszeSjJPOBbYE8IclX9zhS_cI9wt1E29woxiFh7OorehXDRIg4ivS2cCTm_4ogBPxc567EFl_kD6zLirxoUyeOC73xJ2XLBUTu_bDh4Ta48PXa5UFETJyb8Lkh9tqCLYmeAtHY_2VnK_JWbJPe7lzUzwatKkCXzV1DS90-ILzefH_RejJhxkMfd9C2jba5Bw31U6aVkCoQOoHTUU-B3wSlosd5uLkoQvRer8vR3UGvk0zbzwbyNP9rWtxHiZ5nrLh6IWsd7pVI1aZs0e3M1dXPzM-17C0n8Ky6krNO4o6yfKTMM8BQo2m7EYDHavHx_p3iYKiFsbFQJvlbFjOi9MQ7H5Z7sh13NPdMRTSrFktAULX2HLct3-mnaG5cBUsBX23k00meVIz6vpKw2rqcdn-8BKjEuLhP-ZfPhQDrJMCDakvD8Ww1gz7zLvxKen8PPPyJXPjU7S3UereI0bIifTbGmugb0SULtQiENOVdQ-WMGjPzld7Pwyg107eUfSsKp29tCSXET2BcJlrJEpY-kX2EtNeRAu2efcp8rZGvSpOx39cFYOUZ280HC7nsWBs4GBPHenKMgyeWSam0WYst4qrQ9GWnpRe-icZizi3XFL-dXrNiO_3oXy7fHVpz2NMDkETo2GGRQ3elATQGI9CDEfTzulyVO4moYWhft8TC_lxN45YLQroKIZb_pqlaTultMwuYp1pvmELaFSVkEheOgLJGgf6nQ-V1_gkKNPLj95wuic-tCV3_JdAdWXnAxXuBYqrqExaQ-xc9h4UsVTgW_cjAUMeWrrRiyNeKsqY03S1YnZ24_ST7hgoqBApdppVZDji1MBGL34bhQ3J5ztS0dcs8_VjdUBUGjlZWGwh29MeP0Cw5777tM4jNq3omDjrEKaS0JbKfkQ3SpcmuTV8L5v8Ov7-dwiICkghh00ggF-4DidaEzksSBtHYvdEftnTfflZuFdlzwWAeIOZGlnBxMvlPBHqa4gXk9ZNoVxh53Fe8yhRIBo3YfFdzU0uU9Y_OuFLu2sIl5YiUWj4105ruOR1TE6G2XM1pPQ491MCWgzUZBFoHvNRiGG8PZkfDURMKW0wR0NgRAA%3D%3D",
    "title": "Auth - Scale AI",
    "links": []
-  },
-  {
-   "host": "app.dla-ext.azure.workspace.egp.scale.com",
-   "status": "no response"
   },
   {
    "host": "app.doe-wd-uae.azure.workspace.egp.scale.com",
@@ -1835,7 +1814,7 @@
   {
    "host": "app.sgp-dev-oci.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=eqiKh7hu_zc1WFlS2UBi7mFzr6liaT7erFVGnJwQwDV55Wg_u6BXYQ38naSpEcwe4z5-d5s_9rULrrij2giYk-oEM70c4F94PMiLSdltp4rKS9TDzbBbZep4InztknbSr-eaIwkjqiNkl2XCZV-y4AhJ3yJiWTP6UIqkC-IJleia2DrxueoDyqFqCb6TeKwBKH13xotRu3zqXA4lUOBvPERdSdU379gsFghsTdIw4u0erA_SVuHgqpWXZxmP9nLWJpQNOtvDXs7EmTsujUYx083eb4b2Q3wRyZnGwtgNXh0a0pf55L7wLoJyXli8aHFZ1OEEHOHAB6-d-CH0TmCZBwc6Wi7agJFbRQhEUsn2jNO7SAMI5okArNpm-AwOEJ8X3AglcndNUldfHCflOEcQZtzvseUT-dHFWy2y4bVqpexe8ZlXQUG1W96V-k1gLVIjclhSN7SyHvvRfRZq5nIwSB0u509J4SLYm0nPpn3pURsMcmCnA4GZYEKHW3A2he3Z7mziPqivYSLjBgWu3eh0lv5jLEp1-YlezjRxVM77yktgic6ac2IuaO8DVfkWkSMIIvMTapVR2ITG8Gh9OAvyuNcftQJZhkXfI880BgW1_jpqTuuy6bcdvQdZ3irNR7e-zZ04jv25olrjolV16PRVxTzgkdn7oGZTVTuy28AI-ebAWvP41vuQQNdt_dxADDhho1_zF4Z1NF6OlX4QHc4r_eChkPLei5T0daTPOW5AB1Sq4DmdDLHJ3bykG_4nEbFaYJncp_z336LHDNRQTzU7_wj7g1ouyVW1TvdEMb0XiOgS3DVyVkf61ly5lsA2a29pYK0xdKNpzyJ4SJ4wYi2z6X8QzLOPYvqUnxc0YJUfOTUxroL5rP2mkbwY7nGjNT8z1Mh2wzTcBF0YVsaJSu8tXWli236Gk4McyAN8lIt0eYPzr4k4ItS5psPepuCvlUYKd94fkBXXv4hRmweV4hfxMUEATZ0OSUw0u1S5oKNDJRQnubLyprQv99e74yPARXUyA8lg2pMZD88m6oZQeA_PQxUGHC4frwz15vSUNdxb1D3jzhyxpRe2wa652XpD5LjHNZ0uOwdmHyO_0ve6o0TPVt8weQ4UOX-7agGbzaSRpy1MdtblbUKBA9w2YgiG_iyZM_XEmDGor0HR1sF9BQFDqghy0EFVC7zud_lQI_nSKXdag_OJ0KT5xXydZL1KbD90gO4dIddwp23A81-FZwMJsXjSp93bKRfnSWDvpDPZLxBLxah7LHSTb5bvOhI1AINxHEyra4ccgdwv_i8crEQEmn69b6KZOBxWzwEiRyJyhdCd9fJFw3_6ITWGTq7qt8z9SMRSA4oEdfe2hDsuWauxWpzVPLt4elD5w96lnuet1moCQgmd1msgAv7ByJ0N6unsPUuI3sJIpi23Olk-dpb0aNFyk8T87FqM0igXCI10oRHUVkgN3YQy5RsnXFB9Ej2SPZPPEcfIVLPmncSfRqSm7nYpatX_fAkh6M3gMdBibmkMc3s0kiGKL8fwTrGhyS6zew8yPyKjgf0QGzhWZf0PzdiMnHSe4xfQUJJ1zT_bYX9eEkNiTGeSYZ28RgWQxNdztEn-h-skwjPgqS5vJnVUTNd7mUKGxRNrGt9LbjP81SPnzsHeDooSSytg-v63nkX4rWC9KUwe8qe7wIiu3SKTnkiVe0RFsHMJmVZcYr8XhXLi2atPp0BAn8ILtMHXTGTRpUhX5mpm25Lf_gSjF-_oYJjR-T276B-3IU9f1Xx_7OK8R1_hkRljG_S1czR0VPJxLfYwmYUz9PxFemLd5D4aas4T0OJkY3r_9xgHXalKMzLnoEF6kwzfmPBf93dUFwV8hDUI0BdSNolVQp7Zozt_U4nMTLlBUDudGwHCjB4_rYpAJnaHU4_gB5ztPdwzPsYxnGOprdbuvRnKHac98yx4f0GUv-pXZWj187aQ9tQcQpb88AtXACQNZadWG4OOQbixAQL4WF9mN1e3hAojF0njLjisUtmuIAsFHparShMLM8_f5PzGOjn2J_ut8xqY8sev6IahKV2Ej3bQAyQ8k6XVkwx0j2CPn0sp-Mm6RX5pSwzeoo4e_rgCQx7WHlW7lq3C27HvVRW5hRYOeh3WMaa3Wclspv7dZS3qhfFyLMhmd4HkR1ClPUTpphothEskxKofMgY2uH3HpfRddOt1vJXEMkuxdwrQxlpXo8Jg3tvhjfzvCG7qJxu1c8P_YFcrlrmCg7e6bU5O6bf9tkx2Uau94uDlPvCY5mQmzErnQHhqUvm8RKCLK7wxqv9H",
+   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=FY_Z8OQQoNc3IH_ChJonBe4Q-Egn3-9WThBaObpTbUWJsFoF3MSlxCV_R8JxlxZ3EwV2K2kaMlfBhd5mFm4HxY9vE2npqy7mIbTTf06rjbto7ERgWwwECfB35-UiW6_BfgGeNoM_TFUzTCwJxWB_Ze-uGslLPFkQhGYnm4f36CUaEWEkFESLG_FH4XnxVXFj-o0xfOHzc2SS443juqPzlmbaUAWf237VnqOxWGvTP6tpwEiKTTOqITYN4N8-o0JPmUkQLv6Niy70PRvSeFP14T5HDfO19wbHqM8qe2XDS_J-Xdk8a2pilwrTLHsYwZZRbSHDe9L-Ivk5Lp2N8_OYxRuEIZamjktCQT6JajfVkSHznB3N0s57N4IAa8I8X1v2jlBUQA9s6JSe7ncYfL_JiH69su1oHo30BtzqSHpfV2tYvdPtqehN101RRGvXb8HExPTFP4C0ps2QE7ZB9xbfH3-kcLX_hzEUWRcWkrWvBtPtZxv1LjgUXMont80SoMfsvP7VTKoMORciLYRaQRwAF-KFtjpjuV_C5SCacXpU6ohjJZ_PJ_mdyCZwjtx9SXfEU8ayL5lfug3nEnEWN3gDx3-c52FOLovg4z4Zt97NxadE785_opM8Zor-EJIEJpAc_wjnlNtmMduJ4zQescX45Vp3sULRH79408wjFvOaqU81uFn0EMY1nW6LbG5SZDUD4s51MXLK8zBIXBvC3BGlXxXLGb0C9ciSgD2uKy45Aqgh_s6HFkbewd1Fp_jCmwdG1WSca_cPyYBkXUPUw_oFPmy1H8Jili1X4bjNdppi0GXNoVthzrWyRual_iIESQhRzQQao8qVLpb7Ig-FY0PtlIbz8aQGo2G-YCMosUPrQ9eM8nJuH3F4Zg48ewr_c26PUTzshmv4kLlPvs0hEUiuhRBj8-j_0Fvx6GkZ-kmXtyM43e-XP9t74WcoCWQz4RC6b5bqi77Wd9qXQhuTSPe2CuKc_L_uv_uJ8gTQo69GGjTl9hMKAvJCn8E6DFqYdW0btOZnfVsZjINthaMKbKLvw5N8Tcrakjw2i6WxY7hV9ZQXqvSnWUNGXTSoSar72NRAVDdwZ0WeIzQ6dcZSD539axl8xCUgbkLViTbXQr3k_KpORJ7tMleUt9MYyd5n0FxFBfjNT5ncfybVfVw6GGeql6UdS3Q21ObQlK7Pl9MhL40Tou2Z6VbuP1lG6mc9sM9qSWKUX6ruf6QIVQAhM3u5HcSE1l6lmCUJG06NsXlQLgwmHIN6MQqaIWKE7XYJW2TKhFYUeyixnwW7ms__baDf-DqUGp0Kw9zPyqWeUVsnLjm3MdF3RDgWQhd1Vje86YIPDBCHNfV1u0nZEDfQA0jnF7Fr5Os4riCsT9lpjNxgzjSYjIHoxZjh04neFJRfd7F0ASv-TjTxypyGKkjZg64BEvOstbu4JppScM2DaiRsU1ndFlWxv6SciQry42HwdZIyokHhBbDoGmnbHdSBlc8kzthIX7Y8Paa06M3v9kHTCy5kkj0SbeKHsQYNOt8Fd7okvpScTGsBWNM7r-NZQ9AlH308rMF0eQsZKhmCLhPD3m8cvJD22fxI--dDdvsZ_KNmX1mXxRFwCS1ajrqRsrqnECunIHnxsbjT3UKlyqyw-Wdpoe0dedjPi-FSCSoIJze7vfRwv3sz5OTB5w_WSQBm9TzxCdF1kCSIgKQAZFUkFOTytQGGHTKhfTTJp6yEstoWVvio_c9JzqItJ4hSbIhV7itRqejn1PyO6a7NXk7SZGAC-XsDmyoOuyqTAP6zgS6U0UgOY83Giwx_HGy0SnUcdpwxyRcArfampt33eULW6KUWYkyEpY9sF-ipo9te8nQondEtmNm_fQg2wd3Nwxgrtj8LdeLng5dOca8vE27NMBjvXaeYJRKbm_OLu--9bnIqn1pTCDu9aEC-Ui_Hy9W1KDEnzsZTwtbCW9W9pffuwbhlPstac6JhxS0fLMlMOLh8X574mpTrjSrcrCTsd-BTXxB9cml0BkZ-XXn4B0Bz-EfIU94O2YSpgdJY7uzhMS8iW_ws0zRlmpA1Q8FaqMXXW0oM2XSGsuz-nyU3bpTMLm2iMd7cw0vF2gte7jTXH4GEpCyuBlTnbygZmqykB9LCGP-9w9V26KvxhDG8NjXn1jrxh30YzfqAthfk_U7EozVozdAmuJAUy4ph4ChOZmfPA19apckMVX-WXbKIHRJJsH8XvUT8fT2xO9vGaJzTmJbA1Q_YpraA536Oea2ElMAmbMFh_l5POgoSH5AkSVDIsLe0Mk5vp_g%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -1900,6 +1879,10 @@
   },
   {
    "host": "arnav-test-vm.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "artestdev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2061,15 +2044,7 @@
    "status": "no response"
   },
   {
-   "host": "auth.demo.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "auth.dev-sgp-gcp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "auth.dla-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2102,10 +2077,6 @@
   },
   {
    "host": "auth.manta-staging.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "auth.mayo-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2229,10 +2200,6 @@
    "status": "no response"
   },
   {
-   "host": "authw.dla-ext.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "autoflation-service.scale.com",
    "status": "no response"
   },
@@ -2266,7 +2233,7 @@
    "host": "bamboo-watch.corp.scale.com",
    "status": "ok",
    "url": "https://bamboo-watch.corp.scale.com/",
-   "title": "BambooWatch Change Report",
+   "title": "BambooWatch",
    "links": []
   },
   {
@@ -2465,7 +2432,7 @@
   {
    "host": "chat.agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=i43kRR7iTqFnZo6j6_pmfwliZlqKV_vRApoq44O4befJI8Lje_19vUT-f8Z41lJrbOL7G2nF_smM3XFkZem5i4sS3FPYcuzIgQG6Ikrs4hXQaOENSCdCc5W5N2B00YubtEnxp6-0ZBV2kW_R6-NCOhtCc8prxoMZO0s17dqMc-vywi0nxLFdoDm6QL0DJRzVdEUvrdx2nqgQ3eXNfl_miRWO4uMLH0qqxebsk6E9bbM8rwEVssrxGG6-8-RUp9iOssiiHK_eqTzqKSli7Wg1kSapvA4HPBdjDMb5vjsm8bywYvEUOjvlneUCs_KhzjhV486qT6txCwXPNlP-_ijDn99AqY-qMV53_njdt9oXD_CUMd2qNtUB2ao_nIuElwrhuFRRavNmLJq-DAXFwVPmDKQaIj8aNxsLpFfltn1AvjPhDG4fxqVdAghk5YQ5TfBXFG1eaZ-kvIA1eFrwP_ba3Yfs1oUoz0UITAhdDfvkYJnCSjerdljWShZjQ6h3JbVWOXTpeSiBwNtBbkxNooBuqkzOp79AUwbEVZ4cyJKKfxmkdDtNGwgN9lRM0ttuF0R1-uQTU1STp4s1YReq47f4V6zm9drn2ORa7umTxx1TNy0qkzFFpGefiCLoXOxEg2WZbg19d_2adAZyxnWqc6lzCZTsOw1BI5USr-Catr_iUqnpCtZyQLCjX65C3u93PICOGKfq3a4MYrrGllWSb_qUWYVC8jm3Ia0qKjug_XzEjbbb5trgiDIXgkoXfDDatrFFDfKAwdDT6IQB2JpXxQkTVdeX5M9F8MJzkdqS43RE0GzJyK_Fg_MwhErKi3CPzBoYhLHkI7SZ5hIUsZ1XQcVFD9OFGkdRj7X35CLckNXfJDqHPJ-TOeviy4JL2g0NzVKS1z9O-nOpkicmOnnII14PAJV7o72wWebofmmPClwEEYLzkhvA7t0cfB-x35P_xDsYvAVOYCKZw5NMGXUOYWYN2vav8_onJeg6ZdBCEizwpCYDgPb4mX6UbxQYXsyKQTEigNem5A2BKjgTBPnUN5-V4fYnWHj6NqAwimHym-K7T4ojIYrhGZpKc0CIRrmBmhy0PoJXtZWeohm4_Mss8YaLCTpzbJe5YKmWxc1ZmEYQy3uPredArz02sL1sT1pkFQZcGbsQALu9nnW1gmtKHVizaJBnym3gPFIu1s8P6-qvB54Zp8Dhb71B1_qvQehYbSKWcXq3oTk21JI5xIJwC_mSshvgN8OunBy5SKd6vHUKK-W2ENjGTCAMG2HQOB_WytXRbDAtAM-TePBmVlywTT2MzU4RYZfSOVlG_CrNOFTFEIU4GffYA7iFtElendZjNRivXhCijb5zjdz2cK98KUJG7SctGMOvsze48lyHIai3jtV2ekh9vIC8N4QsYieAVYe6lVLGpjxZCotNd_M3xiNtuKvPJvl2zcYjDDKCazB-bqkJD2IuIaKkEvZgmYl6q_vimRsbkZKaJr-osiUYwzJ9HjV3r1DjwGSvK7EESSBmt7XdXz-HAcygi2Bbu1U-WluZ11hx3AHhHawSs1G1pxZfbJSbb9uz-jCvk-fI6bbJIaIK_vIpo5HG852sF3PURz7lnUbqEhF3l4P29E8_WHeg4oDhUACRyzG7xZjXjjYw34T7b0utwHbb8qCnQzafNH6tnxnR24XdgfPNsriMpopKmCnxlxmvNZpaWQ7_6LoIsBtaxZ1eM5-N310eiQDcJYSrxagBtxQTgSFA-rqQGAUMJRVQ-jDuMjFZjvOaamO6_LfhX2K0jDyrthQsB2JRqDo4NscwJbEBhE7f3OjxqgHMnjjuZaOksLRwaykZsgDGCmvKo-CYmsIbEVRyspll7PF3F45aiINBNM5O5sdVggtB6OeofxPR-kzODXv-yvEZHuFWcrgmW5gbAGYcfN1yeDQdebiDM1X8-czAzppV3Ru4iaDTiqtdui1WzdJvy8XDUzhMfdx6YF4ApERe0j5Axnlclb4EV4GhuykTCHJZ6-GUYBfNIkNHjIId4nSZCMRNi0hILwheEuKutTVF1RDF3O-5GQsHiA_N4EFf08t3OCq86WQY3ncGaKuZWoc9bwyBawg5eJaH1Nzl0rYY_wYGhc4QhwTTLk640OJanKMZB8cyYFhqs0cGh3Qh4zAM7VIGr9G4kaidtJrkGJH-VTARn0GHBpQ3MXxI0lN1DkbceQMM_Sfi-D0IexBM2ANVVoAeCZcENdA-1tOPgPWuh9dcE2ZtbK-Y6iatQobiACwgAL6rvXUgQXxd8fHgKjqmdcBNx70%3D",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=R6Bw9aINXd98MRJBWmoxtnk48m8J7jJ2JkocL40pFfgtuf01iCvtlw_1m9He44WhPlmCHxT27B-IaGftDnvrijzuz-7JrHQj3L-4Hqf2zLXfag12m4YdjwkTv-hpm0Di4IX1KLKZJ-_MSOIzvt1SU7bl8qw20o8TyC-ldOsCHdzFSRcrzMpabXqNb9OTA8lVlHZ9y3q_rZ_-G7pPw0KC5mXqP5vdvo52JPEbPfIveXroUdAhZavgPjS4FwjeFNM9tuksrju0gGkqsZbDUQKu-HL-mK1JjeKTqCKtbK452QfkdT0b49HGe_lSOXXt3AuB2cHJCIKHhzyNSzS-ZnHVqopqlzBwB0aUK8U-22dQbJCsHceajMAppS_hRhBZXLDjGEgrgJVxjygyY7wDAZmFJ5LCe2tHwdX0Ci2oif7mgbjE2-Ka14M1Chjw00JrS-tk8MMln-ZY2OTQf-yc7_o_zeseTvlH7K2jxV4mDNsvaAVc18J1DYLwKIJiYKM4Pr2T6dhA_8K42ikc-MEmULIWbCmGgPcWSggFihe1g5xG4_DrmjSH9f0-PqYM-1w4WLo4r0H5U3Y7iInXvBJHDcnUnTeGy-zpN90-NmhFAJH23FapDAqs3xz2110cTbu_qHUdDA3nrJvFHksrruLiUX7XB-Q2lSB1f02eBDyaI0FDyae4p6blo5jJT7_sCB1ANVVEijvn_k1ah3UF9b0tjIGiXPlEEl5Dbxg82BVhMU0j4KuBAnAtLzSt9kzJhnXtdUmOo1TNrdMLD9eygK5t7dVbtR0xPJ9B-n8gBV5V8rJyU5zttKcNg03xTmydpPDze2aoggdCsa8oZK9a9iOy4HSJ9QeM4AXaYR2WZHIPhXbZ3nMxBOuUgaLeoI9hf4IeBXAdziRzWLqFEcUby80JPEscJTP2mHKJrJeQPDHR-vWfBk5EMx-5tlLery-By_a5OFrnOzzaxKpxDJcN5lPGjhmEXTXtYfP2rEI_vr4MGS6Fb-PbZhiBzVRxqOP8wBackKhYJuyCQVI2aItnqrZBnbzymA9bHBhamPdWcKBhgqZ2_M4v6FQkrzdH1-EPGhY1Twpg0TznM-mDfKlWQMxuGRkRasNNbpzmzlz-erMtK9Df0hjpBm7lN1rrgrCmtKGsf0tVZLGn5168rFAQ9zjR72aYh4uOCHZOoSMtnCOaSDjSABfj0guJKk-DaNzTZrj_gW0gORF-4WQLRpUAwZYSoVfZW9CPJQrwbmxuMcfZ3AuPBLWFFmIP-i0-avsCauTaLc1lm_1qfbD3pxRdc9qMB4hDyAIB-h2_gwUhyOGuWnonyDUq7Lw69oD1xb4dpLgtIhAdwJu6qtFboPs5JM1eD7YuR2PDcAeZp1dQSZ3LotI_-5AQA-JnujT_Sv9SdcvUdNI_qO6CZql_NIOScm0Tr8oy8UZTPt-AHywXmp-KuH3MqdaEMTaG4iynuaP6KMkdVyWNvLEOmyKYwi3aFzBHwgW_YRXImWCqL1tI65TeaE1wZ0Yd2L64_o7qQwfiF-cOFSY7kjSK_uBq3CiCPh8KvQARy-A_ohTGYyS0yUEeigLQGuMeCL1WQOamPFz9QlXveXA5TyyynHgjJTSNZPG1zAoFUgT9J-e7MB2nLgsnLHwDMLWDpJN1irSoDgzz8UpFzctaJYCtj7fmA5gfurlYoGXXkz_GHXcln6MG9QlC6vnu645PzgDkAwKzFd9al5YrYRXuPpBcCvWf_NFOtQXq5NCxbEzs21_siuBBF2M8ptqvFTUT_iB286KW-GqMcuQLc93gaGS35fDKDEBOVGOquZT8SEkAdf3iWCyNb-_YU6a3b6bVHC-WpI5ERyzXOzCDZ_9Y_XV5rEw4am29b9hkXcvBdvjo5cQZMzWIT3W7QiBkLJh9GKhEpBQ_5nZ-O4jWDzKnbJeBDmD_0uhJs92Bgl4VmD7HUL6NS_0taVn3bc_teQcs6i9Uefb8YsLnj76eAGZiSsMXKPt8jcxr_0MyWLT0drmIjrlLX0dmnxUpuhhxSK415_wWa8KpLwxZ8R98G9pJJFk0jOlEztQ7WwI72TRUtQgfjOSlCdMsDGT2dYGjy-Z8a6BikcDkBmJqnqO8-EoHXo8LYqCEji8K_491fsLkh2rLbJ-wDrs62yVPDFlt6t1HBawP7YkLKwRZHqIdLX7R3I1e3xXf9uftPGZR_igfBZfuEJIWimv2SsgF4fRLQEzo6KUH-4Zk1ePWJZNsfLlGD_OVVqoGbnbTWbgOkfd319BAYk8u6qBlAVWJV17IOA%3D%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -2564,7 +2531,10 @@
   },
   {
    "host": "context-engine.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://context-engine.eydev.azure.workspace.egp.scale.com/login",
+   "title": "Context Engine",
+   "links": []
   },
   {
    "host": "control.egp.scale.com",
@@ -2577,14 +2547,14 @@
   {
    "host": "cora-eval-annotator.internal.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21ak5u398BhK8i358&redirect_uri=https%3A%2F%2Fcora-eval-annotator.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=J2bR5YhC8NkDRPZT%2FMEIDwJzPE1VWlPVxSWWzsauRer0lGHBqodf05gVc5YmwnGMboVYXmT%2FFW6U1LOeqEs2VfopEKf803zHwC9%2BmTI81uov%2Fqsc3xjJ%2BqxeprU1pb1gWml8xyOCSRbGOFFfl0sEzfaCV74aTx5vvHHPrjuzpkXILlU2QDM29A8aPy%2BhT5qEZ2rhTn%2BzozyTl7gDmx7RuIamp4oRMIYDcfk6zngHjfdX8fbiqA%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21ak5u398BhK8i358&redirect_uri=https%3A%2F%2Fcora-eval-annotator.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=NNHeQXp4u2ugdtFDYJj9xzWVkHJ4OygJIXClgWuwvsMPThhmI4kPmEo764IeGeN0k92FkkKePBfCjv5CGhvRLpCCKLPooz9NBX8fR8z%2BgUERKjlnJ05PIcM0AzXVSeE3JgOQHD1mCN2Oi9EaQaa1ekeNLilwnf1nqf%2BEtCUmM%2FdEEfhAUD3v2UaYtLf0%2F3W%2B8X1%2FxEk1klSWoCX79u%2FKdItPMTnvt0B8206CD6rPaO3zp7NPBQ%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
   {
    "host": "cost-dashboard.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://login.microsoftonline.com/cf356fcc-952d-4c6b-baa9-b1c01062b3f5/oauth2/v2.0/authorize?approval_prompt=force&client_id=62ac55f0-f9f9-40d8-9781-1e3f95e5ee82&redirect_uri=https%3A%2F%2Fcost-dashboard.azure.workspace.egp.scale.com%2F.auth%2Flogin%2Faad%2Fcallback&response_type=code&scope=openid+email+profile&state=eiwlnVal2BJA-lvKf18_U0jgNkcLO7fkEoAdjtrFANk%3A%2F",
+   "url": "https://login.microsoftonline.com/cf356fcc-952d-4c6b-baa9-b1c01062b3f5/oauth2/v2.0/authorize?approval_prompt=force&client_id=62ac55f0-f9f9-40d8-9781-1e3f95e5ee82&redirect_uri=https%3A%2F%2Fcost-dashboard.azure.workspace.egp.scale.com%2F.auth%2Flogin%2Faad%2Fcallback&response_type=code&scope=openid+email+profile&state=ylXRl653YqIHBuYaATs_Eh4ygQ40WLu19SSBYUqkstE%3A%2F",
    "title": "Sign in to your account",
    "links": []
   },
@@ -2612,20 +2582,11 @@
    "status": "no response"
   },
   {
-   "host": "data.sandbox-staging.internal.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "data.sandbox.internal.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "data.sandesh-auth-test.arp-dev.internal.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "databook.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://databook.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2Fno-project",
+   "title": "Databook",
+   "links": []
   },
   {
    "host": "datahub.corp.scale.com",
@@ -2636,10 +2597,6 @@
   },
   {
    "host": "demo-builder.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "demo.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2665,12 +2622,20 @@
   {
    "host": "dev-sgp-gcp.scale.com",
    "status": "ok",
-   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=cb38aGF6wXSFxCXfPft_qYutPFR1khX4_E24Cka7I-89E_6peFHpDHAZFfkhGX4NtGG1R6z2egGLt8nDv62uIaLiPesvKVVv_14hyMIpDJ7jOSFe3eA0cACQavr_tfKg4mXf624biiK9SPIyAaIJKePgJwaGgJaGuHAPE5go69sOIdX_Yv0jsRgkCD9gCmrudg0OUjrL4em3wXvWP1nnanyRbKS47S5R_P-wUw20naXxIaYuhcmwvNnr-KVRJE6d1OxB_DplxXBRmaXtFh8nJ8jxJUZ3UHMC8EvlPstZ74G5A3-5tyCpcABHXpbdjeozXDYdGygV_0IRomAfRAp06OXmZXGfvJ5JZ5K7YHjYkgOHFRORyC-GrDYk_h-BMTUnrqOsMN9LbYeKLHKlzACsEoE-rtaoQD-boPrlqVduBkjnfapSH2lYyHXys3ldoxVO087nFSVqLsHMm6ADNMRgpaIOvR4EQG5JYb-fGpTlMxo12iFtujvIRrxFiluHBcKxMXdexPBIrRGb_ROYMF0OzznMhvr5Vn7iVm3qB7XvuBVZGOzUE7zzsX1jXy7rqQ_eeLo2aobeyz6uDYGdq31d09L2AGsbkV_hVxr85psUtMJJjaq36iGbO4RH9pCzIYuq2rvGDLgMNZZXbUGi0cbekReHQn-F8NTSXg7jEM-U5UyAq2ADZ_7B2lYrekeXA-bnuJBPgHpcxXnd4ZV3PHa6zT3-EODqE-c_20SCIN1uSMOkgy5PpQWJILa2fcRNJ9VngDbbAhKkh3JIQb4cov8b_vC7JLsa2AevvDNyAa7_VyWP-Yt2RSDPYkoiHgt2dXBY3ckYOGvFlR9qEWAgchufwDhXnnBBpkNHgSrFpL92DDfyT6_IjELrLLbKWMHsMmbPxx8DNY-OqxvPgZj6qaOPz2xPU18Oy-9gd-v_VfqRUlDBcz10aBkK9Hanx_7ivpn01nhJo3Gan07AyiV_VY6WtoUPz8JRxGp_LvX66lwr6EEeWDKH3cn9jBH0qB64LzDjhPlGJEXeA96EkiMRX-iFrm9Actwh5w_LbhSXTynDFK18Jh6Ew78_UNf2Jtb6PZY7yFejyCg9vI-svEW2EyDAMzplND8KrSW7QiujucDA2AQIuYB5-65U9NuNX7w-svVFfkFpQClDI_dTzyZRW21HOUd883k8vvl7ngZgCO8QQegOFIQ5_v89pOuleHMoE0oBo72H07AMORAN0IU4R3moxIVJ5Z2z24Pl2FSB9AnDv4SIrUF2DUdslK4aoJ_B623_igSolPIGoyEdmDnkmMSVGbOt20e5xElNww3h-HQHYD3Njk9HAZAWMxsHD_-1zvk2By9Sm10o1z3vYrKkMvnnRxYbxZ78smqkYltkLoGcHQYKaurN3jNbwROS3h6Ay3y14jTnFjufO9KVRvH88-JljO4w13Z8fq3ZgAxgz4Mg9IqvTeJO_xr-5TnjgQmpdlP7xEj1QqXdvDmou62R9Vsf75z8x_ZK42tO32fspkOiuKiudSDHyIt4mlGAQXLbYyRNjZBGGWDFU58KO79uJffG2PKWTahlmY8K4D0mRYF-pbCRJ_9OdSyun66mXHLEpSLIw6dCTTcJ5IV_O_1Bxl9VW1Yb7mVoZTgtAmFo0IUI_G4Njlv71YrOlNZsdpJ_cwVypkXmLixIemQjV7_O4BBgIIkSxOt8tgDfabq1Vi6sqqTJNI4Hj4BfuVVr8aS6dTFhYbgVVyxhe3sVSTFc3eILDhSwqGIucXTMNui0QbaUnsNDmMEmpHKxbmwqAKqH8J1kO2xb2YlNt9xrKL4KZuZPBIboeYOlPYy3cArrpVgT_aM0sbVxhmHKiPLOwusqG8MDCev3mLlJ_10LZicol8DKzxnwzKhS1BDij1zwhZkny2o5diWT56VkiNrtI8p4IvhjVnGHbOCWdESnrQ8dTpSPJTbV5EUJB0q0gI--8AYuXseg7dubEAaK8_b_zjhjX_muvoGYwkVSsHXcmUKDE9JzK1ZWeCpLZFJ73BUJCoY5Zq-ZG4bGVxvfau410UFw5RnlthqoVrlnFQpjDCTUMIrcPbfZKtRbWXdVtKdyo80PbirCfNUUmTWDQdMIMg5HtQ_x6Pombx6-d3lySUx9vipktAvWeUiNH79uH77eE14uUsT_PEp4LFmPG4QEZzQgvt3yMdnJEB85gr-1XDn-P6RmniaGJfqpty1GU_VxSf7Ucbtw8R-FxFI1_dGv2uHAm1oxBca7rdW2-nVrAWLj8RWnZ9ecDm1nBt3DgP6mOqA%3D",
+   "url": "https://auth.dev-sgp-gcp.scale.com/login?login_challenge=zaWQS98t-x4Nivgqww69oESs00z8x3BoL3wG-RDQxl_0rohuwApmF8hgj52RLK5jianxAfXoF2oscOj-vtr-YpPnj-7G7rhLs28mEwSElP4BYs2oZw3iYkSGg-UMLiMAVGUjHifAJDEH-s4TH2xt64UWmhH70O83T0pyFgem-7LxJv_pyWjUqtZtxwWocATGQO2GXmMqTN8U9XPvUwNQyO97VWugqMsUA3nY3R6rMIg03SE0wZJXtfqEjLzAzWmvwCm54mKeB6mZx3_OD43j3zQcfLcILDSnoepxhB6gJ3Gog7A6KLOKoMehtA8R9GfxPHCzuvOA7gPEbsHRcVAP4UBgvJBI1vC-qzTXi5ryUc8Yip4p5rkGjkjHns1L4CP2Y9nke_YwUMtqDPFo9zYw3_P0FGNcuy2y7HQMXX0e_RanRCiLebktgpHh3lFDoR82hpoOwJ762hf7cnTziKrEI5xqiLo1Pkw3wbdmXCkN5p2MjHdwD_1RsxejQpcterX_2Vg0ridBiLjFEFONimh9744Igo-ANtUW1tSYZjmxhadeKmPlQ5mVtOC6uoxM0z7wCR_kDkx3FOpWrcyurcA8gENQsZ2opniLiSRKpGqZtiLJhETV_IDr3s-a7i-aH5oD0uqL9b-NJR5LFXnBrj9wCXexIsNQIjI5CuSd3iLfNiaanPQ3W3_EhMbAhIxjnyvw43CP-1V3Sp1pgzH-oN67Stw0Ev2TT-wV8mAqP-cQCpsIcyYNIF2YlZxBjeZS10023aeNaQ27eOIVqu0i7Svc-h1j7b2zs55Ydb2LoasF9T25myIsNrNR9PiN4O1Pthwy2EVlen7VsYWnhCENOJBUkRhUtPTj2SGmCxXphxRpUD75tzKm7Y4qDP3KUhUGCu_14t5kr4XKbp_KqQrO_voZzoMO-WVAnojyycfnUT3O9jN0zlkNFAwLlfVKEBJ92MBeW0nugaOkwS4rPuwb-sBXXep_bGo_zF6mSVH66SR_HZ0nmhrJC1NML9dCyZoN37IoglVtjnFjOaQbvhrRdlsDZPN_pVmaBzEpobypqtYY9eBNk4zX6VLX9bv8L33SFH7_trS5v0vIRxGUj9JrEVMlaYKWBjWHsJ09OvRNAtT8Zw0c2j5zMOMVL7e83HgIE98FHHUp0Tc9FQpqsymL_q8Hm0woxES9h2o1voEwT6ZM1EOArsxGrTbIid9cgdMe-hrnqG7uFuTi05PFlGLfFBOdP4iBG2gk3eqsWZINuT1z8OyS0S167NxgUVQ5f8Bn5N9q1sZt61CPIztInqPqoAFdzrZ2H_eyxqoYwa1cU32pFkY7jawzWo5zWPNs8YD7R4lscTQpjDTK_c5bakE5oY2wxLQvsxL2DFLX72Elzy9jSX2R-ZJqzuMAoWfSPUn0oRoxN5NNIxzdKmj0QrboEA5g5xMHX2v83RDvaxV2rsvEx7vMUoJEBd6RVxLpsujDYHIcQniOYzwh2hTsDZQ2I3i7y7pcpQgzfmAONB4atkA8sS565pii_dWrhzJr_qS5YFLhYouG-GVlGPKAQcOW0esO9X6vLngVw2NSVQb3cAPqnGZ1vMmUaHTtsgsKQPwMDe-RN-A-m8WurhW6Tn5i7wFgWew8Y496HCFeGbSGIWkS7Wc_pzeuNmxLUOjolg6OY5YthexBFi_pb5LtehHwXK5gLojXLVJYXkLL1SIUjXuXMThZEmvxgvMbWJa7qa4Dy5ceWkp7vawZb5ZVrPJH3nyeKcHtjfXho035o6hVx281KGZnH6ysvQ2HCSDA0Jlv8JUSyDUtsAJvxN2lzJR7tGqZEoWLdtbsnSwjuXYmpIBSBXc0zerx822O8WBrb3dZ9pRM52IWHB22avb0a9bA9xD7kd5Y0-xhBxbp2ib8PFg-wnA8mo0SEBpd8GDnptdbbWCyqKYMSVPupCTjjzuHOAs7f8WulbnCSAAxM-d2nGQRtxKKVEMvsAHuM5ppAw6NKr-jnd9FmdzgkccvQy2XNk7nLo2CNz8wSUuDJDWWj05ob4gpDy8DzlOmqeCmQl-VgwCSrXOguDxnq8xzEOfMUaXGSeSHaG05PYRoYGtRXmuBaFuTV_XN1UhDbJe-7epC9ALrI-r18NW0Oy6ciEhBN1Bppkpq9DjhISjEHVgLT8qeV5Ym9nnFrXFhxiom6R55HPZEHAVVOdXyW2ZiMPXdD1mD980wpsWi1OGWnd6NiCNleTIwujj_XC-GZHrB_fKgQMeP3jquJ6ZSr6-glu8QnVYy-7qRXNVEUHs5A5swo67C",
    "title": "Auth - Scale AI",
    "links": []
   },
   {
    "host": "dev.agentex.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "devsgp.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "devtmobile.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -2707,10 +2672,6 @@
    "url": "https://discovery.scale.com/login",
    "title": "Sign in \u2014 Discovery",
    "links": []
-  },
-  {
-   "host": "dla-ext.azure.workspace.egp.scale.com",
-   "status": "no response"
   },
   {
    "host": "dla-extu.azure.workspace.egp.scale.com",
@@ -2900,7 +2861,10 @@
   },
   {
    "host": "due-diligence.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://due-diligence.eydev.azure.workspace.egp.scale.com/login",
+   "title": "Outside-In research agent",
+   "links": []
   },
   {
    "host": "due-diligence.ipfdemo.azure.workspace.egp.scale.com",
@@ -2962,10 +2926,6 @@
   {
    "host": "events.scale.com",
    "status": "robots.txt disallows"
-  },
-  {
-   "host": "ewdc.data.sandbox-staging.internal.scale.com",
-   "status": "no response"
   },
   {
    "host": "excalidraw.internal.scale.com",
@@ -3082,14 +3042,6 @@
   },
   {
    "host": "fakesaml.bt9.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "fakesaml.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "fakesaml.eytaxdev.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -3226,7 +3178,7 @@
   {
    "host": "gitea.agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=H4vUZSwDuhMRmP0oxNmNnuH5f3JqLEzPbuZwftfGYvVNLOH3mmc10bQYo01TjMHEmbv3m6SpXVhXf1M9Nxju8AblGY-lznGALxSmQShaxuBIWQf16tSGV9EycyXvWX78np2qBXePihPxGUDAnUoJdjD2g1yYo1X37Mv9tG5gWr5-45R76Y6ScUwbRc3MsvKiWv8F4fVPYRLiH4FCYTytOIG3kPiUv5SvYjlfjQciFNLkKhtLcdGLMqLe3Yf5Mp6ejySVUFlyBwMXrB-t0Hc9VhWVMzTyVWY4sF9KFYCL3A9V-nGasIyMTmhwteZ7g6yV4VahSFhcqQPZ28CltmdCUWsn5yb1k7kf2Wt4__RX-JXnSRKO0vhwcI_pbGwDLJBy2jS99Ehyqoxw0YJeTe8-qiUcOlwQNA9Kf31V2wEG8kQ5cgQRsXQBiYx8aAtZEsMGp6mhznQrftq9k6Q_42UFc_mfVtUD8cl3Y6Frzqke8lhgHstmDiOaQRZjESX5EGqbGH-DVfxxG5hsVxbGKXEDFxFmNLM7BjZFyfUk8wVpHw1XguayobPc8XGH2HfSIIbqLmPjqv8MOx6wzkwCy1RCACBdX4gRmgXJjraPl22g-w0D3H9C4RQOptvSxwHLDAFUlYlAWRM23uGeFEy7JZvf2NswHDhwdiC6OBcOf7yYZp0OmuUOmvrs7YY3Fb_p_4mmUriIZRDCy825BIP1FdtC5Qp5ektJQYm_Uw6pB5XCqhUvr4wq_WW094LpJq5aQezvr87M9nrrjS5iSnjULQPlUWOi0jWD6XlwmVLXaJBj5xELOexiWQIA4yCJYhWP2MFd3d5PasajkzGR-N9_UChBxhEZOemDBNvICzDT_tKav3nn9b70cFx1prJfZaSETbVrwV3QcX_E4wNEaTTIovgojgx37Mye14VuBoT4dY605mraj2nGGoXVNgTszup3P-CCovdwC5ekArkS8Ur9TWyYX37h9JR_GhFOmqF50zM9Jcc5FNFpnV5Vz_ahxAl-pdf1v_rOyikHKrU-8TjVaUKzVV42bH8QI6Fuhyc1MJQM_j-F2booRYQNvOtt4wY2GeNB9M7b7dRv0AkDVdmcnq1JtIVmtwz9MY-G0GyLj20HQP0MHgCeE9QugH9ZZT7D3jinLYqsHw5UZT59PU3YhABuwfAU-pXdm1lqfWUBUhAONv1U5TyzrZ3pjktno_1paBrNxb7UwqlDVc-Qb0JG29pW9TTOhFEhTnmKOf6IxOKRTI4eZo6CdctlPfpWUiHgUCz9P3LVXnNEILiSWBcRjbtjFXEJGgf9oZIi1FuepuGtSYCSFaVJh2tt4mchTiyITsSy8U5eSyx7h1XVROpfmjQ4V3fi_yPE-5iBMj7x6PNP5v9BgV5DPfxJOYxGVnVJrDcFflQWwwtL7tSJoBEcyvBTUwRwyLIpgxYxYX6_K09-Tuu3vUrvaKqNNc1zpHvHmBNIrFEBUTwDxDMDGTeTz_2y3nWRtpvcMXha_qTqM-bkXVIQyt9jWm95VDECaJtjo96ziOvsPvJpe4I8UTccWjW-9QOpCZ_NDeLJDtV3KnQ1QogUZu0v5ZQQ4R2WryJacwscVkSIIcI5GrnkRDBsN6bRowmq-ep_vw75ZHoF9MqaknIvZTnnbO1FvzXmpKdNtdBTK5zGZCPzpbMH5jxyk1ZvhO0A_luEkAcGYztjC9-ss_jlbazdQXCa4mShSm9QeQ-83exwGu7WrVsvrgRlrp8gecd635yhgNcLxeXq4j4u9q-zn0h3mD6nzuoIkvQ5O7C5bkY2T8l4YD1WE0gbcvE%3D",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=dtnN34Hfl_HEe_Ng_tTmbHhC624zSLjhA-I3O4liMq8lxqkelJeRLcWUjJbABUikVBOpXh9TpKq2tOXkzghQW7gB3DW4Ejl75CpTFm9kMSR8moav0ftaM3DBlQ8z0dreR_HPcPB2E59ToOUn4ZVVOsYePrnsPkrI6Fc_qAgfHBDJcRRM0Ozo91PLCp5nG8NbxVXhX7FJS57KJM3G9LEJVg-E4uDBWHIJ-s3KHBixyA5KkzMhgA63XK39neDH7nxflGGx5JOuPhRUeAXDUOrwVi_00KbB35CWQBsN-Y5KEbmfTQyW5ahpweZi1i_It16EMStIw8RvjjiyjVLi-ZC2F-rAf3PypdJAQaqxzfZp8-i1cEmdcFKe6L5Q0ipO7-W80VSPDDkDm3Igyl1-dX_de2_z2g5RavdA1wI--j9Mit9pdNvnhJpDTXMWdn9mvZJesvsBA2XtJoq4P0YK-Rcd7OjidusldkfntUs-_tfxeIzK7pmbPaICsufwtFN_Jbk_vms6MS33tseDO071pcBc05YuN1mVb0V8lAzfzISQ43zAtJvzUza434ioudmaqSPqNpo3cKIpNWwAKDFXyOyWo7WVQPzj0JLTeqG4gxrH6ri76O5b8bqM18ZfUJZlD1hkyYBXg-Uq2JhGmtaveYom2j1abRqlVEnW3NIvn498WX_w7fZ07DmTp2MyveKKy9r8jeYE7nbt6dkx1NzJz5j43x--VvZ2FoE5ampUuQwcYOAVyKk0y39CqTx4s0Ead_wmtbx7qanW2rRpJ7R5oTowWIWf0P4a7SuU-SWZV3_Qd3WqYPfsrtzIucmBQrQaufWi3yEocDJbhjHaP3hMFrxDAeedK4e9D81U1IxUuDPVF5_fqzIF_RYaPwYzRAdGt8h93LJs99YAAl1Px00lkX4-L_uJXei3s861gmvNg79SP44azq7q49Aaoy7m1TnZwexpkDy8jTrMWM9WTB3DtLj1Qe8lbg1a6l0HIjhI780M3o4gQMkoUMQAMNHbmcdzvLhysb3wNLgKok2Pp3Dzru2SD0EbDBE-kGGtW-_ykWffmKs-BBTbjmxTw8vuoHTtlDsMIgTwl6XsPRkwp4jcNnQi28fsm7LLI_JcUnrSOgrDEjxZE_ZYXP4rxU4N32LogVLhM8f9I4ChY7OWdSZJaQexXl-SKizTr3owu78e5Ppkb9O56EA1QNa_C1GZuLp8wZ087F451Smb0TFo0JHAa6NOGsREbAlqh-RF7exw_cpIh9jEc9preDAbEvVv7HEbcis-bSlvkW7nGuy_-rh9ceAQ2ZYxpUAdMHdhiWWcvLaHQjg7I86vWNfSPpl5nQYdaev8XUhk1Gf2cynkbQseHR7PdZxWubLyDJb8db2V4oA9_UPNg6EA0kMCUiC0Tm05cXneuBtEiYzqK-BNq_kSjLIrQ2EPbpAApHF_jwtRlmqFlqfWVV3B6sOG0vOOumsOsM95VcW21KIAu5jdDkfHN1XojUZDzTjG0sumAwBpmF22TN7xbxu0_0AxxG-OA_1VLwaSrPwtYjskWhVFy232OYpFRf156hkLnalm_Hcn0Nwai3YU01EmkjKNW67FysXjW5tmmqbiqQBeSXwBpbnvlxWoN6IQ3lWQNDzMgPERkiOY26Y2fJpQrjo6hb7AIrrU_zCZw7irxmLBXqjukM3FUOiRGMfbj2jCKWR40rEEMBsZO899aQh-B1p7znqugO2PwUkQilGxLgd3dtGpNOyq8Lth_rwnKTgFhsbHBW9LydDBqND1voLEHn7YbPp2-93yx5N0wOG8hhCy5KzcxsoGRm9a",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -3256,7 +3208,10 @@
   },
   {
    "host": "golden-databook.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://golden-databook.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2Fno-project",
+   "title": "Databook",
+   "links": []
   },
   {
    "host": "gp.scale.com",
@@ -3293,7 +3248,7 @@
   {
    "host": "hamlet.corp.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1v2lyhev0UDM2p358&redirect_uri=https%3A%2F%2Fhamlet.corp.scale.com%2Fauth%2Fcallback&response_type=code&scope=openid+email+profile&state=7HktO3Pxya_vPD8LtSj3PcoH1v0TlJnoQMUm95ZGmZE",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1v2lyhev0UDM2p358&redirect_uri=https%3A%2F%2Fhamlet.corp.scale.com%2Fauth%2Fcallback&response_type=code&scope=openid+email+profile&state=8PRX2cy8j7d2n0kqpeJl3Gq6w8PIK3T7dOOD0m8DZao",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -3350,7 +3305,7 @@
   {
    "host": "iam.agentex.azure.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=Tn15baQ18A1DAIuX8v1K5vId8oy3VcfP4jm28RK1PPs_MeYxxghW5NZ9ryLdjcVu2mmu69jdc-4tGG_xU48ENbpITmv2wcv_XyXGXEnYWyraZk7dFzkXKsPSSNSQkw9jNRnzRADCCTyZ86FuBx_G4QZ3QLEb3QYuoUCloHtEvCoo0TVyJQnyUmyPr40wlHBidmuY0MrMDRj9yitBT0hkX43h45cQWKYL7lcNVJC97laXFOGMKmW8_CKs9dBb3PiKM_-bOl0rE4N_OKd5TD8_5wBXOTzWYQxB3iv40lVX_SAM8zGwreOzZK1rd8PrPb5roCzXP2tL2aCz-OZeMscAoqY-TXkr4ZAJGQlfqw_uTX4FTyBy20nmadmQcP6AoE3Z7QXzXDPAnRnOQlcO7oW8ZhIb24IFd8wS1LNPcwiseH5Goh0oZAZDAPX0HJRsS-1dfFbFtSWCyR0qiGIDjWOHXtJ6GBcY0Iil74Rn8nzO0TXJSdatmmK6w0U4MiXRvRlYuDz6zShKxp6MWV0cr6MMP0i8fkYowoaMgTV9s9glhT6hie2Z9dxEXaoi_6elZ_FXtOdDCyiLYZNB34M4ICqLveRso7Jg0VDOUPhGJE3ByEhfqUbH1jLQk7QKleglrWJatR3puowz3pAbNrntx3v5Ka6OoEBXsM8yfDaCsrwmOwk62ByZm4vMaudzqOMSsVtHHXJZD8VKD95euS8yJ8pcvykc6Zrit_mH9YUvSgpijkOiTbmsTY2upQSHt-XjQyTfnuOGSVGjKDTVIrGVI_T1Ntx7zDfJzWiFhOI1AdAAi5PI4xWWvDNYdwiyd7pFRtanRKukmppkUkDMNk0ma4kEJZWFymn9NEkRweL9FmTsjxw1uFWR73Ab18Iul9LMgkFJVmODx5Z-42DZgETvfaATKexKfhmk4YLdZ1LzLbX-7SuMHldBNcn3_YDqwZ649fIveVuNpLoofWvdYtKCI5cuxr24zZZu1-T-JIqex997Xp7e7UoS8vPnGE3RVBb8V-XZux8MJfs1vKF7J-CqlzDUfolJub13VGgJSJuJnLshNYkpEgPUdDiqBt2iHFyEM53Hsh9J38SAmySJXTOO9huRG1mA5S0RC5o0pUm5SVpkfU791FkO2JPGv4zmkRtAe9d8pRz5qqyWph5wOSrqdoYjAyIEosv91LIT-Qfz2sFC94qV2VgnqOakWizPC4uCrXDRCbQSvVEP5gFTnCX-PYe3GcWSKVS_ax3Pq9H2uabYYhS3bHWIQzH9Du16g0EMESqlehpEnXsFjD5VjKr3AEwZp4L7ZxXtZ___SkpYxfmxwudJICzdIGWPbUP4u5TuWeSf-YNVtHChFnz6DL1TRcpKlkj_7H2xp8LQsN8gD3lOlKAn_7HYsUOpDIYFherg5KaQucZiL4hhbVJKSYvWCCulRgzJsaxhoYVlch54TqEBzWvjCt7JhmJj_Iy709PbrDEMPY3q_h4gtdhApMXbgdqvfy1_X-iDMS-kJUinPQt60EIhSwzS-FK11z9xLPRFb1zrLOnEd1YP_8v5T78H35lg8uJNYeLPM5uu5TmvADXkqH6gqLlkHw3XwbUe9C_Lyc4yYgboszwotprRUXdY-cCgZibjtlWDEtQtPsx9EsK6QeI_7xc9IGrkeK3nudahHmox1_RbI7x1zE83h45DwaD4Tuj0zoi_PNvnHpuQEg3Yrbc0syWoom2W5D6MAOfLUFL881q8vOYnxFjOphjfqH9DmEqMi471vNr2mO5znIlfsqiJDmyNqvQ1Mlc5e5kJjRbm7LZWNLu5lUXbn1gfQCMkkPtjkPW_N7g14mvQfqpAQ5M31H9-7tWGptoJGbpSzTpzmPcejSJ6cNr5ZrwHenaoPKkVRRfp57zRUvPjn1qxWwAmWJVxYFpp9UU7WwtrYKJ5FP_00n2Io0qjHhHfz3P5wamupR60XXiyUe_Y3btS-N85BMmiOC8oepJJqFMIN2lbcFHzE-AMgZxUZoWPRBqajGJ7LrbdW2IrOkOVF_N8llj7Az06uhHYQW794R-YIB4kin65uI92FBNi700iM2nJIz1hCZxfIVxQSkiymGSg_77LuYETFENUhkF6AFNUDTyl3jYoQRngT_EYs56UeHCftmAjZUkUX4cjIx56ICNFSwiyzbYvuDD1URB-zm8qMFTkWWuPkI9tNG0ovH10X6r9kNy-HAnfOs1a8QzxMFijYU4ApsislSZ-mlUDZ2Fdz2hcMIs6ZOVotKZb7S2W_CoVfC2yhw5NofFJ_6dcCkpvUiOjJg%3D%3D",
+   "url": "https://auth.agentex.azure.workspace.egp.scale.com/login?login_challenge=fp2CmacjKdwonCITPTkfE78nJdvAwsduM82kNqARmdyfxlQyhaGAaN6FOhvsYyved1K-RD594X3L3M1U2rBHm7VLMCzAwSU9KtfwDkGRH4AepHQolvjgXpUWNGtQjDQfzor06F_d6Jq00d0-LmmpXTdxNh85UcabEy4J87zoODKRQZYE7evye9K9WYcfeSTPFohjh3tXWUbrFvGppRqCOAVk2c-6bXG2-d67p9A6TLXK_W2CIVrIPz5L7So7xH8k3lf99y6anJByRjWcgW81q-r4p73NpcGKJl5HzmT100dUmJbW1b9T-j9PnLXECBCgxigPvKs0leI6y1z8vE7TuN7l4mGZlsQTkeQSwLLQpK-9hBXspaomhfHZM8OEDykoJ2Z081dHmWX2zQqiZifH_bcRe-T5VkQNVjGC0l6rWnhNqycMUW0bFblDy96DVelNYskNEJgG-Bpyrvmm2XxTk_7bARMK-TQGQTpg-2e0R7JDJ8QawBCsymVoItXfF275KtX7idTnT43D_Vcv4q394-V10u192QfaBBA3fuRjB9g6oGRCF2MBCmFUvXKqPcP-kvJEl_fxPtCx9KrqAP7yxF8PpZHJdBg6SjXKyd93wIq1Tai5nyVXhAjOlqem0uKi7wFfCskF38HZxe3-T4mtL1_9k4E3bY6MlFgFAcw-iqCNPhioiAkpJBUA3OyE-ZmPvJadUfexMTEVNzUtwx5-Tp2o_PsQnDAVF8zoiVjZvnnrImvrek2NSe6ye_xF2FGMHaobzqbralMU6HmoR6BedQp0CpRhRYsRDBi1QS2Iye68XabAMc9xAy1n3Lbga8SXcRg89RWmVXiFfV9hxf0EcLbmrQRdqjpEgPNsvitilvs3kP394-oHGhddRksr7VXyltuFthZAV-naI1B-kaSz1ZH_qP58SYiwgUb7G2X1DmvVkvoMclN5ZcTjTPXikOQ8Z9nw0mQbcYhc8XaRrUqahILrRViz8-y5oYBwsntHNPA4OFOgXcrLTMbTG8Ziov_HsW35_hnJtDRS4MDQXsIrzpRik3aU-CO20n_8H0rxnJAdjD2JSt-bDbl9tJX7OnbtdUftO_Xmp6f4qRKHjRcLt7Iu4ln7m5f_uRPucGfOmeQ2-VwurnmOUXsiBOyKq76JEmoQ16RSBQGe73AnUMy1FWnFNCglSyWki89l0Z718f7FQWZg1H1DX6GAy-0lRAT5W_ZyUC9As4xMyZLiJn94EHxRtCDuQ2uawfMocTThF-48tNmxkQR0QQcS4xaGz6e_6TXka-IXfHX6b6550W7hzBkGCSGCcWQDMZzyTj4i-0pkGLqHNb2sFIytF27DlGtYBO2Ib0r7siT83x8mfo6dSaFiD_0sm14ZffA-dG9tsZyEglsMZZLYnGkb-8p0ZLJ1tp5v2je3VT9EyGiivCnYAXkfK1PeW0kBAycJaIkzbtVA7V4R2f720rK_OGXSRgom3t_-C-yMENl3_zONGHPBgRo_Sa68Bsy94qBTu4yEKjXR7y1P0-6t5jsvDhNn6nvROgfZkEnnly4YBOYEGpc6CUYPuyJJSIaPcQB8GtSfxGsy9mNXixUDuU3M6nwNeJ7bSKCFK7_2cIw9Uq2PxAoEMcnAiEweDSI61mxrmv_dIAJLvdLvq0EvipI-eCxOKowh3DcbR5JsGzDHHChlDsz9nHQ1_VAzhvSKWW46o-sJy6ahaDWpLs3fvB5qtRoJA0ucxPi6JOlUFJj9PGjmBMdm-qwdv8trZbXlHxqNFq2XfYUWl5Q_XC9Dz8Cg-PrlQoqtwxB4_esDG_QBvvZk9XNfTI98OV6XJS9DSQ3LNhds5j0Hdagn8BQp5s7ALPqrYcH5DEM3rl_ffyp3Gd9DjF5bc88G-EIU_xwp4veK3RLo8BhHE80dPh_WE0ZwYGAImPG3XnxTd2RH9vajYGCp2ggfGfWw9dcj2VkVEl4Och6S6hl1RmRI8T9DIJJVeKCqhD7lMicNIn1VDLGmtWDdwMXwbD2W0GNkDEQlecwEdPzIryIFTaC4hgo1FhDqveWAOz7oQkT46XwpjKPt176w4sLtaQSJhUhE5kka38iJeC6LCFHkg49xJeJr60k0KTCkMlBAWGF6lPCb1L_nkP9SMjk7MTw_nNQU28xTDfjjlGeWPJkTmTdaTqcO_9V3meKNiQjfs2kzkV8yBrftjANGDHdzUaib4A99wxUZXNnfQkWBk0O32TlnJWsjk2x1UlETSVlSY44uPNvtJNhkStW5sGUfw8EGXJnVT9dxmY3AurQatwcotxLHLNkcxw%3D%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -3374,11 +3329,17 @@
   },
   {
    "host": "insights-agent-addin.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://insights-agent-addin.eydev.azure.workspace.egp.scale.com/",
+   "title": "VDR agent",
+   "links": []
   },
   {
    "host": "insights-agent.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://insights-agent.eydev.azure.workspace.egp.scale.com/login?callbackUrl=%2F",
+   "title": "EY VDR",
+   "links": []
   },
   {
    "host": "insights-platform-mcp-service.scale.com",
@@ -3408,6 +3369,10 @@
    "status": "no response"
   },
   {
+   "host": "justin15.azure.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
    "host": "labs.scale.com",
    "status": "ok",
    "url": "https://labs.scale.com/",
@@ -3416,12 +3381,12 @@
     {
      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4677657005",
      "kind": "page",
-     "text": "10.12.2026Research Scientist, Frontier Risk EvaluationsSan Francisco, CA; New York, NY \u00b7 10.12.2026San Francisco, CA; Ne"
+     "text": "10.22.2026Research Scientist, Frontier Risk EvaluationsSan Francisco, CA; New York, NY \u00b7 10.22.2026San Francisco, CA; Ne"
     },
     {
      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
      "kind": "page",
-     "text": "10.12.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY \u00b7 10.12.2026San F"
+     "text": "10.22.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY \u00b7 10.22.2026San F"
     },
     {
      "url": "https://labs.scale.com/blog/distressbench",
@@ -3549,10 +3514,7 @@
   },
   {
    "host": "mac.sandbox.gym.scale.com",
-   "status": "ok",
-   "url": "https://dashboard.scale.com/login?redirect_url=https%3A%2F%2Fauth.dashboard.scale.com%2Fsso%2Fauth%3Fclient_id%3Dauth-gateway-arp-mac-sandbox-gym%26redirect_uri%3Dhttps%253A%252F%252Fmac.sandbox.gym.scale.com%252Fauth%252Fcallback%26platform%3Dcustomer%26state%3DeyJyZWRpcmVjdFVybCI6Ii8ifQ%253D%253D",
-   "title": "Login to your Scale Account - Scale",
-   "links": []
+   "status": "no response"
   },
   {
    "host": "manta-demo-staging.azure.workspace.egp.scale.com",
@@ -3577,10 +3539,6 @@
    "links": []
   },
   {
-   "host": "mayo-ext.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "mcp-are.dashboard.scale.com",
    "status": "ok",
    "url": "https://mcp-are.dashboard.scale.com/sims/",
@@ -3601,7 +3559,7 @@
   {
    "host": "mcp.corp.scale.com",
    "status": "ok",
-   "url": "https://auth.scale.com/login?login_challenge=FS6rIsCQHrarBp0X8cZhKFULmsttBFxRGD03Mg87V10tf9EP_iUvnUD1sQIJhWfEm4WTcHhHGNIOmm9Fn0SWeewCzXlRUPbLX0FVa_cP3sIGtIvQnn4s7JGfzbWVXAASzyLFEix385zUQruo6jlDgoc_o2N2rjHITQHexw7CPnv1BehdVtGzdEUtZI9AMfZUvr0o-6mlx0H9HzY6Ju8XbcqGqpmTci2f9XvRZaMdtsJBAUWo7Iw2wfrfqLveLquTrp4kNTruP1H2NCROrlA_VSHwtMqQBJ9Meh1Z6jEpYFYptYXmgsLgQoFx_iYrFmXCBEqg3SzVvpuT-Ww5jgxsepAP1gd-u2G_XU7e1FsyfetS2_j-bPpcsAVzMw043q3sXQde-erk4rs5iFtZ95GbaMlRlHuV-hJ6z5iRyPuKyYBcUsqvW_qx53Mixlttbl1dkJjlbc2QBmilMmhb3SbP8d5IkZk8-RX-_VAkxBkHdydjp-i58dsR1zCobQjMyjkELtxgoE46pTSFRSuSeiO7hLUBEPTY8NfwTY-eZ9MPk_L__-2jhmniPjbgBRjGB4vgXQZqYtsj-K1fT96AKCL9T9wcu2Gb9nzyz-JFm4tje391UFEDXsBmafLfSut_FoW1MEyAGchDFiImjt1IwxgQMbf034LpCE4OxLvMCXAPxZblk7XyJILSwCYTlnH1RyZqIR-z3xM--kWGiVO0qnW1HBshNrDVo78Fa9hmGS2XPFQ0BRx8QVwVp4dqZbaRtzg-c4LTg_8ewbfjk0PNGr1LTGh4OmeALC0ATm0cM8MVybf8LpFjnsyT0umzctM74Fu_bR7-QhjEAaa_0zzf5uW9eGs4H2psLpkYUG3pMEnXxt7P2H-dyRBai1ieCuY5uSUETQPw4NFbaoeLoNPytuSlSDhwQkVNyyYZS0XhFFQi5-TMdH5VHnaEqu1D8kWYgxkm8oXM_hZOlBwTJc5UGxvqtJeA-nnWcIjFaWqVPXwTSyLknJwWGHNKqfrshZoWXqQmGAr-1MlVNShIYQCkOMLJ0CAPBaalzLt9b4w-obwhgMbwYUeV2HGI9ntiQL5WcaaItG6qiN5ll5S46IZP7HFue-MBo5O3fsgg2xkDRIxYSFysQ4osnWHQDRj88Ch-G4i4Cm6ca5u8fctDobaRStiX4CaujHwfTHOZ4iVVczq6aSYKEHbIfFFdK3Wdmd2cXUC3C_c6x5-_CgU5Q2xPOGfUS06vZxJZ6L4QEHk5grZxg9IYUo1yziK_CHN76lwcX912MtaqpRSo82lXhBON1220kbD3BYXaUDMoxoPTeYDWm3050zn7bS2Zugd3dDKaAGUJMBbVgTzsVV2qADwBvCLsLNjmtn-ZhvE%3D",
+   "url": "https://auth.scale.com/login?login_challenge=-9ctuTt7PmJcx0keW-ZakJ7qcKortgbsal8oHWq3ntfKME8REh-PqlSIuGcV2TjGxdQxjjGZkSOSdKFr_EseFP1GYvNUEz6ob-iHws8RlErIFvF3PWX6c0-P1Ef-0jORe_BxJYOAKlvHu7Os8XlQRYCY6F0xk_8NQUG6Ec_sM0ooAwAZafpQmgvQbbkTg3EBPytFMGFraVWGSdJkzpjENd6YT4-zmdo8d4cIRsOrwxAe27JAEQLFzau15YsobLCbPc54a3TgyaXrSQTRfXRoixZBK7r4cXnVUg7i4bdr4GdYovbHc8skMt_p1oLIFiUUsWHn-KU6vS2QSjMRwoBTcLWQt9ttUKoZ-MW3bMRa3Se0RL4GGuqVPe0OxRNCVIuvQkq6yaCL2wIekKRYUi-dG4P1Poud6-svFF8l9q70W8kMLsG8YbkgTxyxIsc_X3QvDG47G9d0iusIecmFBww6gtlzbBnXjOPLQ8vJsB_Kfx2TJ30Q5LX3o3fzsnwgm21X7uN7J35okwnsIqFxkNN0mr2Qe3uoyD4AXOh4c9sCnmZlkitZT2ixyDpfxZkxZSFHVM9s2GrupedGr6C2qsyzMvJMiGqiTXedu2urC8-TGTeru_pJZlbJ3pT06vgGpgpLVIbFhSQvujg5p2vFxtJX9pNNq-36avv0j4oALmqKwscTVCpPyf71iAqhC2cP7vCzIZCTCXS-LLviW5QeYL7zWUIbdFtBaksJnsExKVPJYPWVkUulpXTc_3Q4oIZ_DV887tQ9K4oo34E1xbrNrzkHZx91cYREQR30woEco2qBKK7c3STNX4dKnXfM4F4rtLOh5MCdfegPBiUVVBJc8uusDO-XqCVp0xTMrGmQB5ccrNQ85QELZKudT7ukNzJv1BYxoTwuWC6WdSMmH0lbRtv4UkVREPCMIXl0K_dJaB0gChpov8n0FuaYY1BPqbiRtwxOfeyCIK22SHdcfvKUrUNYKa5HcQYD-hkw9hC2eEfGx-FBJ8vjIofLYm49ABZSe3je1y5y0TgZZ9vj2O8miTDWuh0J5OYS2xMBzWM7YIqNOGqCiOX9wHJKCg3JPyyz4JBIA-aXLGVNU2L2WXtCCeBym6cSNbIMjcjjkhd5UwkGxf7x9ECd-vKSBrb6ULOJa83AJPsBRmrkprIEbvTDvYeV2d5CCxIQgYmDOMB6y16YTpeZ7J_iiVnFCFXyir0A1yW3SKRolONV0n9IU0efuB3gKeGEnk3JOE8KgDDmP81OsxJ09knKKUpgyfOZal2EJlCc9922CW9w3ke8op2IChg3jbTsQC5L8LhSho_eD-3kCrnQlVlstcpFDjnJv61b0Humx2mSU2-gSVOCyXEcjb08PrrFD5OJNNwavQ%3D%3D",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -3675,7 +3633,7 @@
   },
   {
    "host": "monitoring.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "robots.txt disallows"
   },
   {
    "host": "monitoring.eytaxdev.azure.workspace.egp.scale.com",
@@ -3804,13 +3762,16 @@
   {
    "host": "okta-sso-portal.corp.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ypd4l39ppFxlN358&redirect_uri=https%3A%2F%2Fokta-sso-portal.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=KIAZsMtW5DlX0AUO6gIgR3BZ8CkhxiDlswZgBPJzZ1NlbIziipF5LTNokGmPrUNiZJzfw%2B%2BDfbwwAn0ktOjhnMet1DgjMB%2FzCV4E4DQWRX8lMXBR%2FhFGJwU9yjbzNIP5udteT18aELGXiSIrO8XKUTVuvtZ3lmxYVMKR9oU4pGhQns2agdYRcboq2l6q9x7c5muMzJTTe2Ai8ly8McK9xQM%2BabQ%2BmMYPnVuBPJsTnv%2FrqHYtNQ%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ypd4l39ppFxlN358&redirect_uri=https%3A%2F%2Fokta-sso-portal.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=4Oz0qAIJyZYeXaRKC5GOY5tBZN7lPOVqHlpBgGZ8Lza3rqQYfO%2Fku6rjF6XqkBSyZY9m98Hdz7UNT%2B3PH%2FxhXdSLModfMLqjvUIOHaNJo4Ej6wJiFSlcTVZ%2BVEep3DwmXmffPQhNbbVevmkGSMSfQ6cPIaaPqjnzeYvoap9nj8iqGdVIK97ua1xaeyicR9%2FB5Dq9bRtKW8d1RZ%2BIHYqjz4%2FqsMO2OlsxMC1zg4KEFDolWuflJw%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
   {
    "host": "one-edge.eydev.azure.workspace.egp.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://one-edge.eydev.azure.workspace.egp.scale.com/login",
+   "title": "One Edge",
+   "links": []
   },
   {
    "host": "opshub.dashboard.scale.com",
@@ -3825,10 +3786,6 @@
   },
   {
    "host": "panther-mcp.corp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "peai-lpa.dla-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -3862,6 +3819,10 @@
   },
   {
    "host": "pmodev.gcp.workspace.egp.scale.com",
+   "status": "no response"
+  },
+  {
+   "host": "poll-origin.helm-demo.corp.scale.com",
    "status": "no response"
   },
   {
@@ -3899,7 +3860,7 @@
   {
    "host": "ptp.internal.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21c259xioV4rLR358&redirect_uri=https%3A%2F%2Fptp.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=LpEXJYukDAcf11uPWQDDPkoZvzSZSf1z1rrQJqIUoLnIcyKYMqcLdsXNM6tdfxxleEhJxC%2FYuNp6z2s7%2FNnfwhvvx2aagpNh72CY25lkNQ7WPuMG%2BbVB%2FC2bJgyoV2bATkQnaIUrxuUYg6g8lMqrAmvcu4vjFo%2FwgkR%2FnFozdzOsoMD57XpgrvP%2FsRJFf4oD4iJFF48g38vLlH%2F%2FpnCMkgHG0oQgr0P7uXTRHI9azGK4Bk3T8g%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa21c259xioV4rLR358&redirect_uri=https%3A%2F%2Fptp.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=mE0UHUPdgiAfFe5MdZrHN6eLBu7wpXI207P7%2BaG%2FuKcrhOJavndnXIWbIvVmMO%2B3UtbFTcGhphq%2BmeBZdl01fd9vXu3uXuHHL6yQ84A%2B4lP38npMrJGbQbzsuNoMOVD0v%2BbTZmsAWUP3InaoBaRts5%2FvDhtQ%2FFNe1MVBfS1Nc%2FmzVCtOFvzFDr7cjzNAAOvWkrJpxueD%2BjUPVGN8PLwHoBIQwEgeI1W%2FRhoTb%2Fs3CPWUpN2lOQ%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -4020,7 +3981,7 @@
   {
    "host": "rubrics-experiment-reviewer.dashboard.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/app/scale_vercel_1/exkgapjvcrHPACBuj357/sso/saml?SamlRequest=fZJdb9owFIb%2FiuV74jgQEBahCrCuSGVkkI2yG%2BSZU3BJ7MzHYfTfT02G1l3Q2%2Fd8PO%2F5GN1dyoKcwaG2JqE8COndeISyLCqR1v5oVvCrBvTkUhYGRRNIaO2MsBI1CiNLQOGVWKeLRxEFoaic9VbZgpL5LKG7kC%2FidBh%2FjuNJdL94GmwH%2FcE2W33d5pR8v2KjIKRkjljD3KCXxic0CqN%2Bh4cdPsx5T3S5CPsB7w1%2FUJL9BUy02Wtz%2BNjNzzYJxUOeZ51suc4pmQF6baRv0EfvKxSMoZIFBPbkZaBsyWRVtdLuDE5BseMMLqeDrF7Oyj1k6XRSv3TjAUO07G0plKSI4N56Tq3BugS3BnfWCr6tHv9RZO2PQduxwVzLmVTITsfuUzjV2fJTtInkprfEjX3d2EOPthcRzYbcu1N8PLu8OqLjW%2FybyBF7R7w%2BxBdZwnyW2UKrV3JvXSn9bQc84I2i953nJlXUBitQ%2BlnDnpK0KOzvqQPpIaHe1UDZuIX%2B%2F3jjPw%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiI3NmYxODc0YmJmZjE5ZWViMTcxZTZlMmM0MDA5Y2FjZjVlMDkwODU5ZWY3YzA2YzY2NjM1NGNiN2M0MmYwMzdiNDUzOWUyMjFmMDI1MjRiOTFhNzA5MmU3NzBjODY4ZWJhNTA5MzE2N2IzZDBkOTYwNTY0MTBiNGI2NTE4YzdlZGNhNjM1MGYwY2RmM2I4MmNhYjcxODZiYjYyY2VkNTk4YmZmOTViMjMwZGEyOGYzNzA4YjQyMDVjNDg0ZTBmNWQ3ZmFiZmFhZGQzM2NhMTI2NTA0NTkxN2ZjNWU1ODc3ZGQ0MzQ4MGYzYzdiMDkzM2U1ZDgyMmY0ZWVlYWQ1YzM1MjNkMDM0ZDU4MGM0YzUxOWI4Y2ZkZmEwMmYyM2E1ODIxMmQ3NzBmZmNlNGRmNmRjMTIzMmYwMzgzY2RlZTNlYTdjZTZlNDFhMDc2ZTdmNmNkMmIzZTdjN2NmYzFkYzY4MWZiNWI4ZmM5OTY3NGIxNDg2ZWYzYzc4ODlhYzUwN2I2MTU5MWYxNTFhNzdjODExNjgxNTI1MzMzMGNjNWZlNTVkYTAwNjVmNzc5NWM1MDk5M2U1OWU4NWQxZDFmYzJlYzhlOTI3NTczNjRiM2EzNDhlOGZlMzFmZTdkODQ2ZWRlN2MxMjU5MDhmMjhiMzUxMDQ1NDk1ZDNiNTJkMmZiNGFiM2RiZDc5MGUyYjUyODQzMTM1NjliYjI4ZjQ5MmM4MTdmN2Q2N2Y4OGMxYjJiNDIzMmJkMTU0NDRlZDAyYzg2N2I1ZDZmYTMyMjA1N2RiNTYxM2VhMjE5MjVjMTUyMGYzN2VhZDdmNzc4MDY1NmI1ZDhkYWExZjAwNTYzY2E4Nzk5ZmZiMGViOWRjNzFiYjA2YWZhODczZGUxN2Y0OTVmYzk0OWM5ZGZhMWEwMTQ4ZWU4MmU1ZGYzNThkOWQ5NTNjIiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTVBOTVHNTdCS1o3WkQyMkJHNDlOQktWIiwiZnJvbV9wb3J0YWwiOmZhbHNlLCJpYXQiOjE3OTI0MjAyNjYsImV4cCI6MTc5MjQzNDY2Nn0.H5U1fzsgkwArNRP8XhDTNQRG5u0yXlPzsSc_y-hYxXU",
+   "url": "https://scale.okta.com/app/scale_vercel_1/exkgapjvcrHPACBuj357/sso/saml?SamlRequest=fZLbctowEIZfRaN7LNuYHDSYjAPphE4ontiJ09wwqtiAgiy5WpmSt%2B%2FELpP0gtz%2Be%2Fj%2BPYyvDrUme3CorElpFIT0ajJGUeuGZ63fmnv43QJ6cqi1Qd4FUto6w61AhdyIGpB7yYtsccfjIOSNs95KqymZz1K6CqPFqLr4%2Flzmj7OfT8loOEqSRVFkN5eUPB6xcRBSMkdsYW7QC%2BNTGofx2SAKB%2FFZGSU8POfRZTC8iJ8pyf8BrpVZK7P52s2vPgn5bVnmg3xZlJTMAL0ywnforfcNcsZQCg2B3XkRSFsz0TS9tNqDk6BXEYPDbiOa1710t3k2vW5fh6NzhmjZ%2B1IoyRDBvfecWoNtDa4At1cSHu7vPiii9dug79hhjuVMSGS77fApnKp8eRNXsaiSJVb2rbKbhPYX4d2G3KdTfD27ODqik1P8k8gx%2B0Q8PsQPUcN8llut5Bv5Zl0t%2FGkHURB1iloPXrpU3hpsQKoXBWtKMq3tn6kD4SGl3rVA2aSH%2Fv94k78%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiIyMTI1NjM0NzcyNTRhOWYzMWE1YWM3YTAxOTBkNzgxNzdiODRhMWFiZmI4YTI2OGU5NjI2ZmVhOGM4N2MxNGU1ZmVmYWUwOGMyN2Y3MWQ0Zjg2ZTIyNzQwOGJkMmM5NjhhNTBkOWExNjRjZDM1MjQ5ZTFkZTU3ZjRkM2U0NDMzMDNiZDVkZDNlYTAwMjg5YzBlYmIzODBiYzlhZDllMjA0ODc2ZjQ2ZTM3MWFhMWM5MTJhNjFlNGZjMjdiNDliMmI1ODY3ZTdmNzY0ZDUwMDJlYjRiY2NjMTI3NTYyZmViZmVhODRiZjYzYzY2NDNmMzE2Y2ZkZGYwYTk2OTdjZTNkYWJhMjlkMjI3OTlmMWI2ZTA5ZGMzZjcwNTkxNDQ5OTk2Y2IyMGIzODU1Y2I3NDU0ZDBlMGFlNzYxODRkODlkZjExMjVhN2MyYTdkZjA2ODkxNjc3MjEyMWE4ZDgwMTA0M2JjZTRjOGFkYzFmNTdkZWUzMmVhYjA5OWExMzQyZWYyNTRhZWY1NzUwYTk5M2QyODI3YzcyZWMwODQxNzcwOWEzNjlmN2M0ZGQ2ZDk5NzA3MjMxMjNjOWI2MTUzMGEyNDQxY2ZhNWQ2NjBlM2YzZmNmYjMwZWRjNDM2MGU0YWUyOTVmOTA1NDcyMjViMGJlNzVlM2QyM2I2ZWRlN2U1MDhhOTkwOWI5NGU2NjZmOGY3YTA5NWM1NGEwOThmMzU4MDBmMmMxYjA5ZGJiNmMwNjY3YzE3NzhmMTEyNDRhZjlkODYxMzYxMjU5ZjhhZWQzMTI4ZjJmYTM3N2Q2Yjk3ZmQ4OTRhODRhYzc5M2ViNDEwYjk4MDM3Yzg2NDI4OTdkYWY1MjJhOTU3YmUyOGNkMDg1YzdiYjViMmY0MTYzOTU4ZWNjMDI2ZmUzNTMxNmVlN2E4NmI0NzZjOTkwYmFmMDU5Iiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTVXOEpaVFdEQVdZWVBGRVhQRjZLOTZGIiwiZnJvbV9wb3J0YWwiOmZhbHNlLCJpYXQiOjE3OTMwMjM2MzksImV4cCI6MTc5MzAzODAzOX0.EEwcjAILGTLj4Yq00-OmbswlGQDtJ9znyboEyZY-ZcI",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -4070,7 +4031,7 @@
    "host": "scale.com",
    "status": "ok",
    "url": "https://scale.com/",
-   "title": "Reliable AI Systems for Critical Decisions | Scale AI",
+   "title": "Scale: Reliable AI Systems for Critical Decisions",
    "links": [
     {
      "url": "https://labs.scale.com/leaderboard",
@@ -4109,7 +4070,7 @@
   {
    "host": "scalien-directory.internal.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ym1ltab2AzQ0c358&redirect_uri=https%3A%2F%2Fscalien-directory.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=vKwbWNjdoY%2FDyKuV%2BvSqKLSnS3K73rAitw1N5sv3ULwuC8KPEoLJ2EamWh7223yc5r9iJ1lZVwFW37nACBFhciT6d9o8pIpkeG%2FntZWFD6p8sSAhF51qn7DZfDHHqPjCtwHM25yhPPc59m%2BeR%2FQUdcMG5FbOcJm%2FykEMnDGx6kuXrj1mNJDwSB7y7Xv36nFfUErC%2BDSz7fvwst%2FNC3jvQMgpGxQHagWFSpAb%2FZng73t8DFYB4w%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1ym1ltab2AzQ0c358&redirect_uri=https%3A%2F%2Fscalien-directory.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=yaUtpAA2jNFdJWFCPPdODKIh364JLCG8pPR%2FisvVs1pqPN3OsvJdP60ol%2FsKA8JWsAl7d%2BNDya5fs64nkgWYaLj%2BJTq7BfnfNVF2z0p0%2FqbUSPONEab2EBolb1FDFPm%2FlUdfu9W5w53RQePu4q30Ljry1GixRnCITccHes00GedG7UqKbMTKl2WYU7x4g%2FJ7iR9LedDBNE9vogybpcb3JWhsLPvhBXkR46Nay35lDnqPZwQUug%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -4161,23 +4122,11 @@
    "status": "no response"
   },
   {
-   "host": "sda.demo.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "sda.dla-ext.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
    "host": "sda.hhc-test.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
    "host": "sda.ipfdemo.azure.workspace.egp.scale.com",
-   "status": "no response"
-  },
-  {
-   "host": "sda.mayo-ext.azure.workspace.egp.scale.com",
    "status": "no response"
   },
   {
@@ -4250,7 +4199,7 @@
   {
    "host": "sgp-dev-oci.workspace.egp.scale.com",
    "status": "ok",
-   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=c7TFOXvhqewZwhEzVk2AT3XjcEEZyrxW7gBmYmBnqDX2l-N-D0G9Dk1uDTTKQAJ8_ECafKPSTgXkzw5ZlGEien2PFa-5mubr84sfM9CbQDYRpMvJJa2DExalYfb2dwgD8Co_TnB72MB9jm1sSzGJPDliwitPcakiscN_kkD-87iFRzVT0uPgZkzIfpem9kToj9gICp1VUgTSnKodZUeHQb3yIiAox8I-5HMVVS1kiuckqUkDYVix7Jx9AsEeqZJJMyyB39EQRSX-6Rq9PqA4U0GeP72NVPiHw4roCAD6GnkZhYowmcpI8IHrkLujUdm1MkvV5Fxmk828rGRenTQovD-kUmbyryk0rHoS8115dwxVn2PIYGGHIqPvnvvx83qN8OE7XaRmp2LvHfYZ_gV1J6PL8MP6nZDvwoqj19IT1yRD5jT2GSEgSBf9IZXMX87eZp3I_UknBPh6ldjyq5snKJfiBJHeRKRHpWPq_Q0MvsSs-z0DOltE1Rdc9h-H43Xd48ErS4lRaL-XHZ-9qmiJE2ZgKR4wzyBxxYkK5Fd6qgT0jwr8A924eYKS__7ZQXmP9-DEWqthXKm-TgutZADlAZtgFrABSDGqNx2L3OOkfS4kiZnA4eFHKxMcc_98tsgu6_3YHPxfFshFT89eSPe12CYnnpwClbZpCh9-yPhgC1W1vmJdouJRloqmh3uJ9wVUWKI-gACzCaXriI8sfdA6WFjr14nhjsU0GN3Bd0Dcc6Bm0orpAKuZnfh5Ob3EMcoqxEswQrFuL-OMztU87fINAJUUBFr064RXs6HDCTPrJg392lFDc4YGW-4vGdqO96uZEhmTIUpIVXqsAQJ5RQp6zQ4lUZ0L1TAwyij303Pojolyr1_DMjmaUBzmv0o3UutBtC__4lipwVpjS9keGEyGTK4Zf73-n9De-qTIQk7SlN1LYZ807REEGM-ck9UHXU-4MucWYUTjvZ3ZEhkh5XnkgqsTkjVIzjrzbh4giqppdrr7shfxUrzX-hONfS3DJ_1_X1c8m_xNmqC3CJUXeHnw2i9As2ROA_FVAtPa2HFjmqBGVP9Dac3syDhcFP4HAQiUXSxA1vt0rdRPcu9n9ekbJyybguI_Bux5HKRcYOwXLkKJ5RYArrBn1Ve8uQm-T2iT-jbwm--50GhAcZegLcd6OrPoi_xNEgXUCo8Gf8UJyaandr6BrLWBwmoN8iBd-FFAs_aIPljO3vrBQl8-VQOPLxr_Cor56S4drN8URNJTdwHVerqPA4YES4RPUwfJMfFBYkGW9J78YYlwhIqHne0fiad0uXGj0wMuTRQP_IoKVnoOmi3M6PfH7GYfOMFQL60aLTu5vZSZQtcmR8SOYUnvwj8-_7xs17t5SBehRkahCqSTDhItN3G4Nt-EC9o2di3tq0xdzYUWdLIDlhZgpC4j2h_e3-H26MQ5PUunC4h_i0-txpNW6BHXb8EAovCSbhbViaw4xhfAmulCxZPMOSQpkClNYqUbRr5IM04PJM9_xD1m0GKlxlZi57rxBrRPdHeU3VPScOHo4mEBgeGuOVUXes1uMMHbtly01mg3AzQBhRYEIumc6uC3VfkkvrhsBKYYu2fzXYJh8AfbXSDPnxm5ZTQPniZkbmvaC1uTZn7rWA1WQocmCOr6nnYA2vQ5CCxaCQ4XC30WoX05qOR6pXfPlf6kYZ8aNe__pf5yTuPrKMx6j4nY4PoH84JqCDz_LnrtzX9cHo_4TIuEj4R6Qanj6F-nwI-qJCCg-IH6ToiEV92k6ofbkiTmUOOIn0bjDcwGW4LHSynmPeDfXji6t6-1BNO2oSIG8pCEHVNi8UDkdSuMuclexHIjcV17eEOnLOO07GGZtPI22sMq2xh44jWrt6b7IR4s3gSHYk3w0vCS6DwiWpYCaqoSDclAHldMC5AhF9ID19QvcG3Q9t0d9k7r1P9xLzEZ2GCIdSoTP2JRutJmS5U_q96Tlc8zGDD8I91xjsdsXQVmE2gDgsjOE69IXoMRxAvU9R1dnNzFOyfiGTGFW0ggm11-KGJazKXnKFhQyqK6xORU4I0DkK-XPolN41f8sOjpk7J1OcogjYwIWbMx3Hag1hhUtHcyndUpPXlStnAiAI39Ep08JYZ6FY_nEV6NmjtpRumTcQRMkHndtYCUtD64ztXMbOm76GMaryphWLE8kygYy-gaEscLPYprWFQ0roctAjvkrvwP0PqQ0XrWbiD4z-xKuhldy_TJNhz2AU416wQ_wCXu1wBAp6VwTf3_XAZYa7aIe0Qybirj3_aLazOWnic%3D",
+   "url": "https://auth.sgp-dev-oci.workspace.egp.scale.com/login?login_challenge=S8A2u_QktrinYaOQENK9gNYh2MuxngJlzVk0Nd-zdIFlgRlmwHswV6eeVq94mS_t0QoaALX4tRP6oBtqXsxQeAyhjgKnQfXJSa7qENkOnGAnphVR3wEMPzF1ugiYsb5tlzEIh1gauTI_5BYbdAGbD3cRCiWoD3ZjtGm8wfene1rRa1BSMuGd-_nvQ6iAoX-1oqUBQt37c2mSl3bNvF22T3K77LOhKtSAG0wqb6OIurZNV7JBK1iTGon5Qs7VOPjrECMuaQZ69c09OeJLNQcOJE4JUZ6eEAQQIw5zy-GisREtp6aW2vOjqmE15bqHrUp5B6tCZ1fFV9g5c17YiRwcTkZC1kmTOcfCERgljJzZZVOmJAAejKBfoiGTjDl2o9N9GLajkE1sOa0HDTOAsYauXsbN1nkHT-O4LOKjOZXsc1CpQ5N5XXfUjd4uj8kn82JY2JlAzxdgjne831cGKvnVNEZ0vxI3FDjyb994IYwscC1XxfprJQrU6mGVsNOmzJoY09LZRdi5C9KfdW8qawE1R98LuxYLqS3sHj5kMkM6J3JAr0IskGDmfp4EdLoDAOmIDkSzOhAP7TiSmp30RHrRFzfdthjul0QV94J8ZODcq0HpaydY0w7VFXUo2J9yuO8iLQ0uSiOCfeedKBfJKXWx4bd9x7X34RmHy1xeUdJJb6ICpyZgYvXcuSBqXD8gbezB3SpgD8Ecz0UOCmK4ACOQ2FycCx96FT22agCjGcC2WJIi6LGk-befIcdi45Zi8-B5v3o4QXbuz39u7zZSP97fIJeBauObgcmnYxZyVlPzcc08jGW456kcgYEt4MAi9gJFdN78ZcIUQsABZEFthgrLB277HY7SNgUOuPtoYY77_LMmRsgCPit4m6vBzPLnJw7gvFBhSdtwNao08LwIXhbacjFPxyIEpdKknUk8-19_Gb1oNFAjM1096kAGVmmqcdoZEaDfq90dwJz7--TMgaeTncR8jx-6uOZX1r-36iTYxpJUJEqc5XRDXGLPe1ZF2LsjEFdOpjL9I-8FHemXelzxrO4CvYhxTULdpK9k7vBIA7_3iMia0nyzMRFvW9GFWtTFf2MU1YPe4RJJ6LT5bS-iTJsQwYoUCF6-JdRwPAE9db-98scDnA06LUB-O2PwbrrhRdXIiksHRjQhHorZQdedmoLngkyNwzXvTRutWcud6Ol6RDJpNzYPobfmGVQAfYOICH8sL7-plcST8LAmuQeaSqg68toIcAdFNGKughAeGI3RBlL2BXH4Vz4VfxcHDrPnuB2Kb0LMaKSzAK3dGYPSxP3PwRd16Zlc2zGUPK_Ex8DVfcXpYE6G37huxSn3hVDIN9BtYFfCv7ylC1GnZsa8BLM4osc4fBgKBlQHVMFi9p3FFVdSAYqhyBpqbCtEqEQ9WLYo1su0kOe8wvX00toorOQy6I1s5yDNMy4lZ8ESqMO-xWwibXevMznZj0acTIwumC1Pq0dZ7U5S5zC6-F1Lx_ibxrp9w43JGVUcNP-d1gAo3arrc9JTE_3YbPYQk6BGZQ_2Wm_LjoA-NW1pPzbr9CfPn_2-96rkTPCRdYtWZjNj4YC18_hS7KKBtfSTPOireiB7kmS-GxOmxg9nYuNLRG7v_ztGT014fgYV1n5jXKsSmUXiB7EdoELSRkP6VM1GSzqh8YoHJApJn9b1EisLQyEv9Nn3biisHcojFt3A2NMNf1OBRk8wrxBAHGpSB8aFpkmsVMUvoEo_aBxdGQeD-dV9a5Fymdu5nboatLnjpprtGSec0p6fTBDGIOgy2h8Qy20PL1mHC0bUBU8R4JlK2YODy3NJ7tt2JMrXNPQLlgr0Y9HlprZb8JlYHmqMhDOLgK4FEiJS5gasimW6y-E0BEDodrmbX7FqdRF8F1oEcMtEtW5psHYkU-Sox8D6z1aSvisUFh4zW7MH06WlcEnsX0w7fs0FAXQOvXPQt1X2NlGF2rnARqrfrmUI_VkpqNO2RXk_HLBNToVS85OoICPsXgDW3W6lboNaPtZpKMvJw_WV_8_aSkR-7_cKmoay7n7-4sipRUOOdRhGKjfrlF995MPDa7I_H2G4HMoTLxiK9X8WxeIgmrhlgSryv5-cfHtjIaS5gYuAQIPX-GauaVrGdxG2cVrXTewykVoqPFISpzomIhYCho94t1xxVZB_pJ95NBA2xWxpHtGGRkF_dGaTJryblOS3OxfJTSEQh0_qTfmapaR6vkyf2Bn6EUiq-h88_jh6y6sN62EgC2Xd3wtzVbERR3eSGUSBXz2WZZgdGr4sD0_x1-Ea7RCG",
    "title": "Auth - Scale AI",
    "links": []
   },
@@ -4280,7 +4229,7 @@
   {
    "host": "sgp-marketplace.internal.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zmp8585HxaVsE358&redirect_uri=https%3A%2F%2Fsgp-marketplace.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=UBWgkYx4gcyrG9Pz5X%2BZllBuHDu4Z5H4Fwg%2BGUYIH1eaL2%2FmT475n0INGE8Lp6y4M0rjqQKoTacSocpli%2FkJ2WvgOldXWDZuZf8G0Li%2FrVua1lutGz5lAkb44FZugXn%2B7l%2BSo%2BYbsqMIKGAyiIsXWAVN92K0akpLUAEggaNayxAdV%2F0nfI91OgGp2XGt9tkpTNf2Vu4Mt0bA7Zg1gS%2B6AJ0oMc%2FdX8sLefavw7WttSugNK7Hjw%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zmp8585HxaVsE358&redirect_uri=https%3A%2F%2Fsgp-marketplace.internal.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile&state=SVFA6mOUTUaXfC0qb7t5sGkbdn9foZyhnxuGxwXO0BWbwa7INusVvDVP4ZJldjMVIRzO0AoZfoFlwKgaIorERpLwmBAHQ8yzUnn7jHbunjuz4q7yBfCG3JdVFxx43gI2OBkQWidb9R2D7FMXP3X3BDFEAZuFf4OhQl4hQAazHODBv2Yeg7Q1TM8YffHA8bZ8xWNXltdGHMBwCYz152vliD9Hla2l5tvqHRpEw4Zw9cuEIHSx1w%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -4297,7 +4246,10 @@
   },
   {
    "host": "sgp-pubsec-dev.scale.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://auth.sgp-pubsec-dev.scale.com/login?login_challenge=nnIKGkSyOGvX9H2AbjvbboRlqac8nwBnl0Qmy6-tggm--v8C3DzzD8O5dr0RnJBXT9NNBuRYrIKJAiGy22QPcexbTTT_WJOMH5PrEa_8QzjKtKu125VLkowu5RITsWaZATW0m2K3fMX2k4SeeN_jtirrdfQS4H5PdTfb9sjF0wPd3WGXKiwRAHh4iZjbDeztrm16MwqQniZ5VfubGO404J9mmhcLd-7H7wy4mYJ4FxaCJ69gJscvQE0Q2UG5hzgB8dKNQzePD4MsAEeMW8-AT9N3uY2AOXauokDt1HkZP-FNZWzzDiNC3B3SMfNOFWjET6ezLhNDWeqBJybStgrZHIVuucmsY1oh6bUPpFI9erFegTcuHiXdNrSQ9oBfbQN9Kju3cNB7Mr2rCJXD7JoHxOwdNB-kL35-docRhJiZWIj6cfATr-FAyeEVppA5H_vbhV596qS1N2kK7_VzjXpUFTp1_lWFP22x-gqT39a-GqZerfApiKdQBRQqSwZWTiHWoOt2UhuNcdvRW0EucNJYjnCiVALmBidSuwNik1xfH-cM6Yj5QnVNAems9uHOqo6NF25oNDMdph8t3Q0bBwpMIfu7CnSP_7GNSYrrFPcMiX0yRHVh5wxaB31jt85X61ps4Yo_7WT2lXtfwExgH2k60r7i83U4NWcWZkBbnxpzuaXXpHygLKUO8HevAbmeQPKrTeQxNb5d6XbpspCYkBXeIjE-_iOZeHDfid8Ey773uIIW5gl_a4KRSLwAPL8WXM3HE455eirfjFait-t9IOgNwCi-Mk_DcsmzQqkC3jet8DiZi6H6G5HnFihJtFDnyxXC9FhNpE67ZDoc96b2OE92upo_RMbgLSxeKIsQuqpVaZ9QbLktwoxMi-FnNBXBvW85vXJy_kkXfuYvuv7Gkc623UZyrREvl9zkKrNR4IN5nZwOY0OmHQJq4Wwitzl-I-xyvzKkcvsCmiQ8nii1hMbC_jlGxgFD-8Z3X32LHtUNbJof1uIa8mh67hAtXf6faIzGQxhBBzVRCnKZGXZfGq1D_cgQh6Paay5qoEAv1AAnb_VxAaFtYZcxkjvVwvDodGn4WMf5wK4sc14Pl_k1uXV1imG5vx26weg9tAVZAKt5ySgwVWQ0DMl0jAQyyXxsrwbTMXzAzngm2-GxmgmtNRrKLmahg8rFm_3BvUfDB6nV2o3qg9v2g2PeQ1YUo2u5gKtG6vfAdxaqslAWswWASqivgaweXQEEBq9A1Fz4arS-zZxdlcTHXBC3rdesbF-QsWisQ_Cc2aKL99KXh_Z4dEg1qY2Qo66n0ARqPZTyPZqXoUpY2ANW7VGEPdnfTzNOBaJY3EAMynFpGDaGS93ZUvbEbSk_aivn-1-CFj8_OR4CZwGoGfxMAQDXiPPNeT3-Md7N5eD9309FA5xmU0e6VV9v5F82J_C9rtFIhOr9VMhp5G_V136cs1os_Kj2sbhgm1fWO1BA1jVOR_d3RTQfTe3EKuZ7DXWGp0EZkcs_fd7n5z1PhusXvdfDcsI05XtyGVJOw8BkYvYAk34Bfoi8yGiPBUN99KqJY0JWU-MP_OBzCeYaTMacGAvbfATNuwt3h61lag8YZWv9K-rRDCCtRWGLNZiF2j60_mlrWzHcrJnDZhK3RroULfFnK3jJWUKk1_lnK8q9kZxPhdN4yZBrQOGF0G6SyphwO4OS1h8Ia0VWyf8duqKZk0xnvyMXAId3cWLNCfqdCR5fBBDR7im5EVU_vijJ1sVW79Qe9zGHKnGMbir44umENQ0ATZqs257lMcRvBBDllWjn31A7iHTxYMeRkbRtv8EKqaUgJH9ttoMF3eKtu-eFyuiON8Sdm_d4zgRTUwNX4AyIZFUrRmZhF_VniqoS8627RMJwZiO-c-K7tafRgOzOyK5zqC886jC3Qh_gZgodDmMsDZIJIht634iKfj6MiViKkViNGVf8mvJjGCKgMVEe7o45ox1XzOFF5Af-sHqCtnhTZOqF0kPgppKOPuod0j_MxPNZ5oVZY-a3jtFNx2KYzyaWmH_F8af5z3ygQxbf_-4KEJ0sb8S9mf-Z_uB_wrRZPOkleq0Efsq7CM_XNcLYcS0K0aa7tnK4lg32xpAHBiLqbPLA22qBxQcgrNikjRNLRiWJirN3AS08Um6RAHLqoKyZmgFekW3SjVgpe-rU3HUYNYcoXZLDFOwpXF4v62wICQaTRg9zE05_X-TwwrPEJZ6tOc6PMJZrultrKzFQfjS8CtgiiZ1cm_aAFz3VrXmDQ4bjSC9TYaNh",
+   "title": "Auth - Scale AI",
+   "links": []
   },
   {
    "host": "sgp.pmo-dev.azure.workspace.egp.scale.com",
@@ -4420,7 +4372,7 @@
   {
    "host": "streamlit.corp.scale.com",
    "status": "ok",
-   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zexv9xxyAsd6M358&redirect_uri=https%3A%2F%2Fstreamlit.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile%20groups&state=dz71GDc7q4HwUevUxJ1Pi%2B1X6AiFrVezLLqfdVgMFgOUuuA96Eq01i1MHvmgYmPQQA0uVhgj0MtPMM3voInYAROh7aKVruxcYQeyS14GpowwHOjzTYSJTkQcWinvxghFPO7MVFSTUXv9e6i5cLMrBBwxxVz5xZZcVlh%2FLVdKd4Xun4fto734TcgvqvOv%2FcLN4jIpPw%2Fwie1%2FnLyuBKS4pmTMFpG0r3NXxFQQaLctTqNZOYS6cA%3D%3D",
+   "url": "https://scale.okta.com/oauth2/v1/authorize?client_id=0oa1zexv9xxyAsd6M358&redirect_uri=https%3A%2F%2Fstreamlit.corp.scale.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid%20email%20profile%20groups&state=dY3Y7M4FsHKQYZ6UPm4CUhiMsWQmJCp9Z5zOMcQ9f83aBWbt1zP6C2%2FLN%2BCNsd%2B93vhDGnBZmo2HCLqLX1GgkXmbwkjZmvO0xsoqw19zFW5F%2BjfATxYxeKApGH%2B4C5boku%2BHkpvik6nippSj12jYu%2B8LzzhlZg8nn%2B37xeu8%2BnI2nft5Ez9OrDk7BTKS4lleaApKB%2FogwRy1hbyQSCfAbkYYs2GkrApTtL32f3C%2BUC6OjH3rZA%3D%3D",
    "title": "Scale - Sign In",
    "links": []
   },
@@ -4821,7 +4773,7 @@
   {
    "host": "woven.scale.com",
    "status": "ok",
-   "url": "https://login.microsoftonline.com/8c31bd04-5a9a-4aa1-8bfa-c1edfe26a6a0/saml2?SAMLRequest=pVJLj9MwEP4rke9J7CRNW6vtKmyFqLRAtS174IImtrO1cOzicbrw73FTCsth9wDXeXyvmcXN994kJ%2BVRO7skLKPkZrVA6M2RN0M42Hv1bVAYkjhmkY%2BNJRm85Q5QI7fQK%2BRB8F3z%2Fo4XGeVH74ITzpBks16SL10lJwBKlQUtqRRtyappVwCtC9ZCOelgCvVUtpQkD1cRESUuIw5qYzGADbFEizplNGXzPat4OePVLKvp%2FDNJtr%2Fo3mgrtX18XVt7GUL%2Bbr%2FfptuPuz1J1tGdthBG6kMIR%2BR5btyjtlmvhXfouuCs0VZlwvX5TJSslbRKJzCHtAJg6aztIBVMyU4VNdRA83NMBUkaROXPwLfO4tArv1P%2BpIX6dH%2F3hwpiypkEPLQOvMxQgLkw%2Fa7lT%2B6k7Aiax65pQXwdjZ%2B0VP5DdLkku%2FNa0mzI5Xh8jM8%2Fu9rrwcBVKVn9n65F%2Foz%2B%2BkhniZv11hktfvzLIzXGuKdbryBEp8EPiiRvne8hvAzAMjZWtEy7cZSrHrRppPQKkeSri9C%2Fn3z1Ew%3D%3D&RelayState=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJSRUxBWV9TVEFURSJ9.QIoUbZgYzjJIZCHCsJGXOmOigep4f1s0YOH6LOmfjQQ",
+   "url": "https://login.microsoftonline.com/8c31bd04-5a9a-4aa1-8bfa-c1edfe26a6a0/saml2?SAMLRequest=pVJLc9MwEP4rHt39kOKojiZJx22GITMFMk3gwKWzluRGU1kKWjmFf4%2FjEGgP9ADXfXyv3fn1984mRx3QeLcgNCvI9XKO0NmDqPu4d%2Ff6W68xJsOYQzE2FqQPTnhAg8JBp1FEKbb1hzvBskIcgo9eekuS9WpBHiZX5ZSVV1XBgDe0mlHOJy2dlTNKKZO8kg2rlGyAJF8uIgaUYRmx12uHEVwcSgXjKS1Sxne0FHQqKM0mnH0lyeYX3Y1xyrjHt7U15yEU73e7Tbr5tN2RZDW4Mw7iSL2P8YAiz61%2FNC7rjAwefRu9s8bpTPour%2BSENqoo0ynMIC0BaFo1LaSSatVqxoFDkZ9iYiSpEXU4Ad96h32nw1aHo5H68%2F3dHyoYUs4U4L7xEFSGEuyZ6Xctf%2FZH7UbQfOjaBuTTaPxolA4fB5cLsj2tJfWanI8nxvjCi6u9HQxclJLl%2F%2Bma5y%2FoL490krhebbw18se%2FPFJtrX%2B%2BDRri4DSGXpPknQ8dxL8D0IyOFaPSdhwVugNja6WCRiT58iz09ZMvfwI%3D&RelayState=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJSRUxBWV9TVEFURSJ9.QIoUbZgYzjJIZCHCsJGXOmOigep4f1s0YOH6LOmfjQQ",
    "title": "Sign in to your account",
    "links": []
   },
@@ -4845,7 +4797,7 @@
    "host": "www.scale.com",
    "status": "ok",
    "url": "https://scale.com/",
-   "title": "Reliable AI Systems for Critical Decisions | Scale AI",
+   "title": "Scale: Reliable AI Systems for Critical Decisions",
    "links": [
     {
      "url": "https://labs.scale.com/leaderboard",

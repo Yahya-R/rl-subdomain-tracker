@@ -1,6 +1,6 @@
 {
  "domain": "pre.dev",
- "live_hosts": 137,
+ "live_hosts": 138,
  "pages": [
   {
    "host": "2.7.pre.dev",
@@ -150,6 +150,11 @@
      "text": "Labs Most \u201cFrontier\u201d Coding Tasks Are Useless for RL [Part 2] How do long-horizon RL environments actually scale coding "
     },
     {
+     "url": "https://pre.dev/blog/muse-cant-shop-amazon/",
+     "kind": "page",
+     "text": "Benchmarks Muse can't shop Amazon anymore. Claude Code can, 1.8x faster and 1.6x cheaper with pre.dev Amazon blocked Met"
+    },
+    {
      "url": "https://pre.dev/blog/rl-tasks-coding-agents-failure-analysis/",
      "kind": "page",
      "text": "Labs RL Tasks: Where the reward went Two tasks from a catalog of real commits rebuilt as graded RL environments. In both"
@@ -157,7 +162,7 @@
     {
      "url": "https://pre.dev/blog/tag/benchmarks/",
      "kind": "page",
-     "text": "Benchmarks3"
+     "text": "Benchmarks4"
     },
     {
      "url": "https://pre.dev/blog/we-made-claude-code-2x-faster-and-1-8x-cheaper-in-chrome/",
@@ -434,6 +439,10 @@
    "url": "https://lifemed-regenerative-c828.pre.dev/",
    "title": "LifeMed Regenerative Center | Stem Cell, Exosome & Peptide Therapy in Miami Beach",
    "links": []
+  },
+  {
+   "host": "links.news.pre.dev",
+   "status": "no response"
   },
   {
    "host": "mail.pre.dev",

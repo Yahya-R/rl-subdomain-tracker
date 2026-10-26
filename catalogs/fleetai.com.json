@@ -38,7 +38,21 @@
   },
   {
    "host": "app-explorer.fleet-platform.fleetai.com",
-   "status": "robots.txt disallows"
+   "status": "ok",
+   "url": "https://app.flt.build/login?next=%2Fauth%2Ffactory%2Fauthorize%3Fstate%3DBCQf80mzugZsvW0uP9FDIB4BCwyzvvt1lOCsyKvCW2Q%26code_challenge%3DxdOJDGJ0XsjvvQh88WbDDetRdTpyB8rEjC2eM5nf1OY",
+   "title": "Sign in",
+   "links": [
+    {
+     "url": "https://app.flt.build/benchmarks",
+     "kind": "page",
+     "text": "Explore our latest benchmarksLatest benchmarksLearn more"
+    },
+    {
+     "url": "https://app.flt.build/datasets",
+     "kind": "page",
+     "text": "Datasets2"
+    }
+   ]
   },
   {
    "host": "app.fleetai.com",

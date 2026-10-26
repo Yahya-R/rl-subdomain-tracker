@@ -28,8 +28,8 @@
   {
    "host": "app.staging.cua.ai",
    "status": "ok",
-   "url": "https://app.staging.cua.ai/",
-   "title": "Cua account",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D65d644534cc0a340896a608e58501d785040c41e4725b18361d91b98179c8e4a",
+   "title": "Login \u2013 Vercel",
    "links": []
   },
   {
@@ -62,9 +62,14 @@
      "text": "Pricing"
     },
     {
+     "url": "https://cua.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
      "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
      "kind": "page",
-     "text": "Google DeepMind"
+     "text": ""
     },
     {
      "url": "https://cua.ai/download/linux",
@@ -87,22 +92,17 @@
      "text": "See pricing"
     },
     {
-     "url": "https://github.com/CelestoAI/celesto/blob/main/src/celesto/macos/lume.py",
-     "kind": "hosted",
-     "text": "Celesto"
-    },
-    {
      "url": "https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json",
      "kind": "file",
-     "text": "NVIDIA"
+     "text": ""
     },
     {
-     "url": "https://github.com/NousResearch/hermes-agent",
+     "url": "https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py",
      "kind": "hosted",
      "text": "Nous Research"
     },
     {
-     "url": "https://github.com/QwenLM/qwen-code",
+     "url": "https://github.com/QwenLM/qwen-code/blob/HEAD/packages/cua-driver/README.md",
      "kind": "hosted",
      "text": "Qwen Code"
     },
@@ -114,12 +114,17 @@
     {
      "url": "https://github.com/deepseek-ai/deepseek-harness/blob/HEAD/packages/experimental/computer-use-cua-driver-mcp/README.md",
      "kind": "hosted",
-     "text": "DeepSeek"
+     "text": ""
     },
     {
      "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
      "kind": "hosted",
      "text": "cmux"
+    },
+    {
+     "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
+     "kind": "hosted",
+     "text": ""
     },
     {
      "url": "https://github.com/openclaw/openclaw/blob/HEAD/extensions/cua-computer/README.md",
@@ -144,7 +149,7 @@
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
      "kind": "hosted",
-     "text": "Vercel"
+     "text": ""
     }
    ]
   },
@@ -158,6 +163,11 @@
    "url": "https://cua.ai/docs",
    "title": "Cua Docs",
    "links": [
+    {
+     "url": "https://cua.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
     {
      "url": "https://cua.ai/download",
      "kind": "page",
@@ -174,7 +184,7 @@
      "text": ""
     },
     {
-     "url": "https://github.com/trycua/cua/tree/main/samples/cua-bots-macos",
+     "url": "https://github.com/trycua/cua/tree/main/examples/cua-bots-macos",
      "kind": "hosted",
      "text": "Source on GitHub"
     }
@@ -183,100 +193,9 @@
   {
    "host": "home.staging.cua.ai",
    "status": "ok",
-   "url": "https://home.staging.cua.ai/",
-   "title": "Cua: shared computers for teams and computer use agents",
-   "links": [
-    {
-     "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
-     "kind": "page",
-     "text": "Google DeepMind"
-    },
-    {
-     "url": "https://github.com/CelestoAI/celesto/blob/main/src/celesto/macos/lume.py",
-     "kind": "hosted",
-     "text": "Celesto"
-    },
-    {
-     "url": "https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json",
-     "kind": "file",
-     "text": "NVIDIA"
-    },
-    {
-     "url": "https://github.com/NousResearch/hermes-agent",
-     "kind": "hosted",
-     "text": "Nous Research"
-    },
-    {
-     "url": "https://github.com/QwenLM/qwen-code",
-     "kind": "hosted",
-     "text": "Qwen Code"
-    },
-    {
-     "url": "https://github.com/cirruslabs/macos-image-templates/pull/372",
-     "kind": "hosted",
-     "text": ""
-    },
-    {
-     "url": "https://github.com/deepseek-ai/deepseek-harness/blob/HEAD/packages/experimental/computer-use-cua-driver-mcp/README.md",
-     "kind": "hosted",
-     "text": "DeepSeek"
-    },
-    {
-     "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
-     "kind": "hosted",
-     "text": "cmux"
-    },
-    {
-     "url": "https://github.com/openclaw/openclaw/blob/HEAD/extensions/cua-computer/README.md",
-     "kind": "hosted",
-     "text": "OpenClaw"
-    },
-    {
-     "url": "https://github.com/openinterpreter/interpreter-workstation/blob/main/server/tools/builtin-tools/cua-driver/index.ts",
-     "kind": "hosted",
-     "text": "Open Interpreter"
-    },
-    {
-     "url": "https://github.com/rdi-berkeley/agents-last-exam/blob/main/ale_run/agents/ale_claw/pyproject.toml",
-     "kind": "hosted",
-     "text": "Agents' Last Exam"
-    },
-    {
-     "url": "https://github.com/trycua/cua",
-     "kind": "hosted",
-     "text": "View on GitHub"
-    },
-    {
-     "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
-     "kind": "hosted",
-     "text": "Vercel"
-    },
-    {
-     "url": "https://home.staging.cua.ai/",
-     "kind": "page",
-     "text": "Pricing"
-    },
-    {
-     "url": "https://home.staging.cua.ai/download/linux",
-     "kind": "page",
-     "text": "Linux"
-    },
-    {
-     "url": "https://home.staging.cua.ai/download/mac",
-     "kind": "page",
-     "text": "Download for Mac"
-    },
-    {
-     "url": "https://home.staging.cua.ai/download/windows",
-     "kind": "page",
-     "text": "Windows (preview)"
-    },
-    {
-     "url": "https://home.staging.cua.ai/pricing",
-     "kind": "page",
-     "text": "See pricing"
-    }
-   ]
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D046601f4500f5b988d34a1e935ce46a791b1ee42652518c2fd97264e730222db",
+   "title": "Login \u2013 Vercel",
+   "links": []
   },
   {
    "host": "incus.cua.ai",
@@ -284,6 +203,10 @@
   },
   {
    "host": "inference.cua.ai",
+   "status": "no response"
+  },
+  {
+   "host": "oidc.staging.cua.ai",
    "status": "no response"
   },
   {
@@ -303,13 +226,6 @@
    "status": "no response"
   },
   {
-   "host": "run.cua.ai",
-   "status": "ok",
-   "url": "https://run.cua.ai/",
-   "title": "Cua Cloud has ended",
-   "links": []
-  },
-  {
    "host": "rwsbx.cua.ai",
    "status": "no response"
   },
@@ -322,25 +238,20 @@
     {
      "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
      "kind": "page",
-     "text": "Google DeepMind"
-    },
-    {
-     "url": "https://github.com/CelestoAI/celesto/blob/main/src/celesto/macos/lume.py",
-     "kind": "hosted",
-     "text": "Celesto"
+     "text": ""
     },
     {
      "url": "https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json",
      "kind": "file",
-     "text": "NVIDIA"
+     "text": ""
     },
     {
-     "url": "https://github.com/NousResearch/hermes-agent",
+     "url": "https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py",
      "kind": "hosted",
      "text": "Nous Research"
     },
     {
-     "url": "https://github.com/QwenLM/qwen-code",
+     "url": "https://github.com/QwenLM/qwen-code/blob/HEAD/packages/cua-driver/README.md",
      "kind": "hosted",
      "text": "Qwen Code"
     },
@@ -352,12 +263,17 @@
     {
      "url": "https://github.com/deepseek-ai/deepseek-harness/blob/HEAD/packages/experimental/computer-use-cua-driver-mcp/README.md",
      "kind": "hosted",
-     "text": "DeepSeek"
+     "text": ""
     },
     {
      "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
      "kind": "hosted",
      "text": "cmux"
+    },
+    {
+     "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
+     "kind": "hosted",
+     "text": ""
     },
     {
      "url": "https://github.com/openclaw/openclaw/blob/HEAD/extensions/cua-computer/README.md",
@@ -382,12 +298,17 @@
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
      "kind": "hosted",
-     "text": "Vercel"
+     "text": ""
     },
     {
      "url": "https://spaces-origin.cua.ai/",
      "kind": "page",
      "text": "Pricing"
+    },
+    {
+     "url": "https://spaces-origin.cua.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
     },
     {
      "url": "https://spaces-origin.cua.ai/download/linux",
@@ -423,9 +344,14 @@
      "text": "Pricing"
     },
     {
+     "url": "https://cua.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
      "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
      "kind": "page",
-     "text": "Google DeepMind"
+     "text": ""
     },
     {
      "url": "https://cua.ai/download/linux",
@@ -448,22 +374,17 @@
      "text": "See pricing"
     },
     {
-     "url": "https://github.com/CelestoAI/celesto/blob/main/src/celesto/macos/lume.py",
-     "kind": "hosted",
-     "text": "Celesto"
-    },
-    {
      "url": "https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json",
      "kind": "file",
-     "text": "NVIDIA"
+     "text": ""
     },
     {
-     "url": "https://github.com/NousResearch/hermes-agent",
+     "url": "https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py",
      "kind": "hosted",
      "text": "Nous Research"
     },
     {
-     "url": "https://github.com/QwenLM/qwen-code",
+     "url": "https://github.com/QwenLM/qwen-code/blob/HEAD/packages/cua-driver/README.md",
      "kind": "hosted",
      "text": "Qwen Code"
     },
@@ -475,12 +396,17 @@
     {
      "url": "https://github.com/deepseek-ai/deepseek-harness/blob/HEAD/packages/experimental/computer-use-cua-driver-mcp/README.md",
      "kind": "hosted",
-     "text": "DeepSeek"
+     "text": ""
     },
     {
      "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
      "kind": "hosted",
      "text": "cmux"
+    },
+    {
+     "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
+     "kind": "hosted",
+     "text": ""
     },
     {
      "url": "https://github.com/openclaw/openclaw/blob/HEAD/extensions/cua-computer/README.md",
@@ -505,13 +431,16 @@
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
      "kind": "hosted",
-     "text": "Vercel"
+     "text": ""
     }
    ]
   },
   {
    "host": "spaces.staging.cua.ai",
-   "status": "robots.txt disallows"
+   "status": "ok",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3Dda9343731ea9523549d9adfd5bc5110866ad5c64ca86d03fa24a4bf05921ecd6",
+   "title": "Login \u2013 Vercel",
+   "links": []
   },
   {
    "host": "status.cua.ai",
@@ -536,9 +465,14 @@
      "text": "Pricing"
     },
     {
+     "url": "https://cua.ai/benchmarks",
+     "kind": "page",
+     "text": "Benchmarks"
+    },
+    {
      "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
      "kind": "page",
-     "text": "Google DeepMind"
+     "text": ""
     },
     {
      "url": "https://cua.ai/download/linux",
@@ -561,22 +495,17 @@
      "text": "See pricing"
     },
     {
-     "url": "https://github.com/CelestoAI/celesto/blob/main/src/celesto/macos/lume.py",
-     "kind": "hosted",
-     "text": "Celesto"
-    },
-    {
      "url": "https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json",
      "kind": "file",
-     "text": "NVIDIA"
+     "text": ""
     },
     {
-     "url": "https://github.com/NousResearch/hermes-agent",
+     "url": "https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py",
      "kind": "hosted",
      "text": "Nous Research"
     },
     {
-     "url": "https://github.com/QwenLM/qwen-code",
+     "url": "https://github.com/QwenLM/qwen-code/blob/HEAD/packages/cua-driver/README.md",
      "kind": "hosted",
      "text": "Qwen Code"
     },
@@ -588,12 +517,17 @@
     {
      "url": "https://github.com/deepseek-ai/deepseek-harness/blob/HEAD/packages/experimental/computer-use-cua-driver-mcp/README.md",
      "kind": "hosted",
-     "text": "DeepSeek"
+     "text": ""
     },
     {
      "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
      "kind": "hosted",
      "text": "cmux"
+    },
+    {
+     "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
+     "kind": "hosted",
+     "text": ""
     },
     {
      "url": "https://github.com/openclaw/openclaw/blob/HEAD/extensions/cua-computer/README.md",
@@ -618,7 +552,7 @@
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
      "kind": "hosted",
-     "text": "Vercel"
+     "text": ""
     }
    ]
   }
@@ -630,6 +564,82 @@
   },
   {
    "url": "https://cua.ai/blog/hud-agent-evals",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/256-sandboxes-one-mac",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/cloud-first-space-time",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/cost-per-sandbox-hour-hetzner-vs-aws",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/cost-per-space-hour-aws",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/exec-latency",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/file-transfer-throughput",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/fork-64-sandboxes-one-mac",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/fork-from-checkpoint",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/microvm-checkpoint-restore",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/microvm-cold-start-mac",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/rollout-steps-per-second",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/sandboxes-per-mac",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/snapshot-running-sandbox",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/spaces-cold-start",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/spaces-cold-start-linux",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/spaces-vs-e2b-cold-start",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/spaces-vs-modal-start",
+   "kind": "page"
+  },
+  {
+   "url": "https://cua.ai/benchmarks/vms-per-mac",
    "kind": "page"
   },
   {
