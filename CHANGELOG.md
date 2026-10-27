@@ -1,5 +1,12 @@
 # New subdomains
 
+## 2026-10-27
+
+### datacurve.ai
+- pr-288.mira-machine.datacurve.ai (44.238.77.190)
+- pr-291.mira-machine.datacurve.ai (44.238.77.190)
+- pr-352.mira-machine.datacurve.ai (44.238.77.190)
+
 ## 2026-10-26
 
 ### uber.com
