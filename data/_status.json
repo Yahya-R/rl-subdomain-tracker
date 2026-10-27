@@ -464,7 +464,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-26T15:31",
+  "last_scan": "2026-10-27T05:09",
   "failed_sources": [
    "wayback"
   ]
@@ -1176,8 +1176,8 @@
  "preferencemodel.com": {
   "sources": {
    "crtsh": 19,
-   "certspotter": null,
-   "hackertarget": 2,
+   "certspotter": 2,
+   "hackertarget": 1,
    "subdomain_center": 33,
    "wayback": 4,
    "rapiddns": 0,
@@ -1193,10 +1193,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-26T15:32",
-  "failed_sources": [
-   "certspotter"
-  ]
+  "last_scan": "2026-10-27T05:07",
+  "failed_sources": []
  },
  "proximal.ai": {
   "sources": {
