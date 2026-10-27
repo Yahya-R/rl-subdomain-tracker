@@ -2,6 +2,46 @@
 
 ## 2026-10-27
 
+### benchflow.ai
+- tastechattestsender-84efad2f.preview.benchflow.ai (76.76.21.21)
+
+### uber.com
+- 12.aha.a.dev.uber.com (no DNS)
+- 1l-1-1h1m8.uber.com (no DNS)
+- 78c2.uber.com (no DNS)
+- adev.uber.com (no DNS)
+- airwatch3p.uber.com (no DNS)
+- australiaeast.cloudapp.uber.com (no DNS)
+- azad19.dev.uber.com (no DNS)
+- b27c7352.uber.com (no DNS)
+- cdn.us-west2-development-1-rtsp.cloud-native.uber.com (136.68.124.239)
+- cdn.us-west2-staging-rtsp.cloud-native.uber.com (35.244.219.231)
+- compute5098i.uber.com (no DNS)
+- cs6275305.prod.uber.com (no DNS)
+- edgetest-phx2a.uber.com (no DNS)
+- fairthorpe-avalon-4.dev.uber.com (no DNS)
+- fleet.uber.com (69.48.216.80)
+- furiosa-stealth-3s.dev.uber.com (no DNS)
+- georgeli-tempo-1e.dev.uber.com (no DNS)
+- icinga01-dca1a.prod.uber.com (no DNS)
+- ivfxriong.mx.dev.uber.com (no DNS)
+- jcumminsc.dev.uber.com (no DNS)
+- landrover-carens-6u.dev.uber.com (no DNS)
+- lawrencea.cfe.uber.com (no DNS)
+- logink.daijobu.dev.uber.com (no DNS)
+- mission-control-web.uber.com (104.36.194.73)
+- mta33.et.uber.com (13.111.64.177)
+- ozan-g3.dev.uber.com (no DNS)
+- plamen-vagrant9.dev.uber.com (no DNS)
+- saab-express-6o.dev.uber.com (no DNS)
+- saostatic9.uber.com (no DNS)
+- test-new-permissions-manager-246u.dev.uber.com (no DNS)
+- testbeddev.uber.com (no DNS)
+- wd67.dev.uber.com (no DNS)
+- webtrends.business.uber.com (no DNS)
+
+## 2026-10-27
+
 ### datacurve.ai
 - pr-288.mira-machine.datacurve.ai (44.238.77.190)
 - pr-291.mira-machine.datacurve.ai (44.238.77.190)
