@@ -267,7 +267,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": null,
-   "wayback": null,
+   "wayback": 15,
    "rapiddns": 0,
    "c99": 0
   },
@@ -281,11 +281,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T05:58",
+  "last_scan": "2026-10-28T15:43",
   "failed_sources": [
    "certspotter",
-   "subdomain_center",
-   "wayback"
+   "subdomain_center"
   ]
  },
  "collinear.ai": {
@@ -395,9 +394,9 @@
  "deeptune.com": {
   "sources": {
    "crtsh": 17,
-   "certspotter": 9,
+   "certspotter": null,
    "hackertarget": 0,
-   "subdomain_center": null,
+   "subdomain_center": 26,
    "wayback": null,
    "rapiddns": 0,
    "c99": 0
@@ -412,9 +411,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T05:58",
+  "last_scan": "2026-10-28T15:42",
   "failed_sources": [
-   "subdomain_center",
+   "certspotter",
    "wayback"
   ]
  },
@@ -580,9 +579,9 @@
   "sources": {
    "crtsh": 1922,
    "certspotter": null,
-   "hackertarget": 33,
-   "subdomain_center": null,
-   "wayback": null,
+   "hackertarget": 0,
+   "subdomain_center": 56,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -596,11 +595,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T05:58",
+  "last_scan": "2026-10-28T15:40",
   "failed_sources": [
-   "certspotter",
-   "subdomain_center",
-   "wayback"
+   "certspotter"
   ]
  },
  "goodstartlabs.com": {
@@ -778,7 +775,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T06:00",
+  "last_scan": "2026-10-28T15:43",
   "failed_sources": [
    "certspotter",
    "subdomain_center"

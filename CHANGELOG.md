@@ -2,6 +2,65 @@
 
 ## 2026-10-28
 
+### bespokelabs.ai
+- horizon-ssh-core.internal.bespokelabs.ai (no DNS)
+
+### latch.bio
+- mcp.latch.bio (52.41.237.75)
+
+### uber.com
+- 1027g.prod.uber.com (no DNS)
+- 227a.spmail.uber.com (no DNS)
+- acura-rendezvous-8u.dev.uber.com (no DNS)
+- adsense-es.mx.dev.uber.com (no DNS)
+- ashisha.dev.uber.com (no DNS)
+- auth-t.uber.com (no DNS)
+- bastion03-phx2.prod.uber.com (no DNS)
+- bigglesworth9.mx.dev.uber.com (no DNS)
+- bpan6.dev.uber.com (no DNS)
+- c149.spmail.uber.com (no DNS)
+- cadillac-routan-3.dev.uber.com (no DNS)
+- certdev.uber.com (no DNS)
+- dcordoba3c.dev.uber.com (no DNS)
+- dev-ci.uber.com (no DNS)
+- dev-machineg.uber.com (no DNS)
+- dev.uber.com (no DNS)
+- dodge-vision-3o.dev.uber.com (no DNS)
+- duqiupeilvshizenmejisuandea.mx.dev.uber.com (no DNS)
+- europewestdevk.uber.com (no DNS)
+- ewpf-staging1.uber.com (no DNS)
+- fairthorpe-alpina-b7-9y.dev.uber.com (no DNS)
+- ferrari-montero-4k.dev.uber.com (no DNS)
+- fillmore-continental-5u.dev.uber.com (no DNS)
+- freee.mx1.dev.uber.com (no DNS)
+- goutham4a.dev.uber.com (no DNS)
+- holden-relay-1q.dev.uber.com (no DNS)
+- imgs.uber.com (no DNS)
+- jingmin1a.dev.uber.com (no DNS)
+- kia-diamante-5i.dev.uber.com (no DNS)
+- labdev.uber.com (no DNS)
+- library.uber.com (no DNS)
+- lincoln-caravan-2q.dev.uber.com (no DNS)
+- liufazuolunbocaishipin.uber.com (no DNS)
+- lotus-passat-3i.dev.uber.com (no DNS)
+- mengjiac.dev.uber.com (no DNS)
+- morgan-navajo-3m.dev.uber.com (no DNS)
+- mutualauth.production.tokenizer.uber.com (no DNS)
+- partners-platformg.uber.com (no DNS)
+- precoge.dev.uber.com (no DNS)
+- roycao.dev.uber.com (no DNS)
+- saturn-aurora-6.dev.uber.com (no DNS)
+- ssl-dev.uber.com (no DNS)
+- tigi.mx.dev.uber.com (no DNS)
+- uberec3g.dev.uber.com (no DNS)
+- umerazad7.dev.uber.com (no DNS)
+- wenrui-development.dev.uber.com (no DNS)
+- winweb37.uber.com (no DNS)
+- ximing9.dev.uber.com (no DNS)
+- xinyongleguojiwang.mx.dev.uber.com (no DNS)
+
+## 2026-10-28
+
 ### datacurve.ai
 - docs.foundry.datacurve.ai (no DNS)
 
