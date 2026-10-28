@@ -2,6 +2,19 @@
 
 ## 2026-10-28
 
+### datacurve.ai
+- pr-492.mira-machine.datacurve.ai (44.238.77.190)
+
+### mercor.com
+- key-auth-mint-dev.mercor.com (104.18.27.26)
+- key-auth-mint.mercor.com (104.18.26.26)
+- livekit-0-1-2-azure.release.enterprise.mercor.com (no DNS)
+
+### trajectorylabs.com
+- dev4-secrets.svc.staging.trajectorylabs.com (no DNS)
+
+## 2026-10-28
+
 ### bespokelabs.ai
 - horizon-ssh-core.internal.bespokelabs.ai (no DNS)
 
