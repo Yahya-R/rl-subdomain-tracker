@@ -472,10 +472,10 @@
  "dmodel.ai": {
   "sources": {
    "crtsh": 7,
-   "certspotter": null,
-   "hackertarget": 0,
+   "certspotter": 7,
+   "hackertarget": 3,
    "subdomain_center": null,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 1,
    "c99": 0
   },
@@ -489,11 +489,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T06:01",
+  "last_scan": "2026-10-28T21:02",
   "failed_sources": [
-   "certspotter",
-   "subdomain_center",
-   "wayback"
+   "subdomain_center"
   ]
  },
  "edotenv.com": {
@@ -704,9 +702,9 @@
  },
  "hud.ai": {
   "sources": {
-   "crtsh": 43,
-   "certspotter": null,
-   "hackertarget": 0,
+   "crtsh": 44,
+   "certspotter": 25,
+   "hackertarget": 33,
    "subdomain_center": null,
    "wayback": null,
    "rapiddns": 6,
@@ -722,9 +720,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T06:04",
+  "last_scan": "2026-10-28T21:06",
   "failed_sources": [
-   "certspotter",
    "subdomain_center",
    "wayback"
   ]
@@ -1227,11 +1224,11 @@
  },
  "preferencemodel.com": {
   "sources": {
-   "crtsh": null,
-   "certspotter": null,
-   "hackertarget": 0,
-   "subdomain_center": 33,
-   "wayback": 4,
+   "crtsh": 19,
+   "certspotter": 2,
+   "hackertarget": 2,
+   "subdomain_center": null,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1245,10 +1242,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T06:02",
+  "last_scan": "2026-10-28T21:05",
   "failed_sources": [
-   "certspotter",
-   "crtsh"
+   "subdomain_center",
+   "wayback"
   ]
  },
  "proximal.ai": {
@@ -1411,9 +1408,9 @@
  "sepalai.com": {
   "sources": {
    "crtsh": 32,
-   "certspotter": null,
-   "hackertarget": 0,
-   "subdomain_center": null,
+   "certspotter": 20,
+   "hackertarget": 30,
+   "subdomain_center": 67,
    "wayback": null,
    "rapiddns": 1,
    "c99": 0
@@ -1428,10 +1425,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-28T06:02",
+  "last_scan": "2026-10-28T21:05",
   "failed_sources": [
-   "certspotter",
-   "subdomain_center",
    "wayback"
   ]
  },
