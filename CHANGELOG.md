@@ -1,5 +1,61 @@
 # New subdomains
 
+## 2026-10-28
+
+### datacurve.ai
+- docs.foundry.datacurve.ai (no DNS)
+
+### turing.com
+- gdpval-worker-beta-pr-1065.rd.atlas.turing.com (136.81.238.88)
+- gdpval-worker-beta-pr-1104.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1119.rd.atlas.turing.com (136.110.155.79)
+- gdpval-worker-beta-pr-1127.rd.atlas.turing.com (136.69.77.84)
+- gdpval-worker-beta-pr-1157.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1198.rd.atlas.turing.com (no DNS)
+- headcount.turing.com (8.233.226.160)
+- working-staging-new.turing.com (34.36.216.15)
+
+### uber.com
+- 15.uber.com (no DNS)
+- acmilana.dev.uber.com (no DNS)
+- alfa-romeo-tribute-2y.dev.uber.com (no DNS)
+- andersg.dev.uber.com (no DNS)
+- aptarchive5.uber.com (no DNS)
+- bonjour-proxya.uber.com (no DNS)
+- briang.dev.uber.com (no DNS)
+- cheung0.dev.uber.com (no DNS)
+- columbiag.cfe.uber.com (no DNS)
+- daihatsu-country-9w.dev.uber.com (no DNS)
+- dandan9.dev.uber.com (no DNS)
+- dclb04.uber.com (no DNS)
+- deva.redir.uber.com (no DNS)
+- di47.dev.uber.com (no DNS)
+- emaildev.uber.com (no DNS)
+- evantest.uber.com (no DNS)
+- fhu.sptrans.uber.com (no DNS)
+- fixthemap.uber.com (104.36.194.9)
+- gateway.uber.com (no DNS)
+- gcf.mx.dev.uber.com (no DNS)
+- honda-mystique-7g.dev.uber.com (no DNS)
+- hydra.uber.com (no DNS)
+- jaspis.mx.dev.uber.com (no DNS)
+- jmishram.dev.uber.com (no DNS)
+- jordang-partners.dev.uber.com (no DNS)
+- lexus-xlr-v-5.dev.uber.com (no DNS)
+- machinedev.uber.com (no DNS)
+- maildev.uber.com (no DNS)
+- meh-staginge.uber.com (no DNS)
+- mgi.uber.com (no DNS)
+- renes1.dev.uber.com (no DNS)
+- rockfordc.cfe.uber.com (no DNS)
+- ron-argos9.dev.uber.com (no DNS)
+- ryann.dev.uber.com (no DNS)
+- saab-hearse-8g.dev.uber.com (no DNS)
+- saturn-rocky-6w.dev.uber.com (no DNS)
+- sisil2.dev.uber.com (no DNS)
+- thermometera.mx.dev.uber.com (no DNS)
+- volkswagen-regency-6q.dev.uber.com (no DNS)
+
 ## 2026-10-27
 
 ### mercor.com
