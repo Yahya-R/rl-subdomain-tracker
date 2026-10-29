@@ -1,5 +1,53 @@
 # New subdomains
 
+## 2026-10-29
+
+### scale.com
+- data-partnership-portal.scale.com (104.18.41.195)
+
+### uber.com
+- antisocialnetworking.uber.com (no DNS)
+- austin-edge-6q.dev.uber.com (no DNS)
+- canberra9.cfe.uber.com (no DNS)
+- cgtqq.mx.dev.uber.com (no DNS)
+- chrysler-exige-6y.dev.uber.com (no DNS)
+- clusto-us-east-1q.dev.uber.com (no DNS)
+- co.uber.com (no DNS)
+- corymc.dev.uber.com (no DNS)
+- cristofer.mx.dev.uber.com (no DNS)
+- csq.prod.uber.com (no DNS)
+- dev-profile.uber.com (no DNS)
+- dev1404.dev.uber.com (no DNS)
+- devapache.uber.com (no DNS)
+- disabled-devg.uber.com (no DNS)
+- dodge-genesis-7q.dev.uber.com (no DNS)
+- dome-web.uber.com (104.36.195.1)
+- dss.uber.com (no DNS)
+- duberstein.dev.uber.com (no DNS)
+- dyn.auth.uber.com (no DNS)
+- dyn3.track.uber.com (no DNS)
+- filetransfer.uber.com (no DNS)
+- foose-sonoma-3g.dev.uber.com (no DNS)
+- fucking.spmail.uber.com (no DNS)
+- gatewayg.media.uber.com (no DNS)
+- gistdev.uber.com (no DNS)
+- group.uber.com (no DNS)
+- helsinki3.cfe.uber.com (no DNS)
+- huizexinshuiluntan.mx.dev.uber.com (no DNS)
+- iadm.uber.com (69.48.216.100)
+- jaguar-highlander-5s.dev.uber.com (no DNS)
+- jesus.dev.uber.com (no DNS)
+- lax-enterpriseweba.syao.dev.uber.com (no DNS)
+- mta07c.mx.dev.uber.com (no DNS)
+- p2e9.dev.uber.com (no DNS)
+- server-wwwc.thi0.dev.uber.com (no DNS)
+- super5c.mx.dev.uber.com (no DNS)
+- tindere.dev.uber.com (no DNS)
+- va-waic12.dev.uber.com (no DNS)
+- volkswagen-fortwo-1u.dev.uber.com (no DNS)
+- xianwe.dev.uber.com (no DNS)
+- yutong-golden0k.dev.uber.com (no DNS)
+
 ## 2026-10-28
 
 ### datacurve.ai
