@@ -2,6 +2,59 @@
 
 ## 2026-10-29
 
+### datacurve.ai
+- pr-255.mira-machine.datacurve.ai (44.238.77.190)
+- worker-pr-493.mira-machine.datacurve.ai (44.238.77.190)
+
+### dissei.ai
+- model-gateway-codex.dissei.ai (172.67.68.97)
+
+### mercor.com
+- api-selftest-azure.tenants.enterprise.mercor.com (no DNS)
+- livekit-manual-gcp.release.enterprise.mercor.com (no DNS)
+
+### trajectorylabs.com
+- dev2-secrets.svc.staging.trajectorylabs.com (no DNS)
+
+### turing.com
+- gdpval-worker-beta-pr-1160.rd.atlas.turing.com (136.68.18.138)
+- gdpval-worker-beta-pr-1195.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1208.rd.atlas.turing.com (no DNS)
+
+### uber.com
+- 9404296875.uber.com (no DNS)
+- ali.uber.com (no DNS)
+- ams1.populous-reserved-server.dev.uber.com (no DNS)
+- analogue.uber.com (no DNS)
+- chao-dev3c.dev.uber.com (no DNS)
+- connectw.media.uber.com (no DNS)
+- d-65.mx.dev.uber.com (no DNS)
+- devsdev.uber.com (no DNS)
+- emilee-19.dev.uber.com (no DNS)
+- fiat-rainier-7i.dev.uber.com (no DNS)
+- fleetdmc.uber.com (no DNS)
+- hanlong0.dev.uber.com (no DNS)
+- hillman-ridgeline-6s.dev.uber.com (no DNS)
+- honda-corolla-4i.dev.uber.com (no DNS)
+- infiniti-rio-2q.dev.uber.com (no DNS)
+- innovation-image-uploadg.uber.com (no DNS)
+- jacob.dev.uber.com (no DNS)
+- mengjia3a.dev.uber.com (no DNS)
+- neo107.mx.dev.uber.com (no DNS)
+- nikhil-cc.dev.uber.com (no DNS)
+- praveen11o.dev.uber.com (no DNS)
+- rchiang3a.dev.uber.com (no DNS)
+- scmdev.uber.com (no DNS)
+- slave1.dev.uber.com (no DNS)
+- smart-spirit-2q.dev.uber.com (no DNS)
+- spacespace.uber.com (no DNS)
+- state.uber.com (no DNS)
+- wallpaperholic.uber.com (no DNS)
+- www.o2.email.uber.com (no DNS)
+- zuqiuxiaojiangdierbuy.mx.dev.uber.com (no DNS)
+
+## 2026-10-29
+
 ### scale.com
 - data-partnership-portal.scale.com (104.18.41.195)
 
