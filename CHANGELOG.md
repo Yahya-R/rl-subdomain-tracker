@@ -2,6 +2,43 @@
 
 ## 2026-10-30
 
+### dissei.ai
+- provenance.dissei.ai (172.67.68.97)
+
+### mercor.com
+- selftest-azure.tenants.enterprise.mercor.com (no DNS)
+
+### uber.com
+- bastion03-phx3.uber.com (no DNS)
+- chicagoa.cfe.uber.com (no DNS)
+- chrysler-civic-2w.dev.uber.com (no DNS)
+- confluence-dev.uber.com (no DNS)
+- cream.dev.uber.com (no DNS)
+- daewoo-club-9q.dev.uber.com (no DNS)
+- danb.dev.uber.com (no DNS)
+- debussy.dev.uber.com (no DNS)
+- dev-raw.uber.com (no DNS)
+- devweb.uber.com (no DNS)
+- dyn.aws.uber.com (no DNS)
+- eomer.mx.dev.uber.com (no DNS)
+- ferrari-oasis-8k.dev.uber.com (no DNS)
+- freight-procuremento.uber.com (no DNS)
+- gatewayk.dev.uber.com (no DNS)
+- geo-defaultg.uber.com (no DNS)
+- holden-stylus-8o.dev.uber.com (no DNS)
+- lexus-alliance-7c.dev.uber.com (no DNS)
+- mvpa.mx1.dev.uber.com (no DNS)
+- parth1c.dev.uber.com (no DNS)
+- sidac6.dev.uber.com (no DNS)
+- sim06.dev.uber.com (no DNS)
+- slua.dev.uber.com (no DNS)
+- staging.uber.com (no DNS)
+- uberpay-mock-psp.uber.com (104.36.194.9)
+- weibohuoxingdui9.mx.dev.uber.com (no DNS)
+- zavadil61o.dev.uber.com (no DNS)
+
+## 2026-10-30
+
 ### originator.inc
 - brief.originator.inc (104.26.8.62)
 
