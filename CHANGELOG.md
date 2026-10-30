@@ -1,5 +1,49 @@
 # New subdomains
 
+## 2026-10-30
+
+### originator.inc
+- brief.originator.inc (104.26.8.62)
+
+### uber.com
+- 65q.aws.uber.com (no DNS)
+- admin-sandbox.uber.com (104.36.194.8)
+- aptera-nubira-2q.dev.uber.com (no DNS)
+- atsuii.uber.com (no DNS)
+- chevrolet-500sec-5.dev.uber.com (no DNS)
+- cn-gcps.cfe.uber.com (no DNS)
+- corbin-cube-7q.dev.uber.com (no DNS)
+- cs6237263.prod.uber.com (no DNS)
+- devs.docsdrop.uber.com (no DNS)
+- dradev7.dev.uber.com (no DNS)
+- f3l.sptrans.uber.com (no DNS)
+- ferrari-fivehundred-7u.dev.uber.com (no DNS)
+- foose-armada-4q.dev.uber.com (no DNS)
+- gjjy.mx.dev.uber.com (no DNS)
+- go-mifune.dev.uber.com (no DNS)
+- hsxi.mx.dev.uber.com (no DNS)
+- hyan-4.dev.uber.com (no DNS)
+- hyundai-biturbo-3q.dev.uber.com (no DNS)
+- internals.uber.com (no DNS)
+- jenniferx.dev.uber.com (no DNS)
+- jheath1.dev.uber.com (no DNS)
+- kia-samurai-9q.dev.uber.com (no DNS)
+- lamborghini-alpina-b7-1e.dev.uber.com (no DNS)
+- landrover-freelander-5y.dev.uber.com (no DNS)
+- maybach-victoria-2q.dev.uber.com (no DNS)
+- mcflurrya.dev.uber.com (no DNS)
+- mxa74.mx.dev.uber.com (no DNS)
+- olympiac.cfe.uber.com (no DNS)
+- porsche-sonic-6q.dev.uber.com (no DNS)
+- rambler-yorker-1u.dev.uber.com (no DNS)
+- rollsroyce-ex-8y.dev.uber.com (no DNS)
+- spiked-citation-6s.dev.uber.com (no DNS)
+- spyker-alpina-b7-3o.dev.uber.com (no DNS)
+- srini1.dev.uber.com (no DNS)
+- studebaker-canyon-7y.dev.uber.com (no DNS)
+- tanvie.dev.uber.com (no DNS)
+- xintongm.dev.uber.com (no DNS)
+
 ## 2026-10-29
 
 ### datacurve.ai
