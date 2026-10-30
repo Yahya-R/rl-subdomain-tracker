@@ -2,6 +2,35 @@
 
 ## 2026-10-30
 
+### uber.com
+- anjan.dev.uber.com (no DNS)
+- apache-dev.uber.com (no DNS)
+- boxercq9.dev.uber.com (no DNS)
+- buick-terrain-5u.dev.uber.com (no DNS)
+- corym.dev.uber.com (no DNS)
+- devcgi.uber.com (no DNS)
+- deve.sandbox.uber.com (no DNS)
+- devg.toolbar.uber.com (no DNS)
+- devstg.uber.com (no DNS)
+- discovery.uber.com (no DNS)
+- esgairos4427.uber.com (no DNS)
+- galkovse.dev.uber.com (no DNS)
+- hqin-s5.dev.uber.com (no DNS)
+- hummer-freestar-5o.dev.uber.com (no DNS)
+- lp225.mx.dev.uber.com (no DNS)
+- mitsubishi-achieva-1o.dev.uber.com (no DNS)
+- naga-cb-8c.dev.uber.com (no DNS)
+- naxieshihefadewangluobocai.mx.dev.uber.com (no DNS)
+- sprntxw.mx.dev.uber.com (no DNS)
+- ubereats-pass.uber.com (no DNS)
+- ummx.uber.com (no DNS)
+- www.vault.uber.com (no DNS)
+- xm37.dev.uber.com (no DNS)
+- yannanwo.dev.uber.com (no DNS)
+- yuan-dispatch7.dev.uber.com (no DNS)
+
+## 2026-10-30
+
 ### dissei.ai
 - provenance.dissei.ai (172.67.68.97)
 
