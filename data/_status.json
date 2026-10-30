@@ -255,9 +255,9 @@
   "sources": {
    "crtsh": 19,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 4,
    "subdomain_center": 40,
-   "wayback": null,
+   "wayback": 15,
    "rapiddns": 0,
    "c99": 0
   },
@@ -271,10 +271,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:39",
+  "last_scan": "2026-10-30T05:58",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "collinear.ai": {
@@ -377,7 +376,7 @@
   "sources": {
    "crtsh": 17,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 6,
    "subdomain_center": 26,
    "wayback": null,
    "rapiddns": 0,
@@ -393,7 +392,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:37",
+  "last_scan": "2026-10-30T05:58",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -452,8 +451,8 @@
  "dmodel.ai": {
   "sources": {
    "crtsh": 7,
-   "certspotter": null,
-   "hackertarget": 0,
+   "certspotter": 7,
+   "hackertarget": 3,
    "subdomain_center": 2,
    "wayback": 2,
    "rapiddns": 1,
@@ -469,10 +468,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:40",
-  "failed_sources": [
-   "certspotter"
-  ]
+  "last_scan": "2026-10-30T05:59",
+  "failed_sources": []
  },
  "edotenv.com": {
   "sources": {
@@ -689,7 +686,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:41",
+  "last_scan": "2026-10-30T06:01",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -721,8 +718,8 @@
  "incalmo.ai": {
   "sources": {
    "crtsh": 4,
-   "certspotter": 4,
-   "hackertarget": 0,
+   "certspotter": null,
+   "hackertarget": 4,
    "subdomain_center": 2,
    "wayback": 1,
    "rapiddns": 0,
@@ -738,8 +735,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:40",
-  "failed_sources": []
+  "last_scan": "2026-10-30T06:01",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "joinhandshake.com": {
   "sources": {
@@ -1165,9 +1164,9 @@
   "sources": {
    "crtsh": 19,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 2,
    "subdomain_center": 33,
-   "wayback": 4,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1181,9 +1180,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:40",
+  "last_scan": "2026-10-30T06:01",
   "failed_sources": [
-   "certspotter"
+   "certspotter",
+   "wayback"
   ]
  },
  "proximal.ai": {
@@ -1342,7 +1342,7 @@
   "sources": {
    "crtsh": 32,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 30,
    "subdomain_center": 67,
    "wayback": null,
    "rapiddns": 1,
@@ -1358,7 +1358,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-10-29T15:40",
+  "last_scan": "2026-10-30T06:01",
   "failed_sources": [
    "certspotter",
    "wayback"
