@@ -8,13 +8,13 @@
  "auth.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-31",
-  "ip": "104.18.38.10",
+  "ip": "172.64.149.246",
   "live": true
  },
  "new.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-31",
-  "ip": "143.204.204.116",
+  "ip": "143.204.204.5",
   "live": true
  },
  "normal.ai": {
@@ -32,14 +32,14 @@
  "quest.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-31",
-  "ip": "172.67.143.1",
-  "live": true
+  "ip": "",
+  "live": false
  },
  "quests.normal.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-31",
-  "ip": "104.21.95.46",
-  "live": true
+  "ip": "",
+  "live": false
  },
  "relay.normal.ai": {
   "first_seen": "2026-10-15",
@@ -56,7 +56,7 @@
  "staging.normal.ai": {
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-31",
-  "ip": "172.67.143.1",
+  "ip": "104.21.95.46",
   "live": true
  },
  "status.normal.ai": {
