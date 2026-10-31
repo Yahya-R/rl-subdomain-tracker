@@ -103,8 +103,8 @@
  },
  "api.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-30",
-  "ip": "184.195.206.80",
+  "last_seen": "2026-10-31",
+  "ip": "184.193.137.184",
   "live": true
  },
  "app-cegid.azure.onprem.patronus.ai": {
@@ -194,13 +194,13 @@
  "app.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "13.216.113.116",
+  "ip": "100.51.12.171",
   "live": true
  },
  "app.relay.sandbox.patronus.ai": {
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-30",
-  "ip": "108.138.246.116",
+  "last_seen": "2026-10-31",
+  "ip": "18.238.96.109",
   "live": true
  },
  "auth.dev.patronus.ai": {
@@ -236,25 +236,25 @@
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "13.227.87.112",
+  "ip": "18.155.173.15",
   "live": true
  },
  "bonus.patronus.ai": {
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-31",
-  "ip": "52.85.40.8",
+  "ip": "52.85.132.28",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "18.160.200.3",
+  "ip": "18.155.173.18",
   "live": true
  },
  "chat.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "54.88.66.206",
+  "ip": "184.196.56.188",
   "live": true
  },
  "copyrightcatcher.patronus.ai": {
@@ -272,7 +272,7 @@
  "data.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "142.250.125.121",
+  "ip": "172.217.75.121",
   "live": true
  },
  "data.private.patronus.ai": {
@@ -314,7 +314,7 @@
  "docs.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
-  "ip": "100.52.115.201",
+  "ip": "54.243.221.150",
   "live": true
  },
  "docs1.patronus.ai": {
@@ -325,8 +325,8 @@
  },
  "dwm.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-30",
-  "ip": "3.217.250.90",
+  "last_seen": "2026-10-31",
+  "ip": "184.193.43.2",
   "live": true
  },
  "echoserver.adobe.eastus2.azure.patronus.ai": {
@@ -585,6 +585,12 @@
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-31",
   "ip": "34.111.179.208",
+  "live": true
+ },
+ "solar.rl.patronus.ai": {
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31",
+  "ip": "3.228.165.140",
   "live": true
  },
  "speedrunbench.sandbox.patronus.ai": {
