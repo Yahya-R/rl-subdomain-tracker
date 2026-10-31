@@ -2,6 +2,51 @@
 
 ## 2026-10-31
 
+### datacurve.ai
+- mira-pr-428.datacurve.ai (104.21.20.75)
+- mira-pr-460.datacurve.ai (76.76.21.123)
+- pr-358.mira-machine.datacurve.ai (44.238.77.190)
+- pr-496.mira-machine.datacurve.ai (44.238.77.190)
+- worker-pr-496.mira-machine.datacurve.ai (44.238.77.190)
+
+### mercor.com
+- 0-1-3-azure.release.enterprise.mercor.com (no DNS)
+- api-0-1-7-crowe-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-3-azure.release.enterprise.mercor.com (no DNS)
+- livekit-0-1-7-crowe-azure.release.enterprise.mercor.com (no DNS)
+
+### patronus.ai
+- solar.rl.patronus.ai (3.228.165.140)
+
+### turing.com
+- gdpval-worker-beta-pr-1020.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1073.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1204.rd.atlas.turing.com (no DNS)
+- gdpval-worker-beta-pr-1212.rd.atlas.turing.com (no DNS)
+
+### uber.com
+- 76c4.uber.com (no DNS)
+- altc.a.dev.uber.com (no DNS)
+- chrysler-lucerne-1m.dev.uber.com (no DNS)
+- cs419218.uber.com (no DNS)
+- dev-cert.uber.com (no DNS)
+- elevate.uber.com (192.178.164.121)
+- fooo.cfe.uber.com (no DNS)
+- jaguar-marauder-6m.dev.uber.com (no DNS)
+- mercedes-benz-yukon-xl-2500-7y.dev.uber.com (no DNS)
+- mkonjeti3c.dev.uber.com (no DNS)
+- peugeot-aspen-9u.dev.uber.com (no DNS)
+- referralsc.uber.com (no DNS)
+- roxana3.dev.uber.com (no DNS)
+- secproxy-dev.uber.com (no DNS)
+- smart-firebird-trans-am-2m.dev.uber.com (no DNS)
+- testcdne.uber.com (no DNS)
+- volkswagen-runner-1q.dev.uber.com (no DNS)
+- willem2.dev.uber.com (no DNS)
+- yamaha-seville-7o.dev.uber.com (no DNS)
+
+## 2026-10-31
+
 ### afterquery.com
 - api.prod.aether.afterquery.com (20.118.48.17)
 - office.prod.aether.afterquery.com (20.118.48.17)
