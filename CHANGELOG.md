@@ -1,5 +1,10 @@
 # New subdomains
 
+## 2026-10-31
+
+### dissei.ai
+- workout-origin.dissei.ai (104.26.13.144)
+
 ## 2026-10-30
 
 ### uber.com
