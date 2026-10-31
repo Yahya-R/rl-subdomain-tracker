@@ -2,6 +2,17 @@
 
 ## 2026-10-31
 
+### datacurve.ai
+- db.dashboard-preview-db.datacurve.ai (34.208.207.230)
+
+### mercor.com
+- access.mercor.com (104.18.35.233)
+
+### tastelabs.com
+- spcx.rl.tastelabs.com (216.150.1.193)
+
+## 2026-10-31
+
 ### dissei.ai
 - workout-origin.dissei.ai (104.26.13.144)
 
