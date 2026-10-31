@@ -2,6 +2,51 @@
 
 ## 2026-10-31
 
+### afterquery.com
+- api.prod.aether.afterquery.com (20.118.48.17)
+- office.prod.aether.afterquery.com (20.118.48.17)
+
+### cua.ai
+- links.updates.cua.ai (13.225.47.38)
+
+### originator.inc
+- atlas-admin.originator.inc (104.26.8.62)
+- atlas-console.originator.inc (104.26.9.62)
+- atlas-mcp.originator.inc (104.26.8.62)
+- dev.enterprise.originator.inc (no DNS)
+- panopticon.originator.inc (172.67.75.187)
+
+### uber.com
+- austin-samurai-4o.dev.uber.com (no DNS)
+- bankera.aws.uber.com (no DNS)
+- connecticut.cfe.uber.com (no DNS)
+- cpg-api-ef83c3b4.uber.com (69.48.216.80)
+- dclb02-dca15.uber.com (no DNS)
+- dev-net.uber.com (no DNS)
+- devdeveloper.uber.com (no DNS)
+- eastasias.cloudapp.uber.com (no DNS)
+- ex2.aws.uber.com (no DNS)
+- freight-marketing-web-staging.uber.com (69.48.216.66)
+- hlee1.dev.uber.com (no DNS)
+- holden-cooper-4o.dev.uber.com (no DNS)
+- ip-10-253-32-143q.dev.uber.com (no DNS)
+- jian-api.dev.uber.com (no DNS)
+- jmc.dev.uber.com (no DNS)
+- jyu.dev.uber.com (no DNS)
+- leix.dev.uber.com (no DNS)
+- nakryiko.dev.uber.com (no DNS)
+- nannaleschly.mx.dev.uber.com (no DNS)
+- pfrazierw.dev.uber.com (no DNS)
+- spiked-colt-5s.dev.uber.com (no DNS)
+- spokane.cfe.uber.com (no DNS)
+- torreon.cfe.uber.com (no DNS)
+- va-waii.dev.uber.com (no DNS)
+- xinhaiyiguojibocai.mx.dev.uber.com (no DNS)
+- xut-com2a.dev.uber.com (no DNS)
+- yuan.dev.uber.com (no DNS)
+
+## 2026-10-31
+
 ### datacurve.ai
 - db.dashboard-preview-db.datacurve.ai (34.208.207.230)
 
