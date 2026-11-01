@@ -2,6 +2,14 @@
 
 ## 2026-11-01
 
+### latch.bio
+- argocd.dev.latch.bio (32.186.24.82)
+
+### mercor.com
+- livekit-0-1-4-azure.release.enterprise.mercor.com (no DNS)
+
+## 2026-11-01
+
 ### datacurve.ai
 - pr-500.mira-machine.datacurve.ai (44.238.77.190)
 
