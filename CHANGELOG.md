@@ -2,6 +2,52 @@
 
 ## 2026-11-01
 
+### datacurve.ai
+- worker-pr-500.mira-machine.datacurve.ai (44.238.77.190)
+
+### originator.inc
+- enterprise.originator.inc (no DNS)
+
+### parsewave.ai
+- beta.parsewave.ai (167.235.59.183)
+
+### tastelabs.com
+- staging.symphony.tastelabs.com (130.211.18.166)
+
+### turing.com
+- gdpval-worker-beta-pr-1117.rd.atlas.turing.com (no DNS)
+
+### uber.com
+- 2y0.aws.uber.com (no DNS)
+- 7bobocailuntana.mx.dev.uber.com (no DNS)
+- acura-lancer-2e.dev.uber.com (no DNS)
+- anthonysbox.dev.uber.com (no DNS)
+- api1.uber.com (no DNS)
+- bastion01-phx2e.prod.uber.com (no DNS)
+- bonjour-staging.uber.com (104.36.194.80)
+- commander-staging.uber.com (no DNS)
+- de320691.uber.com (no DNS)
+- dev-restricted.uber.com (no DNS)
+- devc.pay.uber.com (no DNS)
+- deve.vpn.uber.com (no DNS)
+- devvpn.uber.com (no DNS)
+- fireflyc.uber.com (no DNS)
+- holden-beetle-8s.dev.uber.com (no DNS)
+- johnw3.dev.uber.com (no DNS)
+- shaohua-stagingm.dev.uber.com (no DNS)
+- static-maps.uber.com (69.48.218.2)
+- stevedev5a.dev.uber.com (no DNS)
+- weihan0u.dev.uber.com (no DNS)
+- wu37.dev.uber.com (no DNS)
+- www.resilient.corp.uber.com (no DNS)
+- zhongguodezhoupukeluntan.mx.dev.uber.com (no DNS)
+- zwang1.dev.uber.com (no DNS)
+
+### vetto.ai
+- vee.vetto.ai (66.33.60.34)
+
+## 2026-11-01
+
 ### latch.bio
 - argocd.dev.latch.bio (32.186.24.82)
 
