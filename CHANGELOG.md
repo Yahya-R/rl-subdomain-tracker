@@ -1,5 +1,36 @@
 # New subdomains
 
+## 2026-11-01
+
+### datacurve.ai
+- pr-500.mira-machine.datacurve.ai (44.238.77.190)
+
+### uber.com
+- baijialerumenyishua.mx.dev.uber.com (no DNS)
+- bizapp7.mx.dev.uber.com (no DNS)
+- br7.wali.uber.com (no DNS)
+- chrysler-mgb-2s.dev.uber.com (no DNS)
+- connecti.cms.uber.com (no DNS)
+- dev-twitchg.uber.com (no DNS)
+- fwdev.uber.com (no DNS)
+- g4b.aws.uber.com (no DNS)
+- gjt.dev.uber.com (no DNS)
+- gwdev.uber.com (no DNS)
+- in-car-tablets-console.uber.com (no DNS)
+- innovation-image-upload.uber.com (no DNS)
+- jmilne-goldenp2-marq.dev.uber.com (no DNS)
+- kia-beretta-5i.dev.uber.com (no DNS)
+- lilbub.dev.uber.com (no DNS)
+- nikunj-riak-devs.dev.uber.com (no DNS)
+- sftp-dca.uber.com (104.36.192.149)
+- szymono.gruszecki.has.hacked.prod2.uber.com (no DNS)
+- trifle1.dev.uber.com (no DNS)
+- webmail7.lucario.dev.uber.com (no DNS)
+- yujue0k.dev.uber.com (no DNS)
+- zhijiangxiaojiea.mx.dev.uber.com (no DNS)
+- zichuan0.dev.uber.com (no DNS)
+- zj10005.dev.uber.com (no DNS)
+
 ## 2026-10-31
 
 ### datacurve.ai
