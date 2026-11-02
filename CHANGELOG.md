@@ -2,6 +2,38 @@
 
 ## 2026-11-02
 
+### ooakdata.com
+- atelier-dev-us.ooakdata.com (104.18.12.60)
+- samples-admin-dev-us.ooakdata.com (104.18.13.60)
+- samples-dev-us.ooakdata.com (104.18.13.60)
+
+### uber.com
+- airport-queue-analysis.dev.uber.com (no DNS)
+- anene1.dev.uber.com (no DNS)
+- aomenliuhexuanjibosewang.mx.dev.uber.com (no DNS)
+- bastion02-phx4.uber.com (no DNS)
+- candya.dev.uber.com (no DNS)
+- cci.uber.com (no DNS)
+- clipperhouse.email.uber.com (no DNS)
+- devw3.uber.com (no DNS)
+- dswa001.uber.com (no DNS)
+- ext46k.mx.dev.uber.com (no DNS)
+- firewall-dev.uber.com (no DNS)
+- holden-aerostar-2a.dev.uber.com (no DNS)
+- ishtar.dev.uber.com (no DNS)
+- laudanum.dev.uber.com (no DNS)
+- lauma.mx.dev.uber.com (no DNS)
+- lowell-vagrantc.dev.uber.com (no DNS)
+- manoel.mx.dev.uber.com (no DNS)
+- northamerica.uber.com (no DNS)
+- oliviaz.dev.uber.com (no DNS)
+- smiryala-gpu1s.dev.uber.com (no DNS)
+- sreeram0.dev.uber.com (no DNS)
+- studebaker-outback-4.dev.uber.com (no DNS)
+- zhuojie.dev.uber.com (no DNS)
+
+## 2026-11-02
+
 ### joinhandshake.com
 - grafana.orbit.joinhandshake.com (34.83.213.49)
 - loki.orbit.joinhandshake.com (34.83.213.49)
