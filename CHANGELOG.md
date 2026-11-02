@@ -1,5 +1,36 @@
 # New subdomains
 
+## 2026-11-02
+
+### joinhandshake.com
+- grafana.orbit.joinhandshake.com (34.83.213.49)
+- loki.orbit.joinhandshake.com (34.83.213.49)
+
+### uber.com
+- 0-deva.gloo.uber.com (no DNS)
+- ajmer7.cfe.uber.com (no DNS)
+- bulltsc.mx.dev.uber.com (no DNS)
+- chua-1o.dev.uber.com (no DNS)
+- crasho.dev.uber.com (no DNS)
+- devv3.uber.com (no DNS)
+- em2487.uber.com (no DNS)
+- frontpagedevg.uber.com (no DNS)
+- furiosa-seville-3i.dev.uber.com (no DNS)
+- hailstorm-graphite.dev.uber.com (no DNS)
+- lamborghini-rangerover-9.dev.uber.com (no DNS)
+- liuhexianjinwangq.mx.dev.uber.com (no DNS)
+- loginc.zhitao-jessie.dev.uber.com (no DNS)
+- mercedes-omni-6s.dev.uber.com (no DNS)
+- mini-xf-9g.dev.uber.com (no DNS)
+- pool-sim-goldenk.dev.uber.com (no DNS)
+- pt-jump1.uber.com (no DNS)
+- ram-530-7.dev.uber.com (no DNS)
+- ram-ion-8m.dev.uber.com (no DNS)
+- schwarz0.dev.uber.com (no DNS)
+- sexpettite.mx.dev.uber.com (no DNS)
+- shyamsfo.dev.uber.com (no DNS)
+- store.uber.com (no DNS)
+
 ## 2026-11-01
 
 ### datacurve.ai
