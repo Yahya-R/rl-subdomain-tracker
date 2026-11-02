@@ -33,12 +33,15 @@
    "host": "reasoncore.ai",
    "status": "ok",
    "url": "https://reasoncore.ai/",
-   "title": "ReasonCore AI \u2013 Scaling expert data into smarter AI.",
+   "title": "ReasonCore AI \u2013 Scaling trusted expertise into smarter AI.",
    "links": []
   },
   {
    "host": "www.reasoncore.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://reasoncore.ai/",
+   "title": "ReasonCore AI \u2013 Scaling trusted expertise into smarter AI.",
+   "links": []
   }
  ],
  "sitemap_hits": [
@@ -48,6 +51,14 @@
   },
   {
    "url": "https://reasoncore.ai/benchmarks/scicode5000",
+   "kind": "page"
+  },
+  {
+   "url": "https://reasoncore.ai/benchmarks/spatial-reasoning",
+   "kind": "page"
+  },
+  {
+   "url": "https://reasoncore.ai/benchmarks/financial-fraud",
    "kind": "page"
   }
  ]

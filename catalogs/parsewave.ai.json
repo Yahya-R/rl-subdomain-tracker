@@ -1,6 +1,6 @@
 {
  "domain": "parsewave.ai",
- "live_hosts": 25,
+ "live_hosts": 26,
  "pages": [
   {
    "host": "admin.parsewave.ai",
@@ -34,6 +34,24 @@
   {
    "host": "auth.parsewave.ai",
    "status": "no response"
+  },
+  {
+   "host": "beta.parsewave.ai",
+   "status": "ok",
+   "url": "https://beta.parsewave.ai/",
+   "title": "Parsewave: Human-Authored Training Data for Frontier AI",
+   "links": [
+    {
+     "url": "https://beta.parsewave.ai/",
+     "kind": "page",
+     "text": "[ Request a sampleSample ]"
+    },
+    {
+     "url": "https://parsewave.ai/contact",
+     "kind": "page",
+     "text": "Request a free sample \u2192"
+    }
+   ]
   },
   {
    "host": "cc.parsewave.ai",

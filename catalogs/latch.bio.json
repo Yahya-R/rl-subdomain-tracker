@@ -1,6 +1,6 @@
 {
  "domain": "latch.bio",
- "live_hosts": 53,
+ "live_hosts": 55,
  "pages": [
   {
    "host": "aboro.latch.bio",
@@ -18,6 +18,13 @@
    "status": "ok",
    "url": "https://allumiqs.latch.bio/",
    "title": "Latch Console",
+   "links": []
+  },
+  {
+   "host": "argocd.dev.latch.bio",
+   "status": "ok",
+   "url": "https://argocd.dev.latch.bio/",
+   "title": "Argo CD",
    "links": []
   },
   {
@@ -166,6 +173,10 @@
      "text": "Benchmarks"
     }
    ]
+  },
+  {
+   "host": "mcp.latch.bio",
+   "status": "no response"
   },
   {
    "host": "pods.latch.bio",

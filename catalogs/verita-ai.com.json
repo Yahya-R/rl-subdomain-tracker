@@ -1,6 +1,6 @@
 {
  "domain": "verita-ai.com",
- "live_hosts": 48,
+ "live_hosts": 47,
  "pages": [
   {
    "host": "a.alpha.verita-ai.com",
@@ -8,7 +8,10 @@
   },
   {
    "host": "abps.verita-ai.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "http://abps.verita-ai.com/",
+   "title": "Login",
+   "links": []
   },
   {
    "host": "accounts.verita-ai.com",
@@ -146,10 +149,6 @@
   },
   {
    "host": "payments.verita-ai.com",
-   "status": "no response"
-  },
-  {
-   "host": "platform.verita-ai.com",
    "status": "no response"
   },
   {

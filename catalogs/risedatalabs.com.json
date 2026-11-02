@@ -43,7 +43,10 @@
   },
   {
    "host": "comet.risedatalabs.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://comet.risedatalabs.com/sign-in?returnTo=%2F",
+   "title": "- Comet",
+   "links": []
   },
   {
    "host": "data.risedatalabs.com",
@@ -66,26 +69,26 @@
    "title": "Expert AI Training Jobs & Remote Projects | Rise Data Labs",
    "links": [
     {
-     "url": "https://experts.risedatalabs.com/jobs/finance-expert-ai-training-evaluation-global-jvaaq",
+     "url": "https://experts.risedatalabs.com/jobs/healthcare-expert-%E2%80%94-ai-training-evaluation-x5d4n",
      "kind": "page",
-     "text": "Finance Expert - AI Training & Evaluation | Global"
+     "text": "Healthcare Expert \u2014 AI Training & Evaluation"
     },
     {
-     "url": "https://experts.risedatalabs.com/jobs/finance-expert-ai-training-evaluation-us-canada-europe-8vc04",
+     "url": "https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-0qn42",
      "kind": "page",
-     "text": "Finance Expert - AI Training & Evaluation | US, Canada & Europe"
+     "text": "Legal & Paralegal Expert \u2014 AI Training & Evaluation"
     },
     {
-     "url": "https://experts.risedatalabs.com/jobs/physics-chemistry-ai-evaluation-expert-9lvpl",
+     "url": "https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-cmov7",
      "kind": "page",
-     "text": "Physics & Chemistry - AI Evaluation Expert"
+     "text": "Finance Expert \u2014 AI Training & Evaluation"
     }
    ]
   },
   {
    "host": "experts.staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fexperts.staging.risedatalabs.com%252F%26nonce%3D08e5065602a6c4ae7d7610f9d8460f7c602961aa9e7b6064c88667d693fca228",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fexperts.staging.risedatalabs.com%252F%26nonce%3D5d2b94f4b3bdbcf10d4357b9063b72e4a194373ca560cba4bc1038edf838362e",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -119,18 +122,21 @@
   {
    "host": "staging-annotations.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging-annotations.risedatalabs.com%252F%26nonce%3D0c92e47098a7dd58ebfe63115c24647b64c3aaaea70e4f5b6e0274c8bb9acaff",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging-annotations.risedatalabs.com%252F%26nonce%3D6671de3251679f21d9d359dd445d03ba97c795582c8a155c54d7105e4e6fa39b",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "staging.comet.risedatalabs.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://staging.comet.risedatalabs.com/sign-in?returnTo=%2F",
+   "title": "[Staging] - Comet",
+   "links": []
   },
   {
    "host": "staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.risedatalabs.com%252F%26nonce%3D7be3e00aa3df09f1e45660dfcdde02cbab4266bb7327b176666a10370abed8e9",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.risedatalabs.com%252F%26nonce%3D4e61341bdbd0732821d840b58a1b68bb5f8742bcf67d10e281210fd03c0f03e6",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -144,7 +150,7 @@
   {
    "host": "team.staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fteam.staging.risedatalabs.com%252F%26nonce%3D07fd948d51e6a7c9764c7e36728e768102c4793f488c773e95b395ed4839f25d",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fteam.staging.risedatalabs.com%252F%26nonce%3D9f722702bb6725f83a350633c1157f49657138acc8c1a696442f36d0dbf9905f",
    "title": "Login \u2013 Vercel",
    "links": []
   },

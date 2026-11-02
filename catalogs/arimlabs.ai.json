@@ -55,7 +55,16 @@
   },
   {
    "host": "vectra.arimlabs.ai",
-   "status": "robots.txt disallows"
+   "status": "ok",
+   "url": "https://vectra.arimlabs.ai/",
+   "title": "Vectra",
+   "links": [
+    {
+     "url": "https://vectra.arimlabs.ai/leaderboard",
+     "kind": "page",
+     "text": "Leaderboard"
+    }
+   ]
   },
   {
    "host": "www.arimlabs.ai",

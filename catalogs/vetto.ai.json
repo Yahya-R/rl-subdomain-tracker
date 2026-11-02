@@ -1,6 +1,6 @@
 {
  "domain": "vetto.ai",
- "live_hosts": 94,
+ "live_hosts": 95,
  "pages": [
   {
    "host": "anetto.vetto.ai",
@@ -100,10 +100,7 @@
   },
   {
    "host": "decapod.vetto.ai",
-   "status": "ok",
-   "url": "https://decapod.vetto.ai/auth/signin?callbackUrl=https%3A%2F%2Fdecapod.vetto.ai%2F",
-   "title": "Sign In | Decapod",
-   "links": []
+   "status": "no response"
   },
   {
    "host": "design-system.vetto.ai",
@@ -345,14 +342,14 @@
   {
    "host": "sandbox.arena.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Dcdda219358969113fac5c89fa9466ca943c68b3d1c260f559eda0983709400cc",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Daa1ad5f11a3f7994b8f7ba9bf8663185712d1bc1109220b62655d25bbe65803d",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "sandbox.atlas.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Dbd8e0aee551641022733ab1e69ee3759aeb4bd0ffbd7128fcb2aab6a6bbc97e7",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Dde104f6a2b35f8de63e1b69c9b6be67e4d660482a9a77301ac170714af89da49",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -435,6 +432,10 @@
    "url": "https://vbrain.vetto.ai/",
    "title": "vbrain",
    "links": []
+  },
+  {
+   "host": "vee.vetto.ai",
+   "status": "robots.txt disallows"
   },
   {
    "host": "vetto.ai",
