@@ -2,6 +2,41 @@
 
 ## 2026-11-03
 
+### uber.com
+- 967.sptrans.uber.com (no DNS)
+- 9gy.prod.uber.com (no DNS)
+- a5.dev.uber.com (no DNS)
+- bastion02-dca1e.prod.uber.com (no DNS)
+- bingol9.dev.uber.com (no DNS)
+- cheng.dev.uber.com (no DNS)
+- chevrolet-a6-6m.dev.uber.com (no DNS)
+- dclb04-sjc1.uber.com (no DNS)
+- dev-eventse.uber.com (no DNS)
+- frontend01-peak1g.prod.uber.com (no DNS)
+- fzglqbzz.spmail.uber.com (no DNS)
+- gitlabi.dev.uber.com (no DNS)
+- guilinshibocaigongsia.mx.dev.uber.com (no DNS)
+- hcourtc.dev.uber.com (no DNS)
+- hsdialout.mx.dev.uber.com (no DNS)
+- hyan09.dev.uber.com (no DNS)
+- iproctor9c.dev.uber.com (no DNS)
+- jeep-marauder-5a.dev.uber.com (no DNS)
+- jinhaozhenrenqipaig.mx.dev.uber.com (no DNS)
+- jmesy.mx.dev.uber.com (no DNS)
+- jmishra-full-stackm.dev.uber.com (no DNS)
+- lincoln-blazer-2q.dev.uber.com (no DNS)
+- maybach-zdx-7q.dev.uber.com (no DNS)
+- nagioscheck7.uber.com (no DNS)
+- panel.uber.com (no DNS)
+- peugeot-touareg-6s.dev.uber.com (no DNS)
+- qx15.dev.uber.com (no DNS)
+- rtomaws.dev.uber.com (no DNS)
+- shaohua4a.dev.uber.com (no DNS)
+- tesla-panamera-7w.dev.uber.com (no DNS)
+- zuoning5a.dev.uber.com (no DNS)
+
+## 2026-11-03
+
 ### chakra.dev
 - goldmine.chakra.dev (no DNS)
 
