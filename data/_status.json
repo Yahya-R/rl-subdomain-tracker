@@ -77,8 +77,8 @@
  "andromede.ai": {
   "sources": {
    "crtsh": 100,
-   "certspotter": 7,
-   "hackertarget": 0,
+   "certspotter": 6,
+   "hackertarget": 51,
    "subdomain_center": 3,
    "wayback": 1,
    "rapiddns": 0,
@@ -94,7 +94,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-02T06:25",
+  "last_scan": "2026-11-03T02:31",
   "failed_sources": []
  },
  "anthromind.com": {
@@ -840,7 +840,7 @@
   "sources": {
    "crtsh": 7,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 11,
    "subdomain_center": 4,
    "wayback": null,
    "rapiddns": 0,
@@ -856,7 +856,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-02T06:28",
+  "last_scan": "2026-11-03T02:35",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1384,7 +1384,7 @@
   "sources": {
    "crtsh": 686,
    "certspotter": null,
-   "hackertarget": 0,
+   "hackertarget": 36,
    "subdomain_center": 239,
    "wayback": null,
    "rapiddns": 6,
@@ -1400,7 +1400,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-02T06:27",
+  "last_scan": "2026-11-03T02:33",
   "failed_sources": [
    "certspotter",
    "wayback"
