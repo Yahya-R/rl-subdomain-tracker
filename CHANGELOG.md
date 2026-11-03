@@ -1,5 +1,20 @@
 # New subdomains
 
+## 2026-11-03
+
+### chakra.dev
+- goldmine.chakra.dev (no DNS)
+
+### datacurve.ai
+- albert-workflow-staging.internal.datacurve.ai (172.67.191.226)
+- worker-pr-489.mira-machine.datacurve.ai (44.238.77.190)
+
+### hud.ai
+- aws.hud.ai (52.85.193.29)
+
+### turing.com
+- developers-staging-new.turing.com (34.36.216.15)
+
 ## 2026-11-02
 
 ### ooakdata.com
