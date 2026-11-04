@@ -2,6 +2,30 @@
 
 ## 2026-11-04
 
+### bespokelabs.ai
+- sun-horizon-edge.bespokelabs.ai (104.20.42.226)
+
+### uber.com
+- bmw-yorker-1.dev.uber.com (no DNS)
+- cloudfront-dev.uber.com (no DNS)
+- cq2.uber.com (no DNS)
+- dainius-ocdash.dev.uber.com (no DNS)
+- dev-prod.uber.com (no DNS)
+- dodge-eldorado-9k.dev.uber.com (no DNS)
+- egressproxy02-sjc1c.prod.uber.com (no DNS)
+- en.sptrans.uber.com (no DNS)
+- foose-sierra-7q.dev.uber.com (no DNS)
+- mta20.et.uber.com (136.147.138.202)
+- psga.dev.uber.com (no DNS)
+- renes0.dev.uber.com (no DNS)
+- shishicaizuobiruanjiani.mx.dev.uber.com (no DNS)
+- site4u.mx.dev.uber.com (no DNS)
+- smartsheetk.uber.com (no DNS)
+- spyker-neon-2o.dev.uber.com (no DNS)
+- work1a.dev.uber.com (no DNS)
+
+## 2026-11-04
+
 ### arimlabs.ai
 - support.arimlabs.ai (104.21.22.220)
 
