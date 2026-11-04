@@ -2,6 +2,11 @@
 
 ## 2026-11-04
 
+### mechanize.work
+- security.mechanize.work (136.81.238.142)
+
+## 2026-11-04
+
 ### bespokelabs.ai
 - sun-horizon-edge.bespokelabs.ai (104.20.42.226)
 
