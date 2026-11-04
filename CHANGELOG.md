@@ -1,5 +1,32 @@
 # New subdomains
 
+## 2026-11-04
+
+### arimlabs.ai
+- support.arimlabs.ai (104.21.22.220)
+
+### uber.com
+- aandrade1c.dev.uber.com (no DNS)
+- backend.uber.com (no DNS)
+- bastion03-dca8.uber.com (no DNS)
+- clustoy.dev.uber.com (no DNS)
+- dev-app9.uber.com (no DNS)
+- devevents.uber.com (no DNS)
+- elasticbeanstalkdevw.uber.com (no DNS)
+- gear.aws.uber.com (no DNS)
+- gitolite05.uber.com (no DNS)
+- glib29.dev.uber.com (no DNS)
+- hengdawulinan.uber.com (no DNS)
+- hyderabad.cfe.uber.com (no DNS)
+- jaguar-impulse-2s.dev.uber.com (no DNS)
+- jeep-santafe-5k.dev.uber.com (no DNS)
+- mclaren-escape-9i.dev.uber.com (no DNS)
+- mingle2.dev.uber.com (no DNS)
+- mitsubishi-ltd-4u.dev.uber.com (no DNS)
+- patslata.dev.uber.com (no DNS)
+- studebaker-ramcharger-1g.dev.uber.com (no DNS)
+- wukan-vagrantc.dev.uber.com (no DNS)
+
 ## 2026-11-03
 
 ### uber.com
