@@ -2,6 +2,23 @@
 
 ## 2026-11-05
 
+### goodstartlabs.com
+- dev-inference.goodstartlabs.com (10.10.0.30)
+- dev-packages.goodstartlabs.com (10.10.0.30)
+- inference.goodstartlabs.com (10.10.0.8)
+- packages.goodstartlabs.com (35.226.223.46)
+
+### markovstudios.com
+- media.markovstudios.com (18.165.83.91)
+
+### originator.inc
+- experts.originator.inc (172.67.75.187)
+
+### snorkel.ai
+- research.snorkel.ai (44.225.127.158)
+
+## 2026-11-05
+
 ### tastelabs.com
 - studio.index.engine.tastelabs.com (104.20.16.112)
 
