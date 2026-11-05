@@ -2,6 +2,17 @@
 
 ## 2026-11-05
 
+### mechanize.work
+- foundry.mechanize.work (136.82.143.143)
+
+### quesma.com
+- eu.app.quesma.com (3.126.117.85)
+- fleet.eu.app.quesma.com (63.176.40.87)
+- fleet.us.app.quesma.com (54.165.37.247)
+- us.app.quesma.com (3.231.67.23)
+
+## 2026-11-05
+
 ### goodstartlabs.com
 - dev-inference.goodstartlabs.com (10.10.0.30)
 - dev-packages.goodstartlabs.com (10.10.0.30)
