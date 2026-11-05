@@ -972,9 +972,9 @@
  },
  "micro1.ai": {
   "sources": {
-   "crtsh": 238,
+   "crtsh": 240,
    "certspotter": null,
-   "hackertarget": 51,
+   "hackertarget": 0,
    "subdomain_center": null,
    "wayback": null,
    "rapiddns": 1,
@@ -990,7 +990,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-05T01:06",
+  "last_scan": "2026-11-05T12:54",
   "failed_sources": [
    "certspotter",
    "subdomain_center",
@@ -1239,7 +1239,7 @@
   "sources": {
    "crtsh": 19,
    "certspotter": null,
-   "hackertarget": 2,
+   "hackertarget": 0,
    "subdomain_center": null,
    "wayback": null,
    "rapiddns": 0,
@@ -1255,7 +1255,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-05T01:08",
+  "last_scan": "2026-11-05T12:55",
   "failed_sources": [
    "certspotter",
    "subdomain_center",
@@ -1424,9 +1424,9 @@
  },
  "sepalai.com": {
   "sources": {
-   "crtsh": 32,
+   "crtsh": null,
    "certspotter": null,
-   "hackertarget": 31,
+   "hackertarget": 0,
    "subdomain_center": null,
    "wayback": 16,
    "rapiddns": 1,
@@ -1442,9 +1442,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-05T01:08",
+  "last_scan": "2026-11-05T12:56",
   "failed_sources": [
    "certspotter",
+   "crtsh",
    "subdomain_center"
   ]
  },
