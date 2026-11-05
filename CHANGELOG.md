@@ -1,5 +1,10 @@
 # New subdomains
 
+## 2026-11-05
+
+### tastelabs.com
+- studio.index.engine.tastelabs.com (104.20.16.112)
+
 ## 2026-11-04
 
 ### mechanize.work
