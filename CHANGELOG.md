@@ -3,6 +3,22 @@
 ## 2026-11-06
 
 ### uber.com
+- backenddeve.uber.com (no DNS)
+- bqn.spmail.uber.com (no DNS)
+- elzab.uber.com (104.36.194.5)
+- foose-hhr-panel-5.dev.uber.com (no DNS)
+- fulilaishishicaie.mx.dev.uber.com (no DNS)
+- gmc-marquis-6c.dev.uber.com (no DNS)
+- lifang3.dev.uber.com (no DNS)
+- madc.uber.com (no DNS)
+- maestro01.uber.com (no DNS)
+- nagios-peak1.uber.com (no DNS)
+- not-china.dev.uber.com (no DNS)
+- sl-p2-golden-2016-02-02.dev.uber.com (no DNS)
+
+## 2026-11-06
+
+### uber.com
 - 656c24.uber.com (no DNS)
 - anoopkum1c.dev.uber.com (no DNS)
 - bentley-dev.uber.com (no DNS)
