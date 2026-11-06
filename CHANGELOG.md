@@ -2,6 +2,31 @@
 
 ## 2026-11-06
 
+### uber.com
+- 656c24.uber.com (no DNS)
+- anoopkum1c.dev.uber.com (no DNS)
+- bentley-dev.uber.com (no DNS)
+- bintern3.dev.uber.com (no DNS)
+- bmw-comanche-3k.dev.uber.com (no DNS)
+- cndca1.uber.com (no DNS)
+- devg.partner.uber.com (no DNS)
+- devlb.uber.com (no DNS)
+- direct-betac.uber.com (no DNS)
+- gatewayconnect.uber.com (no DNS)
+- ibm.uber.com (no DNS)
+- kurt4.dev.uber.com (no DNS)
+- mercury-optima-1m.dev.uber.com (no DNS)
+- mta61.et.uber.com (no DNS)
+- plymouth-lumina-2s.dev.uber.com (no DNS)
+- qx37.dev.uber.com (no DNS)
+- ridepool4c.dev.uber.com (no DNS)
+- ringo9.dev.uber.com (no DNS)
+- spiked-hombre-7m.dev.uber.com (no DNS)
+- volkswagen-escort-3.dev.uber.com (no DNS)
+- www.freight.uber.com (no DNS)
+
+## 2026-11-06
+
 ### micro1.ai
 - new-qa.company.micro1.ai (65.8.20.105)
 
