@@ -1,5 +1,29 @@
 # New subdomains
 
+## 2026-11-06
+
+### micro1.ai
+- new-qa.company.micro1.ai (65.8.20.105)
+
+### tastelabs.com
+- reflection.rl.tastelabs.com (76.76.21.21)
+
+### uber.com
+- activityreg.uber.com (no DNS)
+- aravind.dev.uber.com (no DNS)
+- dswa76-sjc1.uber.com (no DNS)
+- freight.uber.com (69.48.216.4)
+- hcv-supplier-staging.uber.com (69.48.216.100)
+- kia-compass-8i.dev.uber.com (no DNS)
+- mail-dev.uber.com (no DNS)
+- nahid.mx.dev.uber.com (no DNS)
+- o8.email.uber.com (167.89.17.53)
+- panoz-milan-9i.dev.uber.com (no DNS)
+- private.uber.com (no DNS)
+- rollsroyce-canyon-3.dev.uber.com (no DNS)
+- ruyifangduboyulecheng.mx.dev.uber.com (no DNS)
+- www.eats.uber.com (no DNS)
+
 ## 2026-11-05
 
 ### mechanize.work

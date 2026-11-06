@@ -1067,7 +1067,7 @@
  },
  "parsewave.ai": {
   "sources": {
-   "crtsh": null,
+   "crtsh": 27,
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 2,
@@ -1085,10 +1085,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-05T22:35",
+  "last_scan": "2026-11-06T07:14",
   "failed_sources": [
    "certspotter",
-   "crtsh",
    "wayback"
   ]
  },
