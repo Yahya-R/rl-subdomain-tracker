@@ -1,5 +1,10 @@
 # New subdomains
 
+## 2026-11-07
+
+### afterquery.com
+- team.afterquery.com (64.239.109.129)
+
 ## 2026-11-06
 
 ### uber.com
