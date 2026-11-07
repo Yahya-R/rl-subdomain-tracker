@@ -6,7 +6,7 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 |---|---|---|---|---|
 | [abundant.ai](data/abundant.ai.json) | 34 | 10 | yes | certspotter |
 | [afterquery.com](data/afterquery.com.json) | 49 | 47 | yes | certspotter, wayback |
-| [alignai.co](data/alignai.co.json) | 17 | 17 | yes | certspotter, wayback |
+| [alignai.co](data/alignai.co.json) | 17 | 17 | yes | crtsh, wayback |
 | [andromede.ai](data/andromede.ai.json) | 101 | 101 | yes | certspotter, crtsh, wayback |
 | [anthromind.com](data/anthromind.com.json) | 4 | 3 | yes | subdomain_center, wayback |
 | [aptura.ai](data/aptura.ai.json) | 18 | 13 | yes | certspotter, wayback |
@@ -17,7 +17,7 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 | [chakra.dev](data/chakra.dev.json) | 42 | 4 | yes | certspotter |
 | [collinear.ai](data/collinear.ai.json) | 39 | 15 | yes | certspotter, crtsh |
 | [cua.ai](data/cua.ai.json) | 931 | 28 | yes | certspotter, wayback |
-| [datacurve.ai](data/datacurve.ai.json) | 456 | 432 | yes | - |
+| [datacurve.ai](data/datacurve.ai.json) | 456 | 432 | yes | crtsh |
 | [deeptune.ai](data/deeptune.ai.json) | 39 | 11 | yes | - |
 | [deeptune.com](data/deeptune.com.json) | 30 | 6 | yes | certspotter |
 | [diffuselabs.ai](data/diffuselabs.ai.json) | 3 | 3 | yes | certspotter |
@@ -29,16 +29,16 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 | [fleetai.com](data/fleetai.com.json) | 1937 | 34 | yes | certspotter, wayback |
 | [goodstartlabs.com](data/goodstartlabs.com.json) | 61 | 41 | yes | wayback |
 | [gr.inc](data/gr.inc.json) | 17 | 16 | yes | - |
-| [halluminate.ai](data/halluminate.ai.json) | 87 | 35 | yes | certspotter, wayback |
+| [halluminate.ai](data/halluminate.ai.json) | 87 | 35 | yes | crtsh, wayback |
 | [hillclimb.com](data/hillclimb.com.json) | 19 | 6 | yes | - |
 | [hud.ai](data/hud.ai.json) | 59 | 31 | yes | certspotter |
-| [idler.ai](data/idler.ai.json) | 13 | 10 | yes | certspotter |
+| [idler.ai](data/idler.ai.json) | 13 | 10 | yes | crtsh, wayback |
 | [incalmo.ai](data/incalmo.ai.json) | 5 | 4 | yes | - |
 | [joinhandshake.com](data/joinhandshake.com.json) | 1321 | 1308 | yes | certspotter, wayback |
 | [labs.huzzle.com](data/labs.huzzle.com.json) | 1 | 1 | yes | wayback |
 | [latch.bio](data/latch.bio.json) | 99 | 55 | yes | certspotter, crtsh, wayback |
 | [markovstudios.com](data/markovstudios.com.json) | 7 | 5 | yes | certspotter, wayback |
-| [mechanize.work](data/mechanize.work.json) | 14 | 12 | yes | certspotter |
+| [mechanize.work](data/mechanize.work.json) | 14 | 12 | yes | crtsh, wayback |
 | [mercor.com](data/mercor.com.json) | 763 | 243 | yes | certspotter |
 | [metaphi.ai](data/metaphi.ai.json) | 19 | 15 | yes | - |
 | [micro1.ai](data/micro1.ai.json) | 323 | 199 | yes | certspotter |
@@ -57,16 +57,16 @@ Baseline = crt.sh has returned every logged certificate for the domain, so new s
 | [reasoncore.ai](data/reasoncore.ai.json) | 6 | 4 | yes | certspotter, wayback |
 | [refresh.dev](data/refresh.dev.json) | 56 | 11 | yes | certspotter, wayback |
 | [risedatalabs.com](data/risedatalabs.com.json) | 34 | 22 | yes | certspotter, wayback |
-| [scale.com](data/scale.com.json) | 3088 | 995 | yes | certspotter, crtsh |
+| [scale.com](data/scale.com.json) | 3088 | 995 | yes | crtsh |
 | [sepalai.com](data/sepalai.com.json) | 67 | 40 | yes | certspotter |
 | [snorkel.ai](data/snorkel.ai.json) | 39 | 22 | yes | - |
-| [surgehq.ai](data/surgehq.ai.json) | 737 | 689 | yes | certspotter |
+| [surgehq.ai](data/surgehq.ai.json) | 737 | 689 | yes | crtsh, wayback |
 | [symbal.ai](data/symbal.ai.json) | 45 | 25 | yes | wayback |
 | [tacitlabs.co](data/tacitlabs.co.json) | 2 | 2 | yes | certspotter |
-| [tastelabs.com](data/tastelabs.com.json) | 91 | 74 | yes | certspotter, wayback |
+| [tastelabs.com](data/tastelabs.com.json) | 91 | 74 | yes | crtsh, wayback |
 | [thetasoftware.com](data/thetasoftware.com.json) | 3 | 3 | yes | certspotter |
 | [trajectorylabs.com](data/trajectorylabs.com.json) | 120 | 6 | yes | certspotter, wayback |
-| [turing.com](data/turing.com.json) | 2129 | 1107 | yes | certspotter, wayback |
+| [turing.com](data/turing.com.json) | 2129 | 1107 | yes | crtsh, wayback |
 | [uber.com](data/uber.com.json) | 11570 | 654 | yes | certspotter |
 | [ulam.ai](data/ulam.ai.json) | 7 | 4 | yes | wayback |
 | [verita-ai.com](data/verita-ai.com.json) | 62 | 47 | yes | certspotter |
