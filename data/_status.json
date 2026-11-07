@@ -28,9 +28,9 @@
   "sources": {
    "crtsh": 33,
    "certspotter": null,
-   "hackertarget": 40,
+   "hackertarget": 0,
    "subdomain_center": 7,
-   "wayback": null,
+   "wayback": 11,
    "rapiddns": 0,
    "c99": 0
   },
@@ -44,10 +44,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-06T21:40",
+  "last_scan": "2026-11-07T15:24",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "alignai.co": {
@@ -832,7 +831,7 @@
   "sources": {
    "crtsh": 6,
    "certspotter": null,
-   "hackertarget": 3,
+   "hackertarget": 0,
    "subdomain_center": 2,
    "wayback": null,
    "rapiddns": 0,
@@ -848,7 +847,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-06T21:40",
+  "last_scan": "2026-11-07T15:24",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1131,8 +1130,8 @@
  "plato.so": {
   "sources": {
    "crtsh": 55,
-   "certspotter": 43,
-   "hackertarget": 29,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 57,
    "wayback": null,
    "rapiddns": 1,
@@ -1148,8 +1147,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-06T21:40",
+  "last_scan": "2026-11-07T15:26",
   "failed_sources": [
+   "certspotter",
    "wayback"
   ]
  },
@@ -1157,7 +1157,7 @@
   "sources": {
    "crtsh": 26,
    "certspotter": null,
-   "hackertarget": 28,
+   "hackertarget": 0,
    "subdomain_center": 136,
    "wayback": 22,
    "rapiddns": 1,
@@ -1173,7 +1173,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-06T21:40",
+  "last_scan": "2026-11-07T15:24",
   "failed_sources": [
    "certspotter"
   ]
