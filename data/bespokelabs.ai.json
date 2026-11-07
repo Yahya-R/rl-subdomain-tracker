@@ -32,19 +32,19 @@
  "auth.experts.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "104.18.43.182",
+  "ip": "172.64.144.74",
   "live": true
  },
  "benchmarks.bespokelabs.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-07",
-  "ip": "172.217.75.121",
+  "ip": "142.250.217.115",
   "live": true
  },
  "bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "31.43.161.6",
+  "ip": "31.43.160.6",
   "live": true
  },
  "brain.bespokelabs.ai": {
@@ -104,7 +104,7 @@
  "experts.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "192.179.30.121",
+  "ip": "192.178.157.121",
   "live": true
  },
  "files.bespokelabs.ai": {
@@ -140,18 +140,18 @@
  "horizon-api-edge.bespokelabs.ai": {
   "first_seen": "2026-10-25",
   "last_seen": "2026-11-07",
-  "ip": "104.20.42.226",
+  "ip": "172.66.155.249",
   "live": true
  },
  "horizon-proxy-edge.bespokelabs.ai": {
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-07",
-  "ip": "172.66.155.249",
+  "ip": "104.20.42.226",
   "live": true
  },
  "horizon-ssh-core.internal.bespokelabs.ai": {
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-07",
   "ip": "",
   "live": false
  },
@@ -164,7 +164,7 @@
  "kanban.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "172.217.75.121",
+  "ip": "74.125.129.121",
   "live": true
  },
  "leaderboard.bespokelabs.ai": {
@@ -176,13 +176,13 @@
  "mobile.horizon.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "172.217.75.121",
+  "ip": "74.125.129.121",
   "live": true
  },
  "pdk-417-identity-edge.bespokelabs.ai": {
   "first_seen": "2026-10-25",
   "last_seen": "2026-11-07",
-  "ip": "172.66.155.249",
+  "ip": "104.20.42.226",
   "live": true
  },
  "playground.bespokelabs.ai": {
@@ -206,13 +206,13 @@
  "status.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "192.178.164.121",
+  "ip": "142.251.32.19",
   "live": true
  },
  "sun-horizon-edge.bespokelabs.ai": {
   "first_seen": "2026-11-04",
   "last_seen": "2026-11-07",
-  "ip": "104.20.42.226",
+  "ip": "172.66.155.249",
   "live": true
  },
  "tbs-dash.bespokelabs.ai": {
@@ -242,7 +242,7 @@
  "www.bespokelabs.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-07",
-  "ip": "31.43.161.6",
+  "ip": "31.43.160.6",
   "live": true
  },
  "www.console.bespokelabs.ai": {
