@@ -2,6 +2,32 @@
 
 ## 2026-11-07
 
+### originator.inc
+- daedalus-api.originator.inc (104.26.9.62)
+
+### parsewave.ai
+- old.parsewave.ai (2.31.141.220)
+
+### uber.com
+- americaq.a.dev.uber.com (no DNS)
+- application-dev.uber.com (no DNS)
+- audi-lancer-1m.dev.uber.com (no DNS)
+- b205.mx.dev.uber.com (no DNS)
+- bd6dc.mx.dev.uber.com (no DNS)
+- caishenzaixianbaijiale.mx.dev.uber.com (no DNS)
+- chevrolet-cordia-7w.dev.uber.com (no DNS)
+- devtest3o.dev.uber.com (no DNS)
+- droveru.mx.dev.uber.com (no DNS)
+- duchangwansuoha.mx.dev.uber.com (no DNS)
+- fuel-card-amia.dev.uber.com (no DNS)
+- goldentest201603041815.dev.uber.com (no DNS)
+- hcourt2.dev.uber.com (no DNS)
+- morgan-cultus-5q.dev.uber.com (no DNS)
+- noparties9.dev.uber.com (no DNS)
+- shelby-cabriolet-8m.dev.uber.com (no DNS)
+
+## 2026-11-07
+
 ### afterquery.com
 - team.afterquery.com (64.239.109.129)
 
