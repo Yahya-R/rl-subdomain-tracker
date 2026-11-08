@@ -1,5 +1,23 @@
 # New subdomains
 
+## 2026-11-08
+
+### uber.com
+- 15-wwwi.a.dev.uber.com (no DNS)
+- alpha-devc.uber.com (no DNS)
+- bitly.uber.com (no DNS)
+- clientsc.uber.com (no DNS)
+- cn-pek19.uber.com (no DNS)
+- corbin-excursion-3i.dev.uber.com (no DNS)
+- gcs-sandboxa.uber.com (no DNS)
+- jaguar-storm-6.dev.uber.com (no DNS)
+- mg-hhr-5m.dev.uber.com (no DNS)
+- oautha.dev.uber.com (no DNS)
+- production.tokenizer.uber.com (no DNS)
+- scion-viper-7m.dev.uber.com (no DNS)
+- video.uber.com (69.48.216.66)
+- ytangk.dev.uber.com (no DNS)
+
 ## 2026-11-07
 
 ### uber.com
