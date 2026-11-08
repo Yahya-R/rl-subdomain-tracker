@@ -1347,7 +1347,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-07T20:39",
+  "last_scan": "2026-11-08T00:08",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1487,7 +1487,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": null,
-   "wayback": 2,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1501,10 +1501,11 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-07T20:39",
+  "last_scan": "2026-11-08T00:08",
   "failed_sources": [
    "certspotter",
-   "subdomain_center"
+   "subdomain_center",
+   "wayback"
   ]
  },
  "tastelabs.com": {
@@ -1728,7 +1729,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-07T20:39",
+  "last_scan": "2026-11-08T00:08",
   "failed_sources": [
    "certspotter"
   ]

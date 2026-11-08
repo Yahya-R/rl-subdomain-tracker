@@ -2,6 +2,26 @@
 
 ## 2026-11-07
 
+### uber.com
+- bangkokc.cfe.uber.com (no DNS)
+- csgu.brand-staging.uber.com (no DNS)
+- dev-mirror.uber.com (no DNS)
+- devauth.uber.com (no DNS)
+- devdevops.uber.com (no DNS)
+- dubomoshilupojielu.mx.dev.uber.com (no DNS)
+- ferrari-endeavor-5m.dev.uber.com (no DNS)
+- letouyulechengmianfeishiwank.mx.dev.uber.com (no DNS)
+- mg-intrigue-9k.dev.uber.com (no DNS)
+- mitsubishi-diamante-8c.dev.uber.com (no DNS)
+- monkey.dev.uber.com (no DNS)
+- my-dev-server.dev.uber.com (no DNS)
+- panoz-vehicross-2s.dev.uber.com (no DNS)
+- s3.uber.com (no DNS)
+- yangzhoue.dev.uber.com (no DNS)
+- zhitao0.dev.uber.com (no DNS)
+
+## 2026-11-07
+
 ### originator.inc
 - daedalus-api.originator.inc (104.26.9.62)
 
