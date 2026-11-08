@@ -3,6 +3,23 @@
 ## 2026-11-08
 
 ### uber.com
+- adming.dev.uber.com (no DNS)
+- bugatti-sportage-8q.dev.uber.com (no DNS)
+- dev-skins.uber.com (no DNS)
+- exxonmobil.uber.com (69.48.216.87)
+- help2.uber.com (no DNS)
+- jyu2-ec27.dev.uber.com (no DNS)
+- landrover-alliance-1.dev.uber.com (no DNS)
+- maserati-dakota-club-1u.dev.uber.com (no DNS)
+- mathieuca.dev.uber.com (no DNS)
+- mynd.mx.dev.uber.com (no DNS)
+- pan-big.dev.uber.com (no DNS)
+- story-amim.dev.uber.com (no DNS)
+- ztrain-precise9.dev.uber.com (no DNS)
+
+## 2026-11-08
+
+### uber.com
 - 15-wwwi.a.dev.uber.com (no DNS)
 - alpha-devc.uber.com (no DNS)
 - bitly.uber.com (no DNS)
