@@ -1104,7 +1104,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T06:27",
+  "last_scan": "2026-11-08T20:54",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1113,9 +1113,32 @@
  "plato.so": {
   "sources": {
    "crtsh": 55,
-   "certspotter": null,
+   "certspotter": 37,
    "hackertarget": 0,
    "subdomain_center": 57,
+   "wayback": 6,
+   "rapiddns": 1,
+   "c99": 0
+  },
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center",
+   "wayback"
+  ],
+  "complete": true,
+  "last_scan": "2026-11-08T20:54",
+  "failed_sources": []
+ },
+ "pre.dev": {
+  "sources": {
+   "crtsh": 26,
+   "certspotter": null,
+   "hackertarget": 0,
+   "subdomain_center": 136,
    "wayback": null,
    "rapiddns": 1,
    "c99": 0
@@ -1130,35 +1153,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T06:29",
+  "last_scan": "2026-11-08T20:53",
   "failed_sources": [
    "certspotter",
    "wayback"
-  ]
- },
- "pre.dev": {
-  "sources": {
-   "crtsh": 28,
-   "certspotter": null,
-   "hackertarget": 0,
-   "subdomain_center": 136,
-   "wayback": 22,
-   "rapiddns": 1,
-   "c99": 0
-  },
-  "proven": [
-   "c99",
-   "certspotter",
-   "crtsh",
-   "hackertarget",
-   "rapiddns",
-   "subdomain_center",
-   "wayback"
-  ],
-  "complete": true,
-  "last_scan": "2026-11-08T06:27",
-  "failed_sources": [
-   "certspotter"
   ]
  },
  "preferencemodel.com": {
@@ -1265,32 +1263,6 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 49,
-   "wayback": null,
-   "rapiddns": 0,
-   "c99": 0
-  },
-  "proven": [
-   "c99",
-   "certspotter",
-   "crtsh",
-   "hackertarget",
-   "rapiddns",
-   "subdomain_center",
-   "wayback"
-  ],
-  "complete": true,
-  "last_scan": "2026-11-08T06:27",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
- },
- "risedatalabs.com": {
-  "sources": {
-   "crtsh": 31,
-   "certspotter": null,
-   "hackertarget": 0,
-   "subdomain_center": 4,
    "wayback": 2,
    "rapiddns": 0,
    "c99": 0
@@ -1305,9 +1277,35 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T06:31",
+  "last_scan": "2026-11-08T20:53",
   "failed_sources": [
    "certspotter"
+  ]
+ },
+ "risedatalabs.com": {
+  "sources": {
+   "crtsh": 31,
+   "certspotter": null,
+   "hackertarget": 0,
+   "subdomain_center": 4,
+   "wayback": null,
+   "rapiddns": 0,
+   "c99": 0
+  },
+  "proven": [
+   "c99",
+   "certspotter",
+   "crtsh",
+   "hackertarget",
+   "rapiddns",
+   "subdomain_center",
+   "wayback"
+  ],
+  "complete": true,
+  "last_scan": "2026-11-08T20:56",
+  "failed_sources": [
+   "certspotter",
+   "wayback"
   ]
  },
  "scale.com": {
@@ -1439,7 +1437,7 @@
  "tacitlabs.co": {
   "sources": {
    "crtsh": 2,
-   "certspotter": 2,
+   "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 2,
    "wayback": 2,
@@ -1456,8 +1454,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T06:29",
-  "failed_sources": []
+  "last_scan": "2026-11-08T20:54",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "tastelabs.com": {
   "sources": {
@@ -1666,7 +1666,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 2,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1680,10 +1680,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T06:30",
+  "last_scan": "2026-11-08T20:54",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "wirestock.io": {
