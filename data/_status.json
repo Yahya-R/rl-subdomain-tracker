@@ -202,8 +202,8 @@
  "benchflow.ai": {
   "sources": {
    "crtsh": 162,
-   "certspotter": 100,
-   "hackertarget": 50,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 12,
    "wayback": 9,
    "rapiddns": 0,
@@ -219,8 +219,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T20:34",
-  "failed_sources": []
+  "last_scan": "2026-11-09T06:55",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "bespokelabs.ai": {
   "sources": {
@@ -470,8 +472,8 @@
  "edotenv.com": {
   "sources": {
    "crtsh": 1,
-   "certspotter": 1,
-   "hackertarget": 1,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 0,
    "wayback": 1,
    "rapiddns": 0,
@@ -487,14 +489,16 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T20:34",
-  "failed_sources": []
+  "last_scan": "2026-11-09T06:56",
+  "failed_sources": [
+   "certspotter"
+  ]
  },
  "emulated.so": {
   "sources": {
    "crtsh": 3,
-   "certspotter": 3,
-   "hackertarget": 3,
+   "certspotter": null,
+   "hackertarget": 0,
    "subdomain_center": 0,
    "wayback": null,
    "rapiddns": 0,
@@ -510,8 +514,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-08T20:36",
+  "last_scan": "2026-11-09T06:58",
   "failed_sources": [
+   "certspotter",
    "wayback"
   ]
  },

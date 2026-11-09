@@ -1,5 +1,29 @@
 # New subdomains
 
+## 2026-11-09
+
+### hud.ai
+- team.hud.ai (76.76.21.21)
+
+### tastelabs.com
+- mcp.rle.tastelabs.com (34.160.201.188)
+
+### uber.com
+- 2015o.a.dev.uber.com (no DNS)
+- aditya.dev.uber.com (no DNS)
+- bens1.dev.uber.com (no DNS)
+- bentley-d250-club-2w.dev.uber.com (no DNS)
+- bjs1-dc03.corp.uber.com (no DNS)
+- fengjiaoa.dev.uber.com (no DNS)
+- fingertips.prod.uber.com (no DNS)
+- fsshare.uber.com (no DNS)
+- maserati-azera-1s.dev.uber.com (no DNS)
+- mlong-goldencopy1w.dev.uber.com (no DNS)
+- new7a.mx.dev.uber.com (no DNS)
+- shalin1.dev.uber.com (no DNS)
+- wangshangdubodoudizhunagehao.mx.dev.uber.com (no DNS)
+- zhiyingbocaijiqiaoluntan.mx.dev.uber.com (no DNS)
+
 ## 2026-11-08
 
 ### uber.com
