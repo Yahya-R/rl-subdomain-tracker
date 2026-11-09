@@ -2,6 +2,11 @@
 
 ## 2026-11-09
 
+### risedatalabs.com
+- present.risedatalabs.com (216.150.1.193)
+
+## 2026-11-09
+
 ### hud.ai
 - team.hud.ai (76.76.21.21)
 
