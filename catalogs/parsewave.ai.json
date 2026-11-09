@@ -32,10 +32,6 @@
    "links": []
   },
   {
-   "host": "auth.parsewave.ai",
-   "status": "no response"
-  },
-  {
    "host": "beta.parsewave.ai",
    "status": "ok",
    "url": "https://beta.parsewave.ai/",
@@ -44,12 +40,27 @@
     {
      "url": "https://beta.parsewave.ai/",
      "kind": "page",
+     "text": "//ADatasetsData"
+    },
+    {
+     "url": "https://beta.parsewave.ai/benchmark-research/osworld-v2",
+     "kind": "page",
+     "text": "The same QC on a public benchmark: the OSWorld 2.0 audit \u2192"
+    },
+    {
+     "url": "https://beta.parsewave.ai/benchmark-research/swe-sweep",
+     "kind": "page",
+     "text": "We PR\u2019d fixes to 47 of SWE-sweep\u2019s 100 tasks \u2192"
+    },
+    {
+     "url": "https://beta.parsewave.ai/contact",
+     "kind": "page",
      "text": "[ Request a sampleSample ]"
     },
     {
-     "url": "https://parsewave.ai/contact",
+     "url": "https://beta.parsewave.ai/samples",
      "kind": "page",
-     "text": "Request a free sample \u2192"
+     "text": "Samples"
     }
    ]
   },
@@ -116,6 +127,19 @@
    "status": "no response"
   },
   {
+   "host": "old.parsewave.ai",
+   "status": "ok",
+   "url": "https://old.parsewave.ai/",
+   "title": "Parsewave - Data That Teaches Models How To Think",
+   "links": [
+    {
+     "url": "https://old.parsewave.ai/process",
+     "kind": "page",
+     "text": "expert evaluations"
+    }
+   ]
+  },
+  {
    "host": "panel.parsewave.ai",
    "status": "no response"
   },
@@ -123,12 +147,32 @@
    "host": "parsewave.ai",
    "status": "ok",
    "url": "https://parsewave.ai/",
-   "title": "Parsewave - Data That Teaches Models How To Think",
+   "title": "Parsewave: Human-Authored Training Data for Frontier AI",
    "links": [
     {
-     "url": "https://parsewave.ai/process",
+     "url": "https://parsewave.ai/",
      "kind": "page",
-     "text": "expert evaluations"
+     "text": "//ADatasetsData"
+    },
+    {
+     "url": "https://parsewave.ai/benchmark-research/osworld-v2",
+     "kind": "page",
+     "text": "The same QC on a public benchmark: the OSWorld 2.0 audit \u2192"
+    },
+    {
+     "url": "https://parsewave.ai/benchmark-research/swe-sweep",
+     "kind": "page",
+     "text": "We PR\u2019d fixes to 47 of SWE-sweep\u2019s 100 tasks \u2192"
+    },
+    {
+     "url": "https://parsewave.ai/contact",
+     "kind": "page",
+     "text": "[ Request a sampleSample ]"
+    },
+    {
+     "url": "https://parsewave.ai/samples",
+     "kind": "page",
+     "text": "Samples"
     }
    ]
   },
@@ -155,16 +199,65 @@
   {
    "host": "www.parsewave.ai",
    "status": "ok",
-   "url": "https://www.parsewave.ai/",
-   "title": "Parsewave - Data That Teaches Models How To Think",
+   "url": "https://parsewave.ai/",
+   "title": "Parsewave: Human-Authored Training Data for Frontier AI",
    "links": [
     {
-     "url": "https://www.parsewave.ai/process",
+     "url": "https://parsewave.ai/",
      "kind": "page",
-     "text": "expert evaluations"
+     "text": "//ADatasetsData"
+    },
+    {
+     "url": "https://parsewave.ai/benchmark-research/osworld-v2",
+     "kind": "page",
+     "text": "The same QC on a public benchmark: the OSWorld 2.0 audit \u2192"
+    },
+    {
+     "url": "https://parsewave.ai/benchmark-research/swe-sweep",
+     "kind": "page",
+     "text": "We PR\u2019d fixes to 47 of SWE-sweep\u2019s 100 tasks \u2192"
+    },
+    {
+     "url": "https://parsewave.ai/contact",
+     "kind": "page",
+     "text": "[ Request a sampleSample ]"
+    },
+    {
+     "url": "https://parsewave.ai/samples",
+     "kind": "page",
+     "text": "Samples"
     }
    ]
   }
  ],
- "sitemap_hits": []
+ "sitemap_hits": [
+  {
+   "url": "https://parsewave.ai/samples",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/swe-sweep",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/swe-sweep/method",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/wandr",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/wandr/method",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/automation-bench",
+   "kind": "page"
+  },
+  {
+   "url": "https://parsewave.ai/benchmark-research/osworld-v2",
+   "kind": "page"
+  }
+ ]
 }

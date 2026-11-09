@@ -1,6 +1,6 @@
 {
  "domain": "quesma.com",
- "live_hosts": 11,
+ "live_hosts": 15,
  "pages": [
   {
    "host": "api.quesma.com",
@@ -42,14 +42,14 @@
   {
    "host": "app.quesma.com",
    "status": "ok",
-   "url": "https://app.quesma.com/",
-   "title": "Agent Statements \u2014 Quesma",
+   "url": "https://auth.app.quesma.com/?client_id=client_01M2FW3ADK31GPZ7X6VNW97MND&redirect_uri=https%3A%2F%2Fapp.quesma.com%2Foauth2%2Fcallback&state=Ya0u4b57RVIJaaYkGSgtinAXbJWZYdVQO6NM2a7H1Ip&authorization_session_id=01M70KJVMN82Q3V4RC8DM5VV0Q",
+   "title": "Sign in",
    "links": []
   },
   {
    "host": "auth.app.quesma.com",
    "status": "ok",
-   "url": "https://auth.app.quesma.com/?client_id=client_01M2FW3ADK31GPZ7X6VNW97MND&redirect_uri=https%3A%2F%2Fapp.quesma.com%2Foauth2%2Fcallback&state=SO7Squ4CdPOFYnM4rLTy1ZefaUizLWuhYlrxjq2alkw&authorization_session_id=01M6EHNCT9AV014PY7CF02J2EA",
+   "url": "https://auth.app.quesma.com/?client_id=client_01M2FW3ADK31GPZ7X6VNW97MND&redirect_uri=https%3A%2F%2Fapp.quesma.com%2Foauth2%2Fcallback&state=SdknA7ZplZHKAUNCeVD5vkXLzAumig-dG1cEQWtyp71&authorization_session_id=01M70KJTW4E0PPYGBCXFCF61YB",
    "title": "Sign in",
    "links": []
   },
@@ -157,6 +157,21 @@
    ]
   },
   {
+   "host": "eu.app.quesma.com",
+   "status": "ok",
+   "url": "https://eu.app.quesma.com/",
+   "title": "Agent Statements \u2014 Quesma",
+   "links": []
+  },
+  {
+   "host": "fleet.eu.app.quesma.com",
+   "status": "no response"
+  },
+  {
+   "host": "fleet.us.app.quesma.com",
+   "status": "no response"
+  },
+  {
    "host": "licensing.quesma.com",
    "status": "no response"
   },
@@ -192,6 +207,13 @@
      "text": "Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V"
     }
    ]
+  },
+  {
+   "host": "us.app.quesma.com",
+   "status": "ok",
+   "url": "https://us.app.quesma.com/",
+   "title": "Agent Statements \u2014 Quesma",
+   "links": []
   },
   {
    "host": "www.quesma.com",

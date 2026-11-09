@@ -1,6 +1,6 @@
 {
  "domain": "mercor.com",
- "live_hosts": 246,
+ "live_hosts": 242,
  "pages": [
   {
    "host": "abhishek.llm-gateway.dev.studio.mercor.com",
@@ -9,7 +9,7 @@
   {
    "host": "access.mercor.com",
    "status": "ok",
-   "url": "https://access.mercor.com/?client_id=client_01M61Q04M7PDDPK9TM6DQ6501J&redirect_uri=https%3A%2F%2Faccess.mercor.com%2Fdefault-redirect&authorization_session_id=01M6EHH53EYK600RFQ2J6GSPS0",
+   "url": "https://access.mercor.com/?client_id=client_01M61Q04M7PDDPK9TM6DQ6501J&redirect_uri=https%3A%2F%2Faccess.mercor.com%2Fdefault-redirect&authorization_session_id=01M70KE5HY9YKD9147WP98S9N4",
    "title": "Sign in",
    "links": []
   },
@@ -20,7 +20,7 @@
   {
    "host": "acme.tenants.enterprise.mercor.com",
    "status": "ok",
-   "url": "https://plentiful-sprite-13-enterprise-acme.authkit.app/?client_id=client_01M3Z5D9TM9DWJBC0G70GCHDXE&redirect_uri=https%3A%2F%2Facme.tenants.enterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*9e44c21d6572a0e39bd4e89eb921523362f0b0d6415f55b4113382278e5f277d*O4020PV5raeG-4Q208akcA*d4-W0qL6Zcrd6b2TaG8Aknz5WwAcMQqU5oXuNdd5vaINC3-sgINy-pMti2CXHpaAap_OM-Q1_TzWyYQ_JrT_x-epX1IM2LQEOF4DSssEqo-B9PdaU0uLjo6tuCfpke4f1RNle9icku_C1DbXfLD2EiJ7uKd-8Zx_Jwajx-bYzmK9a2oJ5O-mz5LiHxDlIGDG*1793637596429*f5b22c58fedcfe394433f1588f3e5fdcb0eb448277adb32ed3ac97f0c23f665c*FTdyLQvVfGn8jSibgnOr4Orlzyf_Y4HB8ONvcn4E7Co%7E2&authorization_session_id=01M6EHH5D8S9HC01093PY4TT83",
+   "url": "https://plentiful-sprite-13-enterprise-acme.authkit.app/?client_id=client_01M3Z5D9TM9DWJBC0G70GCHDXE&redirect_uri=https%3A%2F%2Facme.tenants.enterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*f17c4f9a27af5b178a74b0505e6fb8c6ec725b9f7e588c9e678a29e4a2c9ea90*B5bPK8tJk6m1IByA5w7fFQ*v-QxmPRU7AxLkd0XRlCB9IWsu3B9wzMYgExBczwRbPdXvbf04tbzMEjvhr2N9zxP_42KUCPUJZFMsmGLRbWCyX71wbDsJYKRSNGHLcv8AUei6IfUk8JdGJ3KtoMPm4TNOB8su3oX7PTq9LyXwIUhu9-JfWLZZCAF0lmAXz0kIYrcfJNomxNwNWp8uNk_F2MN*1794243575467*a875bc78f17190b61471b0b4587d1da73b354e78fb177c229a26e5fa7ae3823f*u7fMDsFEbJqKoef3HhunmVDMDOtQLnIfw9VWZafVJ9o%7E2&authorization_session_id=01M70KE5V1F4J613D23BQQZ45K",
    "title": "Sign in",
    "links": []
   },
@@ -87,10 +87,6 @@
    "links": []
   },
   {
-   "host": "api.novu.mercor.com",
-   "status": "no response"
-  },
-  {
    "host": "api.preview.enterprise.mercor.com",
    "status": "no response"
   },
@@ -155,7 +151,10 @@
   },
   {
    "host": "atlas.mercor.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://auth.mercor.com/?client_id=client_01M335YT3DS6DF1X9PZJ4HK81G&redirect_uri=https%3A%2F%2Fatlas.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*1d123a17104c7e5125345c5b228c106f42e6ac7555ba2e2e0f725d5b44806630*ORkr4bprPhS0b80qrjlbDQ*dwf4suQk6QW_ZuYzO4urgWzRJljUws0nMIOh94xAWkV0MPS0J4fbCDvabFNRx8KJllKbGPf_Ebb6sctIegkQaDpwrJv9979aGSuj6Zc7Vlwav6l9Q6cq2fnRIsHxjf35mdcg1SUI8WpGYb5TO_ovUyZA-E7tdL8F3Ri5UuttYfRDMB0aDWP9wfg8pqzLoN_Y*1794243880189*eb22d00cf69614a339b46c82fa4acbd75148aee3fae71966e6275e4914af670d*duGV2D71i9y0Xes3viQU0HtpWNW377-OfMjYyDHRTW4%7E2&authorization_session_id=01M70KQFDJK2MCD4MY59R97NQ3",
+   "title": "Sign in",
+   "links": []
   },
   {
    "host": "austin.llm-gateway.dev.studio.mercor.com",
@@ -168,7 +167,7 @@
   {
    "host": "auth.mercor.com",
    "status": "ok",
-   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*c1a4298d5c88657c4a3ec06282c11e6010304d1e0efaf5594ff9969aa728a2c7*aoYrdFvVStHQvB0ZEfby7Q*8kWvo4SX2YzqnIib0Py6q_CYrvZAH2J11FAtvikw5z5nQ9PgaT9TsGcjG_fwJZ0BMa7JceJ0g1kSLTTtn4Sw8FRpKNO00BqsVyuepaIHWvI5Y5viGYRlQwGpTcCq-vTkghWriK3RqMWItRt_rdz5kQ*1793637941258*62167e5d70418b12463eaabdb35352173e7e0b01028d9c1ccb2ad8a37f82d7e4*LOvHls67Dzh-ot9P5sXYtxHDuNvU0y3NaAn2x4cPjlU%7E2&authorization_session_id=01M6EHVP4B7BZERNQSRF84HX6Q",
+   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*dd5828a1ba96a460e6df29d4096783db805a5e67c5804bc779682ffc55624f92*PRtSMSU5JcXDh2ackWicJg*4jiAiAbIlM6Nto7Xm-BKaBGpg8vBqalzFizRo1IHKUkkS1PsvP0SAdET3RQM_DFLugL7sBRf5nygxoszsA3ZEK39TFINptQBOq-lV57pY6GolcMW4MSIhWFsCqHmRMci-nGpxGNgcC2gsK-DMqpb6A*1794243881964*c4fb8d1cca6298b2837d4e52bd835b44fc22611896a4164e110e8bae3dfd7c67*L8EbjsQ4ZrF8FgWZRqqdOTyYGj9ADxYc_iMqGGYmG8g%7E2&authorization_session_id=01M70KQH4F820XNDNGMJEJX9WF",
    "title": "Sign in",
    "links": []
   },
@@ -267,7 +266,7 @@
   {
    "host": "crowe-test.release.enterprise.mercor.com",
    "status": "ok",
-   "url": "https://peaceful-harbor-82-customer-release.authkit.app/?client_id=client_01KZAB19YN03JZ5RJAVV9QEWFY&redirect_uri=https%3A%2F%2Fcrowe-test.release.enterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*2fac8d45a44adcfcc0acb4ca64dd8a43a37c731b7ecb7b6fb24378dbc3e0bf0c*UO3MY6OMBVFaWA_q9IjuIw*RgYsfXMdFA93EjvL9RIxs-2WAKNH0NDZBQEgRsQadXoX5CEd3h0MveJpOhPFshVUK1tUfiAaKlUvbnDAMnPe9kMqJ4yM9m75jXHals61reusPMepxUX8a7RwnqklhnyU0zk7FDX-zHJUDFPW3gg0AWF4Wa7lYx_NONm2s6kDofS2qQlnm4eegV3l-XwZ8yKk*1793638129272*ee5648afd92193385248ba2c2e01d91ee75b27110842c1af165b5a5914e8c067*VXZkipXYT9Ahz0Bmp1UMY8YvBE90zCXRdFQbTxAquOo%7E2&authorization_session_id=01M6EJ1DQZWB1R56HXT1ZA508D",
+   "url": "https://peaceful-harbor-82-customer-release.authkit.app/?client_id=client_01KZAB19YN03JZ5RJAVV9QEWFY&redirect_uri=https%3A%2F%2Fcrowe-test.release.enterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*6ad83bb6f752268ff15589babe19c6e23a07ece1da64181ac76cd2ae64e2e02c*xcl5vtUAyVrxQJa8kMwtKg*66Seiflq3uMQUte1u0heGpNVP4TrHED_XfET2Mi5s8DfIiAC78FSq8y5XXjNXUiYJzEucrVFg28fEbffgFWlnWGjDXz43XKadiXpw00uIGEXdaT1lfYf8Rvh4NnWtuFvf2cXt_neqfjK1_Rf3Z1CYDOv2EPd_t1Dh7mm7Zq_50OC68Ras0jo2VVcK_w7EOq5*1794243996373*d23a8e2d789bc1f9645c156ce755439d7d94e928dd3a036bb90cafbf3cab5df7*7OxL5bS-c39MPDM_NLqp90j6fpjyj5DrlGSPsnN23Qk%7E2&authorization_session_id=01M70KV0WVT28PE34901JQ4MT2",
    "title": "Sign in",
    "links": []
   },
@@ -308,6 +307,10 @@
    "status": "no response"
   },
   {
+   "host": "default.preprod.api.mercor.com",
+   "status": "no response"
+  },
+  {
    "host": "default.preprod.coil.mercor.com",
    "status": "no response"
   },
@@ -329,10 +332,7 @@
   },
   {
    "host": "delivery-api.mercor.com",
-   "status": "ok",
-   "url": "https://delivery-api.mercor.com/",
-   "title": "",
-   "links": []
+   "status": "no response"
   },
   {
    "host": "demand-gen-coil.api.mercor.com",
@@ -361,7 +361,7 @@
   {
    "host": "dev.studio.mercor.com",
    "status": "ok",
-   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLbUtswEIZfRaP7WAeKoZo4TEhCEw6ph7h00puMai%2BNBksyWjl1%2BvQdHDKlF3C7h%2F%2Fb3X%2BHF52tyQ4CGu8yKhJOL0ZD1LZu1LiNW3cPzy1gJJ2tHao%2BkdE2OOU1GlROW0AVS7Ua390qmXDVBB996WtKFtOMbri4S2fXZ5P1fJ1fXk1urmfL77w4zfmckocjViackgViCwuHUbuYUcllOhBiwGUhUvVJKn6aiJOzH5Tkr4BL4yrjfn08zc9DEap5UeSD%2FOuqoGQKGI3TsUdvY2xQMWYhlD4k%2FinqpPSW6aZ5jW12EEqoN4JB9yS5A%2Ffn2cF61ci9qM4ZomcvZ6FkjAjhRXXiHbYWwgrCzpTw7f72H0e3cZscFHvOsZ3pEllX3WzT5e68%2BvyQzmz8sj%2BZy05WdksPnqj%2BRuGNGR9vr48T0dG70kP2Rvlo%2FVJbWExzX5tyT658sDq%2BTxKJ6COmGjz2pap12EBpHg1UlIzr2v%2BeBNARMhpDC5SNDtD%2FX2z0Fw%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiI5NzZhODA1YjUwYWE0Y2NmMGNhMjVkNmQwMzliOGU0ZjUxOTQyNzIwNWM2ODFjNTlmOTdjZjIxMDI1ZGUxYWIxY2Y3MmViZjMyYTk0MDZiMWVhOTAyMzZhNjk5YTVjNGFkODNkN2EwMzg4NGFiYmIyNWVhMzkyZTAzZDkwMGI0M2M1MTUyZjk4MmQ5YjBhNDEwYzE5NjBhZmJkNzA5ZDZkY2U1ZjkxY2UyZmJhMGM0MzBkYTEwZGZlZWJkYzViMTllMjAzNTgzMGE4ZjM1YzRkOWU3MDQ0M2U4YTUzMzU2YTM5OGMwMmUwYTdkNGVjYzVjNmMyYWI0YmUwZTM4ZWYxZjI5NzBkODViM2M4NTUxMzZjMmMwMzY0NjY5NzkxMGE1MDUxYjYzZjUzOTFmNWNjODRmYzVlNjFkYWEyNDAxM2E2ODkxMzUzNDQxYjJmM2YzNmE1YzhlM2M0NTE2YWZjMTNkYWYwNmJhNzc1OGZkNGY3MjUwNDE3ZjdjZWJiYjI0MmEzMDQzOGRjYzU3ODhhY2VlN2VlYWQ0MjI4MmFlMmIwYWYxY2ZmZjk0ZDhkNTA0NmNiNjcwNzcwNzYzZmNjZmExZWYxYTcyZjZlODFjNTFhNzU4MThiNWQ2NDk2OTMwMGVkN2JmNzIwOTFjMTk0ZjY4NjJjMTEzODI1NmY1MDFiOWQ2NWFiY2FmOTc3ZjUwMjIyM2Y5ZmUwOTVmYzRmYTI1MTc4MDg1ZDA0ZTc2ZTI2NDZlN2FkYTU1NjM4MDlmYjg0ZDQ5NzUyZjJjMThmZjM2Y2M4ZTA1ZDY4YzcyOGU1MmNjYTA5MzM0YTM3NzgyYWE1OTkzOWI0Y2EyNmU3NzUyZGQyNDE3ZTU5YzI2M2UyZTgxMjhlMDA1ODFhYjk0MDEzYTk3NzA2ZTYxMDFjOTJiNTg4ZGZiYmVjMmEwZTc1MmQyOTE1MTJkMjQ1NDhhMTc5M2YyNjFmMzZhMjE5MWU2ZjY5OTY2NDI5ZmU1ZTQxNDNlOWQ2ZjkxZGE0ZmJlZjQyYTk2MWJjMjZmZjJlY2U1ZWE5N2QyODAxNDM2MzE2YzYzMTFmY2U0NGVkZmQ2YWRhNjBjYjJiNGZjNTM0MzcyYTliZDcyOGJkYjg3ZmY0ZDFmMTc3MDI0YTQzNmZjN2FmZWVjM2U1NTEzMjVlYjNmYzUxZTU2ZDM4NWVkNDg4ODMwZDZmNTczNTAyODFiZmRiNTdiY2ZjMjg5NzhiNjIyYmVhMzM2YjZjMDY4MGIwNzkzMTc0ODYwMGE3MGUzMzVlMGEzZmQ0Y2RjZTk3NzkzN2JmZjM3NzVmYjNjMTE0NmM4ZDYwZTAyZTZhZmJlY2Y5NWI3Nzc0YmVkNmM4ZTAzMTYyNzI5YmQ1MzdkNDk2YTllZTRlMzlmMjRlZjhhZDNiNTAxNjM2MjQiLCJzYW1sX3Nlc3Npb25faWQiOiJzYW1sX3Nlc3Npb25fMDFNNkVKN0NZUE5WRDNWUkZEMU5IQjYzV1MiLCJmcm9tX3BvcnRhbCI6ZmFsc2UsImlhdCI6MTc5MzYzNzcyNSwiZXhwIjoxNzkzNjUyMTI1fQ.X1MVM8L35BVkIhiLcDt3iFhemH6pWw8gjROllxvpxts",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLbUtswEIZfRaP7WIdAIJo4TJq0JZRQl5h02puMai%2B1BksyWjl1%2BvQdHDKFC7jdw%2F%2Ft7r%2BTi87WZAcBjXcpFQmnF9MJals3atbGyt3CYwsYSWdrh6pPpLQNTnmNBpXTFlDFQq1nq2slE66a4KMvfE3JcpHSLRerM76SfH46PPl2JcYbvskXWT78fkXJ5oiVCadkidjC0mHULqZUcjkaCDHg41ycKc6VPE2GJ%2BOflGTPgA%2FGlcb9fn%2BaX4ciVJd5ng2yr%2BuckgVgNE7HHl3F2KBizEIofEj8Q9RJ4S3TTfMc2%2B4gFFBvBYPuQXIH7u%2Bjgx%2FrRu5Fec4QPXs6CyUzRAhPqnPvsLUQ1hB2poC72%2Bv%2FHN3GKjko9pxjO9MFsq78Uo1udufleDP6aOPn%2FfBSdrK0FT14ovobhRdmvL%2B9Pk5Ep29KT9gL5aP1N9rCcpH52hR78skHq%2BPbJJGIPmLKwX1fqlqHDRTm3kBJyayu%2FZ95AB0hpTG0QNn0AH39YtN%2F&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiJiMzRkMDk4NzhkZWM3N2U4MjliOGQxYWRlODI5YTI4Nzk4YWZhYjIwMGI3NGMxNDIyYzgyZGVhZjJjZDNlOTZkNGM4Zjk3NjQ5OTZjYzFmMjMzODE3ZWFiM2VmMDdiNGQwMzE4N2QyNWUyYWViZTU5YjkzZDdkMTZiNjhjNDFhNmIzZTczNjYxMjEzZjYzZGYwMWY3YWExMmZiMTExNDYxYWZlNzJiMWI2YjZjYjAyNzE5MWM3NGUzNDBkNTQ2ZDBmMjllMDcwN2JiMDU1YjUxMDhlOGQzZTZjNDdhMWI3YTQ4Y2Q2NjZjMGVjNDgyYzI1ZmUxZWRiYzAzNWNmNjIyNGZjODk5ZjY0ZTVlZjE4NTk5YWE3MzBhYTJkMDg5MzQ5YWUwMmEyYzk5NmExODBiNDI4Y2QzOWU0Nzk2MDRjNTRjMmRhMjU3MGRkOGZiYWYxYjg4OWQ1OThjMGFlYjE4YzY1NGMzYTBmMzVlNjRjNDMxYTkzYjNkZDgyNmQ4Yjk0NGMwNGRmYzI2MDViY2JkYTEyYmZlYmJhNzQ3MzgxYmU3M2IyMzQ5MTA2N2Y2MjU5MDJlOGFkZGI5ZWEwYzI2NjU4YmVjYjNmZmM4Yjg1NmZiYzgwZDA5ZTA1MWFkZjFiNGUzMmQyOTAzM2FhZmEzMDczNWE0ZWQyMDI2ZDMzZTA2YzAzMTA0Yjc0ZjMzNGFiMDk0Y2YwYjE1YjRhOTI5NGFmZTNiODE3ZjA1NDdmYzU2M2E1NWI2MTUxZDVlZmQ5MTIzMWMxMzlmZGJjZDc2NGMzNDc2ZDdkMWI0NDgwOWFjYzc5OTExYzczNjVkMDY4NDk5N2M5ODVhYmMwYzE3ZGY4MzMzZmI0OWQ2MmI5NmNkNzI3NjdmNTFhMTE1NTZlNTUyMmU5MzQ5NDU4OWMwZmQ3NWM2NzljYzMzYTJlYWZkNGNlZDQ3YzcwNzgzNjBjMjVmZjQ0ZTcwMzE4MjZmOWUzMzlhMmUyMTRmYjFmNGRiN2E1OWJkMmI5YWUxOTBhZWFmZDA5NzQ0OTBkZTE4ZDVkN2Q0NTE5YThkZjUzNTBhMGI2OGVhMDY4NWUyNDRiN2M1NmRiYjJlMzM4NjMxMmFiMmNlOTM5OGQwYjUwOTE0ZWQ5M2VmYjJkMTgzMzVhMzE5MDdlMWMwMDNmNjBjYmNmYjQyOGNjMzhkZDU4ZGFkZTgxMWYzMDc4MDA0YWExNzFlMzg3YjQxM2VmODAyYWZiOTUxMTEwYmIwYWQ2ZDBlMGQ1Mzc4Zjg3Yzk0ZDUwNGJiODQ1NDMyOWI5NWJmODQzOTYwNTYwZTU0YzRlOTMzODY2MThlM2Q1YzY1ZTYwYjZkNTlmNmUyNjQ5ZWY4OTI4MWY5NDViMzY4NWJjNWE2N2YxZjZmNzE5MDljZTQ1NDg0ZTI0MzIzNmUiLCJzYW1sX3Nlc3Npb25faWQiOiJzYW1sX3Nlc3Npb25fMDFNNzBNMjBDNzZOMTZSTjFSODJZUVJDQTEiLCJmcm9tX3BvcnRhbCI6ZmFsc2UsImlhdCI6MTc5NDI0MzYyNSwiZXhwIjoxNzk0MjU4MDI1fQ.Qw6uQJRncJh_bKGIIcCeH-WXrTBMxFi4jsEwMpnch9g",
    "title": "mercor - Sign In",
    "links": []
   },
@@ -385,13 +385,13 @@
    "host": "docs.mercor.com",
    "status": "ok",
    "url": "https://docs.mercor.com/login?redirect=%2F",
-   "title": "",
+   "title": "Log in",
    "links": []
   },
   {
    "host": "enterprise.mercor.com",
    "status": "ok",
-   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*e1b43fc612e63ff1bc3d2a5bd35ac0f542706a9abda880457de2f3a8a1252d36*yhn-CtC9ltJQcNw_t5Zbiw*g0ZqR7oyQ9N1hYHBWJ8TqagFC2U-2IQ1QaRMK9XAZDCgIrzl4qDWds3cC-AH7wkBGTp9J8eXEbZs68kwjZ3TvHZaIieJRy29HT5vfPXR_S3ffK_q9tMTYk3-_LKBD-ZvGD1Pf6-Em7WSK4iHWsTnGrXQwvIphNngzu6IS3r5ZbdACQNK4wgpR5P7_lAMgZO5*1793638375506*39358300fcca0a0e23644e89e0f7a3689b0b3b37dcc95fd75100cfe968fac103*3fjFBMCCy0UkAjihOsx5MKH0IQcpjq2wIKDw7-7x0IA%7E2&authorization_session_id=01M6EJ8Y6MAKNVZ9Q7BW9P0KCS",
+   "url": "https://auth.mercor.com/?client_id=client_01KANN59BAK8ANMBJGPFDGBB9N&redirect_uri=https%3A%2F%2Fenterprise.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*230aa4d376d7821376b770f54ed0242892b8d9d01f12f4cd272e72b506d5e6dc*dMypVfKeCIhKMh2RWZ_xYA*C0OInOkfyq2xE1TyE45T-D6CpBLhuDuQL_9RHWRAbBPa_3h4s-uAEEfavOp8xHqJUr7af2qGTNnFtj6Q5_V8BUZA0uV1lJTLUHIMeCRQAkUKeHQVZ23T6ZbfETeQwuD-RPALLjqK0UZcGueZ3g5DyAl-68dwFoxN9bnkIJlMm5B7h30onWSN_NGbqyyz0kZH*1794244241858*0021f18453eb77eeb56448c3739c44c603a635ec065e58d8fcc6d81f211c1f3e*xF9DQZYczkGt1qFz2cepi-sqXM7ar1Z1nE6KCufO8I8%7E2&authorization_session_id=01M70M2GM2HA18CKJTRNAHHXKE",
    "title": "Sign in",
    "links": []
   },
@@ -515,7 +515,7 @@
   {
    "host": "indigo.mercor.com",
    "status": "ok",
-   "url": "https://mercor.okta.com/app/mercor_mercorenterprise_1/exk23mdu1bz5BHhCc1d8/sso/saml?SamlRequest=fZLbbuIwEIZfxfI9cZwuLGsRqnDYFnrKkiwVvUEmmYJFbGc9Tsvu068aitpetFcjzeH%2FRv%2FM4PygK%2FIEDpU1MeVBSM%2BHA5S6qkXS%2BJ1ZwJ8G0JODrgyKthDTxhlhJSoURmpA4QuRJTfXIgpCUTvrbWErSmaTmK5DftObzq%2FCq2weLtMoS0bj%2B%2Fv87LabU7I8YaMgpGSG2MDMoJfGxzQKo16H804Y5bwnvvVF1A2%2BR%2FyBkvQVMFKmVGb79TabYxOKyzxPO%2BldllMyAfTKSN%2Bid97XKBjT4ArrArv3MiisZrKuX3PrYwDjwdVOIaw5g8M%2BOtNlwzf%2FuqPL3bjgZZ8hWvZiECUJIrgX%2FbE12GhwGbgnVcDvxfUbUTZ%2BFzxbt7fYEk%2FjTBbI8MFPf2x%2FXUwvVtvJ0uF81d%2Fu71abBT1eR7RuuXdn%2BdoHedqIDj%2BVHrB3yqcnuJUaZpPUVqr4S35ap6X%2FnMQD3mZU2XlsW0VjsIZCPSooKUmqyj6PHUgPMfWuAcqGR%2BjHZxv%2BBw%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJ1c2VyX21hbmFnZW1lbnQiLCJyZWRpcmVjdF91cmkiOiJodHRwczovL2F1dGgubWVyY29yLmNvbS9hcGkvY2FsbGJhY2siLCJzdGF0ZSI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0ltdHBaQ0k2SWpOaE5qSmtZMkpsSW4wLmV5SnpkR0YwWlNJNklrWmxNall1TWlveEtqY3hNRFkyWldNMU1tSmxPR0prTkdFM1lXWXlPVEJpWlRnd09USmxPRGcyTldZNVpqZG1ORFJrTWpWbE9UQTVaVEpsTVRZd05HWTNPRFEwTlRCbVptRXFkM0JPV1haVFNtWXlRMHBtYWtSMlduVlZha1ZFUVNwblkwZ3hSRk5MUkhGUmJsOW9UVXhmZEZWRmIwZHBjV05vWkRSTVkzWk5ka1JOV0ZwVmRUQlhlazV6YWtKdldqUm9VMWxZTTFwRFoxaEdlREIzVERCZlNGWTNSemxMWHpGS1VTMWtWMVJFYkVwSVdWRkRlR3M1YjB4c2RrNW1SbE5zT0RGYVN5MDNiMEkxU2poUVdEQllPVVp5VDFCUlgyNDVUV3AzYlhSTVMzTmlSVXRITUc1UU4wSkNTemRKVldOckxYbHlVblIxUm5OWlRHdFZVbk53VkZkVWQxZEhWVTlDY0ROaWRHMXFSMXBrVlhwVlkzRkRVbko0ZVZOMk1tVXFNVGM1TXpZek9EY3dORGsxTWlvd016ZGtPV1EwT0RZNU5qVTNOalV4TVdFeU5qTm1PR1ZqTnpFM1pHTTNaREZrTW1ZMk1qWXdOMlF5TmprNE1USXlOR0kxWm1Zd01HRmlaVFE1WldNektrOHlOMWRPY0daSllWbEVVelJXVUdWWmJEQndiamhEVUU0d1lVTkJYMUl0TTJaeVJ6RlpXUzFxUVVsLU1pSXNJbkpsWkdseVpXTjBYM1Z5YVNJNkltaDBkSEJ6T2k4dmFXNWthV2R2TG0xbGNtTnZjaTVqYjIwdllYVjBhQzlqWVd4c1ltRmpheUlzSW1GMWRHaHZjbWw2WVhScGIyNWZjMlZ6YzJsdmJsOXBaQ0k2SWpBeFRUWkZTa3BhV0VJeVJ6aFhNakl6VjBoRlNFdEdUVGt3SWl3aWMyOTFjbU5sSWpvaWMybG5ibWx1SWl3aWIzSm5ZVzVwZW1GMGFXOXVYMmxrSWpvaWIzSm5YekF4UzFNNFVFVTFXVUphV2xSUVYwUldWamRXV1ZCRldUWllJaXdpYm05dVkyVWlPaUoyT0dneU5tNTRhRE5rZUZjdk1pdE1kM0pSVDFSTFZHZ3lVbTQ1T0haYVlscEJZMDVtV214alZrRnZQU0lzSW1saGRDSTZNVGM1TXpZek9ERXdOWDAuU0dMWndRb0JmSGg1YUZ0aUg2eC1oN05TWVVUTFNLUUV1eVVBQnNiZ2tyZyIsInNhbWxfc2Vzc2lvbl9pZCI6InNhbWxfc2Vzc2lvbl8wMU02RUpLMEtZNUNLUFNZUFcxMjhUR0ZRVCIsImZyb21fcG9ydGFsIjpmYWxzZSwiaWF0IjoxNzkzNjM4MTA1LCJleHAiOjE3OTM2NTI1MDV9.hca3bGas3zr0kvy87sh0tcL-H80z6z0soCE-h9utEB4",
+   "url": "https://mercor.okta.com/app/mercor_mercorenterprise_1/exk23mdu1bz5BHhCc1d8/sso/saml?SamlRequest=fZJvb9owEMa%2FiuX3xHEYUCygCoQCW2kzYGjwBpnkChaxnfmclu3TTw1F6160r066P8%2Fv9Nz1bs%2B6IM%2FgUFnTpzwI6e2gh1IXpYgrfzQL%2BFUBenLWhUFRF%2Fq0ckZYiQqFkRpQ%2BEws4%2Fm9iIJQlM56m9mCklnSp7uQzzvhfJik07vFcDweTTrxt%2Fa2vf75hZL1FRsFISUzxApmBr00vk%2BjMGo3OG%2BE3RXviLAlms2gG7a2lKRvgKEyuTKHz7fZX5pQTFertJE%2BLleUJIBeGelr9NH7EgVjGlxmXWBPXgaZ1UyW5VtudwlgPLjSKYQdZ3A%2BRU2dV3z%2FpzWcHkcZz28YomWvBlESI4J71R9Zg5UGtwT3rDL4sbj%2FR5SVPwYv1p0s1sTrOJMZMtz6cffwfTKebA7J2uHXzc3h9LjZL%2BjlOqJ2y707y%2Bc%2ByOtGdPChdI%2B9U74%2BwYPUMEtSW6jsN7mzTkv%2FMYkHvM6ovPFUt4rKYAmZelKQUxIXhX0ZOZAe%2BtS7CigbXKD%2FP9vgLw%3D%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJ1c2VyX21hbmFnZW1lbnQiLCJyZWRpcmVjdF91cmkiOiJodHRwczovL2F1dGgubWVyY29yLmNvbS9hcGkvY2FsbGJhY2siLCJzdGF0ZSI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0ltdHBaQ0k2SWpOaE5qSmtZMkpsSW4wLmV5SnpkR0YwWlNJNklrWmxNall1TWlveEttRTVOV00wTWpBNE1URTJNek0yWmprMVlUWmlObVJrTkdFd1pHWm1NREppTURVd01URmpORFl4WWpWaE5XUXhNamxsTUdJeU5tSTNPVGc1TVRVME5XRXFjMFZEYmxWM2NpMTZSRGxNYm1GSFkzUjZabU0zVVNwS2RWOUtjV2RwTW5OdWVGcDVhek16YUdWVk1sUTRWbDlJYkVOSGJHMVlSMUo0ZGt3MlkxVlBjMmRzVTFOVU5GRlNhWEF0U3pkeWJrWkZiMnRyUlZCUk5sSXdWbGxNT0RsTk4yeEpNSGN0VTA5aWNqQTJPVFF3VHkxVGQyeDRPR0p4Tnpac1FYbEdUbFJJVXpkc1RWcEhOamx2UW1JM1JFWlJSMjVmTmpKcU1FNW5NakIwZVhsc05uQlBSVmR2UkZGdlUybE5ZWG81WHpsMlZXUm1URVkyWTE5Q1ZqZFZabGswUWxSRU5YQkhTa2wxWTJKdFRGSjNhRlYyZFZOcFFXMHFNVGM1TkRJME5EVXpNamcyTnlwaU5qRTBZMk15WWpFNE4yRmlaVEUwT0RabVpEQTROREF5WWpaallUSTJaakZoTjJaaE9HSXpPR1k0T1RJeVl6QXdaR014Tm1Kak5XSTFNMk0yTVdZeUtrOW5RV1J4WDA1c0xXTklUWGxTTFZnMlNYUjJkMVZyTUhKRGJVMW1SREl0VDFCU1dGQkhja0ZQTXpCLU1pSXNJbkpsWkdseVpXTjBYM1Z5YVNJNkltaDBkSEJ6T2k4dmFXNWthV2R2TG0xbGNtTnZjaTVqYjIwdllYVjBhQzlqWVd4c1ltRmpheUlzSW1GMWRHaHZjbWw2WVhScGIyNWZjMlZ6YzJsdmJsOXBaQ0k2SWpBeFRUY3dUVUpEVkVVeFMxZ3lObFpLTVUwMU1Vb3hUVmMwSWl3aWMyOTFjbU5sSWpvaWMybG5ibWx1SWl3aWIzSm5ZVzVwZW1GMGFXOXVYMmxrSWpvaWIzSm5YekF4UzFNNFVFVTFXVUphV2xSUVYwUldWamRXV1ZCRldUWllJaXdpYm05dVkyVWlPaUoxZERkSGRHcDZhbFZsVVdrNGFuSkpkVU5QUzJZck1IcDJiRXB5T0ZWUlVFeFFNV0VyTVhOdk1HMWpQU0lzSW1saGRDSTZNVGM1TkRJME16a3pNMzAuOU9VQ0h3SklYSzVySDF0LTl6dXM4WVZWTlh0cEREWHczMFNxRFRGZG5WdyIsInNhbWxfc2Vzc2lvbl9pZCI6InNhbWxfc2Vzc2lvbl8wMU03ME1CRFBXNldQMTJQU0RXMzNCMk45VyIsImZyb21fcG9ydGFsIjpmYWxzZSwiaWF0IjoxNzk0MjQzOTMzLCJleHAiOjE3OTQyNTgzMzN9.b5FhfbRTqp1-80hEuXWYYJ9DohGfDU6qlsA_G-bmomg",
    "title": "mercor - Sign In",
    "links": []
   },
@@ -645,10 +645,6 @@
    "status": "no response"
   },
   {
-   "host": "mcp.novu.mercor.com",
-   "status": "no response"
-  },
-  {
    "host": "mercor.com",
    "status": "ok",
    "url": "https://www.mercor.com:443/",
@@ -666,6 +662,11 @@
     },
     {
      "url": "https://github.com/Mercor-Intelligence/apex-swe",
+     "kind": "hosted",
+     "text": "Code"
+    },
+    {
+     "url": "https://github.com/google-research/ple",
      "kind": "hosted",
      "text": "Code"
     },
@@ -701,6 +702,11 @@
     },
     {
      "url": "https://www.mercor.com:443/apex/partner-benchmarks/harvey-lab-leaderboard/",
+     "kind": "page",
+     "text": "Leaderboard"
+    },
+    {
+     "url": "https://www.mercor.com:443/apex/partner-benchmarks/ple-bench-leaderboard/",
      "kind": "page",
      "text": "Leaderboard"
     },
@@ -768,13 +774,6 @@
   {
    "host": "nexus.internal.mercor.com",
    "status": "no response"
-  },
-  {
-   "host": "novu.mercor.com",
-   "status": "ok",
-   "url": "https://novu.mercor.com/",
-   "title": "Novu Cloud Dashboard",
-   "links": []
   },
   {
    "host": "office-crowe-test.release.enterprise.mercor.com",
@@ -1020,7 +1019,10 @@
   },
   {
    "host": "staging.atlas.mercor.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://stage.auth.mercor.com/?client_id=client_01M4Q383DMY8J6RG40489P9HFW&redirect_uri=https%3A%2F%2Fstaging.atlas.mercor.com%2Fauth%2Fcallback&state=Fe26.2*1*3dd7bd00c5f8aa54cb298b333f572b658be23cdc2f830786d489d58b80004ca7*qa_AySl9WHd9HBo_BHn6JQ*pzYoVGZGxXPDCBwO4-bze-BEuM5Vn8o1vbPNe0eny724Iaz-6_zTu4SCUhphPjH1O_M1NHEFT8OkKvohbVF_oIoMa5LCmEVxgu0Ok2hD4vpUJXlBwrb4OjY2zl710p5KLWeSeVj-uyCRuCxWvqeB9xPkehVWKYaw7cqokXzeioLb2M8lwljBrXU1mi8FxdmO*1794245146142*078aadf6d16a7c65a2f9a11a783a4ba4bf5d3b0de446ed80c24847d13e93d3fd*irxErLjkaTz3eTbR5jF6khS_FM51cWH3HAMUynMASBU%7E2&authorization_session_id=01M70MY3P8CQD5HHS5W46GNCVB",
+   "title": "Sign in",
+   "links": []
   },
   {
    "host": "staging.short.mercor.com",
@@ -1029,7 +1031,7 @@
   {
    "host": "studio-tutorial.mercor.com",
    "status": "ok",
-   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLdTuMwEIVfxfJ949iwLVhNUUoLVNBSaLYS3FTeZNhYxHbwOCXl6REp1bIXcDs%2F55uZM8Oz1lRkCx61swnlUUzPRkNUpqpl2oTS3sNLAxhIayqLsksktPFWOoUapVUGUIZcrtL5jRRRLGvvgstdRclsktBNzOf96fV4%2FPArFYvLQbae3z2Ki2nKU0rWB6yIYkpmiA3MLAZlQ0JFLPo9znuxyPhAxlweH0WD49NHSpafgLG2hbZ%2Ff57mz74I5VWWLXvL21VGyQQwaKtChy5DqFEyZsDnzkfuOagod4apuv6Mbbbgc6g2nEH7LGIL9u3FwsOqFjtenDBExz7OQkmKCP5D9dxZbAz4FfitzuH3%2Fc0%2FjmpCGe0VO86hnakcWVtcl%2F3F9qQ4XfenJlzujq5EKwpT0r0nsruR%2F2LGz9urw0R09K30kH1RPli%2FUAZmk6WrdL4jF84bFb4n8Yh3EV30nrpS2VisIddPGgpK0qpyr%2BceVICEBt8AZaM99P8XG70D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiI2MjkzZDdmY2ZmNmNkODIxZGU0MDYxNTU1MGQwZTk0ZDQ1NDMyODY1OTdkMjFmZDFjNjI0NDRmMGZjYzQ1YjRmZjJiZWI4OTMxNzUwNmQ5ZDA0OTM1YTM3MWJhMDIyNzFlOTk5OWMyNzMyZDg3ZTA4YzkyYmZhZDk5YTI5NmY5NzI3MGQ0OWI5ZTFhMjhiNWE0MzgzMTQ1YzFiNTdiZDA5YTE3OTk5MDIwZDA0MmYwMzdjNzI2ZGFhMGIwYTZjNDVkM2VhOWI0MTAxNWZhNTM3Zjc4NDk4NGEwYmJlOWM1ZjEzNTk5YjM0MzUwNzIzYWU3MjZlYTMwMDRkOTYzZGFkMWQ5Mzc4YzlmNmQ5YTg4MWVmYTFhYWVjMGFlOGY0NjhjM2JjN2UzODgxNzJiN2ZmNzQzNjQyYmRhNjQ2MmI3MzcyNmUwOTQ4ZjA4NzE3ZWEzZWQ0NjNlMjU1ZjlkMWEzNTkwY2I4OGMyNmVlNTdkNjNjNGE2N2U2MjM1ZGNjZTcwNTU3MzM5MDg1YmFiMDNhOWQxZjUyYzEyYTMxYzI5ZWI5NjkxNzdhYjcxMTk5ZGFlOGMzZDM5YTc3NWZlMzE3YWVkNmYzYzk4OTg4NWEzM2UyMTY5NWVkMjZlMmVkYjA0ODc5ODA0OTU3ZjRiMWI2YTc0NzYzNTlhZTA1MjEzOTJhMDc4MWY4ZjJjMmUyNmUxZWRmODVlNDFjZjliNGNkNjU1MjFiZGZkMTE4M2MxN2MxNGQzMjM0YTYxNGMwYjAyMDNkNDU4YTE5ZWE5YmI2NTZmZWU4NzZjMjg3ODdhNGYxMTQ2YTFjOTlhZTQzZGY0ZjBhYTRjNWYwODA0YWYwOTEzMTI3MTM2MDUxNzU1MWJjZmIzOTkxYTAzOTQyYjEyMDdhOGJhZGRjZTU4MmZkZjFlMTM2OTgxYmQxNzlmYWU1NTQzYzZhOTgwNmU1ODgxZWE5OTA4ZjQ4NmRjYzUxYTE3YjFkMzM2NjVjNjg0YjAzOWMzOTQ2N2NkMWNhMGE1ZDcyNGJmMDU5MTNiOWEzYTQxNGZkZTkzZDFjOGRhNDk1MDc4YTBkMjViOTQzOTc0YTdhOTA3YTczOTczZTc4ZTcyMzAyYWY3NTBjODYyZDljN2YyZDRiY2E4NWY5MzE2NTBlNjFmMTBhMTEzMmE3Zjk0NzRjYTNkODM1ZDlkYWNkOGQxODQwNTM4ZWU3ODM3MDc1MTc1YjAyMDg1ZWE5M2JkMTIxYWI3YWNkN2ZlMDRmZDhlYzEyNmY3OGQxMDU5ODExMTBiMzg4OWNjYjdhM2Y1OTQzMmI0ZmI3MzIwYTE3OWQ5NzVlNDY2NDI4MTJjMzZlNGQ5ZGRkOWQyNWRmMmE4NWVkNWE4ZDg1NjBkNTdmMWI3NGNkNDQxYzg0MTc3ZWNmMmQ5ZmUxNThkZTY0NzIxY2IzIiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTZFS0JCWTcyMU5CNU5QRFRQOEE0MldDIiwiZnJvbV9wb3J0YWwiOmZhbHNlLCJpYXQiOjE3OTM2Mzg5MDMsImV4cCI6MTc5MzY1MzMwM30.AdB8lasfU2zvJcegywMw9ArkWxEnqm7TW0K_dt2SFZU",
+   "url": "https://mercor.okta.com/app/mercor_vercel_1/exk20nenzqneYSp2y1d8/sso/saml?SamlRequest=fZLdTuMwEIVfxfJ9YztIaWs1RaFloYWyVdtFCzeVNxmIRWwHj9NNeXpESgVcwO38nG9mzoxOW1ORHXjUzqZURJyejkeoTFXLrAmlXcFzAxhIayqLskuktPFWOoUapVUGUIZcrrPFtYwjLmvvgstdRclsmtItF4s%2BX9zHk%2FlFliR38%2BFwxRdn5%2FO%2FnJLbIzaOOCUzxAZmFoOyIaUxj5OeED0%2B3Ii%2BFIkU%2FSgZnNxTsnwHnGlbaPv48zT%2FDkUoLzebZW%2F5e72hZAoYtFWhQ5ch1CgZM%2BBz5yP3FFSUO8NUXb%2FHtjvwOVRbwaB9irkF%2B%2FJs4W5dx3tRDBiiY29noSRDBP%2BmOnEWGwN%2BDX6nc%2Fizuv7gqCaU0UGx4xzbmcqRtcVVmdzsBsXwNjk34WJ%2Fchm3cWFKevBEdjfyn8z4eXt1nIiOv5UesU%2FKR%2BtvlIHZdOkqne%2FJL%2BeNCt%2BTRCS6iC56D12pbCzWkOsHDQUlWVW5%2FxMPKkBKg2%2BAsvEB%2BvXFxq8%3D&RelayState=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEyOWEzZmRjIn0.eyJhcGkiOiJzc28iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL3ZlcmNlbC5jb20vYXBpL2F1dGgvc3NvL2NhbGxiYWNrIiwic3RhdGUiOiJkZmE4MWZhMGMzZWQzMzE0YmZkYTQ2YzlhNGRmNjQ4MmExNGMzZDg0NjY1YWY5N2RmMDA4YThiMzJlMjg5ODJlNTE0NWU0ZDk0NGFiYzhmODhkZDlkZjkwZjc3NDM4YzhlNjFkYmE4ZTQ0YWE2ODZhYzZkNWZkMzJkN2M0MTNmNDhlYmM2ZjY5ODgyMGJlNDc1ZDYwOTZkNTRkNDYyNThhYTc2MmNlODQ5NDkwZjkyMTVjZGFmOWY0NzMxMzdiOGExMjNmN2EzOTQ3YTVjY2FlYWVlOTc0OWQ2NThlN2EyNDY3YjliNDdkN2U5NjUwNmJiNWE3YmRmYzQwY2JlM2Y2NDEyNmY2OWYyMjhkZTcwODU3MjJiOTkzMGU4YWQ1MDM0ZThhMThmNTdhMzBhOTdkNDBmNTE2NDFlMTA1NjZjN2E1NzdkMWE0M2M0ODQwZjk3N2QxMjc4ODcwMGIyNzUyNGU2Mjk0MjcwZTQ3ZTg0YWNkMWRiYmIzNjgwMzQyNTQ5ZDQ0NzFkY2VlMjAyNDZiNTBkMzk0MWIwNjBjMmQzMDMxYTJiNjI2YmU3YTI3ZGYwYmE3NDM1MDgxMjg1NmQ0OWIwODg3NTczYmI1MTkwZDE2OTE3N2MzOTk0NzFjNTBmNTJhNjI0NmE4YzkxYzY5OGRhMmVlZDA4MjBmMTNlZmNiZjMzYTIzMDk5MWYyYmVjNTkyOGNjNGU4M2ViMmE2YjA2ZDRlYTYxMTY2YjYwOWJhYjdkMjBiODY5ODVhNDg2MjM3NzMwNmY1ZjUzNmVkZWVlNTU0ZGNkOGJmMTg0ZTI2NTZjMjI0ZmRmMTYwMTA3YTM4ZmJmZGQzODY3YjBjN2Q3OThlYWFlMDRhYTgzYzBkNWM1OTVkOThjNmE2ZmVhYzQ0Yzk2YjZjMGMxY2Y4NDgxZGZiODYzYzhiY2FmYWZkYWJjMTBlNWY3NzhlNmZhYTVkNTBhMmU0NDljNTc5YjI0ZDEyODE3MWJhYmE1MDkyNzNmMWNhYmNiMDI5NGJjMmQ4MzMwMzA2MzI1Y2NhNTg0OTgwNWE4Y2VmNmM5NjNjZDU2MTg5N2E4YTg2ODRkYTJjNGFhZmQzOTc5ZWY1MjNiOWM0OTYzMzU2MjU5OTAxNzk5ODNhMjEwOWVlNzFkNWM2ZmYyZTY3ODNhYjkyY2IxNzk2OGZjOTEwMTkzODA5NTk0YjkwOTE1N2IxYmY2NGVhYzgzNmE5MzJjZWFjYTgzZjE5NDgwZWE4NWI5NDg0ZmIzYzA3YjYxMzFiMzljMWU1YTA0ODFjYWNhN2JhNmQ2NGNiZmY4Mzk4NzhlMTJmY2IyNmIwYmYwNzM3NDIwNDIxNzlmYWI2YWRjMGU0NWVmMWNmNjA5NmIxODc1NDhkYWVkZmVmY2E0NWU4ZGNmZDA4YmVhYTAxMDBjNTk0MjcyM2M0Iiwic2FtbF9zZXNzaW9uX2lkIjoic2FtbF9zZXNzaW9uXzAxTTcwTVoyQ1AxNEQwSkc3Qko3V1lBWlgyIiwiZnJvbV9wb3J0YWwiOmZhbHNlLCJpYXQiOjE3OTQyNDQ1NzcsImV4cCI6MTc5NDI1ODk3N30.vFr-T598iQq1rZcmOPQf5O8V1KEbCs408NuRsWuJkPs",
    "title": "mercor - Sign In",
    "links": []
   },
@@ -1139,13 +1141,6 @@
    "links": []
   },
   {
-   "host": "vertex-usage.mercor.com",
-   "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-821142169%3A1793639113554248&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=5Dc-3UQiXfZm-umXD1G75s64WRC1jDt3JGBk5Z45Hds&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEo_E_JDu6qrIlmXXfZ9RMvMUm_jQy88mGT9DrNEikwbCA00bjkpLljwor47xZZIBW7EKK170L1jMMWMKuQkVr8YTITH9KCF69095oVOb9xYjXUeVW5-m53qGgL9bqFJ8cbgE7HKf9W1jJcugTu__ZMqGVWEBQl-S8Y1YknuM4VCepQPksKaNl2l2x5AnN8Gv7b6-9HPZDkISN7hRSYz1SRJ2K67d60ZV7OVZ-V3NafMR51jWXrDzvTjQ353g2r_f3rArk8mwWHTxTXitCjhplyQ2uQSZ3mdi2EK68NIcUDnLaitTOeUwF55hI9gjTXVdjV1WM9SIt8YXSKwC2seLvpH1gQWdblY4l0tSvyrpZbLVwB1wqcg2U2GdtaKO36HSBMKceEXT9qvlv2q3JNfBE4EAuZRnlqPv1fXScSkRpECw8oonyE_cUgJHpjJpHXLE_YQVOPAgZsDLRo7DDeuZELN8pHEbUHq7k_UcycSItWYx9-qHm8xlumeHXIwN1NPbPcvpJQnHmxowSw7sqbRrVZKuEQHHafzQDhOotj8RberN12Vq4GYpKJ8hB-ZUL63SJLeHEOdkSsH8fd441YfjnXBAMbHb3XvucVBR8wvDtJJsGwTxKjqiV2_Gy9-K15rq_iJvOzN0m_e6aGUrrAFYlVRWmNhxwJCR08OC916NlxV2Tr3WsE8S19po1zdfAi0LGg-ymMC6E1VgiEXmPNa3RP56wtDVIyzO2kUvkwnOFbwa7dfgfqAoJuSICRwYXJvWftvA_ZVgM_f6CnloVmoZH3pIP0sCuPMdHGFMRWtgE1sZKA4KVR-zHylGIx2-LQ9Tl5eIubRoaMe6CCM-LlwjFGfaoQ_8wb-zqVPaZL6YZhiS7550NM5q2coB8m9ID2n1J8bLXuHfWWmgoYDnzX9Ok1N9RWs9R7PSt_LylS4VQZgu7Qf-6kyHdaj1niXPhpGTcorwdOjYETWsTEI5sqRCWiUOIqyXruSivZOto-btDSTQIbSodhzJ8uyrr60lLMdBmBL5IlUZd8kaAWMVJl03jMHgGl0Gvi3EtTrSNj9GY9-CrZVuakjm5TDzi_HHwcoGerUxo3T8RRa60JvlU_-sZADBeHkLnOFzgupPCjeJhrVkqUbRbRFXGFYLZdG3e4Ycm6U1pwyLMEyvUlVnzVqH6&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAM1EgoOXQnwXTOx-ybfR07129zObSgT67HT__emRy2ygZ3HfmZILaP0FwwI5_ENg8wgZSwSgvibfUJKdsmJSsmxB6vBSq3nvS4yRpOAQduURGcgbKxH8u45qVzLg3VwEDxI49S7LvMfiw3ZpkK1ggd8i99B0L4w6Z5wnRjhOz4WOD1vvpODxg0y873W4oMP3BEOir1k5R2rU89-UcRAmOVwRnlA9gTuo5LmDnM2Y0aUJUQiftpokafXLjWztHOpoghHJtq-AdU_w-P30Uo7FOk4_DLFwP-wguITBbgybk3sS9DnzIeIBSXOHAwl2l1BKarPFTcAvKFDdCxVTsgZbXj_-zq3nFT0mWs9qF3H71VRm2erIvKMeWdQQDHIvOyKHudvdJTF03pdy_fkxcmwTJVPgvpzGMwQE0-GQBwgzPz_UGjVVmmTN05WrzSz3b6A7Fkw-azihjMG7FuCrUnADUX_szKLgg%26flowName%3DGeneralOAuthFlow%26as%3DS-821142169%253A1793639113554248%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdnoyKvOJL6bzbpO9hBOxkxJ5rp30aMziUqM6TfeZrgp2LkETy1KHU1Ci9ekMiJULW2s6g2MfzIwZEJHCybETr9Mn635Qqaoo3KGrIj1EH579Q3QVc",
-   "title": "Sign in - Google Accounts",
-   "links": []
-  },
-  {
    "host": "vllm.studio.mercor.com",
    "status": "no response"
   },
@@ -1165,13 +1160,6 @@
    "status": "no response"
   },
   {
-   "host": "ws.novu.mercor.com",
-   "status": "ok",
-   "url": "https://ws.novu.mercor.com/",
-   "title": "",
-   "links": []
-  },
-  {
    "host": "www.mercor.com",
    "status": "ok",
    "url": "https://www.mercor.com/",
@@ -1189,6 +1177,11 @@
     },
     {
      "url": "https://github.com/Mercor-Intelligence/apex-swe",
+     "kind": "hosted",
+     "text": "Code"
+    },
+    {
+     "url": "https://github.com/google-research/ple",
      "kind": "hosted",
      "text": "Code"
     },
@@ -1224,6 +1217,11 @@
     },
     {
      "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+     "kind": "page",
+     "text": "Leaderboard"
+    },
+    {
+     "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
      "kind": "page",
      "text": "Leaderboard"
     },
@@ -1297,18 +1295,6 @@
   },
   {
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/methodology/",
-   "kind": "page"
-  },
-  {
-   "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
-   "kind": "page"
-  },
-  {
-   "url": "https://www.mercor.com/apex/partner-benchmarks/frontiercode-leaderboard/",
-   "kind": "page"
-  },
-  {
-   "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
    "kind": "page"
   },
   {
@@ -1449,6 +1435,22 @@
   },
   {
    "url": "https://www.mercor.com/apex/mercor-extended/ots-held-out-browsecomp-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/frontiercode-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
    "kind": "page"
   },
   {
@@ -1612,14 +1614,6 @@
    "kind": "page"
   },
   {
-   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/integration-swe/",
-   "kind": "page"
-  },
-  {
-   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/observability-swe/",
-   "kind": "page"
-  },
-  {
    "url": "https://www.mercor.com/apex/apex-v1-leaderboard/big-law-associate/",
    "kind": "page"
   },
@@ -1633,6 +1627,14 @@
   },
   {
    "url": "https://www.mercor.com/apex/apex-v1-leaderboard/investment-banking-analyst/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/integration-swe/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/apex/apex-swe-leaderboard/observability-swe/",
    "kind": "page"
   },
   {
@@ -1681,6 +1683,14 @@
   },
   {
    "url": "https://www.mercor.com/resources/apex/evaluation-concepts/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/what-are-ai-evals/",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.mercor.com/resources/apex/best-ai-platforms-llm-output-evaluation/",
    "kind": "page"
   },
   {

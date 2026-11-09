@@ -1,6 +1,6 @@
 {
  "domain": "afterquery.com",
- "live_hosts": 47,
+ "live_hosts": 48,
  "pages": [
   {
    "host": "accounts.afterquery.com",
@@ -31,7 +31,13 @@
    "status": "ok",
    "url": "https://www.afterquery.com/",
    "title": "Expert Data for Frontier AI - AfterQuery",
-   "links": []
+   "links": [
+    {
+     "url": "https://www.afterquery.com/blog/building-a-frontier-legal-evaluation-in-partnership-with-legora",
+     "kind": "page",
+     "text": "Building a Frontier Legal Evaluation in Partnership with LegoraHow AfterQuery and Legora built the Benchmark for Agentic"
+    }
+   ]
   },
   {
    "host": "api.prod.aether.afterquery.com",
@@ -53,7 +59,7 @@
   {
    "host": "auth.aether.afterquery.com",
    "status": "ok",
-   "url": "https://auth.aether.afterquery.com/?client_id=client_01KPZ99W676WM84MVMDMC1R841&redirect_uri=https%3A%2F%2Faether.afterquery.com%2Fauth%2Fcallback&authorization_session_id=01M6EHJTF7C0B51WV1N7JHA4ES",
+   "url": "https://auth.aether.afterquery.com/?client_id=client_01KPZ99W676WM84MVMDMC1R841&redirect_uri=https%3A%2F%2Faether.afterquery.com%2Fauth%2Fcallback&authorization_session_id=01M70KG03TB385Z250RSZNT2JM",
    "title": "Sign in",
    "links": []
   },
@@ -167,7 +173,7 @@
   {
    "host": "ender.afterquery.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1073072744%3A1793637051041345&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=yAw63M0aRN7ce8M5PXPmInSkhqt9-myR-56f_WGN2MA&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEOFRSzdEN-6nMHWsN1ybz7HutxWGxqS9KwU2b1n4z4zT2y5PKAlGDuOFLG7eEpXpJEhP1HzLJqR44qgh4ld8fFf5SamVOT44KTALcy71e8LE5ylZSHGDOj2_EF_hLdgugO9r01MLRJNN1JOpPMSEZFz8GDzZzAbI9pwHzLTrp3YQEscHIsYkf8KzHhg6-ZV-fGNeHV_DG9lRxXW0Dka18V4DIJ_lSixfgd9ohIC5XmwZs60zpX1CuCBC6_eU2ATRBiftUK9DIGUrYE_yQm0yHlnucopcX7Flkz23LkFktJgihrq6-MuPl4J64kcKlwww1a_IdSppmhSl0RSbjaMoDBUgLCJEyMw897mIqY4Bw5OS9bmQHW0kFcXkj7OH53xuM1E1dhWwXp6BRx20pRuLIK8m924qdgJfaXvzcmR1MwiywQWwPeT6yuviPg8eQf84m0sOF2g4DhGWJT20QyV8kNM665W7_6TJWGjrG8xa5XwrzyNImbke8au4AzYQPrAW_4mXYjLpvj418yVoAwcGf1ekC0cxA8_fuwzKVU3MH5sqv_7yR-zez0fmYuzn9g_ADtawdeqbaq42woU7UTiXkItUr8k5NIN48k9BhKPQAyKvLZEyus5XTQH0Ab7sVOJ9W3w7WP6L6hEBBkU4RLmsyKoilf40JKRb9_4o4zK9qKDaISYVqDe_Weh6FaQBu6ix7SEYp-L2MkQw1xldpw-D08Swwdm1z_s6H43i-LJ7pfz2YAuyN582v-NEHA0xrBwqNTrZUALWx2MkXu8gQLUG3P3llMEkr3X6Sjq5MazbzYx37bM3zg6VRhTU9i_VIZVmnODZyq5NhRlS1MYPLGS2yy3YBdgGYLHzKLcb2NevBBaOHj9apOytAsjS0z-gNSjHVKzqi1JauSgsA0DTzFP2VjJn1ST5eCXcQwHDhywc71gFGKg4eRUDqUyLMc94dbpjZIuh71MhBwx6KEJEoSQe4nmQJQ5Pv2CEUdl7Buel5V2v1yGirDf7vSh8IKRia_AV5VxBpkTxbCoiNZVSmcRqoKy-Aft96iUiWC49W1jZWcxtbQ0olGEG1W8JuLkLH8atVkrNb5dNmjLSipsyjAyVdYG847kPWHSzxDtOzmyrFmAE8ypnMOKjA1_IExEjiJ9QLzhI-&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOQYyWpF3TAVk8gz-mDuXJG-jsw1D4tXWe7pw-Y_KRkKulUEYx2VuM4jrvwpWbwSqlw3-s4Ow8noHUPV0NCkybUk6O3kzsOan51_YYCxhn8zBGu3XQotMTyk6pnGNNTQCCNbxmlzX5TOw_jAUUbiQWpfNlTUfy-KG3iWQrMDdABrxqWE9ySVaOqhKrm3B9BTN6K9ejH2tFRr_rSdugzNtHmMOzuRWFvYUpirUd6bvOear0FKxua543eZvnAfLjDMgHCDFdxQnqnTK8s8oGzv3MGStbZ52VL4NZ5bCxPdl56rKre3B-SXxhSOx_llZMP_gn1QRXWHC71rhjThzsE82RvZGO--lRaGnx9mZ8FoKV_URYs8hs0nErANbwMjJmdtvCAQh7UgGpX4tvwT0dZfn8BlEhaTBmYFU1yfd2l2L_2Bkr29a109-9pcpaoGAYzR2ymedtjaRU6e2s1d-mZnBNfw0MNGw%26flowName%3DGeneralOAuthFlow%26as%3DS-1073072744%253A1793637051041345%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcdygpAXa0QhabMWTXJ4Cj_Z6or9GTzByfnaRfpWOb4WU5_ymMbKtbEQqbK6H-T_Pz6k7UBgzV9DQkk2loXuRwCGAcL-I0i0T7BIBND4F6Yc31KznjM",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-787815527%3A1794243035981958&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=yVswNa3fYXllWDso5KJ7DPLeuaMXF9GkAKgHnWwOwK4&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEEXSO99k7LOFIQ-z-HLCqPTRvoGPqEg9VtzTRqHf_zdh1uRgz6iiBbcveJgbQBngt2IxGXkszPRz-_1CZVtlRR4PYxlqRnBtiq-ZopgOCCFf_isjzqQt_3tLbUqX7IZVlCaBuoxWMJiF02NRYU9yQ3TmkUPtD1RYy12tYpH53_laCjhbgO-XPFzKKGs0VQzSniVdYHUzmsiSPtlGKn94CWaSWpMHTvDXW9pO6svSeQ8lkztyGh3lx3VrCJw-PamBQDjXn9_Tzw-wHuG_Pe1QkKfTwZaY1_VyCCriRm3llYgSIDW8ueXcsSIiuyqz_OL_SRabvqzb93iT7WSXLAxfOnFy1_6cJtM7lFmJBqxEk9ycq9CrLX0Jz_TzGNot6BxJBEa6jfFSz2x8p0vM-LihVhqzeKwPWXgI6p9QUF_T8Pd_ndlpfx-sd-iLmR7cj7g9biRaqSu1EOo4ne8T3a8fptn6AYvBK0WuOA7x-YMwy3TLxZ4qUSPebZaJBhaQdcxcwtRGeWikXBg4hXwe3HYvJmuJUj8SZhIPP1XuYJvfX5fDpN4KaT-0W_TQzg-7HMlKVtBJGT9Av50j1wxw7yfOrHokMHeIvRUpc1W8LB4-l0k3_vNm48d4p7r1xldmtWBn6ww-NsPR6jfz6Mzn3jljEp9OrQ7HX5lSTdAEKbM4sr5e7tySU8H-K84TIcirK3wChqjUTcbBJRU3Pn9iBydojF6M0RI1X3pBzdnwXRugJQJEJpfo8evwurFrlk_F0M9D3F-mCu-gK2nRebzq3CKmH8hQSFbnBcNUqVIJ6bvsSNHWNETwSmlxmPnMkn8S1Y7ZXza0Q5kDAMjRYpIXq7NPRPnpyEYDywrq2i8JD0OgUiDZVUJDTHqQVy3IR9n9xwcht5aaafnogWGYp_8XG0w79Df9cJAAYSJm0y_1ADhNCijElUSzsiaPtNmNuK74bB8u2SwpDof_DXgOD8KkJqMXIZi4Uxxt5cMQqlXy3_ZR3XxyGak0ronkrDiJAetyiNGZfl9Nophn-6mo9C-VaEqc33FWkabnYAF_OJaGzIUu4UJRxiTSBWLTRcXZHvLbvA4-TJ1uSJ7ThL71C4tpIVY355v6HuQIwMKApNogr2sjibQ9F7-gBcviOFdmD2BrQqzT4wmCi&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOZfKWEF3n34mpfa10DaCsVgkac2nFrA2BE0gaHLn2kS9dmXn70BjwMArPKaHWlYUqlehNH4-TB7uLKkiYNYeD8ZO6eTV7QAYZhKAN81X-J-Hotjt8qa2zQ7uX9mL90bTCCzeqhYcRvm5OBbcwP-9dEZ81IzuyG-ub9lvMm1lVhCQm83pC8uSAozOyGoBE6rbxEa4L9tNiEks3mrkxhjMxSsN3WFwGqZp1jxcEYrUEmg-voCzXY-S4spGI8sCg1o7yv3Ekc9H13dQMJWYUr60SfXX3AscjKpfuRXNjMJOqxBovbQmriHIkkHgB4DDcEsVbwER4yZt1Ena38ZFU5Xl2_NsmhV0X3EnEZ6Nt9tu3k6yQQcPuqkuSg-N7D0jQFoOMRCpO5b0MEqboI5derorOjRoIENapiGkK9fgV7cCMyS5XNKEkKf9qXiuGsiO0UMflDTJUolkaxE7KcsPBL_ojxFiJXmA%26flowName%3DGeneralOAuthFlow%26as%3DS-787815527%253A1794243035981958%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfwHpZytmuucldrVAa__il9V-IDI9p3BicvPkqLXjRArjRcQtxA-ZW1KxE5Y0GUH7wD3kYFIV2WM96nX-yGQ9rGwXSInivQXSBv8OpdjTrXs8mDn1s",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -181,7 +187,7 @@
   {
    "host": "ender.test.afterquery.com",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-650456146%3A1793637051196688&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=dV8kqO4zutEmwFMmSdSlaQ-aU9UaS4iCbAJtMecxeqM&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEXylqSJ0T5mlt19cW3JK92n55tI4JOolxB86_3s7o8mhR-HuPng3LS8Mt365eh4ypneC-92evMc1dX9lyuo6_UMlnFLuCWJcQoOdBueIViQYolWuZMjcWlup2z0E4W_DocxZPxIXo_U8h5CMTDiNVZ8whVgzg_Breqf3JUew-9JKZVg72h9dzj-B8br-k4L2hSCVogK2seyCaGsCv690p8TZpnh7vBQiOwNVGKVy63r_kQRacgBs_bwpatU5QffdKaye2ORZKqzvLmCYCo5mGimio8XAWw-Tebu4Kp5ZZP_bV0e1Q8Wzre4oVwvzeLNOazbxjecZ075SaiCSt9oF1sGEKZsxdg1jYZiD4y6W-tWMtwv_ApbUkkc1RMYGjMQVe2ONcKw79F0VA99n8fb_2CvD5SQQyuJBerxTiHIhPwrw1cVqWLxUtqpKXCFnag6I09uqp77MRkA-1M6z-5VrgAoKA9zCFPetkWbgsULzFfiK8GksbCiSOOh7E-_MkXkw1IDi28pZON08YeSSKafmkFrHcFkWu7gdq1yrCqVQfMLQzp5ZnT9TEh3gNuHEGSsLaQ5xrccQCGCe9kps3QwYrHJr5pwELbZ8_F2eqlwzInI3sVO_UJuot_1LmXan9mSPtRMx7IEgMrr4y_AclKSUkdemDs6GyTRZPLg4qyC63NXJxp0_hEydg2TRDldmu3_f0tNHX0QGQLwM-EFYSpWJ6Qp2GtiCRG_OsscP3pAijQKo3m3vs8XY-89VZhs8LJwjCFtAus7t2LlxqOI-MgrdTUd5qk4ySOJE0XjOdn7zZWIyg8MtSAZkbBs-GMklAVsKqAQSj-C3n09OMDBzceSO5J6LbDpbivZ7918Vcp6Wpr2BpYpy785Ao1KgswMuEe9ZoyDwSqmNZjQi9bXj_J3cWAOFRzO8dPn01rrdWY4mPsBUYbGiK_sxLAMu2WXCfomOujbC9on5yM91c36MYug1R45ee3mzMMzyQBfyXkFTNmTye3iKz69ZRJWRR2O1ZrpeL46uRf7WWS1oo21qr1__6h-8sKqWbG9qW-sFNsxzrCsMeZJmKs0O72DM9SuKlOdCvKckoYb1NensPPbyF8tNf0Zw2btM4MpZTd28q4FuXpk6fQeBOiPndj1pEjZ59RFQ4E41qbWShSElTX3_sZi6pwXqu35We8_Q&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANakdzzkSyIpx3tH6iETEneRA9B3a7Cy-vIfscnlBU7bWAT0Ukt_x-ZKWKp92Ilw6DYuTgToQbTKMVlT-ofLCY5gicmUio9Su6E9oOChxmj2Xp0AUeB_8m1SUaQoqjV5k8qAZApYvSLzJnyv7jfyXydLmxGLlhOF2Ro-PbRfUSBVDoHJBAfxPY17YoeKaE7OtQtgCOf6o2v7hMLSyrEjtpGruMWVtVJ7DUZuU_2KIEiYG4ZP55e3WvARoLnBvj4dKaVrh0Bf9wWbNZN4eJMn6PpWFjoYJccs6_6lzHVXP3LiDUSiSZ_trKJAgn1NO2sTG6lLcAHN55hbFvn6zWguwONH5ZV0Vjek9SVBINB2OH_DXv675tqgYpnSFIDqJj2Zu9F5mTNog-EPGlYB0qOtyFr4dsHULeQscuCTJ22LzeJNNOPh7trFt58ARum0KuLp44gC-d27aqN0wlvc_SfjJY7QbDelw%26flowName%3DGeneralOAuthFlow%26as%3DS-650456146%253A1793637051196688%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxcfhhGXm9YNX5paeCkwMKGWFNxVCprM_FRYdLlY9KgiMliDvEJvTQwzvJhg2Ap992QiiyzhUaxnqJNmfqSz0Cur5V2x_Zubf8sIegWdvxUONAvdQ0Uo",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S473663670%3A1794243036286892&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=UEX71YjjwVnQG0YVz-8Xt6qNMHMg5d1cwc8wrqgIIK4&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssE8to1Yi3ch5S6VGx8dAVuGlX9KEKjyH_H395EqLRzVLCNsISX8gUz9bJZa4Pu_ZS9MNQrvhb3RO90aHnCOfoo6HaaEfZUxITutmpFrkjA5Lrx53S5saFwl51L-BGz79Th1OdWf2CzSq2gl7A5vtsdPQcEnwPiF04U9o4EF65Qn19IC6ssARw1FPZA3bv3xAbsoDlQNBb1sVLe6K_qt7qdGpN35BVy5baUb-MxOzMBWAiiHS27AC4h1hGnVW-62M_cBSDMINruCU0L03WmoQMnJC1AM2HqgpjCZkouRZVdm5RGrg7r3sIsbi7USqwYrtQtK0i70ijAXHnhxNwDExTe3TxYsJ-RnOFRUxDXP2ZrfoVctDRUMUTG66KjsVw-hnsqVfqyPYN-6QPSePat30sqOXNbXfei4H98duNLA0rt6972CMgOw0djLDQvoLyEHMx9qZwiQzzdNDMQofNxX4fDxgwtJK7JTbj6RaXIQTamWuzOTUWFDHpkBJN362BqiQPaE9vO_muWy0NtGthvpwU4lfNxtJm0Wip0NbVM_BQ7muaLrafVh1dYp1H4QtRwgHHrEPeEBZRlVahdkXNnBkQqMMkXMc-egzr1_ZWSWbMILbO1T3jhDmCvJxLtiYwC39loLLDL82QUJnaSGoZaIypJjeeTEwOv2LOoU4Fda0N37o-3axWivZsb5qK7Bn9f6daZ0mbmiUaXoaUB_z7GTuJMjgDOf4ugbCj51Yuxyf-TGHJvsVLCvbdDMKbq0mJ2Xl9CnFIUD9wjStHVZIc_PEhGDuVVKDCwhOxvGv2Z9T-recHJ4MEY7tRrslgnvz1lIRfjGPQZPTmmqlaBF2rAoxVnDtYCPJ_jQmqXPwESw-McvmM8d6rSkag4gcbAEEl-dohlgxAGWugTq1aB56TsaqAm0J417ixVXH9MzN1ac_71hv-Xywbr1fxeuFeRzb6qxLK84h1mKJGClpIQSDMopwtkF6djQnmZoCSk1DC6uLABIlFec4okSy26xunKMvFPKX2DzCcAHMF8HidAARYuS_b69kGApVT3EQh6vqil6UkJVmuy9n9N44ojBQhUges2Fg9qRKrQvyPTCRjHiBnjm3RnOe6oisn8XNOxkmMeYAp3n2F4DasTefRwIE_OM-Skd376LPMZPW3fYmFQzNJ1HzD8aQqKz6qUQ30&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPAymQCgzaxZbKyUOs5xaiDuH0HgFx0Hc7B5zK5cNRGBhm6jtfolVFNvyGUtVUNNx3borFDzTxeqjVpmDrav9pG87omqvInQLCQXKxjB3MkyLjR--f9dGG1tlSeeKSUTUGf0zox5BI0Dm5X1WgVLrXDkdiJXpm9Yg3phME1r3qizSEGMWLkR_MY5w3XUn2svMQ-8My7wfDGfSjaOI1iQbJZb_jEarfVAHq49bJSnJL6y9yeJLFhmuE0K6JI0fzXfopXMV-k43ZJKjyhR7M-eduTiY_Pcpj5thrC3778JDVXAdkHAH2vkZfZbX4dNwr0LGogMoJPpTsl9pup1y-tC9zvStM6j-7nkJMqGWuR1iVM9qKvgEL8Q6-JJkKXyljBiHwlPPxMbIvqySY8gwt2VBn0cPRs_mQ9DWQamZHLH7fwv1IWcjmTXugLfW3fwR00C4YpWHTSUePDOtpNbOA8WwJznlww0A%26flowName%3DGeneralOAuthFlow%26as%3DS473663670%253A1794243036286892%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccxHMbPStVl03VQA5QkQahyp61viXU_okWjCaK-zlS7HOZbr5tnZAfabF8j13n9GCYT-kzxTApOdg8YEWKxTkOQGBoX3UMHzyBnNk969FnNOGfm0WI",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -218,6 +224,10 @@
    "status": "no response"
   },
   {
+   "host": "team.afterquery.com",
+   "status": "no response"
+  },
+  {
    "host": "test.afterquery.com",
    "status": "no response"
   },
@@ -238,7 +248,13 @@
    "status": "ok",
    "url": "https://www.afterquery.com/",
    "title": "Expert Data for Frontier AI - AfterQuery",
-   "links": []
+   "links": [
+    {
+     "url": "https://www.afterquery.com/blog/building-a-frontier-legal-evaluation-in-partnership-with-legora",
+     "kind": "page",
+     "text": "Building a Frontier Legal Evaluation in Partnership with LegoraHow AfterQuery and Legora built the Benchmark for Agentic"
+    }
+   ]
   },
   {
    "host": "www.pay.afterquery.com",

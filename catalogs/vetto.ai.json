@@ -342,14 +342,14 @@
   {
    "host": "sandbox.arena.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Daa1ad5f11a3f7994b8f7ba9bf8663185712d1bc1109220b62655d25bbe65803d",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.arena.vetto.ai%252F%26nonce%3Dad37555e9f22f4e8dc2699613bff3cc0a3fd81d7eb57b3bed18a534357dca86b",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "sandbox.atlas.vetto.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3Dde104f6a2b35f8de63e1b69c9b6be67e4d660482a9a77301ac170714af89da49",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fsandbox.atlas.vetto.ai%252F%26nonce%3D8deb7222a065d4c5498027e8da3817396fb37c655e2ee596c3614778b9dade18",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -525,6 +525,10 @@
   },
   {
    "url": "https://vetto.ai/companies/leaderboard-terminal-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://vetto.ai/companies/leaderboard-vetto-science-bench/",
    "kind": "page"
   },
   {

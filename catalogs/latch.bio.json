@@ -287,7 +287,16 @@
   },
   {
    "host": "www.latch.bio",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://latch.bio:443/",
+   "title": "LatchBio",
+   "links": [
+    {
+     "url": "https://benchmarks.bio",
+     "kind": "page",
+     "text": "Benchmarks"
+    }
+   ]
   },
   {
    "host": "www.pods.latch.bio",

@@ -54,12 +54,17 @@
    "host": "data.patronus.ai",
    "status": "ok",
    "url": "https://data.patronus.ai/",
-   "title": "Data Partnerships | Patronus AI",
+   "title": "Data partnerships | Patronus AI",
    "links": [
     {
      "url": "https://data.patronus.ai/evaluation-terms",
      "kind": "page",
-     "text": "How we handle a sample"
+     "text": "Sample review"
+    },
+    {
+     "url": "https://data.patronus.ai/static/repo-facts.sh",
+     "kind": "page",
+     "text": "Download script"
     }
    ]
   },
@@ -102,7 +107,7 @@
   {
    "host": "minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-2028238132%3A1793637057029721&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=586SJqrIhSin8A2kS8xDD7W6%2FbrJWVLFOeLRBSxJlzOBsRuFkuDXSNzKIyTGbawBPxejC1Bj5EEnO9iGh9a7Yh4gHvzmEC3UaRlPHDOg%2B9O7ClOQ1gvTFhvAPwWBwyaPYeNJaPa8aSeedjg8QdzP7nr4kMfMH4WUrU4SlhZm9hoLeZxpqT7K1moGTPFr0DaQS0FhoZb9kzuK5y9FQaIEmLsbNVrZSlSAoIMbYCT93hUyet%2B6jQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANAyp34hliI_yJPDNhPL9xHhz9LQXfLgNgt0vs53HzeQ4tTjGGWT3TXmaunEM9oe7SGCN-IywoQItzQHXB1PHSKZ-I0bmZl86jpuuzYX3WeM-7tb5WS2dFynikgdoAnsGQncH-yW_l6WA5f4izvWzCRxizqAtLG7owCEasVEus5T0vsz7EY600a57sdF8PN82jHpHLJgi9q8HZeX0-kgTfOmYEabU-G2uf5KH5AJx2UubM3zq-FnpbCiAh4TAsw4IfwD7W97RLQDLbc-PwQjk8_S27DZNdkoEgX6oaxurv3RfTrgxTsYso0YzN3vokXf7YjfBoJy83x1fiI8zib8w1SqFNFWMVDC10FtcZEM7u5yHAk1lmAKOLNwOVuVWl4-RWK1uw0PYtzZxrrZM3bqfyagiha-VbNCTH6aZeKz46IdgRcGHTN0y8Bx-W3N2JyarSbkZ-l34etTbdJZMH2feYvLcD_9IZxl60izJOfR-zEa_vbA3I%26flowName%3DGeneralOAuthFlow%26as%3DS-2028238132%253A1793637057029721%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxcc3diddYf32ZrradR8rMBMxcajbdctrGyFJ_wShhgxPinFiMOXcfkTdYzbfy9fCCXakrHt4tTLvDS22x6fgkysrQvavuSHA0He14UY-BTX5dTwkRdk",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-667720184%3A1794243047272336&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=x6qGIQ38cpqL58VOL6f3muDvI8n43%2BytJExb749IIkivW20Qsn527byhomRF0EVeYuAB0GV8OhZRSx0vMm4daoZPGm8HGcqwnuLYXAlrsVgE82uscYShoPaPXUBh0vko1piLbE1NESqJS8XoDpAdCrB0tQW2JcG0%2BSyfrqQA%2BJxavO19kk7yWbwGzWqy55Mh%2Be04t85PxKuSefQU8N6OkGLl25CK7xh0LgUgRzwFFIeDS20xGQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOwBCmEbIiH_CsVYFvjk5lgQM7ZPTuqJFY17AnK2a7GWLt8g79D8Cub1entf5Tv2OKO8Kl7baENw7LWN7FRyj8hxaAffxit7QxePghkLEmZWZMMDqltFIU9S3a3r955Si5rWLM1O6vz0bLgQ6tGNl1l5fCpt46zS8KwBJPGwZIqB6UwET8KY8JQBsh6wQaQx2oElaaVIaC_SIaHIINHpTFdRwVFPFu99jyytHkmIk11ELj63D__X-Lv_bdUiCuP3_mNbXcV9g05Ook95kzvbmIpbQJCGw0yG9IYglLo-Q7FD_s9yyIVIQItqnZsvX3tJCkekVPt8dCcT8SxTxqNyG1D5aAtr3HnqKcY81D0hS7lm6S4RjKAakrrwUaMNzK2IQFBH2My2ju8EwXdX-_mQ6ByAYqvzIKA6Un9Dc4hy2xDX3ZR_pn7oNBiaMCuD3XF1-7vTAPfRGcufhU_0EAUvvG5C72aehkzAx9HbAyApzDwHb2GFTQ%26flowName%3DGeneralOAuthFlow%26as%3DS-667720184%253A1794243047272336%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxcdax7KhkgbgJsMl3YSJTUlRuZc1M_DqNt55oTB8ys8ybTmgrDsj7j-HvkYW2wVg3NNq2t5LCP8XSZ5RHGmkxPtmadJ9RnveK7dtUqQylIHz11NCP90",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -122,21 +127,16 @@
      "text": "RL Environments"
     },
     {
-     "url": "https://www.patronus.ai/research/trail",
+     "url": "https://www.patronus.ai/research/globebench",
      "kind": "page",
-     "text": "TRAILA benchmark for finding the step where an agent went wrong.2025 \u00b7 arXiv 2505.08638"
-    },
-    {
-     "url": "https://www.patronus.ai/research/world-modeling-for-agentic-rl",
-     "kind": "page",
-     "text": "World ModelingA language model that stands in for an environment while an agent trains.2026 \u00b7 arXiv 2607.16204"
+     "text": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment SimulationsNeurIPS 2026 workshop"
     }
    ]
   },
   {
    "host": "rewrite.minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-650456146%3A1793637057207801&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=GgzVOmzPFvDbBsrIUjzFt%2B44qKHOp588fZmUWCSAsOd%2Fn3%2FSeAiVdTZ3ALsuoYHtJsWQI%2FNT094Fh3loZ2SANggYJF37gEhhXrIYY00t5gK1MMg3eb2kc5ZOy8QyqniHyyoPLNSk1AlXibZQKrepcMKFAuFdJmQ6XhCwaL3qZ%2B5tlshCcR%2B6CYTIpOYlmet37MgySpJaT7xP1SQEtGpiXzu8W3oVIkPpQzxPBDtBHsD2hIxTCw%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMPbUFtm89sskQFG2NgHsaOUQ9hui_7_zom9dODIOv-a1jVf0KCQg-pExk-xrTsKw7JTwa4rOJDdBdbFkorOwu4kknkCDG1lB--rpB3cPOQ2oJxsKeZ98v4zSGMRWzP84tReKJbSfYVSpAv-32VIUSUrrYUpBssl8ArAwmdQwxMkbHe71cr44ymvgMG2FWeKlfQEawHNricbSDWZbbNiH_SjGcuMVcE-NgygmZZpZWw5ez4eb8v5ApFg6p1eUSrUMKlLxhJijr-GBIZxdBXLzN3O0q0iIDmVt_uQiCTLosgm4J-7ZOJrh0tGUoVxnEPWPhAQVw95CqB5JSKztoHaIQfeRxqPSfl0EIUCWOFaeD_X-bLUtkpbSiQZ5FjlUAi4qMQzztv7RGjfCbb4ExQ3WA3QsGcreoZj_5sUoLzfdPQOui4K3pdc2BSC5yxplZPbzMD6i1mP6LwqAqqNAC3YsZi1LpWHSD2pVKOeQCn19bJOPpGkhg%26flowName%3DGeneralOAuthFlow%26as%3DS-650456146%253A1793637057207801%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxceiQiNfGkZYSb0kBpO2-zZWHiHokLV1Z7ktteKO8Ftt6sGiFo64sqgqAkyQvqy4dii5HGDgthgcTxgZEZ9Q41xlFStOlTU5ghq2VGSnZ__EJgGgXxE",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1655255%3A1794243047285484&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=YrFbG7eN4%2Bjvx3N%2FuhXTMKO6Yq%2FmYU9Utoe%2F7T7o66QxQeF5dqBwhCiDtKQavwjPsQ0KhRxS4u4MrkeLfn6Ae2EWfP%2BZT7MjzJypi4x7LVH1VjlUzlj5ItgOkC2d2pdIge%2FY2q4QcOX4zPym2VFOQLjseJ9pvNZol9TBZ%2BWcDm4KRKHce9orUTAqTwlbhu7oy%2B1v%2FWzTyypWFFmud3k%2B5Q8AwvbCbu7QtNr3ZkWemrNjhXvhlQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANNahdGz7aXl9OeEi3mVOzvhn2BNnpgUGjBInaMS262YA9kHCy8dE2awko1MyHgzASLc_EiBKs_4PkLmeUA_qiDDGUDcPx5PfM6go514hSWlpK1lIEiWLl5NqLIuWBgWG52zdHubfAFx13pVLY5E3kD23W17oX45TZWopgftaiYzh0H4Ipe-tJ8pXAY9gsk-dTEix6gLdjvKpbICw6Sg7VFxRqSLGBgkbypJ33GI8It0HFbuJmImYcHh_WWnN7PNaL3rig7x6rSCnS-4E15Mzw_awGXrX_D8kncbkCyYkOY9p4xcfrQRaJ1OES6UaPM_6nlwGAnn6MBSwa-vY6nd68f3q0lUSI2ie1RIH_VBn9r4y7DAbO9KG7YfIj0Ow9fkeNVRjdgubDYtj80Bj9bijrC1uqWyG4KI_dREysKjJpddemhLefDda8mAW5DRuog3M4GtfhFRW4TuYhuhoMOBJqf-1NtlYSqo6TCQYqSzu3C1Y2uGb4%26flowName%3DGeneralOAuthFlow%26as%3DS1655255%253A1794243047285484%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxce-hJZXMT1eDsWFDuDadlCcETG25uxfyDi6UT7P3u7OSXjReKoZg2jlWXBY3luGMoReSTwE_fRb9-kSe2CCCTCW8ZxEE1L9vXVkJIVmq4ZC17Bjl0I",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -150,7 +150,7 @@
   {
    "host": "solar.rl.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fhd%253Dpatronus.ai&dsh=S1107591616%3A1793637057524460&client_id=1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com&hd=patronus.ai&o2v=2&redirect_uri=https%3A%2F%2Fsolar.rl.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=MnX7KEb2cFTcvS9usI7qU8xtEHk9DpTxetvxq048b2wJI89EUzFVcuBFaKkAxcTDoeLSopFvwjZzgeMNYk30KfEKLIG%2Fa3KKuRtOlDCXpudDx0q0YtF%2FCLR4Vz%2FW6sGi9tnQwFgLIWf1qq0qaSKZtrU7pngZiioXIcvSAzOTphOw8mu0CLPMJUNea7%2BnYwWklUXAnnkmLQWj8RWE5yuujIUOJMSCDrsv5tJ%2BLNIJz%2FP5fdTIY123&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANbRoz4ImxOC1f3FDbabSQMtoVFYnfCMRURdgoR6e1nhRbT6iruTxCG7pHjJM6i9Ahe-p9Gk96tRU4KrsfTv0zTkopsZrImC63LOJ0cLYcFsrDmhCkB-vAbQkz55rU7Im-iG6_vT3auXl3tx3hdBpAVm-Fo4s7m3p-XMvuQcwN5PlUsZDMMk6QDpwMcQKAWXTJ_n1K7p7BYaKI6yxin81dKAGn7mj77P28p2_kCb-bMciKNaTaS7rYK-okC7wBg9U8McdGc7zqLb2fLj_ZNE-y0nMz8wId2O2FCqJHxQb2WuI_mOQmrGtv0mfOLjDkAcSzG5uNDO9qsYreODDekbXDvTvFAO4FA5_7AtfFsKSLoMTnBK2ybadGQfSSlIXGu3m2AayUsJ7xfEzyR_mM29vh8_zO_1RPfh_lo5ARnfCPcE3yewVaLDCMZD9YYihVrUiqbt0yjyx6K3AOfiWAgFlMcr4a92Us0EaTKUyTWYl1LJHZjGOM%26flowName%3DGeneralOAuthFlow%26as%3DS1107591616%253A1793637057524460%26client_id%3D1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsolar.rl.patronus.ai&rart=ANgoxccnPR9zMSgskF0CFF4MVmzzy4KmBXpsTK_UlGqxFGxuCDXeVFTQL1fUlfU4FAU2ZVPHojJJqROzRX5JgMD6vdP6EZ-ozAgV9hmhnMzgx4bYTPu8SX8",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fhd%253Dpatronus.ai&dsh=S-181708906%3A1794243047727571&client_id=1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com&hd=patronus.ai&o2v=2&redirect_uri=https%3A%2F%2Fsolar.rl.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=Owm6FAW02qWO3J4Eot7g5X50dhmC1%2FKTWube4aOvvfZe3O7HbJpmVB4z7QLWSVCVyTnNRMeEc8U%2Bj%2BVBN%2F2B79psfURn8hmJv6TjxbK8%2Fheer%2FM%2BeGenF%2BFv8hFTh%2BEmQ7aoI3FVvtEdooOxQzX4R1GNiLMU%2B2X7hEqRHtTnBIJSC54PNtKbrBzaphtsWpnKQPWb8VfZlO4Nj%2BLf9cTO%2FVnZsUWUBKEl6TAwbB5s%2BHemLtQjLFyj&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO1q8TfZ1yXRZD49z6ILkmSuwo4BtzJ175L9XsjNLY1hs2J1vRAH1ZLSohaZLlx0JZmkSQeCDkzFtpPE19GS5T6inO0iu1KQ0qqdPtBG6qksJORvLZoyRgwaV8hUyPRoB8ngOERtVj0KDecQCFN-A9CUYhqvha4Kjsumsu9R1vSODbLfqgmAXPOCmoUz80ZdN2vchlAAsqmwueIkvyVzPai6nKkCC6QslNxA7a0dPqVenZm2_T5cmK7jbAJ3jfx6XFf9RuwO9FZq0QZ79By3WuBbAVszmj-Rit3LnP6E4jAPFRedxYzYpZ0MfOK8ZVEhnYuTOLHwBVrAAZW3myCotu_UZ10egmQouvETKO8txk1Z-jVsTozGoZtjL_TjnNLTVFK49Yy-rvtBECFFSMJNyQTXu-LZq2vyvVO3zrKPZf4Hmxe4VNJHNxD8sAFBMXJbqGLwwMY7jkfCENwoArIof4CGNoJJuKJAnVOdBfSRdwVc4Ac3fY%26flowName%3DGeneralOAuthFlow%26as%3DS-181708906%253A1794243047727571%26client_id%3D1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsolar.rl.patronus.ai&rart=ANgoxcfWwLp1yAVpba8jQw43kmN6b-IhEEQUsT-Y2eHx07odh9CZGxOUEK5Ps0ZtxcaJDFjMn4JMMhOdOX6RxeLp4IUt4oRKTIOJQZnb9cCMTQa8YWUxHY8",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -161,7 +161,7 @@
   {
    "host": "wiki.rl.patronus.ai",
    "status": "ok",
-   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3De7611702-9aae-45c6-a7e5-b02b2af8f6c8%26page_id%3D79086602%26path%3DLw",
+   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3D32ed693a-f307-429c-b731-b3cfdea5d493%26page_id%3D79086602%26path%3DLw",
    "title": "Sign in to GitHub \u00b7 GitHub",
    "links": [
     {
@@ -188,14 +188,9 @@
      "text": "RL Environments"
     },
     {
-     "url": "https://www.patronus.ai/research/trail",
+     "url": "https://www.patronus.ai/research/globebench",
      "kind": "page",
-     "text": "TRAILA benchmark for finding the step where an agent went wrong.2025 \u00b7 arXiv 2505.08638"
-    },
-    {
-     "url": "https://www.patronus.ai/research/world-modeling-for-agentic-rl",
-     "kind": "page",
-     "text": "World ModelingA language model that stands in for an environment while an agent trains.2026 \u00b7 arXiv 2607.16204"
+     "text": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment SimulationsNeurIPS 2026 workshop"
     }
    ]
   }
@@ -207,6 +202,26 @@
   },
   {
    "url": "https://www.patronus.ai/resources/rl-environment-companies",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/computer-use-rl-environment-companies",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/financial-llm-benchmarks",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/rl-environment-startups",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/coding-rl-environment-companies",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/knowledge-work-rl-environment-companies",
    "kind": "page"
   },
   {

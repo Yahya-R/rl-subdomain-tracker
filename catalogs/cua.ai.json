@@ -28,7 +28,7 @@
   {
    "host": "app.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D1bc404733faa38ef575d6d0145dd0c42389699f4cf3831e7df987ef5fbebc4c8",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D21f3518a566f90cfbc5549da6baddf4353d3665b88f0b732c3cf51ecd3625def",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -54,7 +54,7 @@
    "host": "cua.ai",
    "status": "ok",
    "url": "https://cua.ai/",
-   "title": "Cua: shared computers for teams and computer use agents",
+   "title": "Cua Spaces: combine all your computers into one supercomputer",
    "links": [
     {
      "url": "https://cua.ai/",
@@ -117,11 +117,6 @@
      "text": ""
     },
     {
-     "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
-     "kind": "hosted",
-     "text": "cmux"
-    },
-    {
      "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
      "kind": "hosted",
      "text": ""
@@ -148,6 +143,11 @@
     },
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
+     "kind": "hosted",
+     "text": ""
+    },
+    {
+     "url": "https://huggingface.co/datasets/earakely-scale/CuaDriverBench-AgentEnv",
      "kind": "hosted",
      "text": ""
     }
@@ -193,7 +193,7 @@
   {
    "host": "home.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3Db1dd17cfcdf5dce0a28cc0f1c9020af43a535a61d247200b2813a84b5339d644",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D6b9b6ee059dbe01036c1f5ede01514fae9f48e8d5dc48493df9eb56c3a47d3cc",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -237,7 +237,7 @@
    "host": "spaces-origin.cua.ai",
    "status": "ok",
    "url": "https://spaces-origin.cua.ai/",
-   "title": "Cua: shared computers for teams and computer use agents",
+   "title": "Cua Spaces: combine all your computers into one supercomputer",
    "links": [
     {
      "url": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
@@ -270,11 +270,6 @@
      "text": ""
     },
     {
-     "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
-     "kind": "hosted",
-     "text": "cmux"
-    },
-    {
      "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
      "kind": "hosted",
      "text": ""
@@ -301,6 +296,11 @@
     },
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
+     "kind": "hosted",
+     "text": ""
+    },
+    {
+     "url": "https://huggingface.co/datasets/earakely-scale/CuaDriverBench-AgentEnv",
      "kind": "hosted",
      "text": ""
     },
@@ -340,7 +340,7 @@
    "host": "spaces.cua.ai",
    "status": "ok",
    "url": "https://cua.ai/",
-   "title": "Cua: shared computers for teams and computer use agents",
+   "title": "Cua Spaces: combine all your computers into one supercomputer",
    "links": [
     {
      "url": "https://cua.ai/",
@@ -403,11 +403,6 @@
      "text": ""
     },
     {
-     "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
-     "kind": "hosted",
-     "text": "cmux"
-    },
-    {
      "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
      "kind": "hosted",
      "text": ""
@@ -436,13 +431,18 @@
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
      "kind": "hosted",
      "text": ""
+    },
+    {
+     "url": "https://huggingface.co/datasets/earakely-scale/CuaDriverBench-AgentEnv",
+     "kind": "hosted",
+     "text": ""
     }
    ]
   },
   {
    "host": "spaces.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3D420ca4986f840b7b63e663087972c2273d9531207cb6a3a6ee6377d993d28241",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3Da89ba149381196a7fe39ac4882c254b8228257b673b6652f5b4fb1a9a1c101d4",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -461,7 +461,7 @@
    "host": "www.cua.ai",
    "status": "ok",
    "url": "https://cua.ai/",
-   "title": "Cua: shared computers for teams and computer use agents",
+   "title": "Cua Spaces: combine all your computers into one supercomputer",
    "links": [
     {
      "url": "https://cua.ai/",
@@ -524,11 +524,6 @@
      "text": ""
     },
     {
-     "url": "https://github.com/manaflow-ai/cmux/blob/main/web/services/vms/images/devbox/Dockerfile",
-     "kind": "hosted",
-     "text": "cmux"
-    },
-    {
      "url": "https://github.com/microsoft/amplifier-smart-tool-reality-check/blob/HEAD/src/reality_check/capabilities/computer_use/install.py",
      "kind": "hosted",
      "text": ""
@@ -555,6 +550,11 @@
     },
     {
      "url": "https://github.com/vercel/eve/blob/HEAD/packages/eve-computer-use/extension/tools/computer_use.ts",
+     "kind": "hosted",
+     "text": ""
+    },
+    {
+     "url": "https://huggingface.co/datasets/earakely-scale/CuaDriverBench-AgentEnv",
      "kind": "hosted",
      "text": ""
     }

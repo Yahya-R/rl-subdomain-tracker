@@ -1,6 +1,6 @@
 {
  "domain": "markovstudios.com",
- "live_hosts": 4,
+ "live_hosts": 5,
  "pages": [
   {
    "host": "cdn.markovstudios.com",
@@ -10,34 +10,28 @@
    "host": "markovstudios.com",
    "status": "ok",
    "url": "https://www.markovstudios.com/",
-   "title": "Markov | Data for Computer-Use AI",
+   "title": "The data lab for engineering and computer-use | Markov",
    "links": [
     {
-     "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
-     "kind": "hosted",
-     "text": "10,000+ hoursComputer-use recordingsReal workflows across Salesforce, Blender, Photoshop, and more.View dataset"
-    },
-    {
-     "url": "https://huggingface.co/datasets/markov-ai/gaming-500-hours",
-     "kind": "hosted",
-     "text": "500+ hoursGaming dataScreen recordings with synchronised mouse and keyboard inputs across Valorant, Minecraft, GTA, and "
-    },
-    {
-     "url": "https://huggingface.co/markov-ai",
+     "url": "https://www.markovstudios.com/datasets",
      "kind": "page",
-     "text": "150k+ downloads on HuggingFace"
+     "text": "Datasets"
     },
     {
-     "url": "https://www.markovstudios.com/research/cad-environments",
+     "url": "https://www.markovstudios.com/open-source",
      "kind": "page",
-     "text": "Samples"
+     "text": "Open sourceFree to browse835,530 downloads on Hugging Face. You can view every dataset here.Explore open source\u2192"
     },
     {
-     "url": "https://www.markovstudios.com/workflow_samples",
+     "url": "https://www.markovstudios.com/research/autocad-bench",
      "kind": "page",
-     "text": "Data samples"
+     "text": "Benchmark23 Jul 2026Introducing AutoCAD BenchFifty precise AutoCAD tasks done through the screen alone. The best model f"
     }
    ]
+  },
+  {
+   "host": "media.markovstudios.com",
+   "status": "no response"
   },
   {
    "host": "samples.markovstudios.com",
@@ -47,35 +41,42 @@
    "host": "www.markovstudios.com",
    "status": "ok",
    "url": "https://www.markovstudios.com/",
-   "title": "Markov | Data for Computer-Use AI",
+   "title": "The data lab for engineering and computer-use | Markov",
    "links": [
     {
-     "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
-     "kind": "hosted",
-     "text": "10,000+ hoursComputer-use recordingsReal workflows across Salesforce, Blender, Photoshop, and more.View dataset"
-    },
-    {
-     "url": "https://huggingface.co/datasets/markov-ai/gaming-500-hours",
-     "kind": "hosted",
-     "text": "500+ hoursGaming dataScreen recordings with synchronised mouse and keyboard inputs across Valorant, Minecraft, GTA, and "
-    },
-    {
-     "url": "https://huggingface.co/markov-ai",
+     "url": "https://www.markovstudios.com/datasets",
      "kind": "page",
-     "text": "150k+ downloads on HuggingFace"
+     "text": "Datasets"
     },
     {
-     "url": "https://www.markovstudios.com/research/cad-environments",
+     "url": "https://www.markovstudios.com/open-source",
      "kind": "page",
-     "text": "Samples"
+     "text": "Open sourceFree to browse835,530 downloads on Hugging Face. You can view every dataset here.Explore open source\u2192"
     },
     {
-     "url": "https://www.markovstudios.com/workflow_samples",
+     "url": "https://www.markovstudios.com/research/autocad-bench",
      "kind": "page",
-     "text": "Data samples"
+     "text": "Benchmark23 Jul 2026Introducing AutoCAD BenchFifty precise AutoCAD tasks done through the screen alone. The best model f"
     }
    ]
   }
  ],
- "sitemap_hits": []
+ "sitemap_hits": [
+  {
+   "url": "https://www.markovstudios.com/datasets",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.markovstudios.com/datasets/cad-environments",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.markovstudios.com/datasets/general-computer-use",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.markovstudios.com/datasets/general-phone-use",
+   "kind": "page"
+  }
+ ]
 }

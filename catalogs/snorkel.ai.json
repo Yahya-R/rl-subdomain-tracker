@@ -1,6 +1,6 @@
 {
  "domain": "snorkel.ai",
- "live_hosts": 21,
+ "live_hosts": 22,
  "pages": [
   {
    "host": "benchmarks.snorkel.ai",
@@ -740,7 +740,7 @@
     {
      "url": "https://snorkel.ai/models/gemini-4-argon",
      "kind": "page",
-     "text": "Google DeepMind Sep 30, 2026 Gemini 4 Argon RANK BY BENCHMARK Agentic Coding 2.0 41.8% #4/16 Agents\u2019 Last Exam v1.1 37.7"
+     "text": "Google DeepMind Sep 30, 2026 Gemini 4 Argon RANK BY BENCHMARK Agentic Coding 2.0 41.8% #4/16 Agents\u2019 Last Exam v1.1 40.2"
     },
     {
      "url": "https://snorkel.ai/models/gpt-6-1-sol",
@@ -750,12 +750,12 @@
     {
      "url": "https://snorkel.ai/models/muse-wonder",
      "kind": "page",
-     "text": "Meta Oct 12, 2026 Muse Wonder RANK BY BENCHMARK Agentic Coding 2.0 43.6% #2/16 Agents\u2019 Last Exam v1.1 36.9% #4/9 Snorkel"
+     "text": "Meta Oct 12, 2026 Muse Wonder RANK BY BENCHMARK Agentic Coding 2.0 43.6% #2/16 Agents\u2019 Last Exam v1.1 38.5% #8/15 Snorke"
     },
     {
      "url": "https://snorkel.ai/models/opus-5-5",
      "kind": "page",
-     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #5/16 Agents\u2019 Last Exam v1.1 42.6% #1/9 Snork"
+     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #5/16 Agents\u2019 Last Exam v1.1 43.4% #3/15 Snor"
     },
     {
      "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
@@ -773,13 +773,20 @@
    "status": "no response"
   },
   {
+   "host": "research.snorkel.ai",
+   "status": "ok",
+   "url": "https://research.snorkel.ai/?password-protected=login&redirect_to=https%3A%2F%2Fresearch.snorkel.ai%2F",
+   "title": "Snorkel Research",
+   "links": []
+  },
+  {
    "host": "security.snorkel.ai",
    "status": "ok",
    "url": "https://security.snorkel.ai/",
    "title": "Snorkel AI Security Portal | Powered by SafeBase",
    "links": [
     {
-     "url": "https://security.snorkel.ai/?itemName=data_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
+     "url": "https://security.snorkel.ai/?_gl=1*cp2sum*_gcl_au*MTk2NDY0MDg1NS4xNzg5MDA4NTUy*_ga*MTkzNDQ0NjUyNi4xNzg5MDA4NTUy*_ga_900SSFCDP3*czE3ODkwMDg1NTEkbzEkZzEkdDE3ODkwMDg1ODIkajI5JGwwJGgw&itemName=endpoint_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
      "kind": "page",
      "text": "REPORTSSecurity Whitepaper"
     }
@@ -1362,10 +1369,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/blog/collaborative-gym-a-framework-for-enabling-and-evaluating-human-agent-collaboration/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/blog/closing-the-evaluation-gap-agentic-ai-alex-ratner/",
    "kind": "page"
   },
@@ -1426,11 +1429,19 @@
    "kind": "page"
   },
   {
+   "url": "https://snorkel.ai/blog/senior-swe-bench-evaluating-coding-agents-like-senior-engineers/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/checking-the-rubrics-rift-results-on-five-public-benchmarks/",
+   "kind": "page"
+  },
+  {
    "url": "https://snorkel.ai/blog/judgment-bench-comparing-rubric-and-preference-evaluation-for-quality-assessment-legal-ai/",
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/blog/senior-swe-bench-evaluating-coding-agents-like-senior-engineers/",
+   "url": "https://snorkel.ai/blog/collaborative-gym-a-framework-for-enabling-and-evaluating-human-agent-collaboration/",
    "kind": "page"
   },
   {
@@ -1462,47 +1473,19 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/reasoning-over-public-and-private-data-in-retrieval-based-systems/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/research-paper/inspect-a-multimodal-dataset-for-pulmonary-embolism-diagnosis-and-prognosis/",
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/resonant-anomaly-detection-with-multiple-reference-datasets/",
+   "url": "https://snorkel.ai/research-paper/benchmarking-agents-in-insurance-underwriting-environments/",
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/nas-bench-360-benchmarking-neural-architecture-search-on-diverse-tasks/",
+   "url": "https://snorkel.ai/research-paper/judgmentbench-comparing-rubric-and-preference-evaluation-for-quality-assessment/",
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/datacomp-in-search-of-the-next-generation-of-multimodal-datasets/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/medalign-a-clinician-generated-dataset-for-instruction-following-with-electronic-medical-records/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/ehrshot-an-ehr-benchmark-for-few-shot-evaluation-of-foundation-models/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/evaluation-of-domain-generalization-and-adaptation-on-improving-model-robustness-to-temporal-dataset-shift-in-clinical-medicine/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/fairness-via-explanation-quality-evaluating-disparities-in-the-quality-of-post-hoc-explanations/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/evaluation-of-feature-selection-methods-for-preserving-machine-learning-performance-in-the-presence-of-temporal-dataset-shift-in-clinical-medicine/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/anomaly-detection-with-multiple-reference-datasets/",
+   "url": "https://snorkel.ai/research-paper/dataset-debt-in-biomedical-language-modeling/",
    "kind": "page"
   },
   {
@@ -1510,7 +1493,47 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/dataset-debt-in-biomedical-language-modeling/",
+   "url": "https://snorkel.ai/research-paper/anomaly-detection-with-multiple-reference-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/ehrshot-an-ehr-benchmark-for-few-shot-evaluation-of-foundation-models/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/nas-bench-360-benchmarking-neural-architecture-search-on-diverse-tasks/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/resonant-anomaly-detection-with-multiple-reference-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/snorkel-drybell-a-case-study-in-deploying-weak-supervision-at-industrial-scale/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/promptsource-an-integrated-development-environment-and-repository-for-natural-language-prompts/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/fairness-via-explanation-quality-evaluating-disparities-in-the-quality-of-post-hoc-explanations/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluation-of-domain-generalization-and-adaptation-on-improving-model-robustness-to-temporal-dataset-shift-in-clinical-medicine/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/medalign-a-clinician-generated-dataset-for-instruction-following-with-electronic-medical-records/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/datacomp-in-search-of-the-next-generation-of-multimodal-datasets/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/reasoning-over-public-and-private-data-in-retrieval-based-systems/",
    "kind": "page"
   },
   {
@@ -1522,15 +1545,15 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/wrench-a-comprehensive-benchmark-for-weak-supervision/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/snorkel-drybell-a-case-study-in-deploying-weak-supervision-at-industrial-scale/",
+   "url": "https://snorkel.ai/research-paper/evaluation-of-feature-selection-methods-for-preserving-machine-learning-performance-in-the-presence-of-temporal-dataset-shift-in-clinical-medicine/",
    "kind": "page"
   },
   {
    "url": "https://snorkel.ai/research-paper/a-systematic-review-of-testing-and-evaluation-of-healthcare-applications-of-large-language-models-llms/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/evaluating-language-model-context-windows-a-working-memory-test-and-inference-time-correction/",
    "kind": "page"
   },
   {
@@ -1542,19 +1565,11 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/promptsource-an-integrated-development-environment-and-repository-for-natural-language-prompts/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/research-paper/wonderbreada-benchmark-for-evaluating-multimodal-foundation-models-on-business-process-management-tasks/",
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/terminal-bench-benchmarking-agents-on-hard-realistic-tasks-in-command-line-interfaces/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/evaluating-language-model-context-windows-a-working-memory-test-and-inference-time-correction/",
+   "url": "https://snorkel.ai/research-paper/theoretical-physics-benchmark-tpbench-a-dataset-and-study-of-ai-reasoning-capabilities-in-theoretical-physics/",
    "kind": "page"
   },
   {
@@ -1562,19 +1577,7 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/liveresearchbench-a-live-benchmark-for-user-centric-deep-research-in-the-wild/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/care-confounder-aware-aggregation-for-reliable-llm-evaluation/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/benchmarking-agents-in-insurance-underwriting-environments/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/research-paper/theoretical-physics-benchmark-tpbench-a-dataset-and-study-of-ai-reasoning-capabilities-in-theoretical-physics/",
+   "url": "https://snorkel.ai/research-paper/terminal-bench-benchmarking-agents-on-hard-realistic-tasks-in-command-line-interfaces/",
    "kind": "page"
   },
   {
@@ -1586,11 +1589,19 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/research-paper/judgmentbench-comparing-rubric-and-preference-evaluation-for-quality-assessment/",
+   "url": "https://snorkel.ai/research-paper/wrench-a-comprehensive-benchmark-for-weak-supervision/",
    "kind": "page"
   },
   {
    "url": "https://snorkel.ai/research-paper/evaluating-sample-utility-for-efficient-data-selection-by-mimicking-model-weights/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/care-confounder-aware-aggregation-for-reliable-llm-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/research-paper/liveresearchbench-a-live-benchmark-for-user-centric-deep-research-in-the-wild/",
    "kind": "page"
   },
   {
@@ -1623,6 +1634,14 @@
   },
   {
    "url": "https://snorkel.ai/press/fortune-openai-astra-evaluation-metrics/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/press/snorkel-ais-rift-exposes-hidden-flaws-in-83-of-ai-benchmark-rubrics/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/press/alex-ratner-on-navigating-the-shift-to-data-2-0-and-ai-evaluation/",
    "kind": "page"
   },
   {

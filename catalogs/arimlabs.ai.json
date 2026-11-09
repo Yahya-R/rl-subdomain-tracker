@@ -1,6 +1,6 @@
 {
  "domain": "arimlabs.ai",
- "live_hosts": 11,
+ "live_hosts": 12,
  "pages": [
   {
    "host": "arimlabs.ai",
@@ -33,6 +33,13 @@
   {
    "host": "p0.arimlabs.ai",
    "status": "no response"
+  },
+  {
+   "host": "support.arimlabs.ai",
+   "status": "ok",
+   "url": "https://support.arimlabs.ai/",
+   "title": "Chatwoot",
+   "links": []
   },
   {
    "host": "transcripts-api.arimlabs.ai",
