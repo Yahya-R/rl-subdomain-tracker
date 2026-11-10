@@ -2,6 +2,12 @@
 
 ## 2026-11-10
 
+### turing.com
+- llm.agents-explorer-api.turing.com (34.36.121.157)
+- llm.agents-explorer.turing.com (34.36.121.157)
+
+## 2026-11-10
+
 ### uber.com
 - 2273.cpe.uber.com (no DNS)
 - 7f3fca.mx.dev.uber.com (no DNS)
