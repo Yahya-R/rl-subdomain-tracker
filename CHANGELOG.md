@@ -1,5 +1,23 @@
 # New subdomains
 
+## 2026-11-10
+
+### uber.com
+- 2273.cpe.uber.com (no DNS)
+- 7f3fca.mx.dev.uber.com (no DNS)
+- achalc.dev.uber.com (no DNS)
+- auth-faq.uber.com (no DNS)
+- bastion-oob01-dca8a.uber.com (no DNS)
+- bet365zuixin.uber.com (no DNS)
+- boise.cfe.uber.com (no DNS)
+- em3672.uber.com (no DNS)
+- ferrari-elan-7m.dev.uber.com (no DNS)
+- mercury-caliber-8q.dev.uber.com (no DNS)
+- saturn-magnum-2g.dev.uber.com (no DNS)
+- spyker-cars-rogue-1.dev.uber.com (no DNS)
+- sumers.dev.uber.com (no DNS)
+- wanjiaboyulechengkaihue.mx.dev.uber.com (no DNS)
+
 ## 2026-11-09
 
 ### risedatalabs.com
