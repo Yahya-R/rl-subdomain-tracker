@@ -416,9 +416,9 @@
   "sources": {
    "crtsh": 3,
    "certspotter": 3,
-   "hackertarget": 3,
+   "hackertarget": 2,
    "subdomain_center": 0,
-   "wayback": 0,
+   "wayback": null,
    "rapiddns": 0,
    "c99": 0
   },
@@ -432,8 +432,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-09T18:45",
-  "failed_sources": []
+  "last_scan": "2026-11-10T02:47",
+  "failed_sources": [
+   "wayback"
+  ]
  },
  "dissei.ai": {
   "sources": {
@@ -541,7 +543,7 @@
    "certspotter": 2,
    "hackertarget": 2,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -555,10 +557,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-09T18:45",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-11-10T02:44",
+  "failed_sources": []
  },
  "fleetai.com": {
   "sources": {
@@ -613,11 +613,11 @@
  },
  "gr.inc": {
   "sources": {
-   "crtsh": 13,
+   "crtsh": 14,
    "certspotter": 15,
    "hackertarget": 16,
    "subdomain_center": 4,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -631,10 +631,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-09T18:46",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-11-10T02:43",
+  "failed_sources": []
  },
  "halluminate.ai": {
   "sources": {
@@ -974,7 +972,7 @@
    "certspotter": 15,
    "hackertarget": 14,
    "subdomain_center": 2,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -988,10 +986,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-09T18:46",
-  "failed_sources": [
-   "wayback"
-  ]
+  "last_scan": "2026-11-10T02:47",
+  "failed_sources": []
  },
  "ooakdata.com": {
   "sources": {
@@ -1413,7 +1409,7 @@
    "certspotter": 20,
    "hackertarget": 21,
    "subdomain_center": 31,
-   "wayback": 18,
+   "wayback": null,
    "rapiddns": 3,
    "c99": 0
   },
@@ -1427,8 +1423,10 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-09T18:45",
-  "failed_sources": []
+  "last_scan": "2026-11-10T02:46",
+  "failed_sources": [
+   "wayback"
+  ]
  },
  "surgehq.ai": {
   "sources": {
