@@ -2,6 +2,19 @@
 
 ## 2026-11-10
 
+### bespokelabs.ai
+- admin-dev.bespokelabs.ai (8.232.72.56)
+- console-dev.bespokelabs.ai (8.232.72.56)
+- nimble-api-dev.bespokelabs.ai (8.232.72.56)
+
+### datacurve.ai
+- dashboard-preview-db.datacurve.ai (104.21.20.75)
+
+### tastelabs.com
+- blobs.index.engine.tastelabs.com (172.66.152.147)
+
+## 2026-11-10
+
 ### turing.com
 - llm.agents-explorer-api.turing.com (34.36.121.157)
 - llm.agents-explorer.turing.com (34.36.121.157)
