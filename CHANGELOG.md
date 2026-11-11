@@ -3,6 +3,23 @@
 ## 2026-11-11
 
 ### uber.com
+- analytics.uber.com (no DNS)
+- aom-staging.uber.com (no DNS)
+- deve.backend.uber.com (no DNS)
+- deve.legacy.uber.com (no DNS)
+- infiniti-magnum-6q.dev.uber.com (no DNS)
+- jeep-tribute-4k.dev.uber.com (no DNS)
+- mg-sierra-1500-1k.dev.uber.com (no DNS)
+- my-call-of-duty-mw3a.track.uber.com (no DNS)
+- pontiac-spectra-2s.dev.uber.com (no DNS)
+- rt-grid-manager.dev.uber.com (no DNS)
+- sweeney-flasks.dev.uber.com (no DNS)
+- test-goldenp2a.dev.uber.com (no DNS)
+- zhuanqianbayulecheng.mx.dev.uber.com (no DNS)
+
+## 2026-11-11
+
+### uber.com
 - 0w4o6q8ge.uber.com (no DNS)
 - aptera-touareg-7i.dev.uber.com (no DNS)
 - bolsingac.dev.uber.com (no DNS)
