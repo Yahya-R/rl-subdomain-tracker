@@ -2,6 +2,16 @@
 
 ## 2026-11-11
 
+### afterquery.com
+- api.whitebox.afterquery.com (34.120.218.215)
+- ender-test-research.afterquery.com (136.82.152.184)
+- whitebox.afterquery.com (34.120.218.215)
+
+### patronus.ai
+- atlas.patronus.ai (184.197.183.23)
+
+## 2026-11-11
+
 ### uber.com
 - analytics.uber.com (no DNS)
 - aom-staging.uber.com (no DNS)
