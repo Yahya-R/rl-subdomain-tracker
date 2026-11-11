@@ -1,5 +1,20 @@
 # New subdomains
 
+## 2026-11-11
+
+### uber.com
+- 0w4o6q8ge.uber.com (no DNS)
+- aptera-touareg-7i.dev.uber.com (no DNS)
+- bolsingac.dev.uber.com (no DNS)
+- cnm.cdn.prod2.uber.com (no DNS)
+- devg.account.uber.com (no DNS)
+- emily.dev.uber.com (no DNS)
+- gitlab-dev.uber.com (no DNS)
+- lifeguard47.dev.uber.com (no DNS)
+- m3-tsdb-test14-sjc1.uber.com (no DNS)
+- restaurant-onboarding-staging.uber.com (no DNS)
+- rundle.mx.dev.uber.com (no DNS)
+
 ## 2026-11-10
 
 ### bespokelabs.ai
