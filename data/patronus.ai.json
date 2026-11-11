@@ -103,8 +103,8 @@
  },
  "api.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-09",
-  "ip": "184.196.251.203",
+  "last_seen": "2026-11-11",
+  "ip": "54.85.204.4",
   "live": true
  },
  "app-cegid.azure.onprem.patronus.ai": {
@@ -194,13 +194,19 @@
  "app.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "3.83.7.194",
+  "ip": "44.205.41.63",
   "live": true
  },
  "app.relay.sandbox.patronus.ai": {
   "first_seen": "2026-10-15",
   "last_seen": "2026-11-11",
   "ip": "3.175.34.79",
+  "live": true
+ },
+ "atlas.patronus.ai": {
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "ip": "184.197.183.23",
   "live": true
  },
  "auth.dev.patronus.ai": {
@@ -236,19 +242,19 @@
  "behavioral.rl.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "13.227.87.72",
+  "ip": "18.164.21.120",
   "live": true
  },
  "bonus.patronus.ai": {
   "first_seen": "2026-10-15",
   "last_seen": "2026-11-11",
-  "ip": "52.85.40.121",
+  "ip": "52.85.78.77",
   "live": true
  },
  "cdn.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "18.160.200.120",
+  "ip": "3.162.199.67",
   "live": true
  },
  "chat.patronus.ai": {
@@ -272,7 +278,7 @@
  "data.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "142.250.123.121",
+  "ip": "108.177.123.121",
   "live": true
  },
  "data.private.patronus.ai": {
@@ -314,7 +320,7 @@
  "docs.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "100.50.42.111",
+  "ip": "34.198.30.144",
   "live": true
  },
  "docs1.patronus.ai": {
@@ -325,8 +331,8 @@
  },
  "dwm.patronus.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-09",
-  "ip": "54.210.145.191",
+  "last_seen": "2026-11-11",
+  "ip": "18.234.19.218",
   "live": true
  },
  "echoserver.adobe.eastus2.azure.patronus.ai": {
@@ -416,7 +422,7 @@
  "minibatch.patronus.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-11",
-  "ip": "23.23.206.247",
+  "ip": "18.211.24.11",
   "live": true
  },
  "models.internal.patronus.ai": {
@@ -523,8 +529,8 @@
  },
  "otel.patronus.ai": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-10-27",
-  "ip": "44.207.26.57",
+  "last_seen": "2026-11-11",
+  "ip": "35.174.192.106",
   "live": true
  },
  "patronus.ai": {
