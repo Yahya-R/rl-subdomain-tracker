@@ -2,6 +2,24 @@
 
 ## 2026-11-12
 
+### mechanize.work
+- census.mechanize.work (136.81.49.233)
+
+### normal.ai
+- spend-preview.normal.ai (104.21.95.46)
+- spend.normal.ai (104.21.95.46)
+
+### uber.com
+- bjxy.mx.dev.uber.com (no DNS)
+- corbin-600sel-5.dev.uber.com (no DNS)
+- cs223.spmail.uber.com (no DNS)
+- d.uber.com (no DNS)
+- dashboard9.dev.uber.com (no DNS)
+- pederq.dev.uber.com (no DNS)
+- yingtao2a.dev.uber.com (no DNS)
+
+## 2026-11-12
+
 ### originator.inc
 - og-anon-evals.originator.inc (104.26.8.62)
 
