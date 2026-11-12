@@ -1,5 +1,20 @@
 # New subdomains
 
+## 2026-11-12
+
+### originator.inc
+- og-anon-evals.originator.inc (104.26.8.62)
+
+### uber.com
+- buick-sidekick-5m.dev.uber.com (no DNS)
+- confluence-prod-node01g.uber.com (no DNS)
+- conquerors.mx.dev.uber.com (no DNS)
+- cpp.uber.com (no DNS)
+- o-bje-net.mx.dev.uber.com (no DNS)
+- siva09.dev.uber.com (no DNS)
+- studebaker-forenza-6.dev.uber.com (no DNS)
+- studebaker-hearse-9c.dev.uber.com (no DNS)
+
 ## 2026-11-11
 
 ### afterquery.com
