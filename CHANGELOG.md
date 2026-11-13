@@ -2,6 +2,15 @@
 
 ## 2026-11-13
 
+### afterquery.com
+- accounts.whitebox.afterquery.com (104.18.34.146)
+- clerk.whitebox.afterquery.com (104.18.34.146)
+
+### dissei.ai
+- judgment-lab.dissei.ai (172.67.68.97)
+
+## 2026-11-13
+
 ### gr.inc
 - midtraining-data.gr.inc (8.233.217.136)
 
