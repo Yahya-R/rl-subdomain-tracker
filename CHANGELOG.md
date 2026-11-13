@@ -1,5 +1,29 @@
 # New subdomains
 
+## 2026-11-13
+
+### gr.inc
+- midtraining-data.gr.inc (8.233.217.136)
+
+### ooakdata.com
+- samples-us.ooakdata.com (104.18.13.60)
+
+### uber.com
+- 96o.aws.uber.com (no DNS)
+- cadillac-fx-5u.dev.uber.com (no DNS)
+- cn-neg-staging.cfe.uber.com (34.54.185.200)
+- daewoo-montecarlo-3i.dev.uber.com (no DNS)
+- gcs-sandbox.uber.com (no DNS)
+- gmc-expedition-5k.dev.uber.com (no DNS)
+- jensen-outlander-3k.dev.uber.com (no DNS)
+- kiosk-node-api-staging.uber.com (no DNS)
+- mazda-justy-8q.dev.uber.com (no DNS)
+- mg-imperial-1i.dev.uber.com (no DNS)
+- renault-cayenne-1u.dev.uber.com (no DNS)
+- rosettas.dev.uber.com (no DNS)
+- stagingdb01.uber.com (no DNS)
+- weiyenayulechengzuixinyouhui9.mx.dev.uber.com (no DNS)
+
 ## 2026-11-12
 
 ### mechanize.work
