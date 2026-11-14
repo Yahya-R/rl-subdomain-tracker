@@ -2,7 +2,7 @@
  "accounts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.65",
+  "ip": "64.239.123.1",
   "live": true
  },
  "accounts.delivery.afterquery.com": {
@@ -44,7 +44,7 @@
  "afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.1",
+  "ip": "64.239.123.65",
   "live": true
  },
  "api.prod.aether.afterquery.com": {
@@ -68,7 +68,7 @@
  "auth.aether.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "104.18.35.233",
+  "ip": "172.64.152.23",
   "live": true
  },
  "auth.afterquery.com": {
@@ -104,7 +104,7 @@
  "clerk.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.193",
+  "ip": "64.239.109.129",
   "live": true
  },
  "clerk.delivery.afterquery.com": {
@@ -152,7 +152,7 @@
  "cua-gw.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "54.159.28.161",
+  "ip": "18.211.16.36",
   "live": true
  },
  "data.afterquery.com": {
@@ -194,7 +194,7 @@
  "egg.reviewer.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.109.129",
+  "ip": "64.239.123.1",
   "live": true
  },
  "ender-test-research.afterquery.com": {
@@ -230,7 +230,7 @@
  "fd-api.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.1",
+  "ip": "64.239.109.1",
   "live": true
  },
  "goopy.afterquery.com": {
@@ -248,13 +248,13 @@
  "pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-14",
-  "ip": "64.239.109.65",
+  "ip": "64.239.123.1",
   "live": true
  },
  "quality-check.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.193",
   "live": true
  },
  "sec.afterquery.com": {
@@ -302,7 +302,7 @@
  "weave-demo-be.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.123.1",
+  "ip": "64.239.109.193",
   "live": true
  },
  "whitebox.afterquery.com": {
@@ -314,7 +314,7 @@
  "www.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.193",
   "live": true
  },
  "www.auth.afterquery.com": {
@@ -326,7 +326,7 @@
  "www.pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-14",
-  "ip": "64.239.109.129",
+  "ip": "64.239.109.1",
   "live": true
  }
 }
