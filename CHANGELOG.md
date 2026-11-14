@@ -1,5 +1,28 @@
 # New subdomains
 
+## 2026-11-14
+
+### goodstartlabs.com
+- p7jpgdp8rrfpt.sbx-gateway.goodstartlabs.com (34.132.143.239)
+- p7jpgdp8rrfpt.sbx-previews.goodstartlabs.com (no DNS)
+
+### surgehq.ai
+- prod-rollback.surgehq.ai (104.18.15.90)
+
+### tastelabs.com
+- mcp.hdp.tastelabs.com (34.120.183.23)
+
+### uber.com
+- ashleyq.dev.uber.com (no DNS)
+- chrysler-g35-1o.dev.uber.com (no DNS)
+- dev-fran.dev.uber.com (no DNS)
+- developerv1.uber.com (no DNS)
+- foose-rockette-7i.dev.uber.com (no DNS)
+- hw-dev.uber.com (no DNS)
+- jeppeh.dev.uber.com (no DNS)
+- web-riders-test-api.dev.uber.com (no DNS)
+- y-seotechniques.mx.dev.uber.com (no DNS)
+
 ## 2026-11-13
 
 ### afterquery.com
