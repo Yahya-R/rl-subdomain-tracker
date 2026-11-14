@@ -2,6 +2,22 @@
 
 ## 2026-11-14
 
+### cua.ai
+- dl-k7q3.staging.cua.ai (32.189.60.4)
+
+### uber.com
+- analyticsq.aha.a.dev.uber.com (no DNS)
+- archa4.dev.uber.com (no DNS)
+- dodge-contour-2q.dev.uber.com (no DNS)
+- gaobink.dev.uber.com (no DNS)
+- kaituozhevshurene.mx.dev.uber.com (no DNS)
+- madisonc.cfe.uber.com (no DNS)
+- seraphimdl.dev.uber.com (no DNS)
+- uwilly.dev.uber.com (no DNS)
+- yannanw-golden.dev.uber.com (no DNS)
+
+## 2026-11-14
+
 ### goodstartlabs.com
 - p7jpgdp8rrfpt.sbx-gateway.goodstartlabs.com (34.132.143.239)
 - p7jpgdp8rrfpt.sbx-previews.goodstartlabs.com (no DNS)
