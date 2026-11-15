@@ -2,6 +2,25 @@
 
 ## 2026-11-15
 
+### mercor.com
+- eks-canary.api.mercor.com (10.4.157.95)
+- eks-canary.preprod.api.mercor.com (10.6.150.162)
+
+### micro1.ai
+- api.company.micro1.ai (44.236.16.37)
+
+### uber.com
+- admin-staging.uber.com (69.48.216.5)
+- asun09.dev.uber.com (no DNS)
+- fastmonkeys.uber.com (no DNS)
+- jensen-previa-4u.dev.uber.com (no DNS)
+- pbx5.mx.dev.uber.com (no DNS)
+- reset.uber.com (192.168.46.229)
+- rt-geospatialg.dev.uber.com (no DNS)
+- www.sbx.usuppliers.uber.com (no DNS)
+
+## 2026-11-15
+
 ### originator.inc
 - ori.sol.data.originator.inc (104.26.8.62)
 
