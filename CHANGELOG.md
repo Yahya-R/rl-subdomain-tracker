@@ -1,5 +1,17 @@
 # New subdomains
 
+## 2026-11-15
+
+### originator.inc
+- ori.sol.data.originator.inc (104.26.8.62)
+
+### uber.com
+- francecentralm.atlas.cloudapp.uber.com (no DNS)
+- ftp.uber.com (no DNS)
+- khbot7.dev.uber.com (no DNS)
+- lolz29.dev.uber.com (no DNS)
+- maciib.mx.dev.uber.com (no DNS)
+
 ## 2026-11-14
 
 ### uber.com
