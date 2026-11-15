@@ -20,19 +20,19 @@
  "allumiqs.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "44.235.72.157",
+  "ip": "54.191.209.95",
   "live": true
  },
  "argocd.dev.latch.bio": {
   "first_seen": "2026-11-01",
   "last_seen": "2026-11-14",
-  "ip": "32.188.205.94",
+  "ip": "52.26.204.64",
   "live": true
  },
  "argocd.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "100.22.20.72",
+  "ip": "32.186.78.148",
   "live": true
  },
  "argocde.latch.bio": {
@@ -44,13 +44,13 @@
  "atlasxomics.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "32.190.124.75",
+  "ip": "44.235.72.157",
   "live": true
  },
  "auth.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "172.64.144.74",
+  "ip": "104.18.43.182",
   "live": true
  },
  "blog.latch.bio": {
@@ -80,7 +80,7 @@
  "centromere.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "54.188.241.228",
+  "ip": "184.35.133.167",
   "live": true
  },
  "centromerec.latch.bio": {
@@ -110,7 +110,7 @@
  "conference.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "31.43.161.6",
+  "ip": "31.43.160.6",
   "live": true
  },
  "conferencec.latch.bio": {
@@ -146,7 +146,7 @@
  "custom.pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "52.34.130.207",
+  "ip": "54.68.18.72",
   "live": true
  },
  "custom.pods.us-east.latch.bio": {
@@ -176,7 +176,7 @@
  "deseq2-viz-server.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "54.69.224.221",
+  "ip": "32.186.171.244",
   "live": true
  },
  "deseq2-viz-server1.latch.bio": {
@@ -194,7 +194,7 @@
  "factorial.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "32.190.124.75",
+  "ip": "54.191.209.95",
   "live": true
  },
  "geo.latch.bio": {
@@ -236,7 +236,7 @@
  "jlab.pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "52.34.130.207",
+  "ip": "184.35.157.252",
   "live": true
  },
  "jlab.pods.us-east.latch.bio": {
@@ -272,7 +272,7 @@
  "latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "16.148.212.122",
+  "ip": "32.185.126.15",
   "live": true
  },
  "mcp.latch.bio": {
@@ -290,7 +290,7 @@
  "pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "54.68.18.72",
+  "ip": "184.35.157.252",
   "live": true
  },
  "pods.us-west.latch.bio": {
@@ -392,7 +392,7 @@
  "status.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "76.76.21.61",
+  "ip": "66.33.60.129",
   "live": true
  },
  "support.latch.bio": {
@@ -434,7 +434,7 @@
  "vacuole.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "35.160.194.63",
+  "ip": "44.232.24.209",
   "live": true
  },
  "vizgen.latch.bio": {
@@ -452,25 +452,25 @@
  "wiki.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "66.33.60.193",
+  "ip": "76.76.21.22",
   "live": true
  },
  "wildcard.custom.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-14",
-  "ip": "184.35.157.252",
+  "ip": "52.34.130.207",
   "live": true
  },
  "wildcard.jlab.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-14",
-  "ip": "52.34.130.207",
+  "ip": "184.35.157.252",
   "live": true
  },
  "wildcard.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-14",
-  "ip": "184.35.157.252",
+  "ip": "54.68.18.72",
   "live": true
  },
  "wildcard.rstudio.pods.latch.bio": {
@@ -524,13 +524,13 @@
  "www.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-14",
-  "ip": "16.148.212.122",
+  "ip": "32.185.126.15",
   "live": true
  },
  "www.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-14",
-  "ip": "184.35.157.252",
+  "ip": "54.68.18.72",
   "live": true
  },
  "www.pods.us-west.latch.bio": {
