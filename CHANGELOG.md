@@ -2,6 +2,26 @@
 
 ## 2026-11-14
 
+### uber.com
+- b6r.spmail.uber.com (no DNS)
+- datangyulechengzhenqianyouxi.mx.dev.uber.com (no DNS)
+- dbspares-base81-dca1.uber.com (no DNS)
+- lax-dev.uber.com (no DNS)
+- lexus-hombre-7m.dev.uber.com (no DNS)
+- mazda-cirrus-7o.dev.uber.com (no DNS)
+- mkonjeti.dev.uber.com (no DNS)
+- monagezhenrenyulecheng.mx.dev.uber.com (no DNS)
+- new-yorke.cfe.uber.com (no DNS)
+- roxana1.dev.uber.com (no DNS)
+- studebaker-tempest-8u.dev.uber.com (no DNS)
+- yanhan1.dev.uber.com (no DNS)
+- yariv2.dev.uber.com (no DNS)
+
+### verita-ai.com
+- experts.verita-ai.com (192.178.142.121)
+
+## 2026-11-14
+
 ### cua.ai
 - dl-k7q3.staging.cua.ai (32.189.60.4)
 
