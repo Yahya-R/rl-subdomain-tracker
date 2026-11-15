@@ -2,6 +2,24 @@
 
 ## 2026-11-15
 
+### uber.com
+- 1.uber.com (no DNS)
+- cf-migration.uber.com (no DNS)
+- cn-sjc15.uber.com (no DNS)
+- dev-mirrorg.uber.com (no DNS)
+- gd1.dev.uber.com (no DNS)
+- internal-dev.uber.com (no DNS)
+- krdevg.dev.uber.com (no DNS)
+- logina.yuxin40.dev.uber.com (no DNS)
+- loginq.minwan01.dev.uber.com (no DNS)
+- matyasa.dev.uber.com (no DNS)
+- philips0.dev.uber.com (no DNS)
+- porsche-batmobile-9k.dev.uber.com (no DNS)
+- rwanga.dev.uber.com (no DNS)
+- yp35.dev.uber.com (no DNS)
+
+## 2026-11-15
+
 ### mercor.com
 - eks-canary.api.mercor.com (10.4.157.95)
 - eks-canary.preprod.api.mercor.com (10.6.150.162)
