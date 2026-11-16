@@ -1,6 +1,6 @@
 {
  "domain": "verita-ai.com",
- "live_hosts": 47,
+ "live_hosts": 48,
  "pages": [
   {
    "host": "a.alpha.verita-ai.com",
@@ -58,6 +58,13 @@
   {
    "host": "docu.verita-ai.com",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "experts.verita-ai.com",
+   "status": "ok",
+   "url": "https://experts.verita-ai.com/",
+   "title": "Verita research take-home",
+   "links": []
   },
   {
    "host": "files1.alpha.verita-ai.com",

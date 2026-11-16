@@ -1,11 +1,7 @@
 {
  "domain": "markovstudios.com",
- "live_hosts": 5,
+ "live_hosts": 4,
  "pages": [
-  {
-   "host": "cdn.markovstudios.com",
-   "status": "no response"
-  },
   {
    "host": "markovstudios.com",
    "status": "ok",

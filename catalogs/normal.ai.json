@@ -1,6 +1,6 @@
 {
  "domain": "normal.ai",
- "live_hosts": 13,
+ "live_hosts": 15,
  "pages": [
   {
    "host": "app.normal.ai",
@@ -21,14 +21,8 @@
    "host": "normal.ai",
    "status": "ok",
    "url": "https://normal.ai/",
-   "title": "Normal | Applied research for hardware design",
-   "links": [
-    {
-     "url": "https://normal.ai/leaderboard/cad-arena",
-     "kind": "page",
-     "text": "Leaderboard"
-    }
-   ]
+   "title": "Normal AI",
+   "links": []
   },
   {
    "host": "portal.normal.ai",
@@ -46,9 +40,23 @@
    "status": "no response"
   },
   {
+   "host": "spend-preview.normal.ai",
+   "status": "ok",
+   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/spend-preview.normal.ai?kid=413895604f8059d763478d9a056532a10337ceb5a3bf8a9006f895bf645abf8d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQxMzg5NTYwNGY4MDU5ZDc2MzQ3OGQ5YTA1NjUzMmExMDMzN2NlYjVhM2JmOGE5MDA2Zjg5NWJmNjQ1YWJmOGQiLCJob3N0bmFtZSI6InNwZW5kLXByZXZpZXcubm9ybWFsLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ4NDY2ODUsIm5iZiI6MTc5NDg0NjM4NSwiaWF0IjoxNzk0ODQ2Mzg1LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNDViNDViZDk1MWU4MmI5MmU5ZWVlOWNmOTcxY2I1MWNlOWY0ZGQyYzhjNzM5MDhkODQwODZjNGQyYjNiMTFjNSJ9.cx52lK-dfnY-1rKjm6OZ3SpmT7Ru_QrB6x8pKkvT1tNlCbsIpMAI1ghgHjQt3nGuC4y5iN313mF8SRmGl8iIEb6WFUNMNv0foriQ0170-MsS1gYRC9IrZ19Pclmomz7F_Lf9gRn4PVGgQpzaSYMzHAbiXuLO6JkZ_uQJlBJ_xRCBkS95874l4_abu21fdfK7PBIMilok_ZtNdc2soPDd1hpL4K-lCCRM93_FBno6jtNVF-eK4YGvobz7X0ZnQh24jLNJ9_txLPcrEUv0ZwSkGkytJd4eHwupPOW4LAuBuxsFz-glKlJr4qOIyGdzKeEFhP5h-o49NLPzEpyGwHL2dA&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
+   "host": "spend.normal.ai",
+   "status": "ok",
+   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/spend.normal.ai?kid=413895604f8059d763478d9a056532a10337ceb5a3bf8a9006f895bf645abf8d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQxMzg5NTYwNGY4MDU5ZDc2MzQ3OGQ5YTA1NjUzMmExMDMzN2NlYjVhM2JmOGE5MDA2Zjg5NWJmNjQ1YWJmOGQiLCJob3N0bmFtZSI6InNwZW5kLm5vcm1hbC5haSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk0ODQ2Njg1LCJuYmYiOjE3OTQ4NDYzODUsImlhdCI6MTc5NDg0NjM4NSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjVjM2U5NGQ3NDEyMGVkM2E4MDljMDYwZjhhZjk0ZDBhOGY2YzczMzRlZTAyYzgyMTc4N2JjNzliNDUyMzU4MDMifQ.PPtYMX_ZHBbIBvrW0V6Ytl9D3MOnyAxpALIiHg6psv2YaX4tCpZsnf7wnuILuvytkDPWzGpJzFE232SHq-V4yQjyKyCw0meIIm0PJ3AwMVxP8xfd8FtuJkSRTxxTotf-4mvIezxwBqI0QTiLHVTqdIw5K0TP4kVsdSgyMdaY1AiS5U9o4ExAe55DMdRrXFWfNQtnwWDV_2ibSv97W8udd4UPOsPCgUhF3Yx4d1UFWTDJi74Ug-FadVVC9C4GGE3_CgoiV0Md5LDWaDOLvOegXtLH3WxUI9V94Q8MI1heVUbNnAEBXEcJM5Trv9lYxZ3xgRAUC70Xn6EJj2O5r6e5Ig&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
    "host": "staging.normal.ai",
    "status": "ok",
-   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/staging.normal.ai?kid=2797a6b14db5432dc0e7109a4a8dd6f315558e71dbf4fdaa9349bcbc8464afb7&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI3OTdhNmIxNGRiNTQzMmRjMGU3MTA5YTRhOGRkNmYzMTU1NThlNzFkYmY0ZmRhYTkzNDliY2JjODQ2NGFmYjciLCJob3N0bmFtZSI6InN0YWdpbmcubm9ybWFsLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQyNDM1MjEsIm5iZiI6MTc5NDI0MzIyMSwiaWF0IjoxNzk0MjQzMjIxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNTBlNjdjNmY5NGQ3NDQ1ZTc1YWNhYjQzMGRiYzBlZWM3ZjcyODk2MTczMDU3OGU5N2ZkZTIxOTlkYWIyOTJkMiJ9.Yxro6TLyyJ9wItIYBTnWOi9A0nRrwSxMT1hb1Y0VWJgbvzjatXFtoKqbEVXAz0KT_TFiMZK2lVwoRLhqc0VQnWsv1UsT-nlGPk9Kf1k5L-5Zbk8IUBp640xU-tEVc8pccs3OG95pqCvZ6eYWgQn7WWYnJkK3O-oOfhNqBjCbnHFOm7hHIEE32qqUDNuJG9aIxCuIm19c3BObgVUYFp5YHF9tzLhsXZ0ZGZD8qRyTj94mU24Pl1CBhY7QDk3wHA35vC14zUjrt2kxdGL5PHeo1Ptlnm0RW14K2TNFFN5wfsM9FuQjk2xR0CFFrJFFRxBAoSBHCwPS2RGLB-wRZao8xw&redirect_url=%2F",
+   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/staging.normal.ai?kid=2797a6b14db5432dc0e7109a4a8dd6f315558e71dbf4fdaa9349bcbc8464afb7&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI3OTdhNmIxNGRiNTQzMmRjMGU3MTA5YTRhOGRkNmYzMTU1NThlNzFkYmY0ZmRhYTkzNDliY2JjODQ2NGFmYjciLCJob3N0bmFtZSI6InN0YWdpbmcubm9ybWFsLmFpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ4NDY2ODUsIm5iZiI6MTc5NDg0NjM4NSwiaWF0IjoxNzk0ODQ2Mzg1LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMmU4YmI5N2RhZDk1ZmEzN2I0YzM0ZTRlOGU2N2M5YmE4MTc1MTg4OTE5OGEwZWIxZDMxNjY2MjkwN2UwOGYzZSJ9.kzhuKxUwzjXvB2aJT5aSfm6jEv7nk8J2WTf3LsZ4c7OwIqdr19TskMeqS0n9fLuVZpUlO70EtkaY2ucNm-S1u9pDrFD4y_YeaJxDWmOVYl0tloehglieutT2HqJSGiP4vfJxZH3ifo9cm_UC4W6MnP9N5M9f1i3hu5LOUor7nd5zv7i9YqmFbFGtVAhvm0OZ9nQVnzyGm4M3ahUE5orSyKaJOQJp4j9KLDy5I2tHSENagyCKtxkbPKK4ekyYs6jHkxuvIYwEgPJVAPVxKVU3plopbwKQdqfMi51Zdv9UJnPZ4tCLBOoFBzatLFBqU_3imeuZko9Rh4_TyiFTd6vJUQ&redirect_url=%2F",
    "title": "Sign in \u30fb Cloudflare Access",
    "links": []
   },
@@ -70,19 +78,13 @@
    "host": "www.normal.ai",
    "status": "ok",
    "url": "https://normal.ai/",
-   "title": "Normal | Applied research for hardware design",
-   "links": [
-    {
-     "url": "https://normal.ai/leaderboard/cad-arena",
-     "kind": "page",
-     "text": "Leaderboard"
-    }
-   ]
+   "title": "Normal AI",
+   "links": []
   },
   {
    "host": "zep.normal.ai",
    "status": "ok",
-   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/zep.normal.ai?kid=71694aaafce688e4e8d74939e2e2f006e5df372d1d07c75be8ec07c60a2be618&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjcxNjk0YWFhZmNlNjg4ZTRlOGQ3NDkzOWUyZTJmMDA2ZTVkZjM3MmQxZDA3Yzc1YmU4ZWMwN2M2MGEyYmU2MTgiLCJob3N0bmFtZSI6InplcC5ub3JtYWwuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDI0MzUyMSwibmJmIjoxNzk0MjQzMjIxLCJpYXQiOjE3OTQyNDMyMjEsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI3NjgxYjFkMGQ3MTEyMzQ2Njk5NzA3MTA2ZGEwZTJlZjUyZDQ1OTUyZjE1MDU0MGRlZDgzZjExNDgxN2EyMzA2In0.TeU213GrGAL3s_DAL_zsAmgscpZBIul3pDH4cLG6HoRsj2vJPXPeButgOf89UVGB2qa4wY4C_e4E8pQZq9zxK_LSfUgZ6zTZUniY6AiQhIqRCC0KMCAzlFEOBjOI4yAS8NUjiWWI9Ndl6Zasl9nYy3eMRPDqoBnjTHKzFsl1Zbqh5WRe3rr0QNQO3GKumNR1jOnf7EkT6ruxbw5HjOUAhiFYqAtETQGYejcPTvUM7VRXcLYTwNk109HO62UpbqeRCI6RZ-ZIBa3NSBAiopTLnnbEFrymB-00G-Af0F_H1wYkyA3oX5vf5sORnIUjEH1tdVnVhYe3dHVqnYb42XP6rA&redirect_url=%2F",
+   "url": "https://hudzah-9d8.cloudflareaccess.com/cdn-cgi/access/login/zep.normal.ai?kid=71694aaafce688e4e8d74939e2e2f006e5df372d1d07c75be8ec07c60a2be618&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjRmY2MwNWMyNDdhY2FhNzc2MjBjYWU1ODZlZmQ0NjQwNTgyN2Y4YzNhOWI1MTJhODk0ZmY4YzdiMDVmN2UyNTkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjcxNjk0YWFhZmNlNjg4ZTRlOGQ3NDkzOWUyZTJmMDA2ZTVkZjM3MmQxZDA3Yzc1YmU4ZWMwN2M2MGEyYmU2MTgiLCJob3N0bmFtZSI6InplcC5ub3JtYWwuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDg0NjY4NiwibmJmIjoxNzk0ODQ2Mzg2LCJpYXQiOjE3OTQ4NDYzODYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJjODdmYjMzOTU0MDE2Y2VkMmQ1YWVkY2I2YmJmNTAwODk2ZTdmNWNmNzA1ZTQ5MGI1ZjU3YjRjMjU4NDNmNzU2In0.XnX3gcaC1XTapIxCkU5DdgRTvFC-WhoOFD9mLnZAS4YRjIL_qCP8hlWsVEgyyRsmujef-UlbvxKt9Skk8ZukyLopYGbtgUTtyRTZQZGSbG9uNWSCTkCcPlw6j90m3OXb48R7Ua3v29pPv-fYylSOrIt1D3u572mQkleX7YZMEwvP-jaiSFQr5bmK4VyMWJgwILVs4lPdP2TSveidSJBZo-9wMnc4eQcSUX78Zf5G_Z77AwXF3L-jqB2guu9imKbPO5sKrSkOkyMzJsfjUWpOveovBGBwseigM4gYKeChb6uRvvZ9DSBmntfXutjVTEi2Aw4TwR0L5rm3JHVXneYdfQ&redirect_url=%2F",
    "title": "Sign in \u30fb Cloudflare Access",
    "links": []
   },
@@ -92,10 +94,6 @@
   }
  ],
  "sitemap_hits": [
-  {
-   "url": "https://normal.ai/leaderboard/cad-arena",
-   "kind": "page"
-  },
   {
    "url": "https://normal.ai/leaderboard/cad-arena",
    "kind": "page"

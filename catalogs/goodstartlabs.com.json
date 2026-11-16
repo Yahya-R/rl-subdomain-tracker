@@ -1,6 +1,6 @@
 {
  "domain": "goodstartlabs.com",
- "live_hosts": 41,
+ "live_hosts": 42,
  "pages": [
   {
    "host": "apply.goodstartlabs.com",
@@ -129,6 +129,10 @@
   },
   {
    "host": "matchmaker.goodstartlabs.com",
+   "status": "no response"
+  },
+  {
+   "host": "p7jpgdp8rrfpt.sbx-gateway.goodstartlabs.com",
    "status": "no response"
   },
   {

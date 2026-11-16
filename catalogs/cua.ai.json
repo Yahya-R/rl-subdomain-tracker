@@ -1,6 +1,6 @@
 {
  "domain": "cua.ai",
- "live_hosts": 28,
+ "live_hosts": 29,
  "pages": [
   {
    "host": "accounts.cua.ai",
@@ -28,7 +28,7 @@
   {
    "host": "app.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D21f3518a566f90cfbc5549da6baddf4353d3665b88f0b732c3cf51ecd3625def",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D96729fa88e1d314c6a9f15cea1750dbb01657e510360f7ab6bdd574ae3f9377b",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -84,7 +84,7 @@
     {
      "url": "https://cua.ai/download/windows",
      "kind": "page",
-     "text": "Windows (preview)"
+     "text": "Windows"
     },
     {
      "url": "https://cua.ai/pricing",
@@ -154,6 +154,10 @@
    ]
   },
   {
+   "host": "dl-k7q3.staging.cua.ai",
+   "status": "no response"
+  },
+  {
    "host": "docs-mcp.cua.ai",
    "status": "no response"
   },
@@ -193,7 +197,7 @@
   {
    "host": "home.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D6b9b6ee059dbe01036c1f5ede01514fae9f48e8d5dc48493df9eb56c3a47d3cc",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D124de5fa97ff24c8d9b8c34751bcce4adde07d2d75004cdb2a931e60ee0981c4",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -327,7 +331,7 @@
     {
      "url": "https://spaces-origin.cua.ai/download/windows",
      "kind": "page",
-     "text": "Windows (preview)"
+     "text": "Windows"
     },
     {
      "url": "https://spaces-origin.cua.ai/pricing",
@@ -370,7 +374,7 @@
     {
      "url": "https://cua.ai/download/windows",
      "kind": "page",
-     "text": "Windows (preview)"
+     "text": "Windows"
     },
     {
      "url": "https://cua.ai/pricing",
@@ -442,7 +446,7 @@
   {
    "host": "spaces.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3Da89ba149381196a7fe39ac4882c254b8228257b673b6652f5b4fb1a9a1c101d4",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3D0a1a04d8a81f3ae466906861d041232ef0382b55aef94aee6f1924abf8f6c6d2",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -491,7 +495,7 @@
     {
      "url": "https://cua.ai/download/windows",
      "kind": "page",
-     "text": "Windows (preview)"
+     "text": "Windows"
     },
     {
      "url": "https://cua.ai/pricing",

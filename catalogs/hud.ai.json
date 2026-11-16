@@ -9,14 +9,14 @@
   {
    "host": "admin.beta.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D668bf0be69c6d329bc3bfd08910c43c0889dbf40af8c8f6f38440bdb9f02a5dc",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D92a76077849b819873b760a0e366528cbbc2d542ea8501370d9abfd6a98c3e4c",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "admin.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3Df7305180356c011764355da233adbb25365d273d3fbb53e44ad6bc5a3d6c02e0",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3D4f7f939e49ccfb7a2047ca1de91f7bf9d28eeb5e90d4e12bf711de42745bd14b",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -27,7 +27,7 @@
   {
    "host": "admin.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3D6ba0d60786da0b9f193a99c1921e304335e44d3b5d7c2b4a8c9d5f5001d4eb68",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3D21bda13bd38ea6bbbcebeedcad6fdb90c7ea292715ad96a91256b00eff3d94ed",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -96,13 +96,42 @@
   {
    "host": "forge.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3D9372f32e68de3782442045378bb32177c0ad0406067c2cd1b88a274eab0d3bb5",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3Db8fe773c882ca58995765c3a390647c2c554fdeeab3a9354e095df1ad173ac01",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "hud.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://www.hud.ai/",
+   "title": "HUD \u2014 Build RL environments | HUDGitHubXDiscord",
+   "links": [
+    {
+     "url": "https://docs.hud.ai/v6/core/training",
+     "kind": "page",
+     "text": "Evaluations(opens in new tab)"
+    },
+    {
+     "url": "https://github.com/hud-evals/hud-python",
+     "kind": "hosted",
+     "text": "GitHub"
+    },
+    {
+     "url": "https://www.hud.ai/environments",
+     "kind": "page",
+     "text": "Environments"
+    },
+    {
+     "url": "https://www.linkedin.com/company/hud-evals/",
+     "kind": "page",
+     "text": ""
+    },
+    {
+     "url": "https://x.com/hud_evals",
+     "kind": "page",
+     "text": "X"
+    }
+   ]
   },
   {
    "host": "inference.hud.ai",
@@ -135,7 +164,7 @@
   {
    "host": "staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3D79671407bf7646fe219513e933cd6379e95c2456975bcec959f8f0231218f31c",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3D24b34c0ca0be9e242008374cdfd67438be2741fb1edbd56abbdc30334d0fc278",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -172,12 +201,86 @@
   },
   {
    "host": "www.hud.ai",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://www.hud.ai/",
+   "title": "HUD \u2014 Build RL environments | HUDGitHubXDiscord",
+   "links": [
+    {
+     "url": "https://docs.hud.ai/v6/core/training",
+     "kind": "page",
+     "text": "Evaluations(opens in new tab)"
+    },
+    {
+     "url": "https://github.com/hud-evals/hud-python",
+     "kind": "hosted",
+     "text": "GitHub"
+    },
+    {
+     "url": "https://www.hud.ai/environments",
+     "kind": "page",
+     "text": "Environments"
+    },
+    {
+     "url": "https://www.linkedin.com/company/hud-evals/",
+     "kind": "page",
+     "text": ""
+    },
+    {
+     "url": "https://x.com/hud_evals",
+     "kind": "page",
+     "text": "X"
+    }
+   ]
   },
   {
    "host": "www.shop.hud.ai",
    "status": "no response"
   }
  ],
- "sitemap_hits": []
+ "sitemap_hits": [
+  {
+   "url": "https://www.hud.ai/research/recon-benchmark-researching-individuals",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/research/evaluating-robot-models-in-the-cloud",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/research/can-you-trust-your-browser-eval",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/research/assemble-benchmark",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/research/debugging-rl-environment",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/best-agent-eval-frameworks",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/rl-environments-what-they-are-how-to-build",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/best-platforms-publishing-rl-environments-model-labs",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/platforms-agent-evals-rl-training-data",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/verifier-reward-design-rl-environments",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.hud.ai/guides/top-5-reinforcement-learning-environments",
+   "kind": "page"
+  }
+ ]
 }

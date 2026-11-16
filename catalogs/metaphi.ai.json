@@ -76,6 +76,11 @@
      "url": "https://metaphi.ai/benchmarks/mainframegym",
      "kind": "page",
      "text": "MainframeGym"
+    },
+    {
+     "url": "https://metaphi.ai/ots",
+     "kind": "page",
+     "text": "RL environments"
     }
    ]
   },
@@ -98,12 +103,17 @@
    "host": "metaphi.ai",
    "status": "ok",
    "url": "https://metaphi.ai/",
-   "title": "Metaphi AI",
+   "title": "Metaphi AI: RL environments and benchmarks for real-world work",
    "links": [
     {
      "url": "https://metaphi.ai/benchmarks",
      "kind": "page",
      "text": "Benchmarks"
+    },
+    {
+     "url": "https://metaphi.ai/ots",
+     "kind": "page",
+     "text": "RL environments"
     }
    ]
   },

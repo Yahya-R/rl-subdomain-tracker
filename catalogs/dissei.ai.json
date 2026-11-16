@@ -1,6 +1,6 @@
 {
  "domain": "dissei.ai",
- "live_hosts": 5,
+ "live_hosts": 6,
  "pages": [
   {
    "host": "dissei.ai",
@@ -26,13 +26,20 @@
    ]
   },
   {
+   "host": "judgment-lab.dissei.ai",
+   "status": "ok",
+   "url": "https://dissei.cloudflareaccess.com/cdn-cgi/access/login/judgment-lab.dissei.ai?kid=8416bf9d39e05a4ef5874e792ccfc1a814091f0a518078ca6b5827d5c35ebaf8&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRjNDA0MGI1NDc3NmQ0MWQwYjEwNDdlMmJhNmU0ZmVjOWMzNmE0YzEwZDBmMzQyNDMwZmZkNjc3ZTRmYTAwY2QifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijg0MTZiZjlkMzllMDVhNGVmNTg3NGU3OTJjY2ZjMWE4MTQwOTFmMGE1MTgwNzhjYTZiNTgyN2Q1YzM1ZWJhZjgiLCJob3N0bmFtZSI6Imp1ZGdtZW50LWxhYi5kaXNzZWkuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDg0NzIzOSwibmJmIjoxNzk0ODQ2OTM5LCJpYXQiOjE3OTQ4NDY5MzksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIyYTI0YWQ5OGM4ZjRhMjU1OTgwNDE5NTJjYWRhNjQwYmNkZTUxMmU0Mjc0OGMzZWRiODQ3ZjA5YWYzM2RiNDE5In0.K4ldZTZvx9Cc4XTFfKhe3RSqSW9Dm8_f9lYgVtQdVp_zNI4f85acadLq6BVuJVp4HJUkVhed7sgWs76tSzQvJpgVQ5hqn6g4R1JXIX75480OpU-h7flTXEh_tXrtrjkWj0ZSZ2vxd2mf3VqLtNMoZuMJ7tELdVAwxX2hVzr-Sd6s_o0CYqqen7FldVJ8MJYMem1P6PqoScdJbDeBJncLE0EG3C4i_TJj1RCCrvIhZZtQlV7zoKjzlqb_BlI1uoDYQb0Mlgc4xtO3UTMwhxMpAhF8OyK8IWqfi9cv0ztt7Gkzq4bHq2tRQkdEgEyjfzQOa-92acyk3RQuKPTk1gmWoQ&redirect_url=%2F",
+   "title": "Sign in \u30fb Cloudflare Access",
+   "links": []
+  },
+  {
    "host": "model-gateway-codex.dissei.ai",
    "status": "no response"
   },
   {
    "host": "outcomes-lab.dissei.ai",
    "status": "ok",
-   "url": "https://dissei.cloudflareaccess.com/cdn-cgi/access/login/outcomes-lab.dissei.ai?kid=8017d70073ad3da929d55ff0071b2dbd0e6aff2c26ff3e2f410330ff74cf3e2b&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRjNDA0MGI1NDc3NmQ0MWQwYjEwNDdlMmJhNmU0ZmVjOWMzNmE0YzEwZDBmMzQyNDMwZmZkNjc3ZTRmYTAwY2QifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjgwMTdkNzAwNzNhZDNkYTkyOWQ1NWZmMDA3MWIyZGJkMGU2YWZmMmMyNmZmM2UyZjQxMDMzMGZmNzRjZjNlMmIiLCJob3N0bmFtZSI6Im91dGNvbWVzLWxhYi5kaXNzZWkuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDI0NDA4MiwibmJmIjoxNzk0MjQzNzgyLCJpYXQiOjE3OTQyNDM3ODIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJjYzVjOWQyNDJkMzlkN2IxNWNiYmYzYzhjYjFiNzE4ZDk4YzEzNmVmMDM2ZDUwOTcwZWE4MjUxYjRkODk4M2YzIn0.nobD9O7uv_rx_41imRE189NMOiNMVxz6Z4dOtuh6YuMAsJoFQvHReJYM4RzbBFnNWabA-MAjwuCx5aUCeT3hB-nrOsDL7qmi0TVJi8cZNjicGqbUAQCTwAZ4-todVzP8Nmk28tzZFB47uEVT3qxIwhd4GnefSWoddzBPrCgBCFauJb1g9sEdMdvzDMHhR-g0UPwLRu6RupoQSFZEhIdbDhKQ5JjcZTDO1my4cIWSDq-XQIgvUyFonv9y7hPRtRlR9Cjop8ajhbfJiNl5HkxOICEN4rXJXH_zG359pLhsc0faIayZgJ_WYLXYYtOYxSgBuIiBl68Yj7WSB9Bp9RhMtQ&redirect_url=%2F",
+   "url": "https://dissei.cloudflareaccess.com/cdn-cgi/access/login/outcomes-lab.dissei.ai?kid=8017d70073ad3da929d55ff0071b2dbd0e6aff2c26ff3e2f410330ff74cf3e2b&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRjNDA0MGI1NDc3NmQ0MWQwYjEwNDdlMmJhNmU0ZmVjOWMzNmE0YzEwZDBmMzQyNDMwZmZkNjc3ZTRmYTAwY2QifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjgwMTdkNzAwNzNhZDNkYTkyOWQ1NWZmMDA3MWIyZGJkMGU2YWZmMmMyNmZmM2UyZjQxMDMzMGZmNzRjZjNlMmIiLCJob3N0bmFtZSI6Im91dGNvbWVzLWxhYi5kaXNzZWkuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDg0NzIzOSwibmJmIjoxNzk0ODQ2OTM5LCJpYXQiOjE3OTQ4NDY5MzksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIzMTM5MjgxODUzY2Q0ZDQxZTdkMzRjMGUwYzZkZjZlNjNlYTA3NTkyMjdhMmMzNDhkZjQwMTQ3NTAxNzE4N2NjIn0.I_sdyYOlri34SLkZTz7Ixmr1b8lS1FPCfIPjdgcmDS7_NBPXE4c9HQn1Ha6klV84v92lIr2JRjZiQW8q0CPRxwcmDToUKYJ2iD3zNKw4Rn6dR0KdiNgS2ywsOfmphe4l3y7SGdouwHY17eFoW-mp_yvvnwXGKtLcREkh1jEu1-C3nvxnC6vvDhKioIPQ-hHoFpjIjPUgrp40U5nbQbwikjmIs_LlGAN0pOI2hddyI3z5QH_u6uc50rVusT4uLGR5ny0b-rlzrObv4RXRoilbpjRrKdxxquOWXmmflvbiXSDuHTcrgx_cnTYSpmbMJPeWvqMfsrzXrPxWlUe7steu3A&redirect_url=%2F",
    "title": "Sign in \u30fb Cloudflare Access",
    "links": []
   },
@@ -65,6 +72,10 @@
   }
  ],
  "sitemap_hits": [
+  {
+   "url": "https://dissei.ai/work/workout/leaderboard",
+   "kind": "page"
+  },
   {
    "url": "https://dissei.ai/guides/what-are-rl-environments",
    "kind": "page"

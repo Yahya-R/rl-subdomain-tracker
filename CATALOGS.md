@@ -6,9 +6,9 @@ is in `catalogs/<domain>.json`.
 
 ## abundant.ai (1 links from 10 live hosts)
 
-- `page` [from sitemap](https://abundant.ai/blog/swe-benchmark-state/)
+- `page` [from sitemap](https://www.abundant.ai/blog/swe-benchmark-state/)
 
-## afterquery.com (4 links from 48 live hosts)
+## afterquery.com (4 links from 53 live hosts)
 
 - `page` [Building a Frontier Legal Evaluation in Partnership with LegoraHow AfterQuery and Legora built the Benchmark for Agentic](https://www.afterquery.com/blog/building-a-frontier-legal-evaluation-in-partnership-with-legora)
 - `page` [from sitemap](https://www.afterquery.com/knowledge/dataset-curation-for-machine-learning)
@@ -34,10 +34,12 @@ is in `catalogs/<domain>.json`.
 - `file` [Data partnership briefBoard-ready PDF · 4 pages](https://data.aptura.ai/downloads/aptura-data-partnership-brief.pdf)
 - `page` [Datasets](https://aptura.ai/)
 
-## arimlabs.ai (2 links from 12 live hosts)
+## arimlabs.ai (4 links from 12 live hosts)
 
 - `page` [Leaderboard](https://vectra.arimlabs.ai/leaderboard)
 - `page` [Benchmarks](https://www.arimlabs.ai/benchmarks)
+- `page` [Apr 19, 2026essayA New Focus→Why we stopped constraining models and started building the environments they run in.](https://www.arimlabs.ai/writing/a-new-focus)
+- `page` [Jul 6, 2026researchCan Frontier Models Reverse-Engineer Malware?→Seven models, twelve samples, 252 scored runs of static](https://www.arimlabs.ai/writing/malware-reverse-engineering)
 
 ## aviro.ai (4 links from 6 live hosts)
 
@@ -46,7 +48,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://aviro.ai/benchmarks/c4/rollouts)
 - `page` [Benchmarks](https://www.aviro.ai/benchmarks)
 
-## benchflow.ai (48 links from 158 live hosts)
+## benchflow.ai (47 links from 158 live hosts)
 
 - `hosted` [Paper](https://arxiv.org/abs/2602.12670)
 - `hosted` [Paper](https://arxiv.org/abs/2604.05172)
@@ -94,10 +96,9 @@ is in `catalogs/<domain>.json`.
 - `page` [SimFoundry: Modular and Automated Scene Generation for Policy Learning and EvaluationNVIDIA GEAR Ranawaka, Wong, Pai, et](https://research.nvidia.com/labs/gear/simfoundry)
 - `page` [RoboArena: Distributed Real-World Evaluation of Generalist Robot PoliciesProject A distributed framework for evaluating ](https://robo-arena.github.io/)
 - `page` [01· BenchmarkSkillsBenchDo procedural skills make agents better at real work? 87 tasks, 8 domains.](https://skillsbench.ai)
-- `page` [Leaderboard](https://user-e123b4e2.preview.benchflow.ai/)
 - `page` [05· ScienceFrontierPhysicsEvaluating agents for end-to-end frontier physics research.](https://www.benchflow.ai/frontierphysics)
 
-## bespokelabs.ai (10 links from 29 live hosts)
+## bespokelabs.ai (12 links from 32 live hosts)
 
 - `file` [ck-bespoke-tr.pdf](https://files.bespokelabs.ai/ck-bespoke-tr.pdf)
 - `hosted` [Read the paper](https://arxiv.org/abs/2507.19457)
@@ -106,17 +107,20 @@ is in `catalogs/<domain>.json`.
 - `page` [Benchmarks](https://benchmarks.bespokelabs.ai)
 - `page` [Benchmarks](https://benchmarks.bespokelabs.ai/)
 - `page` [AutoResearchExam Measuring agents' ability to improve and generalize on open ended ML research tasks.](https://benchmarks.bespokelabs.ai/autoresearchexam/)
+- `page` [from sitemap](https://bespokelabs.ai/blog/announcing-winners-of-reasoning-datasets-competition)
 - `page` [from sitemap](https://bespokelabs.ai/blog/bespoke-labs-raises-40m-to-build-environments-that-enable-reliable-agents)
 - `page` [from sitemap](https://bespokelabs.ai/blog/measuring-reasoning-with-evalchemy)
+- `page` [from sitemap](https://bespokelabs.ai/blog/reasoning-datasets-competition)
 - `page` [Pricing](https://docs.bespokelabs.ai/nimble/pricing)
 
-## chakra.dev (5 links from 4 live hosts)
+## chakra.dev (6 links from 4 live hosts)
 
 - `hosted` [Brand Assets](https://drive.google.com/drive/u/0/folders/1tFZpt-8pjLmy9kcSQJNxf4JM2KAt95qH)
 - `page` [Full catalog](https://www.chakra.dev/journal)
 - `page` [Chakra Data LaboratoryEditorialsDon't Bet on One SensorThe case for multi-modal training environmentsCH-LAB-08Mar 2026](https://www.chakra.dev/journal/dont-bet-on-one-sensor)
 - `page` [Chakra Data LaboratoryEditorialsFeature Coverage is Vanity, Task Coverage is SanityHenry Ford would have loved RL enviro](https://www.chakra.dev/journal/feature-coverage-is-vanity-task-coverage-is-sanity)
-- `page` [Chakra Data LaboratoryEditorialsEditorialsRL Environments are WorthlessThe market has it backwardsCH-LAB-07Jan 2026](https://www.chakra.dev/journal/rl-environments-are-worthless)
+- `page` [Chakra Data LaboratoryEditorialsRL Environments are WorthlessThe market has it backwardsCH-LAB-07Jan 2026](https://www.chakra.dev/journal/rl-environments-are-worthless)
+- `page` [Chakra Data LaboratoryPartnershipsPartnershipsPutting the Judge on the StandSemiAnalysis GDPx benchmark - Legal DomainCH](https://www.chakra.dev/journal/semianalysis-gdpx-legal)
 
 ## collinear.ai (4 links from 15 live hosts)
 
@@ -125,7 +129,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Request Catalog .button .button-magnit { opacity: 0; transition: opacity 0.4s ease; } .button:hover .button-magnit { opa](https://collinear.ai/book-a-demo)
 - `page` [from sitemap](https://www.collinear.ai/request-catalog)
 
-## cua.ai (49 links from 28 live hosts)
+## cua.ai (49 links from 29 live hosts)
 
 - `file` [Cua Spaces: combine all your computers into one supercomputer](https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json)
 - `hosted` [Nous Research](https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py)
@@ -168,16 +172,16 @@ is in `catalogs/<domain>.json`.
 - `page` [Download](https://cua.ai/download)
 - `page` [Linux](https://cua.ai/download/linux)
 - `page` [Download for Mac](https://cua.ai/download/mac)
-- `page` [Windows (preview)](https://cua.ai/download/windows)
+- `page` [Windows](https://cua.ai/download/windows)
 - `page` [See pricing](https://cua.ai/pricing)
 - `page` [Pricing](https://spaces-origin.cua.ai/)
 - `page` [Benchmarks](https://spaces-origin.cua.ai/benchmarks)
 - `page` [Linux](https://spaces-origin.cua.ai/download/linux)
 - `page` [Download for Mac](https://spaces-origin.cua.ai/download/mac)
-- `page` [Windows (preview)](https://spaces-origin.cua.ai/download/windows)
+- `page` [Windows](https://spaces-origin.cua.ai/download/windows)
 - `page` [See pricing](https://spaces-origin.cua.ai/pricing)
 
-## datacurve.ai (4 links from 432 live hosts)
+## datacurve.ai (4 links from 435 live hosts)
 
 - `hosted` [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
 - `hosted` [GitHub](https://github.com/datacurve-ai/deep-swe)
@@ -187,19 +191,20 @@ is in `catalogs/<domain>.json`.
 ## deeptune.ai (0 links from 11 live hosts)
 
 
-## deeptune.com (0 links from 6 live hosts)
+## deeptune.com (0 links from 5 live hosts)
 
 
 ## diffuselabs.ai (0 links from 3 live hosts)
 
 
-## dissei.ai (5 links from 5 live hosts)
+## dissei.ai (6 links from 6 live hosts)
 
 - `page` [from sitemap](https://dissei.ai/guides/what-are-rl-environments)
 - `page` [See sealed evaluations](https://dissei.ai/products)
 - `page` [Research4 Oct 2026More thinking made Gemini 3.8 Flash less likely to finishIn our financial-judgment environment, Gemini](https://dissei.ai/research/gemini-3-8-flash-reasoning-effort)
 - `page` [from sitemap](https://dissei.ai/research/real-data-in-reliable-environments-out)
 - `page` [View the financial judgment leaderboard](https://dissei.ai/work/financial-reasoning)
+- `page` [from sitemap](https://dissei.ai/work/workout/leaderboard)
 
 ## dmodel.ai (1 links from 3 live hosts)
 
@@ -212,26 +217,25 @@ is in `catalogs/<domain>.json`.
 
 - `page` [Software Development Automation Benchmark](https://emulated.so/software-development-automation-benchmark)
 
-## exabite.ai (1 links from 2 live hosts)
+## exabite.ai (0 links from 2 live hosts)
 
-- `page` [Our data](https://exabite.ai/)
 
 ## fleetai.com (0 links from 34 live hosts)
 
 
-## goodstartlabs.com (2 links from 41 live hosts)
+## goodstartlabs.com (2 links from 42 live hosts)
 
 - `page` [Benchmarks](https://goodstartlabs.com/benchmarks)
 - `page` [IntelligenceWe build interactive learning environments from curated games with unique, verifiable rewards, so models get](https://goodstartlabs.com/products)
 
-## gr.inc (4 links from 16 live hosts)
+## gr.inc (4 links from 17 live hosts)
 
 - `hosted` [Galactica](https://arxiv.org/abs/2211.09085)
 - `hosted` [Llama 2](https://arxiv.org/abs/2307.09288)
 - `hosted` [Llama 3](https://arxiv.org/abs/2407.21783)
 - `page` [9 April 2026ResearchIntroducing KellyBenchA benchmark for long-horizon sequential decision making. Models struggle to be](https://www.gr.inc/releases/introducing-kellybench)
 
-## halluminate.ai (5 links from 35 live hosts)
+## halluminate.ai (5 links from 34 live hosts)
 
 - `file` [Combatting Modern Slavery (PDF)](https://delta.halluminate.ai/modern-slavery.pdf)
 - `hosted` [how this works →](https://github.com/Halluminate/halluminate/tree/main/incidents)
@@ -243,11 +247,25 @@ is in `catalogs/<domain>.json`.
 
 - `page` [Member of Technical Staff - Environments & Post-Training](https://jobs.ashbyhq.com/hillclimb/a6d1b28d-0114-4ada-bcaf-743949129ad6)
 
-## hud.ai (4 links from 32 live hosts)
+## hud.ai (18 links from 32 live hosts)
 
 - `hosted` [hud-evals/hud-python](https://github.com/hud-evals/hud-python)
 - `page` [Environments](https://docs.hud.ai/platform/environments)
 - `page` [Evaluations](https://docs.hud.ai/platform/evaluations)
+- `page` [Evaluations(opens in new tab)](https://docs.hud.ai/v6/core/training)
+- `page` [Environments](https://www.hud.ai/environments)
+- `page` [from sitemap](https://www.hud.ai/guides/best-agent-eval-frameworks)
+- `page` [from sitemap](https://www.hud.ai/guides/best-platforms-publishing-rl-environments-model-labs)
+- `page` [from sitemap](https://www.hud.ai/guides/platforms-agent-evals-rl-training-data)
+- `page` [from sitemap](https://www.hud.ai/guides/rl-environments-what-they-are-how-to-build)
+- `page` [from sitemap](https://www.hud.ai/guides/top-5-reinforcement-learning-environments)
+- `page` [from sitemap](https://www.hud.ai/guides/verifier-reward-design-rl-environments)
+- `page` [from sitemap](https://www.hud.ai/research/assemble-benchmark)
+- `page` [from sitemap](https://www.hud.ai/research/can-you-trust-your-browser-eval)
+- `page` [from sitemap](https://www.hud.ai/research/debugging-rl-environment)
+- `page` [from sitemap](https://www.hud.ai/research/evaluating-robot-models-in-the-cloud)
+- `page` [from sitemap](https://www.hud.ai/research/recon-benchmark-researching-individuals)
+- `page` [HUD — Build RL environments | HUDGitHubXDiscord](https://www.linkedin.com/company/hud-evals/)
 - `page` [X](https://x.com/hud_evals)
 
 ## idler.ai (1 links from 10 live hosts)
@@ -257,7 +275,7 @@ is in `catalogs/<domain>.json`.
 ## incalmo.ai (0 links from 4 live hosts)
 
 
-## joinhandshake.com (87 links from 1308 live hosts)
+## joinhandshake.com (93 links from 1306 live hosts)
 
 - `hosted` [Share feedback](https://docs.google.com/forms/d/e/1FAIpQLSeq4OZ8O-5gyRWQKjrI6AL-_O3Pvy6_6x6-0e8U956JxUd-Vg/viewform?usp=header)
 - `page` [Back to Catalog](https://academy.joinhandshake.com/)
@@ -270,7 +288,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/kenyon-college-student-engagement-case-study/)
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/measuring-virtual-fair-success-benchmarks-and-best-practices/)
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/remote-student-engagement-case-study/)
-- `page` [Career Advice for College Students & New Grads | HandshakeiOS App StoreGoogle Play StoreiOS App StoreGoogle Play Store](https://joinhandshake.com/blog/students/34-sample-questions-to-ask-during-a-full-time-job-interview/)
+- `page` [from sitemap](https://joinhandshake.com/blog/students/34-sample-questions-to-ask-during-a-full-time-job-interview/)
 - `page` [Sample questions to ask at your next coffee chatYour go-to guide to avoid awkward silences, network like a champ, and ge](https://joinhandshake.com/blog/students/coffee-chat-questions-for-networking/)
 - `page` [Free cover letter template for students and new gradsDownload this professional cover letter template to boost your job ](https://joinhandshake.com/blog/students/free-cover-letter-template-for-students-and-new-grads/)
 - `page` [Free resume template for students and new gradsDownload this professional resume template and get started building your ](https://joinhandshake.com/blog/students/free-resume-template-for-students-and-new-grads/)
@@ -278,6 +296,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://joinhandshake.com/blog/students/how-to-show-off-your-soft-skills-to-employers-with-samples/)
 - `page` [from sitemap](https://joinhandshake.com/blog/students/job-role-environmental-engineers/)
 - `page` [from sitemap](https://joinhandshake.com/blog/students/job-role-environmental-scientists/)
+- `page` [Weaknesses for job interviews: 12 examples and sample answers for studentsPick a real weakness, show what you're doing a](https://joinhandshake.com/blog/students/weaknesses-for-job-interviews/)
 - `page` [from sitemap](https://joinhandshake.com/case-studies/carnegie-mellon-university-implementation/)
 - `page` [from sitemap](https://joinhandshake.com/case-studies/university-of-michigan-career-fairs/)
 - `page` [from sitemap](https://joinhandshake.com/employers/benchmark-report/)
@@ -286,6 +305,11 @@ is in `catalogs/<domain>.json`.
 - `page` [Pricing](https://joinhandshake.com/employers/products/premium/compare/)
 - `page` [from sitemap](https://joinhandshake.com/employers/resources/codex-creator-challenge-ai-showcase/)
 - `page` [from sitemap](https://joinhandshake.com/employers/resources/collection/whitepaper/)
+- `page` [from sitemap](https://joinhandshake.com/find-jobs/boston-ma/environmental/)
+- `page` [from sitemap](https://joinhandshake.com/find-jobs/new-york-ny/environmental/)
+- `page` [from sitemap](https://joinhandshake.com/find-jobs/role/environmental/)
+- `page` [from sitemap](https://joinhandshake.com/internships/new-york-ny/environmental/)
+- `page` [from sitemap](https://joinhandshake.com/internships/role/environmental/)
 - `page` [from sitemap](https://joinhandshake.com/learn/how-evals-improve-ai-models-b23f255c/)
 - `page` [from sitemap](https://joinhandshake.com/research/ai/atlas-benchmarks-fireworks-index/)
 - `page` [from sitemap](https://joinhandshake.com/research/ai/fireworks-handshake-rl-environments/)
@@ -357,11 +381,11 @@ is in `catalogs/<domain>.json`.
 
 - `hosted` [Raise issue](https://github.com/latchbio/wiki/issues/new?title=Issue on docs&body=Path: /start/introduction)
 - `hosted` [Change Log](https://latchbio.notion.site/LatchBio-Product-Change-Logs-ca76a6ae05a74a4daf78cb4006ad80ac)
-- `page` [Benchmarks](https://benchmarks.bio)
+- `page` [Benchmarks (opens in a new tab)](https://benchmarks.bio)
 - `page` [packaged](https://forgejo.org/download)
 - `page` [run the binary](https://forgejo.org/download/)
 
-## markovstudios.com (6 links from 5 live hosts)
+## markovstudios.com (6 links from 4 live hosts)
 
 - `page` [Datasets](https://www.markovstudios.com/datasets)
 - `page` [from sitemap](https://www.markovstudios.com/datasets/cad-environments)
@@ -370,12 +394,12 @@ is in `catalogs/<domain>.json`.
 - `page` [Open sourceFree to browse835,530 downloads on Hugging Face. You can view every dataset here.Explore open source→](https://www.markovstudios.com/open-source)
 - `page` [Benchmark23 Jul 2026Introducing AutoCAD BenchFifty precise AutoCAD tasks done through the screen alone. The best model f](https://www.markovstudios.com/research/autocad-bench)
 
-## mechanize.work (2 links from 12 live hosts)
+## mechanize.work (2 links from 13 live hosts)
 
 - `page` [view more here](https://gbaeval.com/)
 - `page` [from sitemap](https://www.mechanize.work/technical-blog/introducing-gba-eval/)
 
-## mercor.com (148 links from 242 live hosts)
+## mercor.com (153 links from 241 live hosts)
 
 - `hosted` [Paper](https://arxiv.org/abs/2603.04370)
 - `hosted` [Paper](https://arxiv.org/abs/2607.27189)
@@ -428,6 +452,11 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.mercor.com/apex/mercor-extended/ots-held-out-terminal-bench-2-1-leaderboard/sample-task/)
 - `page` [from sitemap](https://www.mercor.com/apex/newsletter/benchmark-updates/)
 - `page` [from sitemap](https://www.mercor.com/apex/newsletter/opus-5-tops-the-apex-agents-leaderboard/)
+- `page` [from sitemap](https://www.mercor.com/apex/open-world-engineer-leaderboard/)
+- `page` [from sitemap](https://www.mercor.com/apex/open-world-engineer-leaderboard/engineering/)
+- `page` [from sitemap](https://www.mercor.com/apex/open-world-engineer-leaderboard/ml/)
+- `page` [from sitemap](https://www.mercor.com/apex/open-world-engineer-leaderboard/science/)
+- `page` [from sitemap](https://www.mercor.com/apex/open-world-engineer-leaderboard/software/)
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/genebench-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/genebench-leaderboard/sample-task/)
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/oss-aa-lcr-leaderboard/)
@@ -522,11 +551,9 @@ is in `catalogs/<domain>.json`.
 - `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/ple-bench-leaderboard/)
 - `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/tau-3-banking-leaderboard/)
 - `page` [Aug 8, 2026Part 3: When AI Strengthens the Investment ThesisEnterprise](https://www.mercor.com:443/blog/ai-due-diligence-case-study/)
-- `page` [Aug 27, 2026Your AI should earn underwriting authority the way a new underwriter doesEnterprise](https://www.mercor.com:443/blog/ai-underwriting-evals/)
-- `page` [Build evalsEvaluate AI against professional standards](https://www.mercor.com:443/enterprise-evals/)
-- `page` [US benchmark map](https://www.mercor.com:443/research/labor-index/benchmark-map/)
+- …and 3 more in `catalogs/mercor.com.json`
 
-## metaphi.ai (11 links from 15 live hosts)
+## metaphi.ai (12 links from 15 live hosts)
 
 - `hosted` [Paper ↗](https://arxiv.org/abs/2603.22744)
 - `hosted` [GitHub ↗](https://github.com/metaphi-labs/lh-bench)
@@ -539,17 +566,13 @@ is in `catalogs/<domain>.json`.
 - `page` [MainframeGym](https://metaphi.ai/benchmarks/mainframegym)
 - `page` [from sitemap](https://metaphi.ai/benchmarks/mainframegym/batch)
 - `page` [from sitemap](https://metaphi.ai/essays/static-benchmarks)
+- `page` [RL environments](https://metaphi.ai/ots)
 
-## micro1.ai (41 links from 199 live hosts)
+## micro1.ai (36 links from 200 live hosts)
 
-- `page` [Create account](https://accounts.google.com/lifecycle/flows/signup?access_type=offline&app_domain=https://dagster-dev.merit.micro1.ai&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&continue=https://accounts.google.com/signin/oauth/legacy/consent?authuser%3Dunknown%26part%3DAJi8hANS-sW-iolvdUEX4IJc_bJ73QyH3XYgPJvw_sqKLV9JMoHROWuSjyeUNB2axBno4WFXxnMpRVauF4km4NaLjnRmlR_HaXVeQ9k2XOECrsQIMYrT6i8ycwbT5K8ABnrLeoXOqBP__MZof2NcZjZvtALwub2H5jOgQ6Hs9tqSqhZXZL4Uc0J-J6z1cTCWIfP6CZCTH9N8rfKqv6450FLkAjTFVld-1sH0ywKI8Slfw7Lj6hzg5UfkUBcz5hKnpbvDqjc-1uZ5WnqJC5KI7kckXlqEs2rIh1fC9EuXoc682FBL9wAIOxlfBVhiQS2oiOlHA48ESNnndpL2f-XfIptw5G0YtXUnLy4VEoIbz0b8B1P3aSxjytNaUlCKHWkHGX59f1A5Mv1GartQyONj8aDcfcD_nZ0k-6go2Dxnf5TD2bEHSqSjL_2Upt-0KRlBTp_2H6vbjfB9eWX9x7vOSxBFlNkEmUWxgqD1CKfYnECF7mIYncy5638%26flowName%3DGeneralOAuthFlow%26as%3DS-181708906%253A1794242992422488%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&dsh=S-181708906:1794242992422488&flowEntry=SignUp&flowName=GlifWebSignIn&o2v=1&opparams=%253F&rart=ANgoxcdlGg3iAJUFFxXqqlhevAlhXOnDfjVtrXx0n63aPnkIMjbZCGgJpjfZTs5FgfSXY6rTri9KFwGPATpsoN6M58KPwbq3TcA_ooW7tErcKfxu2xVuJjw&redirect_uri=https://dagster-dev.merit.micro1.ai/oauth2/callback&response_type=code&scope=profile+email&service=lso&signInUrl=https://accounts.google.com/signin/oauth?access_type%3Doffline%26app_domain%3Dhttps://dagster-dev.merit.micro1.ai%26approval_prompt%3Dforce%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%26continue%3Dhttps://accounts.google.com/signin/oauth/legacy/consent?authuser%253Dunknown%2526part%253DAJi8hANS-sW-iolvdUEX4IJc_bJ73QyH3XYgPJvw_sqKLV9JMoHROWuSjyeUNB2axBno4WFXxnMpRVauF4km4NaLjnRmlR_HaXVeQ9k2XOECrsQIMYrT6i8ycwbT5K8ABnrLeoXOqBP__MZof2NcZjZvtALwub2H5jOgQ6Hs9tqSqhZXZL4Uc0J-J6z1cTCWIfP6CZCTH9N8rfKqv6450FLkAjTFVld-1sH0ywKI8Slfw7Lj6hzg5UfkUBcz5hKnpbvDqjc-1uZ5WnqJC5KI7kckXlqEs2rIh1fC9EuXoc682FBL9wAIOxlfBVhiQS2oiOlHA48ESNnndpL2f-XfIptw5G0YtXUnLy4VEoIbz0b8B1P3aSxjytNaUlCKHWkHGX59f1A5Mv1GartQyONj8aDcfcD_nZ0k-6go2Dxnf5TD2bEHSqSjL_2Upt-0KRlBTp_2H6vbjfB9eWX9x7vOSxBFlNkEmUWxgqD1CKfYnECF7mIYncy5638%2526flowName%253DGeneralOAuthFlow%2526as%253DS-181708906%25253A1794242992422488%2526client_id%253D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%2523%26dsh%3DS-181708906:1794242992422488%26flowName%3DGeneralOAuthLite%26o2v%3D1%26opparams%3D%25253F%26rart%3DANgoxcdlGg3iAJUFFxXqqlhevAlhXOnDfjVtrXx0n63aPnkIMjbZCGgJpjfZTs5FgfSXY6rTri9KFwGPATpsoN6M58KPwbq3TcA_ooW7tErcKfxu2xVuJjw%26redirect_uri%3Dhttps://dagster-dev.merit.micro1.ai/oauth2/callback%26response_type%3Dcode%26scope%3Dprofile%2Bemail%26service%3Dlso%26state%3DmWg5hCX1qQNdddT2YoijYKWusXMn0mtbSvNiiPDmmuY:/&state=mWg5hCX1qQNdddT2YoijYKWusXMn0mtbSvNiiPDmmuY:/)
-- `page` [Create account](https://accounts.google.com/lifecycle/flows/signup?access_type=offline&app_domain=https://dagster-staging.merit.micro1.ai&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&continue=https://accounts.google.com/signin/oauth/legacy/consent?authuser%3Dunknown%26part%3DAJi8hANF0MQYlgH2P-DF8F_PlqN6fvACiSR3tuPfkBlj2p_TAkHQM49gn2xqBkgbkxWq9qQSO20Naj6EHIMxrITcKGB4Fc__Jc9TLbk3F2mCC1UM-Tpi7e2lBzAdnnBLdl2VJa9Cl9h4MDy4o6F1sbg4v2oHfqtPgC_V3oID8_H7qdkQ-7_AFNumfdI8nVTZEvAL6xAr0RCgSSWNagb2I9S4s5L8bnN7ci3bi10dsYnXZ1VDvsdz6r-cPoBpOk0cvl99j71aDwRXrs9iMA3-3nhx4XRvvKS4ULix6D0GBX5faJ1MxNANixtTUQUDAcrIGKP1xfPx0sKu7ZfpTfzVnvIXxtd9AvFT_LQkEjYF1rWbGpl_uNUBp9bBOr4ke6VD2CPHCQUGxMP5PdZlvgC_0CfeOnEXjRfmEYiV2B6RHs3oOBmnFDZSwiFgWlm8GZ1MGS6vBux-gvhI8az2lXKOoY2HtvskmBjEw6yMYmtWB3fTTaQl0Pu0vrc%26flowName%3DGeneralOAuthFlow%26as%3DS319557206%253A1794242993653688%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&dsh=S319557206:1794242993653688&flowEntry=SignUp&flowName=GlifWebSignIn&o2v=1&opparams=%253F&rart=ANgoxceH3UJ-kKmEGvSKzrhECWEImFwN0mBl2QC8zcQlb4cMyr6BNdnnwRl6iqKfOOs0y7h6taiLquIZnaQ0GGdjikLBDgXoJo87lkqoKcKkCtmCwwpe9fo&redirect_uri=https://dagster-staging.merit.micro1.ai/oauth2/callback&response_type=code&scope=profile+email&service=lso&signInUrl=https://accounts.google.com/signin/oauth?access_type%3Doffline%26app_domain%3Dhttps://dagster-staging.merit.micro1.ai%26approval_prompt%3Dforce%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%26continue%3Dhttps://accounts.google.com/signin/oauth/legacy/consent?authuser%253Dunknown%2526part%253DAJi8hANF0MQYlgH2P-DF8F_PlqN6fvACiSR3tuPfkBlj2p_TAkHQM49gn2xqBkgbkxWq9qQSO20Naj6EHIMxrITcKGB4Fc__Jc9TLbk3F2mCC1UM-Tpi7e2lBzAdnnBLdl2VJa9Cl9h4MDy4o6F1sbg4v2oHfqtPgC_V3oID8_H7qdkQ-7_AFNumfdI8nVTZEvAL6xAr0RCgSSWNagb2I9S4s5L8bnN7ci3bi10dsYnXZ1VDvsdz6r-cPoBpOk0cvl99j71aDwRXrs9iMA3-3nhx4XRvvKS4ULix6D0GBX5faJ1MxNANixtTUQUDAcrIGKP1xfPx0sKu7ZfpTfzVnvIXxtd9AvFT_LQkEjYF1rWbGpl_uNUBp9bBOr4ke6VD2CPHCQUGxMP5PdZlvgC_0CfeOnEXjRfmEYiV2B6RHs3oOBmnFDZSwiFgWlm8GZ1MGS6vBux-gvhI8az2lXKOoY2HtvskmBjEw6yMYmtWB3fTTaQl0Pu0vrc%2526flowName%253DGeneralOAuthFlow%2526as%253DS319557206%25253A1794242993653688%2526client_id%253D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%2523%26dsh%3DS319557206:1794242993653688%26flowName%3DGeneralOAuthLite%26o2v%3D1%26opparams%3D%25253F%26rart%3DANgoxceH3UJ-kKmEGvSKzrhECWEImFwN0mBl2QC8zcQlb4cMyr6BNdnnwRl6iqKfOOs0y7h6taiLquIZnaQ0GGdjikLBDgXoJo87lkqoKcKkCtmCwwpe9fo%26redirect_uri%3Dhttps://dagster-staging.merit.micro1.ai/oauth2/callback%26response_type%3Dcode%26scope%3Dprofile%2Bemail%26service%3Dlso%26state%3D9BwDy2ZLMz05T-mRrSv2Xo8HhuGGkmAK1mXVN4EfbNY:/&state=9BwDy2ZLMz05T-mRrSv2Xo8HhuGGkmAK1mXVN4EfbNY:/)
-- `page` [Forgot email?](https://accounts.google.com/signin/v2/usernamerecovery?access_type=offline&app_domain=https://dagster-dev.merit.micro1.ai&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&continue=https://accounts.google.com/signin/oauth/legacy/consent?authuser%3Dunknown%26part%3DAJi8hANS-sW-iolvdUEX4IJc_bJ73QyH3XYgPJvw_sqKLV9JMoHROWuSjyeUNB2axBno4WFXxnMpRVauF4km4NaLjnRmlR_HaXVeQ9k2XOECrsQIMYrT6i8ycwbT5K8ABnrLeoXOqBP__MZof2NcZjZvtALwub2H5jOgQ6Hs9tqSqhZXZL4Uc0J-J6z1cTCWIfP6CZCTH9N8rfKqv6450FLkAjTFVld-1sH0ywKI8Slfw7Lj6hzg5UfkUBcz5hKnpbvDqjc-1uZ5WnqJC5KI7kckXlqEs2rIh1fC9EuXoc682FBL9wAIOxlfBVhiQS2oiOlHA48ESNnndpL2f-XfIptw5G0YtXUnLy4VEoIbz0b8B1P3aSxjytNaUlCKHWkHGX59f1A5Mv1GartQyONj8aDcfcD_nZ0k-6go2Dxnf5TD2bEHSqSjL_2Upt-0KRlBTp_2H6vbjfB9eWX9x7vOSxBFlNkEmUWxgqD1CKfYnECF7mIYncy5638%26flowName%3DGeneralOAuthFlow%26as%3DS-181708906%253A1794242992422488%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&dsh=S-181708906:1794242992422488&flowName=GeneralOAuthLite&o2v=1&opparams=%253F&rart=ANgoxcdlGg3iAJUFFxXqqlhevAlhXOnDfjVtrXx0n63aPnkIMjbZCGgJpjfZTs5FgfSXY6rTri9KFwGPATpsoN6M58KPwbq3TcA_ooW7tErcKfxu2xVuJjw&redirect_uri=https://dagster-dev.merit.micro1.ai/oauth2/callback&response_type=code&scope=profile+email&service=lso&state=mWg5hCX1qQNdddT2YoijYKWusXMn0mtbSvNiiPDmmuY:/)
-- `page` [Forgot email?](https://accounts.google.com/signin/v2/usernamerecovery?access_type=offline&app_domain=https://dagster-staging.merit.micro1.ai&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&continue=https://accounts.google.com/signin/oauth/legacy/consent?authuser%3Dunknown%26part%3DAJi8hANF0MQYlgH2P-DF8F_PlqN6fvACiSR3tuPfkBlj2p_TAkHQM49gn2xqBkgbkxWq9qQSO20Naj6EHIMxrITcKGB4Fc__Jc9TLbk3F2mCC1UM-Tpi7e2lBzAdnnBLdl2VJa9Cl9h4MDy4o6F1sbg4v2oHfqtPgC_V3oID8_H7qdkQ-7_AFNumfdI8nVTZEvAL6xAr0RCgSSWNagb2I9S4s5L8bnN7ci3bi10dsYnXZ1VDvsdz6r-cPoBpOk0cvl99j71aDwRXrs9iMA3-3nhx4XRvvKS4ULix6D0GBX5faJ1MxNANixtTUQUDAcrIGKP1xfPx0sKu7ZfpTfzVnvIXxtd9AvFT_LQkEjYF1rWbGpl_uNUBp9bBOr4ke6VD2CPHCQUGxMP5PdZlvgC_0CfeOnEXjRfmEYiV2B6RHs3oOBmnFDZSwiFgWlm8GZ1MGS6vBux-gvhI8az2lXKOoY2HtvskmBjEw6yMYmtWB3fTTaQl0Pu0vrc%26flowName%3DGeneralOAuthFlow%26as%3DS319557206%253A1794242993653688%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&dsh=S319557206:1794242993653688&flowName=GeneralOAuthLite&o2v=1&opparams=%253F&rart=ANgoxceH3UJ-kKmEGvSKzrhECWEImFwN0mBl2QC8zcQlb4cMyr6BNdnnwRl6iqKfOOs0y7h6taiLquIZnaQ0GGdjikLBDgXoJo87lkqoKcKkCtmCwwpe9fo&redirect_uri=https://dagster-staging.merit.micro1.ai/oauth2/callback&response_type=code&scope=profile+email&service=lso&state=9BwDy2ZLMz05T-mRrSv2Xo8HhuGGkmAK1mXVN4EfbNY:/)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/cortex-retrieval-bench)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/crosby-micro1-redlinebench)
 - `page` [Dual-Arm SimThe standard for evaluating frontier models on careful physical work in sensitive environments](https://www.micro1.ai/benchmark/dual-arm-sim)
-- `page` [from sitemap](https://www.micro1.ai/benchmark/dual-arm-sim-copy)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/ivo-micro1-contract-bench)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/legal-reason-bench)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/long-extraction)
@@ -584,16 +607,16 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.micro1.ai/research/pii-transformation-for-enterprise-datasets)
 - `page` [from sitemap](https://www.micro1.ai/research/the-benchmark-ceiling)
 
-## normal.ai (1 links from 13 live hosts)
+## normal.ai (1 links from 15 live hosts)
 
-- `page` [Leaderboard](https://normal.ai/leaderboard/cad-arena)
+- `page` [from sitemap](https://normal.ai/leaderboard/cad-arena)
 
 ## ooakdata.com (2 links from 22 live hosts)
 
 - `page` [from sitemap](https://ooakdata.com/research/why-synthetic-benchmarks-are-holding-ai-back)
 - `page` [ooakdata OOAK samples](https://samples.ooakdata.com/)
 
-## originator.inc (0 links from 68 live hosts)
+## originator.inc (0 links from 69 live hosts)
 
 
 ## pareto.ai (3 links from 44 live hosts)
@@ -606,21 +629,21 @@ is in `catalogs/<domain>.json`.
 
 - `page` [//ADatasetsData](https://beta.parsewave.ai/)
 - `page` [The same QC on a public benchmark: the OSWorld 2.0 audit →](https://beta.parsewave.ai/benchmark-research/osworld-v2)
-- `page` [We PR’d fixes to 47 of SWE-sweep’s 100 tasks →](https://beta.parsewave.ai/benchmark-research/swe-sweep)
+- `page` [We helped improve 47% of SWE-sweep tasks →](https://beta.parsewave.ai/benchmark-research/swe-sweep)
 - `page` [[ Request a sampleSample ]](https://beta.parsewave.ai/contact)
 - `page` [Samples](https://beta.parsewave.ai/samples)
 - `page` [expert evaluations](https://old.parsewave.ai/process)
 - `page` [//ADatasetsData](https://parsewave.ai/)
 - `page` [from sitemap](https://parsewave.ai/benchmark-research/automation-bench)
 - `page` [The same QC on a public benchmark: the OSWorld 2.0 audit →](https://parsewave.ai/benchmark-research/osworld-v2)
-- `page` [We PR’d fixes to 47 of SWE-sweep’s 100 tasks →](https://parsewave.ai/benchmark-research/swe-sweep)
+- `page` [We helped improve 47% of SWE-sweep tasks →](https://parsewave.ai/benchmark-research/swe-sweep)
 - `page` [from sitemap](https://parsewave.ai/benchmark-research/swe-sweep/method)
 - `page` [from sitemap](https://parsewave.ai/benchmark-research/wandr)
 - `page` [from sitemap](https://parsewave.ai/benchmark-research/wandr/method)
 - `page` [[ Request a sampleSample ]](https://parsewave.ai/contact)
 - `page` [Samples](https://parsewave.ai/samples)
 
-## patronus.ai (27 links from 23 live hosts)
+## patronus.ai (31 links from 24 live hosts)
 
 - `hosted` [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
 - `hosted` [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
@@ -632,6 +655,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.patronus.ai/blog/introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents)
 - `page` [from sitemap](https://www.patronus.ai/blog/introducing-trail-a-benchmark-for-agentic-evaluation)
 - `page` [from sitemap](https://www.patronus.ai/blog/the-blur-benchmark-browsing-lost-unformed-recollections)
+- `page` [from sitemap](https://www.patronus.ai/careers/expert-software-engineer-ai-evaluation)
 - `page` [RL Environments](https://www.patronus.ai/guide-to-rl-environments)
 - `page` [from sitemap](https://www.patronus.ai/guide-to-rl-environments/llm-post-training)
 - `page` [from sitemap](https://www.patronus.ai/guide-to-rl-environments/model-based-reinforcement-learning)
@@ -646,8 +670,11 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.patronus.ai/resources/coding-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/computer-use-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/financial-llm-benchmarks)
+- `page` [from sitemap](https://www.patronus.ai/resources/how-to-evaluate-rl-environments)
 - `page` [from sitemap](https://www.patronus.ai/resources/knowledge-work-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-companies)
+- `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-companies-dataset)
+- `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-market-map)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-startups)
 
 ## phinity.ai (0 links from 2 live hosts)
@@ -800,15 +827,11 @@ is in `catalogs/<domain>.json`.
 - `page` [Independent auditWe audited Blitzy's 66.5% SWE-Bench Pro result, reviewing the environment, required changes, and final ](https://quesma.com/blog/verifying-blitzy-swe-bench-pro/)
 - `page` [Terminal-Bench 3.0Quesma contributed to Terminal-Bench 3.0, a benchmark for testing agents on practical terminal tasks.V](https://www.frontierbench.ai/contributors)
 
-## reasoncore.ai (7 links from 4 live hosts)
+## reasoncore.ai (3 links from 4 live hosts)
 
 - `page` [Browse benchmarks ↓](https://benchmarks.reasoncore.ai/)
 - `page` [View benchmark →](https://benchmarks.reasoncore.ai/financial-fraud/)
 - `page` [View benchmark →](https://benchmarks.reasoncore.ai/spatial-reasoning/)
-- `page` [from sitemap](https://reasoncore.ai/benchmarks)
-- `page` [from sitemap](https://reasoncore.ai/benchmarks/financial-fraud)
-- `page` [from sitemap](https://reasoncore.ai/benchmarks/scicode5000)
-- `page` [from sitemap](https://reasoncore.ai/benchmarks/spatial-reasoning)
 
 ## refresh.dev (4 links from 11 live hosts)
 
@@ -817,7 +840,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://refresh.dev/one-pager)
 - `page` [Explore our environments](https://www.refresh.dev/)
 
-## risedatalabs.com (46 links from 22 live hosts)
+## risedatalabs.com (46 links from 23 live hosts)
 
 - `page` [Healthcare Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/healthcare-expert-%E2%80%94-ai-training-evaluation-x5d4n)
 - `page` [Legal & Paralegal Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-0qn42)
@@ -866,7 +889,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://risedatalabs.com/solutions/model-evaluation-benchmarking)
 - `page` [from sitemap](https://risedatalabs.com/solutions/rl-environment)
 
-## scale.com (112 links from 995 live hosts)
+## scale.com (110 links from 994 live hosts)
 
 - `file` [Logo files](https://brand.scale.com/scale-logos.zip)
 - `hosted` [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -892,9 +915,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Benchmark](https://docs.nucleus.scale.com/en/latest/api/nucleus/index.html)
 - `page` [EvaluationCriterion](https://docs.nucleus.scale.com/en/latest/api/nucleus/validate/index.html)
 - `page` [11.05.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY · 11.05.2026San F](https://job-boards.greenhouse.io/scaleai/jobs/4728014005)
-- `page` [Safety & OversightOct 9, 2026DistressBench: A clinician-authored benchmark for how AI models handle users in distressPeo](https://labs.scale.com/blog/distressbench)
 - `page` [Physical AIOct 29, 2026FineART: Scale AI’s First Open-Source Robotics Dataset and ModelWe’re releasing FineART-VLA, an o](https://labs.scale.com/blog/fineart)
-- `page` [Oct 5, 2026Introducing AgentEnv: An Open-Source Framework for Building RL EnvironmentsAn agent is only as good as the wo](https://labs.scale.com/blog/introducing-agentenv)
 - `page` [[LEADERBOARDS]](https://labs.scale.com/leaderboard)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/adversarial_robustness)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/arabic)
@@ -942,7 +963,6 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://labs.scale.com/papers/a-holistic-approach-for-test-and-evaluation-of-large-language-models)
 - `page` [HFC by Scale AI](https://labs.scale.com/papers/bioriskeval)
 - `page` [from sitemap](https://labs.scale.com/papers/car-cityscapes-attributes-recognition-a-multi-category-attributes-dataset-for-autonomous-vehicles)
-- `page` [8/20/2026CliniCARE-Bench: Clinical Calibrated Audit of Medical Reasoning in EHREvaluation and AlignmentVeronica Chatrath](https://labs.scale.com/papers/clinicare-bench)
 - `page` [from sitemap](https://labs.scale.com/papers/debagreement-a-comment-reply-dataset-for-disagreement-detection-in-online-debates)
 - `page` [10/9/2026DistressBench: Evaluating Multi-Dimensional Crisis Support in Large Language ModelsSafety & OversightDrew Rein,](https://labs.scale.com/papers/distressbench)
 - `page` [from sitemap](https://labs.scale.com/papers/enigma_eval)
@@ -968,6 +988,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://scale.com/blog/dualchem-evaluating-ai-models-dual-use-chemistry-risks)
 - `page` [from sitemap](https://scale.com/blog/first-independent-model-evaluator-for-the-usaisi)
 - `page` [CompanyHow Morgan Stanley deploys AI that actually works (hint: it's evals) | Human in the Loop: Episode 13](https://scale.com/blog/hitl-ep13-ai-evals-in-practice)
+- `page` [from sitemap](https://scale.com/blog/scale-imda-legal-reasoning-benchmark)
 - `page` [from sitemap](https://scale.com/datasets)
 - `page` [Downloading Data](https://scale.com/docs/downloading-data)
 - `page` [from sitemap](https://scale.com/evaluation/enterprise)
@@ -984,7 +1005,7 @@ is in `catalogs/<domain>.json`.
 ## sepalai.com (0 links from 40 live hosts)
 
 
-## snorkel.ai (241 links from 22 live hosts)
+## snorkel.ai (248 links from 22 live hosts)
 
 - `file` [Download here](https://brand.snorkel.ai/wp-content/uploads/2022/07/Snorkel_Lockups.zip)
 - `file` [Download here](https://brand.snorkel.ai/wp-content/uploads/2022/07/Snorkel_Mascot.zip)
@@ -1071,8 +1092,9 @@ is in `catalogs/<domain>.json`.
 - `page` [Get started](https://docs.snorkel.ai/docs/26.7/user-guide/evaluation/evaluation-workflow-overview)
 - `page` [Dataset on Harbor Hub](https://hub.harborframework.com/datasets/snorkel-ai/senior-swe-bench-v2026.06/latest)
 - `page` [Leaderboards(opens in a new tab)](https://leaderboard.snorkel.ai/)
-- `page` [REPORTSSecurity Whitepaper](https://security.snorkel.ai/?_gl=1*cp2sum*_gcl_au*MTk2NDY0MDg1NS4xNzg5MDA4NTUy*_ga*MTkzNDQ0NjUyNi4xNzg5MDA4NTUy*_ga_900SSFCDP3*czE3ODkwMDg1NTEkbzEkZzEkdDE3ODkwMDg1ODIkajI5JGwwJGgw&itemName=endpoint_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click)
+- `page` [REPORTSSecurity Whitepaper](https://security.snorkel.ai/?itemName=data_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click)
 - `page` [from sitemap](https://snorkel.ai/agentic-coding-benchmarks/)
+- `page` [from sitemap](https://snorkel.ai/arc-agi-3-interactive-reasoning-benchmark/)
 - `page` [from sitemap](https://snorkel.ai/blog/10-ks-information-extraction-case-studies/)
 - `page` [from sitemap](https://snorkel.ai/blog/2026-the-year-of-environments/)
 - `page` [from sitemap](https://snorkel.ai/blog/benchmarks-should-shape-frontier-not-just-measure-it/)
@@ -1095,6 +1117,7 @@ is in `catalogs/<domain>.json`.
 - `page` [BlogEvaluating AI agents for insurance writing](https://snorkel.ai/blog/evaluating-ai-agents-for-insurance-underwriting/)
 - `page` [from sitemap](https://snorkel.ai/blog/evaluating-coding-agent-capabilities-with-terminal-bench-snorkels-role-in-building-the-next-generation-benchmark/)
 - `page` [from sitemap](https://snorkel.ai/blog/fable-5-1-vs-opus-5-coding-benchmark/)
+- `page` [from sitemap](https://snorkel.ai/blog/fable-5-2-vs-fable-5-1-coding-benchmark/)
 - `page` [from sitemap](https://snorkel.ai/blog/genentech-clinical-trial-analytics-case-study/)
 - `page` [from sitemap](https://snorkel.ai/blog/generative-ai-evluation-genai-evaluation-suite-snorkel-flow-2024-r3/)
 - `page` [from sitemap](https://snorkel.ai/blog/how-data-slices-transform-enterprise-llm-evaluation/)
@@ -1130,17 +1153,15 @@ is in `catalogs/<domain>.json`.
 - `page` [Research-led data and environment development for the frontier's hardest problems Learn more](https://snorkel.ai/how-it-works/)
 - `page` [from sitemap](https://snorkel.ai/intelligence-per-watt-ai-efficiency-benchmark/)
 - `page` [from sitemap](https://snorkel.ai/judgmentbench-rubric-vs-preference-evaluation/)
+- `page` [from sitemap](https://snorkel.ai/korabench-ai-child-safety-benchmark/)
 - `page` [Retrieval-augmented generation](https://snorkel.ai/large-language-models/rag-retrieval-augmented-generation/)
 - `page` [Skip to content](https://snorkel.ai/leaderboard/)
 - `page` [Agentic Coding](https://snorkel.ai/leaderboard/?topic=agentic-coding)
-- `page` [Capability/Efficiency](https://snorkel.ai/leaderboard/?topic=capability-efficiency)
-- `page` [Computer Use](https://snorkel.ai/leaderboard/?topic=computer-use)
-- `page` [Enterprise Environments](https://snorkel.ai/leaderboard/?topic=enterprise-environments)
-- …and 91 more in `catalogs/snorkel.ai.json`
+- …and 98 more in `catalogs/snorkel.ai.json`
 
-## surgehq.ai (37 links from 689 live hosts)
+## surgehq.ai (37 links from 690 live hosts)
 
-- `page` [from sitemap](https://surgehq.ai/benchmark-terms-of-sale)
+- `page` [from sitemap](https://surgehq.ai/benchmark-license-terms)
 - `page` [benchmarks](https://surgehq.ai/benchmarks)
 - `page` [Antidote](https://surgehq.ai/benchmarks/antidote)
 - `page` [Chartography](https://surgehq.ai/benchmarks/chartography)
@@ -1180,16 +1201,16 @@ is in `catalogs/<domain>.json`.
 
 ## symbal.ai (5 links from 25 live hosts)
 
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=61fda9fa4f22130b926c3a51d2b18f8dfc84d8e276d5a971abf40d2dc8a9f7ce.JTdCJTIyaWF0JTIyJTNBMTc5NDI0Mzc0MyUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnBsYXRmb3JtLmRldi5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIyblRyckFjNWR4VHBoZU5RNXQlMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjI1ZGNhMjQyZmMyYjFjY2Y4NDQwNjk4MWU1ODM5ZjY5OWY1NjZjYzA5YTExODUxYTgzOTc3MWIzYTEwZjFlNGFlJTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYzQyNTE4OTYtOWY2MC00YzE2LThlYWEtZWVkMzIzYmZjZWQ5JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=67d9f6941159bcdb7c31d191d9f596ed1b614041433006dbb3219865dc8f9096.JTdCJTIyaWF0JTIyJTNBMTc5NDI0Mzc0MyUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMmxsbS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIyblFhQ3RxdDV3UWJhYmhlT2YlMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJjMDNkZmViNjdiMmU3ODFkYTUwN2ZjZTE2YWI1ZWNkZTIyNTBlMWFiNzUxZjY4NDY5YjlhMzVhODZlNTU2NTI5JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyZjliODkyMzktZjE0Ny00YTg0LTg0YzktODE5YjUxNTRjZDUyJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=bdeeb1b1a01550d37c1438ff234c8113126bc1e5d63e5a278e1e373795d4e9f7.JTdCJTIyaWF0JTIyJTNBMTc5NDI0Mzc0NCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnRhc2stZmFjdG9yeS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybnRZaVJuUXBaVXN6c3pjTHElMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjIxMTU3MWEyODM1NGM3YzU3OTBhNTUwNDMwYjZkMTRlNzEyZmQ4M2ZjODE4NDU5MjRjNjU4M2ZjZDg2M2VkZTZkJTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyOTg2YjlkMzItNDliYS00Y2U1LWFlZmUtMWE0ODdlY2Y2NmViJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=0327898748e98b71f7be220e456785e29fedc80a74ebae9a5cb6bee498866959.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMmxsbS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybm5tT0x5MkJndENpZHRtSUklMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjI3YTU5NTE2YWI5OTYzYTU2MTc5ZmFjNmQxNmE1NzYzYjQ1NmE5NTA5NDRmZWFhYjgzOWZjOGFjZDFhNDVhOWY3JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyOWI1ZDc2YjctMTk2Ni00MWM0LWE5N2MtZTI1MjZkNWUyZmQ5JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=498a6d2ada1eaaf1a44e7a4dfdae8d87287c92d40ca9129efd75c0a4ad0d4ae6.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MSUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnRhc2stZmFjdG9yeS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybm1VVUxkelN1QWlZVk55Z0clMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjI0ODE2YWNlN2EwNWJmZGMyYjJlYWEyNWMxN2IyY2Q4MWMyMGY0ZGNhMTRjMjVlNDA0NGJjNTZmMmE0YzA3MWI1JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYTZiMzYzMjktMmE0OS00NzM1LTg0OTctZDc3NjE2MThlZDc2JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=db402ab283ed0bdd8ac0b2fad608e388d629c3d90116a86fc70ec3730040e9d6.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnBsYXRmb3JtLmRldi5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybmRDdE81ZGEzcGN5clpDdm4lMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJlYzBiMGNiY2RjNDhjYmY1MjllZmM3OTFjODExZmZlNTQ3YjgyNWYzZmY2YzA0N2JkNzAyNDlkNzE1ZDg3ZDk4JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYzJlYjY3NGItY2JiNy00MzUwLTg1ZTktOGQzMzkzN2NmY2IxJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
 - `page` [Analytics View reports and analytics](https://dataset-collection-qa.symbal.ai/analytics)
 - `page` [QA Tasks Review and manage transcript tasks](https://dataset-collection-qa.symbal.ai/qa)
 
 ## tacitlabs.co (0 links from 2 live hosts)
 
 
-## tastelabs.com (9 links from 75 live hosts)
+## tastelabs.com (10 links from 77 live hosts)
 
 - `file` [/board.json](https://status.hdp.staging.tastelabs.com/board.json?minutes=120)
 - `file` [/board.json](https://status.hdp.tastelabs.com/board.json?minutes=120)
@@ -1199,25 +1220,35 @@ is in `catalogs/<domain>.json`.
 - `hosted` [GitHub](https://github.com/dubinc/dub)
 - `page` [Pricing](https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Footer&utm_campaign=apply.tastelabs.com&utm_content=Pricing)
 - `page` [Pricing](https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Navbar&utm_campaign=apply.tastelabs.com&utm_content=Pricing)
-- `page` [Case StudyProduct](https://tastelabs.com/case-study/general-intelligence-company)
+- `page` [Case StudyProduct](https://tastelabs.com/cases/general-intelligence-company)
+- `page` [AI Council SF 2026The World Is Not Enough: RL’s Environment ProblemExplore](https://www.youtube.com/watch?v=WDDwOsY9rw8&list=PLAesBe-zAQmHnJk60Oup93ccfAwo7Jv4r&index=15)
 
 ## thetasoftware.com (0 links from 3 live hosts)
 
 
-## trajectorylabs.com (7 links from 6 live hosts)
+## trajectorylabs.com (8 links from 6 live hosts)
 
-- `file` [Gemini 4 Argon Safety & Security ReportOctober 2026We identified 12 task-specific breaks in Gemini 4 Argon's cyber safeg](https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf)
-- `file` [AnthropicSeptember 2026Claude Fable 5.1 & Claude Mythos 5.1 System CardWe were the only external team to get working exp](https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf)
-- `file` [AnthropicJune 2026Claude Fable 5 & Claude Mythos 5 System CardWe were the only external team to have bypassed its cyber ](https://www-cdn.anthropic.com/2f9323abbcc4abe219577539efe19a623c9ca2bd/Claude%20Fable%205%20&%20Claude%20Mythos%205%20System%20Card.pdf)
-- `file` [AnthropicJuly 2026Claude Opus 5 System CardWe were the only external team to complete a cyber task against Opus 5's safe](https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf)
-- `file` [Claude Opus 5.5 System CardSeptember 2026We were the only commercial red team to jailbreak Opus 5.5's cyber safeguards, ](https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf)
-- `page` [Evals Lead, AI Red TeamingFull-time | Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/46c81b28-b2c7-4f2b-a1d3-4445868570fc)
-- `page` [Head of EvalsFull-time | Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/ba756ba4-424b-4f2c-a8f4-8f0ae1a7ee75)
+- `file` [View system card](https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf)
+- `file` [View safety report](https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf)
+- `file` [View system card](https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf)
+- `file` [View system card](https://www-cdn.anthropic.com/2f9323abbcc4abe219577539efe19a623c9ca2bd/Claude%20Fable%205%20&%20Claude%20Mythos%205%20System%20Card.pdf)
+- `file` [View system card](https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf)
+- `file` [View system card](https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf)
+- `page` [Evals Lead, AI Red TeamingFull-time · Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/46c81b28-b2c7-4f2b-a1d3-4445868570fc)
+- `page` [Head of EvalsFull-time · Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/ba756ba4-424b-4f2c-a8f4-8f0ae1a7ee75)
 
-## turing.com (21 links from 1104 live hosts)
+## turing.com (29 links from 1095 live hosts)
 
 - `hosted` [View guidelines](https://docs.google.com/document/d/1jXCkAkoHbz-MOdH_RVLvRNP6V6d3o6S99LJiUmmhxY4/edit?usp=sharing)
 - `page` [Agentic Environments](https://agentic.turing.com/)
+- `page` [T Turing SWE-Bench Private](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/)
+- `page` [Failure Modes](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/failures/)
+- `page` [Leaderboard](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/leaderboard/)
+- `page` [Quality](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/quality/)
+- `page` [Repositories](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/repositories/)
+- `page` [Samples](https://data.swebench-wms.turing.com/showcase/swe-bench-private-20261017/samples/)
+- `page` [Request dataset samples](https://go.turing.com/contact-us?select_one=Request%20dataset%20samples&view_sample__data=Homepage)
+- `page` [ModelEval](https://sandbox-dev.turing.com/docs/api/modeleval/)
 - `page` [Supported agents](https://sandbox-dev.turing.com/docs/guides/catalog-and-agents/)
 - `page` [Run a benchmark](https://sandbox-dev.turing.com/docs/guides/harbor-datapoint/)
 - `page` [Get startedYour first Sandbox request — credential, code, agent, and benchmark.](https://sandbox-dev.turing.com/docs/introduction/get-started/)
@@ -1238,7 +1269,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Off-The-Shelf Datasets](https://www.turing.com/frontier-ai/datasets)
 - `page` [RL Environments](https://www.turing.com/frontier-ai/rl-environments)
 
-## uber.com (155 links from 656 live hosts)
+## uber.com (159 links from 658 live hosts)
 
 - `file` [Read more](https://insights.uberfreight.com/hubfs/UberFreight_Market_Update_Report.pdf)
 - `file` [here](https://tb-static.uber.com/prod/udam-assets/22e1d5ed-04ec-54cd-ab11-dafb9f37a68f.pdf)
@@ -1250,6 +1281,7 @@ is in `catalogs/<domain>.json`.
 - `file` [here](https://tb-static.uber.com/prod/udam-assets/f1b236d5-56e4-515a-bb5d-2f15354b4a16.pdf)
 - `file` [Download the user manual](https://www.uber-assets.com/image/upload/v1570665703/Documents/Beacon/Beacon_Digital_User_Manual_190920.pdf)
 - `hosted` [ICSE-SEIP 2026 Scaling Mobile Chaos Testing with AI-Driven Test Execution Mobile applications in large-scale distributed](https://arxiv.org/abs/2602.06223)
+- `hosted` [MLSys 2026 ADR: An Agentic Detection System for Enterprise Agentic AI Security Enterprise AI agents built on the Model C](https://arxiv.org/abs/2605.17380)
 - `hosted` [Customize Copilot](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-copilot-overview)
 - `hosted` [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
 - `hosted` [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
@@ -1283,6 +1315,7 @@ is in `catalogs/<domain>.json`.
 - `hosted` [Issue #1718](https://github.com/jaegertracing/jaeger/issues/1718)
 - `hosted` [survey issue](https://github.com/jaegertracing/jaeger/issues/207)
 - `hosted` [https://github.com/jaegertracing/security-audits](https://github.com/jaegertracing/security-audits)
+- `hosted` [MichelangeloPython Uber's end-to-end machine learning platform for building, training, and serving models at scale. 263 ](https://github.com/michelangelo-ai/michelangelo)
 - `hosted` [GitHub Sponsors](https://github.com/open-source/sponsors)
 - `hosted` [span references](https://github.com/opentracing/specification/blob/master/specification.md)
 - `hosted` [Community Forum](https://github.com/orgs/community/discussions)
@@ -1299,18 +1332,19 @@ is in `catalogs/<domain>.json`.
 - `hosted` [Manufacturing](https://github.com/solutions/industry/manufacturing)
 - `hosted` [Nonprofits](https://github.com/solutions/industry/nonprofits)
 - `hosted` [TimescaleDB via Promscale](https://github.com/timescale/promscale)
-- `hosted` [automaxprocsGo Automatically set GOMAXPROCS to match Linux container CPU quota. 4.8k stars](https://github.com/uber-go/automaxprocs)
-- `hosted` [digGo Reflection based dependency injection toolkit for Go. 4.4k stars](https://github.com/uber-go/dig)
-- `hosted` [fxGo Dependency injection based application framework for Go. 7.4k stars](https://github.com/uber-go/fx)
-- `hosted` [goleakGo Goroutine leak detector for Go. 5.1k stars](https://github.com/uber-go/goleak)
-- `hosted` [Go Style GuideGo The Uber Go Style Guide — patterns and conventions for writing clean, idiomatic Go. 17.3k stars](https://github.com/uber-go/guide)
+- `hosted` [automaxprocsGo Automatically set GOMAXPROCS to match Linux container CPU quota. 4.9k stars](https://github.com/uber-go/automaxprocs)
+- `hosted` [digGo Reflection based dependency injection toolkit for Go. 4.5k stars](https://github.com/uber-go/dig)
+- `hosted` [fxGo Dependency injection based application framework for Go. 7.7k stars](https://github.com/uber-go/fx)
+- `hosted` [goleakGo Goroutine leak detector for Go. 5.3k stars](https://github.com/uber-go/goleak)
+- `hosted` [Go Style GuideGo The Uber Go Style Guide — patterns and conventions for writing clean, idiomatic Go. 17.8k stars](https://github.com/uber-go/guide)
 - `hosted` [ratelimitGo Blocking leaky-bucket rate limit implementation. 4.7k stars](https://github.com/uber-go/ratelimit)
-- `hosted` [OSS zap — 24.3k stars: Blazing fast structured logging for Go](https://github.com/uber-go/zap)
-- `hosted` [NullAwayJava Eliminate NullPointerExceptions with low build-time overhead. 4.0k stars330 forks](https://github.com/uber/NullAway)
-- `hosted` [OSS RIBs — 7.9k stars: Cross-platform mobile architecture framework](https://github.com/uber/RIBs)
-- `hosted` [Base WebTypeScript React Component library implementing the Base design language. 8.9k stars865 forks](https://github.com/uber/baseweb)
-- `hosted` [CausalMLPython Uplift modeling and causal inference with machine learning algorithms. 5.7k stars852 forks](https://github.com/uber/causalml)
-- `hosted` [H3C Hexagonal hierarchical geospatial indexing system. 6.0k stars556 forks](https://github.com/uber/h3)
+- `hosted` [OSS zap — 24.7k stars: Blazing fast structured logging for Go](https://github.com/uber-go/zap)
+- `hosted` [ADRPython Secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at U](https://github.com/uber/ADR)
+- `hosted` [NullAwayJava Eliminate NullPointerExceptions with low build-time overhead. 4.1k stars381 forks](https://github.com/uber/NullAway)
+- `hosted` [OSS RIBs — 8.0k stars: Cross-platform mobile architecture framework](https://github.com/uber/RIBs)
+- `hosted` [Base WebTypeScript React Component library implementing the Base design language. 9.0k stars882 forks](https://github.com/uber/baseweb)
+- `hosted` [CausalMLPython Uplift modeling and causal inference with machine learning algorithms. 6.0k stars892 forks](https://github.com/uber/causalml)
+- `hosted` [H3C Hexagonal hierarchical geospatial indexing system. 6.7k stars662 forks](https://github.com/uber/h3)
 - `hosted` [Skip to content](https://github.com/uber/jaeger)
 - `hosted` [Actions](https://github.com/uber/jaeger/actions)
 - `hosted` [Activity](https://github.com/uber/jaeger/activity)
@@ -1363,8 +1397,8 @@ is in `catalogs/<domain>.json`.
 - `hosted` [storage](https://github.com/uber/jaeger/tree/main/storage)
 - `hosted` [swagger-gen](https://github.com/uber/jaeger/tree/main/swagger-gen)
 - `hosted` [thrift-gen](https://github.com/uber/jaeger/tree/main/thrift-gen)
-- `hosted` [KrakenGo P2P Docker registry capable of distributing TBs of data in seconds. 6.6k stars](https://github.com/uber/kraken)
-- `hosted` [react-visJavaScript Data Visualization Components for React. 8.8k stars834 forks](https://github.com/uber/react-vis)
+- `hosted` [KrakenGo P2P Docker registry capable of distributing TBs of data in seconds. 6.8k stars](https://github.com/uber/kraken)
+- `hosted` [react-visJavaScript Data Visualization Components for React. 8.8k stars830 forks](https://github.com/uber/react-vis)
 - `page` [Skip to main content](https://adsacademy.uber.com/student/catalog)
 - `page` [All Topics](https://adsacademy.uber.com/student/catalog/browse)
 - `page` [All Activities](https://adsacademy.uber.com/student/catalog/list)
@@ -1375,22 +1409,19 @@ is in `catalogs/<domain>.json`.
 - `page` [Pricing](https://github.com/pricing)
 - `page` [most requested data](https://help.uber.com/riders/article/whats-in-your-data-download?nodeId=3d476006-87a4-4404-ac1e-216825414e05)
 - `page` [Pricing](https://help.uber.com/ubereats/article/uber-eats-pricing?nodeId=2adbed88-9822-4690-9529-3061c4821755)
+- `page` [Learn more](https://medium.com/uber-under-the-hood/how-flexible-pricing-keeps-uber-predictable-and-reliable-for-everyone-b5c3ccb5d8bf)
+- `page` [Learn more](https://medium.com/uber-under-the-hood/what-happens-when-surge-pricing-is-banned-evidence-from-nevada-abee7e1e5dd9)
 - `page` [Pricing](https://merchants.ubereats.com/us/en/pricing/)
 - `page` [Download Your Data](https://myprivacy.uber.com/exploreyourdata/download)
 - `page` [Download the Uber app](https://rides.sng.link/Aw5zn/o42y?_dl=uber%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id])
 - `page` [NEWS Uber at the AI Engineer World's Fair: agentic SDLC, GenAI code review, and multimodal evals](https://www.linkedin.com/feed/update/urn:li:activity:7480289597206315011)
 - `page` [Uber Engineering — Where the Digital World Meets the Physical One](https://www.linkedin.com/showcase/uberengineering)
-- `page` [DATA Database Federation: Decentralized Hive Databases 16,000 datasets in one monolithic Hive metastore meant shared-fat](https://www.uber.com/blog/database-federation/)
-- `page` [BACKEND Modernizing Artifact Storage at Uber Uber's decade-old on-prem artifact store — serving 5+ petabytes of download](https://www.uber.com/blog/modernizing-artifact-storage/)
+- `page` [DATA Making Every Core Count: In Pursuit Of Faster Apache Spark Jobs at Uber Data lake ingestion alone consumes 200,000+](https://www.uber.com/blog/uber-benchmarking-quanton/)
 - `page` [Making Every Core Count: In Pursuit Of Faster Apache Spark Jobs at Uber](https://www.uber.com/us/en/blog/uber-benchmarking-quanton/)
 - `page` [Uber Supports Congestion Pricing](https://www.uber.com/us/en/blog/uber-supports-congestion-pricing/)
 - `page` [Pricing](https://www.uber.com/us/en/marketplace/pricing/)
-- `page` [Driver promotions](https://www.uber.com/us/en/marketplace/pricing/driver-promotions/)
-- `page` [Route-based pricing](https://www.uber.com/us/en/marketplace/pricing/route-based-pricing/)
-- `page` [Uber service fee](https://www.uber.com/us/en/marketplace/pricing/service-fee/)
-- `page` [Surge pricing](https://www.uber.com/us/en/marketplace/pricing/surge-pricing/)
-- `page` [Upfront pricing](https://www.uber.com/us/en/marketplace/pricing/upfront-pricing/)
-- …and 5 more in `catalogs/uber.com.json`
+- `page` [Marketplace | UberChevron downChevron down smallChevron left smallChevron right smallChevron left smallChevron right smallChevron left smallChevron ri](https://www.uber.com/us/en/marketplace/pricing/driver-promotions/)
+- …and 9 more in `catalogs/uber.com.json`
 
 ## ulam.ai (3 links from 4 live hosts)
 
@@ -1398,7 +1429,7 @@ is in `catalogs/<domain>.json`.
 - `hosted` [Explore STEM RL →](https://huggingface.co/datasets/ulamai/STEM-RL-Tasks)
 - `page` [Explore our task catalogue →](https://www.ulam.ai/data.html)
 
-## verita-ai.com (0 links from 47 live hosts)
+## verita-ai.com (0 links from 48 live hosts)
 
 
 ## vetto.ai (10 links from 95 live hosts)
@@ -1414,9 +1445,10 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-vetto-science-bench/)
 - `page` [leaderboards](https://vetto.ai/companies/leaderboards/)
 
-## vmax.ai (1 links from 3 live hosts)
+## vmax.ai (2 links from 3 live hosts)
 
 - `page` [May 25, 2026unix-ctf: Procedural Environments for Unix-Competence Reinforcement LearningWe introduce unix-ctf, a procedu](https://vmax.ai/team/unix-ctf-procedural-environments-for-unix-competence-reinforcement-learning)
+- `page` [May 25, 2026unix-ctf: Procedural Environments for Unix-Competence Reinforcement LearningWe introduce unix-ctf, a procedu](https://www.vmax.ai/team/unix-ctf-procedural-environments-for-unix-competence-reinforcement-learning)
 
 ## wirestock.io (18 links from 69 live hosts)
 

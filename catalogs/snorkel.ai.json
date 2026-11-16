@@ -723,6 +723,11 @@
      "text": "Learn more about Terminal-Bench 3.0"
     },
     {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Learn more about Terminal-Bench 4.0"
+    },
+    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Learn more about Terminal-Bench-Science"
@@ -730,7 +735,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/terminal-bench/",
      "kind": "page",
-     "text": "Learn more about Terminal-Bench 4.0"
+     "text": "Learn more about Terminal-Bench 4.1"
     },
     {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
@@ -750,12 +755,12 @@
     {
      "url": "https://snorkel.ai/models/muse-wonder",
      "kind": "page",
-     "text": "Meta Oct 12, 2026 Muse Wonder RANK BY BENCHMARK Agentic Coding 2.0 43.6% #2/16 Agents\u2019 Last Exam v1.1 38.5% #8/15 Snorke"
+     "text": "Meta Oct 12, 2026 Muse Wonder RANK BY BENCHMARK Agentic Coding 2.0 43.6% #2/16 Agents\u2019 Last Exam v1.1 38.5% #10/17 Snork"
     },
     {
      "url": "https://snorkel.ai/models/opus-5-5",
      "kind": "page",
-     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #5/16 Agents\u2019 Last Exam v1.1 43.4% #3/15 Snor"
+     "text": "Anthropic Sep 22, 2026 Opus 5.5 RANK BY BENCHMARK Agentic Coding 2.0 40.4% #5/16 Agents\u2019 Last Exam v1.1 43.4% #4/17 Snor"
     },
     {
      "url": "https://snorkel.ai/talk-to-an-expert-expert-data-as-a-service/",
@@ -786,7 +791,7 @@
    "title": "Snorkel AI Security Portal | Powered by SafeBase",
    "links": [
     {
-     "url": "https://security.snorkel.ai/?_gl=1*cp2sum*_gcl_au*MTk2NDY0MDg1NS4xNzg5MDA4NTUy*_ga*MTkzNDQ0NjUyNi4xNzg5MDA4NTUy*_ga_900SSFCDP3*czE3ODkwMDg1NTEkbzEkZzEkdDE3ODkwMDg1ODIkajI5JGwwJGgw&itemName=endpoint_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
+     "url": "https://security.snorkel.ai/?itemName=data_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click",
      "kind": "page",
      "text": "REPORTSSecurity Whitepaper"
     }
@@ -1016,6 +1021,11 @@
      "text": "Agentic CodingTerminal-Bench 3.0Evaluates terminal agents on containerized tasks across seven domains.By Resolution Rate"
     },
     {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Agentic CodingTerminal-Bench 4.0Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
+    },
+    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Science & ResearchTerminal-Bench-ScienceEvaluates agents on scientific workflows derived from researchers\u2019 own work.By R"
@@ -1023,7 +1033,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/terminal-bench/",
      "kind": "page",
-     "text": "Agentic CodingTerminal-Bench 4.0Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
+     "text": "Agentic CodingTerminal-Bench 4.1Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
     },
     {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
@@ -1221,6 +1231,11 @@
      "text": "Agentic CodingTerminal-Bench 3.0Evaluates terminal agents on containerized tasks across seven domains.By Resolution Rate"
     },
     {
+     "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+     "kind": "page",
+     "text": "Agentic CodingTerminal-Bench 4.0Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
+    },
+    {
      "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
      "kind": "page",
      "text": "Science & ResearchTerminal-Bench-ScienceEvaluates agents on scientific workflows derived from researchers\u2019 own work.By R"
@@ -1228,7 +1243,7 @@
     {
      "url": "https://snorkel.ai/leaderboard/terminal-bench/",
      "kind": "page",
-     "text": "Agentic CodingTerminal-Bench 4.0Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
+     "text": "Agentic CodingTerminal-Bench 4.1Evaluates terminal agents on continuously updated software-engineering tasks.By Resoluti"
     },
     {
      "url": "https://snorkel.ai/leaderboard/workplace-agents/",
@@ -1413,10 +1428,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/blog/rl-environments-for-llm-agents-design-rewards-and-validation/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/blog/snorkeling-in-rl-environments/",
    "kind": "page"
   },
@@ -1442,6 +1453,14 @@
   },
   {
    "url": "https://snorkel.ai/blog/collaborative-gym-a-framework-for-enabling-and-evaluating-human-agent-collaboration/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/rl-environments-for-llm-agents-design-rewards-and-validation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/blog/fable-5-2-vs-fable-5-1-coding-benchmark/",
    "kind": "page"
   },
   {
@@ -1681,14 +1700,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-0/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/snorkel-finance/",
    "kind": "page"
   },
@@ -1745,22 +1756,6 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
-   "kind": "page"
-  },
-  {
-   "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
-   "kind": "page"
-  },
-  {
    "url": "https://snorkel.ai/leaderboard/continual-learning-bench/",
    "kind": "page"
   },
@@ -1769,11 +1764,43 @@
    "kind": "page"
   },
   {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-3-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-0/",
+   "kind": "page"
+  },
+  {
    "url": "https://snorkel.ai/leaderboard/os-world-2-0/",
    "kind": "page"
   },
   {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-2-1/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-science/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/slopcode-bench/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench-4-0/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/leaderboard/terminal-bench/",
+   "kind": "page"
+  },
+  {
    "url": "https://snorkel.ai/leaderboard/agents-last-exam/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/paperbench-ai-research-replication-benchmark/",
    "kind": "page"
   },
   {
@@ -1785,11 +1812,31 @@
    "kind": "page"
   },
   {
-   "url": "https://snorkel.ai/paperbench-ai-research-replication-benchmark/",
+   "url": "https://snorkel.ai/korabench-ai-child-safety-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/medpair-physician-ai-relevance-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/philosophybench-ai-philosophy-writing-benchmark/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/arc-agi-3-interactive-reasoning-benchmark/",
    "kind": "page"
   },
   {
    "url": "https://snorkel.ai/judgmentbench-rubric-vs-preference-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/osworld-2-1-long-horizon-computer-use-evaluation/",
+   "kind": "page"
+  },
+  {
+   "url": "https://snorkel.ai/legalbench-2-legal-autograder-benchmark/",
    "kind": "page"
   }
  ]

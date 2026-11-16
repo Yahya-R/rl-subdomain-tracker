@@ -1,6 +1,6 @@
 {
  "domain": "gr.inc",
- "live_hosts": 16,
+ "live_hosts": 17,
  "pages": [
   {
    "host": "cdn-media.gr.inc",
@@ -48,6 +48,10 @@
   },
   {
    "host": "infer.gr.inc",
+   "status": "no response"
+  },
+  {
+   "host": "midtraining-data.gr.inc",
    "status": "no response"
   },
   {

@@ -49,7 +49,10 @@
   },
   {
    "host": "argo.fleet-platform.fleetai.com",
-   "status": "no response"
+   "status": "ok",
+   "url": "https://app.argo.fleet-platform.fleetai.com:443/",
+   "title": "Argo CD",
+   "links": []
   },
   {
    "host": "argo.fleetai-training-data.fleetai.com",
