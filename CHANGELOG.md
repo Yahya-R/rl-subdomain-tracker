@@ -1,5 +1,17 @@
 # New subdomains
 
+## 2026-11-16
+
+### uber.com
+- 4fp.spmail.uber.com (no DNS)
+- 8ddfbs.mx.dev.uber.com (no DNS)
+- cthulhue.dev.uber.com (no DNS)
+- geocod-kat.dev.uber.com (no DNS)
+- hawaii1o.dev.uber.com (no DNS)
+- henrik-dev1-eum.dev.uber.com (no DNS)
+- langley-us-west-1s.dev.uber.com (no DNS)
+- shelby-azure-8q.dev.uber.com (no DNS)
+
 ## 2026-11-15
 
 ### uber.com
