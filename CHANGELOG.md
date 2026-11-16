@@ -2,6 +2,11 @@
 
 ## 2026-11-16
 
+### scale.com
+- fleet.corp.scale.com (44.252.255.131)
+
+## 2026-11-16
+
 ### uber.com
 - 4fp.spmail.uber.com (no DNS)
 - 8ddfbs.mx.dev.uber.com (no DNS)
