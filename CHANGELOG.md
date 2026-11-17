@@ -1,5 +1,23 @@
 # New subdomains
 
+## 2026-11-17
+
+### cua.ai
+- hoy-api.cua.ai (44.228.20.154)
+- hoy.cua.ai (66.33.60.67)
+
+### mechanize.work
+- videos.mechanize.work (104.21.75.146)
+
+### metaphi.ai
+- gateway.metaphi.ai (8.232.46.46)
+
+### micro1.ai
+- comm.micro1.ai (13.225.61.96)
+
+### scale.com
+- poll.helm-demo.corp.scale.com (3.161.242.23)
+
 ## 2026-11-16
 
 ### scale.com
