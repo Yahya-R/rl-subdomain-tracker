@@ -2,6 +2,26 @@
 
 ## 2026-11-17
 
+### originator.inc
+- daedalus.originator.inc (104.26.8.62)
+
+### risedatalabs.com
+- novel.samples.risedatalabs.com (77.112.82.187)
+
+### uber.com
+- deblobbing.email.uber.com (no DNS)
+- dev-ext.uber.com (no DNS)
+- gmc-lfa-8g.dev.uber.com (no DNS)
+- jli9.dev.uber.com (no DNS)
+- kr17.dev.uber.com (no DNS)
+- sb25.dev.uber.com (no DNS)
+- scion-mustang-2k.dev.uber.com (no DNS)
+
+### wirestock.io
+- litellm.wirestock.io (34.195.4.123)
+
+## 2026-11-17
+
 ### cua.ai
 - hoy-api.cua.ai (44.228.20.154)
 - hoy.cua.ai (66.33.60.67)
