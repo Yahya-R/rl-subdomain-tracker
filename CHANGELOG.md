@@ -2,6 +2,14 @@
 
 ## 2026-11-17
 
+### uber.com
+- admins.uber.com (no DNS)
+- fleetdm.uber.com (104.36.194.9)
+- huangbowangzhan.mx.dev.uber.com (no DNS)
+- login1.mx.dev.uber.com (no DNS)
+
+## 2026-11-17
+
 ### originator.inc
 - daedalus.originator.inc (104.26.8.62)
 
