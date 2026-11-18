@@ -2,6 +2,21 @@
 
 ## 2026-11-18
 
+### patronus.ai
+- auth0-poc.sandbox.patronus.ai (54.89.65.130)
+- poc-alb.sandbox.patronus.ai (54.89.65.130)
+- poc-int.sandbox.patronus.ai (100.48.197.50)
+
+### uber.com
+- analytics-dev.uber.com (no DNS)
+- api-docs-devq.uber.com (no DNS)
+- devo.metrics.uber.com (no DNS)
+- gmc-aviator-8y.dev.uber.com (no DNS)
+- gurafu2-weiwang.dev.uber.com (no DNS)
+- jeep-citation-3k.dev.uber.com (no DNS)
+
+## 2026-11-18
+
 ### uber.com
 - 4d9ce417.uber.com (no DNS)
 - corbin-cabriolet-6m.dev.uber.com (no DNS)
