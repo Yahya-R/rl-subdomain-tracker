@@ -1,5 +1,16 @@
 # New subdomains
 
+## 2026-11-18
+
+### uber.com
+- 4d9ce417.uber.com (no DNS)
+- corbin-cabriolet-6m.dev.uber.com (no DNS)
+- infiniti-frontier-6u.dev.uber.com (no DNS)
+- junchaow4c.dev.uber.com (no DNS)
+- mta19.et.uber.com (136.147.138.201)
+- nissan-runner-9o.dev.uber.com (no DNS)
+- rho.dev.uber.com (no DNS)
+
 ## 2026-11-17
 
 ### uber.com
