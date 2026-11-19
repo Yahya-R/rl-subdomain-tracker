@@ -3,6 +3,12 @@
 ## 2026-11-19
 
 ### uber.com
+- bm47.dev.uber.com (no DNS)
+- mta2fre.mx.dev.uber.com (no DNS)
+
+## 2026-11-19
+
+### uber.com
 - armmbed7.uber.com (no DNS)
 - jaguar-think-6o.dev.uber.com (no DNS)
 - morgan-reliant-9q.dev.uber.com (no DNS)
