@@ -43,7 +43,7 @@
  },
  "beta.parsewave.ai": {
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "ip": "172.67.212.215",
   "live": true
  },
@@ -51,6 +51,12 @@
   "first_seen": "2026-10-08",
   "last_seen": "2026-11-19",
   "ip": "172.67.212.215",
+  "live": true
+ },
+ "compete.parsewave.ai": {
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "ip": "104.21.53.127",
   "live": true
  },
  "console.parsewave.ai": {
@@ -80,7 +86,7 @@
  "docs.parsewave.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-19",
-  "ip": "104.21.53.127",
+  "ip": "172.67.212.215",
   "live": true
  },
  "gdpval.parsewave.ai": {
@@ -92,7 +98,7 @@
  "lfs.parsewave.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-19",
-  "ip": "172.67.212.215",
+  "ip": "104.21.53.127",
   "live": true
  },
  "mm-api.parsewave.ai": {
@@ -121,7 +127,7 @@
  },
  "old.parsewave.ai": {
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "ip": "2.31.141.220",
   "live": true
  },
@@ -176,7 +182,7 @@
  "www.parsewave.ai": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-19",
-  "ip": "104.21.53.127",
+  "ip": "172.67.212.215",
   "live": true
  }
 }
