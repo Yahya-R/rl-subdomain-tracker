@@ -2,6 +2,17 @@
 
 ## 2026-11-19
 
+### parsewave.ai
+- compete.parsewave.ai (104.21.53.127)
+
+### uber.com
+- australiaeasti.atlas.cloudapp.uber.com (no DNS)
+- bominglunpanduyulechengwana.mx.dev.uber.com (no DNS)
+- nissan-thunderbird-2q.dev.uber.com (no DNS)
+- rillys.uber.com (no DNS)
+
+## 2026-11-19
+
 ### uber.com
 - bm47.dev.uber.com (no DNS)
 - mta2fre.mx.dev.uber.com (no DNS)
