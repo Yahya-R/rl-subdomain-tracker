@@ -1,5 +1,15 @@
 # New subdomains
 
+## 2026-11-20
+
+### uber.com
+- 2277.gcp.uber.com (no DNS)
+- alexle.a.dev.uber.com (no DNS)
+- calp4k.dev.uber.com (no DNS)
+- deve.lab.uber.com (no DNS)
+- nadiia.dev.uber.com (no DNS)
+- spyker-cars-g-3w.dev.uber.com (no DNS)
+
 ## 2026-11-19
 
 ### parsewave.ai
