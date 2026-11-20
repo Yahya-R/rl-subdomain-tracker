@@ -2,6 +2,18 @@
 
 ## 2026-11-20
 
+### alignai.co
+- alibaba.portal.alignai.co (74.125.132.121)
+
+### hud.ai
+- data.hud.ai (no DNS)
+- dir.hud.ai (216.150.1.1)
+- dvst.hud.ai (no DNS)
+- rua.hud.ai (216.150.16.1)
+- wagmi.hud.ai (no DNS)
+
+## 2026-11-20
+
 ### uber.com
 - 2277.gcp.uber.com (no DNS)
 - alexle.a.dev.uber.com (no DNS)
