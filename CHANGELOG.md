@@ -1,5 +1,17 @@
 # New subdomains
 
+## 2026-11-21
+
+### mechanize.work
+- runner.mechanize.work (34.36.205.40)
+
+### plato.so
+- coral.plato.so (216.150.1.193)
+
+### uber.com
+- austin-hhr-panel-4o.dev.uber.com (no DNS)
+- kevinbe.dev.uber.com (no DNS)
+
 ## 2026-11-20
 
 ### alignai.co
