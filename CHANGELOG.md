@@ -2,6 +2,20 @@
 
 ## 2026-11-21
 
+### afterquery.com
+- tg.internal.afterquery.com (100.78.57.6)
+
+### datacurve.ai
+- pr-241.mira-machine.datacurve.ai (104.21.20.75)
+
+### uber.com
+- honda-civic-98.dev.uber.com (no DNS)
+- olgac1.dev.uber.com (no DNS)
+- rashmi.dev.uber.com (no DNS)
+- soroush3.dev.uber.com (no DNS)
+
+## 2026-11-21
+
 ### goodstartlabs.com
 - dev-studio.goodstartlabs.com (no DNS)
 - studio.goodstartlabs.com (no DNS)
