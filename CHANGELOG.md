@@ -2,6 +2,26 @@
 
 ## 2026-11-21
 
+### goodstartlabs.com
+- dev-studio.goodstartlabs.com (no DNS)
+- studio.goodstartlabs.com (no DNS)
+
+### micro1.ai
+- stage.agents.micro1.ai (54.235.194.87)
+
+### originator.inc
+- chiron-admin.originator.inc (104.26.9.62)
+
+### uber.com
+- devicetypeq.uber.com (no DNS)
+- guias.mx.dev.uber.com (no DNS)
+- honda-allroad-3g.dev.uber.com (no DNS)
+- porsche.uber.com (no DNS)
+- tesla-ramcharger-1u.dev.uber.com (no DNS)
+- tunay.dev.uber.com (no DNS)
+
+## 2026-11-21
+
 ### mechanize.work
 - runner.mechanize.work (34.36.205.40)
 
