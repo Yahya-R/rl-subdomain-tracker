@@ -1,5 +1,16 @@
 # New subdomains
 
+## 2026-11-22
+
+### scale.com
+- codebases.scale.com (3.222.214.40)
+
+### uber.com
+- cnd.uber.com (104.36.194.121)
+- developere.jaguar-storm-6.dev.uber.com (no DNS)
+- mx-67i.mx.dev.uber.com (no DNS)
+- romaxa3.dev.uber.com (no DNS)
+
 ## 2026-11-21
 
 ### afterquery.com
