@@ -2,6 +2,15 @@
 
 ## 2026-11-22
 
+### uber.com
+- a1759.sptrans.uber.com (no DNS)
+- bobn.dev.uber.com (no DNS)
+- devc.ghcpi.uber.com (no DNS)
+- fairthorpe-turbo-3w.dev.uber.com (no DNS)
+- ip-10-20-129-187o.dev.uber.com (no DNS)
+
+## 2026-11-22
+
 ### scale.com
 - codebases.scale.com (3.222.214.40)
 
