@@ -2,6 +2,15 @@
 
 ## 2026-11-23
 
+### uber.com
+- autodiscover.uber.com (no DNS)
+- eru.uber.com (no DNS)
+- group-rides-web-staging.uber.com (no DNS)
+- integration.uber.com (no DNS)
+- jyu-march-boxi.dev.uber.com (no DNS)
+
+## 2026-11-23
+
 ### hud.ai
 - recruiting.hud.ai (216.150.16.193)
 
