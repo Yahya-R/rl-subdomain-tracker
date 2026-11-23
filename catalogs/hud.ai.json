@@ -1,6 +1,6 @@
 {
  "domain": "hud.ai",
- "live_hosts": 32,
+ "live_hosts": 38,
  "pages": [
   {
    "host": "accounts.hud.ai",
@@ -9,14 +9,14 @@
   {
    "host": "admin.beta.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3D92a76077849b819873b760a0e366528cbbc2d542ea8501370d9abfd6a98c3e4c",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.beta.hud.ai%252F%26nonce%3De613e6efd324c1f1d717d1d0dc41d45442c99ed87fbcdce2d253b0268bdf5fd0",
    "title": "Login \u2013 Vercel",
    "links": []
   },
   {
    "host": "admin.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3D4f7f939e49ccfb7a2047ca1de91f7bf9d28eeb5e90d4e12bf711de42745bd14b",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.hud.ai%252F%26nonce%3D6b1e29679d5c4fc8ac050ee19378f39261f9875b30dcb4e7659cc03d0c368a3d",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -27,7 +27,7 @@
   {
    "host": "admin.staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3D21bda13bd38ea6bbbcebeedcad6fdb90c7ea292715ad96a91256b00eff3d94ed",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fadmin.staging.hud.ai%252F%26nonce%3Dbd570e2aa6d3e7ab431c37b7eed0f7a68923985b4d3382847313846704fbc407",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -66,6 +66,31 @@
    "status": "no response"
   },
   {
+   "host": "data.hud.ai",
+   "status": "ok",
+   "url": "https://datavendor.ai/",
+   "title": "DataVendor | Monetize your data supplyGitHubGitLabBitbucketGitHubX",
+   "links": [
+    {
+     "url": "https://github.com/hud-evals",
+     "kind": "page",
+     "text": "GitHub"
+    },
+    {
+     "url": "https://www.linkedin.com/company/hud-evals/",
+     "kind": "page",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "host": "dir.hud.ai",
+   "status": "ok",
+   "url": "https://dir.hud.ai/sign-in",
+   "title": "Sign in \u00b7 HUD Directory",
+   "links": []
+  },
+  {
    "host": "docs.hud.ai",
    "status": "ok",
    "url": "https://docs.hud.ai/platform/introduction",
@@ -94,9 +119,27 @@
    ]
   },
   {
+   "host": "dvst.hud.ai",
+   "status": "ok",
+   "url": "https://datavendor.ai/",
+   "title": "DataVendor | Monetize your data supplyGitHubGitLabBitbucketGitHubX",
+   "links": [
+    {
+     "url": "https://github.com/hud-evals",
+     "kind": "page",
+     "text": "GitHub"
+    },
+    {
+     "url": "https://www.linkedin.com/company/hud-evals/",
+     "kind": "page",
+     "text": ""
+    }
+   ]
+  },
+  {
    "host": "forge.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3Db8fe773c882ca58995765c3a390647c2c554fdeeab3a9354e095df1ad173ac01",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fforge.hud.ai%252F%26nonce%3D5f0a085501e3e649c9b9d022c2029bdfe2112b5a9d97580d8495f84923c7abea",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -154,8 +197,22 @@
    "status": "no response"
   },
   {
+   "host": "recruiting.hud.ai",
+   "status": "ok",
+   "url": "https://recruiting.hud.ai/",
+   "title": "Recruiting | HUD",
+   "links": []
+  },
+  {
    "host": "rl.hud.ai",
    "status": "no response"
+  },
+  {
+   "host": "rua.hud.ai",
+   "status": "ok",
+   "url": "https://rua.hud.ai/",
+   "title": "rua",
+   "links": []
   },
   {
    "host": "shop.hud.ai",
@@ -164,7 +221,7 @@
   {
    "host": "staging.hud.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3D24b34c0ca0be9e242008374cdfd67438be2741fb1edbd56abbdc30334d0fc278",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.hud.ai%252F%26nonce%3De2f3e395ec3a51045ad0b2232895782869294e314d31b0138360d4313309f148",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -198,6 +255,24 @@
   {
    "host": "vendor.staging.hud.ai",
    "status": "no response"
+  },
+  {
+   "host": "wagmi.hud.ai",
+   "status": "ok",
+   "url": "https://datavendor.ai/",
+   "title": "DataVendor | Monetize your data supplyGitHubGitLabBitbucketGitHubX",
+   "links": [
+    {
+     "url": "https://github.com/hud-evals",
+     "kind": "page",
+     "text": "GitHub"
+    },
+    {
+     "url": "https://www.linkedin.com/company/hud-evals/",
+     "kind": "page",
+     "text": ""
+    }
+   ]
   },
   {
    "host": "www.hud.ai",

@@ -8,14 +8,14 @@ is in `catalogs/<domain>.json`.
 
 - `page` [from sitemap](https://www.abundant.ai/blog/swe-benchmark-state/)
 
-## afterquery.com (4 links from 53 live hosts)
+## afterquery.com (4 links from 54 live hosts)
 
 - `page` [Building a Frontier Legal Evaluation in Partnership with LegoraHow AfterQuery and Legora built the Benchmark for Agentic](https://www.afterquery.com/blog/building-a-frontier-legal-evaluation-in-partnership-with-legora)
 - `page` [from sitemap](https://www.afterquery.com/knowledge/dataset-curation-for-machine-learning)
 - `page` [from sitemap](https://www.afterquery.com/knowledge/evaluation-dataset-design-for-frontier-models)
 - `page` [Leaderboards](https://www.afterquery.com/leaderboard)
 
-## alignai.co (2 links from 17 live hosts)
+## alignai.co (2 links from 18 live hosts)
 
 - `page` [from sitemap](https://alignai.co/evals)
 - `page` [from sitemap](https://alignai.co/request-sample)
@@ -29,10 +29,11 @@ is in `catalogs/<domain>.json`.
 - `page` [Pricing](https://anthromind.com/pricing)
 - `page` [Pricing](https://www.anthromind.com/pricing)
 
-## aptura.ai (2 links from 13 live hosts)
+## aptura.ai (3 links from 13 live hosts)
 
 - `file` [Data partnership briefBoard-ready PDF · 4 pages](https://data.aptura.ai/downloads/aptura-data-partnership-brief.pdf)
 - `page` [Datasets](https://aptura.ai/)
+- `page` [from sitemap](https://aptura.ai/experts/jobs/investment-banking-ai-evaluator-london-44d8b5f7-bbb9-434b-8374-7ea1a9426910)
 
 ## arimlabs.ai (4 links from 12 live hosts)
 
@@ -48,7 +49,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://aviro.ai/benchmarks/c4/rollouts)
 - `page` [Benchmarks](https://www.aviro.ai/benchmarks)
 
-## benchflow.ai (47 links from 158 live hosts)
+## benchflow.ai (48 links from 158 live hosts)
 
 - `hosted` [Paper](https://arxiv.org/abs/2602.12670)
 - `hosted` [Paper](https://arxiv.org/abs/2604.05172)
@@ -96,9 +97,10 @@ is in `catalogs/<domain>.json`.
 - `page` [SimFoundry: Modular and Automated Scene Generation for Policy Learning and EvaluationNVIDIA GEAR Ranawaka, Wong, Pai, et](https://research.nvidia.com/labs/gear/simfoundry)
 - `page` [RoboArena: Distributed Real-World Evaluation of Generalist Robot PoliciesProject A distributed framework for evaluating ](https://robo-arena.github.io/)
 - `page` [01· BenchmarkSkillsBenchDo procedural skills make agents better at real work? 87 tasks, 8 domains.](https://skillsbench.ai)
+- `page` [Leaderboard](https://user-e123b4e2.preview.benchflow.ai/)
 - `page` [05· ScienceFrontierPhysicsEvaluating agents for end-to-end frontier physics research.](https://www.benchflow.ai/frontierphysics)
 
-## bespokelabs.ai (12 links from 32 live hosts)
+## bespokelabs.ai (13 links from 32 live hosts)
 
 - `file` [ck-bespoke-tr.pdf](https://files.bespokelabs.ai/ck-bespoke-tr.pdf)
 - `hosted` [Read the paper](https://arxiv.org/abs/2507.19457)
@@ -107,6 +109,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Benchmarks](https://benchmarks.bespokelabs.ai)
 - `page` [Benchmarks](https://benchmarks.bespokelabs.ai/)
 - `page` [AutoResearchExam Measuring agents' ability to improve and generalize on open ended ML research tasks.](https://benchmarks.bespokelabs.ai/autoresearchexam/)
+- `page` [Multi Agent Coordination Bench Measuring how well teams of agents coordinate on twelve natively multi-agent tasks.](https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/)
 - `page` [from sitemap](https://bespokelabs.ai/blog/announcing-winners-of-reasoning-datasets-competition)
 - `page` [from sitemap](https://bespokelabs.ai/blog/bespoke-labs-raises-40m-to-build-environments-that-enable-reliable-agents)
 - `page` [from sitemap](https://bespokelabs.ai/blog/measuring-reasoning-with-evalchemy)
@@ -129,7 +132,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Request Catalog .button .button-magnit { opacity: 0; transition: opacity 0.4s ease; } .button:hover .button-magnit { opa](https://collinear.ai/book-a-demo)
 - `page` [from sitemap](https://www.collinear.ai/request-catalog)
 
-## cua.ai (49 links from 29 live hosts)
+## cua.ai (49 links from 31 live hosts)
 
 - `file` [Cua Spaces: combine all your computers into one supercomputer](https://github.com/NVIDIA/NemoClaw/blob/HEAD/agents/openclaw/openclaw-runtime/package-lock.json)
 - `hosted` [Nous Research](https://github.com/NousResearch/hermes-agent/blob/HEAD/tools/computer_use/backend.py)
@@ -181,14 +184,14 @@ is in `catalogs/<domain>.json`.
 - `page` [Windows](https://spaces-origin.cua.ai/download/windows)
 - `page` [See pricing](https://spaces-origin.cua.ai/pricing)
 
-## datacurve.ai (4 links from 435 live hosts)
+## datacurve.ai (4 links from 436 live hosts)
 
 - `hosted` [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
 - `hosted` [GitHub](https://github.com/datacurve-ai/deep-swe)
 - `page` [IntroducingDeepSWE benchmark](https://deepswe.datacurve.ai/)
 - `page` [Read why](https://deepswe.datacurve.ai/blog/deepswe)
 
-## deeptune.ai (0 links from 11 live hosts)
+## deeptune.ai (0 links from 10 live hosts)
 
 
 ## deeptune.com (0 links from 5 live hosts)
@@ -235,11 +238,12 @@ is in `catalogs/<domain>.json`.
 - `hosted` [Llama 3](https://arxiv.org/abs/2407.21783)
 - `page` [9 April 2026ResearchIntroducing KellyBenchA benchmark for long-horizon sequential decision making. Models struggle to be](https://www.gr.inc/releases/introducing-kellybench)
 
-## halluminate.ai (5 links from 34 live hosts)
+## halluminate.ai (6 links from 34 live hosts)
 
 - `file` [Combatting Modern Slavery (PDF)](https://delta.halluminate.ai/modern-slavery.pdf)
 - `hosted` [how this works →](https://github.com/Halluminate/halluminate/tree/main/incidents)
 - `page` [from sitemap](https://halluminate.ai/blog/benchmark)
+- `page` [from sitemap](https://halluminate.ai/blog/qa-benchmark)
 - `page` [Our latest benchmark →](https://www.halluminate.ai/)
 - `page` [Read the full benchmark →](https://www.halluminate.ai/blog/due-diligence-bench)
 
@@ -247,12 +251,13 @@ is in `catalogs/<domain>.json`.
 
 - `page` [Member of Technical Staff - Environments & Post-Training](https://jobs.ashbyhq.com/hillclimb/a6d1b28d-0114-4ada-bcaf-743949129ad6)
 
-## hud.ai (18 links from 32 live hosts)
+## hud.ai (19 links from 38 live hosts)
 
 - `hosted` [hud-evals/hud-python](https://github.com/hud-evals/hud-python)
 - `page` [Environments](https://docs.hud.ai/platform/environments)
 - `page` [Evaluations](https://docs.hud.ai/platform/evaluations)
 - `page` [Evaluations(opens in new tab)](https://docs.hud.ai/v6/core/training)
+- `page` [GitHub](https://github.com/hud-evals)
 - `page` [Environments](https://www.hud.ai/environments)
 - `page` [from sitemap](https://www.hud.ai/guides/best-agent-eval-frameworks)
 - `page` [from sitemap](https://www.hud.ai/guides/best-platforms-publishing-rl-environments-model-labs)
@@ -265,7 +270,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.hud.ai/research/debugging-rl-environment)
 - `page` [from sitemap](https://www.hud.ai/research/evaluating-robot-models-in-the-cloud)
 - `page` [from sitemap](https://www.hud.ai/research/recon-benchmark-researching-individuals)
-- `page` [HUD — Build RL environments | HUDGitHubXDiscord](https://www.linkedin.com/company/hud-evals/)
+- `page` [DataVendor | Monetize your data supplyGitHubGitLabBitbucketGitHubX](https://www.linkedin.com/company/hud-evals/)
 - `page` [X](https://x.com/hud_evals)
 
 ## idler.ai (1 links from 10 live hosts)
@@ -275,14 +280,14 @@ is in `catalogs/<domain>.json`.
 ## incalmo.ai (0 links from 4 live hosts)
 
 
-## joinhandshake.com (93 links from 1306 live hosts)
+## joinhandshake.com (91 links from 1306 live hosts)
 
 - `hosted` [Share feedback](https://docs.google.com/forms/d/e/1FAIpQLSeq4OZ8O-5gyRWQKjrI6AL-_O3Pvy6_6x6-0e8U956JxUd-Vg/viewform?usp=header)
 - `page` [Back to Catalog](https://academy.joinhandshake.com/)
 - `page` [Course Catalog](https://academy.joinhandshake.com/page/all-courses)
 - `page` [Insights & Reporting Learn to leverage the Insights tools within Handshake and showcase your work using data and key out](https://academy.joinhandshake.com/path/insights-reporting)
 - `page` [Quick downloads Learn how to use quick download reports in Handshake.FREE 0-30 min Courses Insights and reporting](https://academy.joinhandshake.com/quick-downloads)
-- `page` [AI Evaluation SpecialistUp to $17/hrBachelor's · Master's · Ph.Ds · Postdocs](https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist)
+- `page` [AI Evaluation SpecialistUp to $17/hrBachelor's · Master's · Ph.Ds · Postdocs](https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist/)
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/bentley-university-case-study/)
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/category/case-studies/)
 - `page` [from sitemap](https://joinhandshake.com/blog/career-centers/kenyon-college-student-engagement-case-study/)
@@ -299,12 +304,10 @@ is in `catalogs/<domain>.json`.
 - `page` [Weaknesses for job interviews: 12 examples and sample answers for studentsPick a real weakness, show what you're doing a](https://joinhandshake.com/blog/students/weaknesses-for-job-interviews/)
 - `page` [from sitemap](https://joinhandshake.com/case-studies/carnegie-mellon-university-implementation/)
 - `page` [from sitemap](https://joinhandshake.com/case-studies/university-of-michigan-career-fairs/)
-- `page` [from sitemap](https://joinhandshake.com/employers/benchmark-report/)
 - `page` [from sitemap](https://joinhandshake.com/employers/competitive-benchmark-request/)
 - `page` [Pricing](https://joinhandshake.com/employers/pricing/)
 - `page` [Pricing](https://joinhandshake.com/employers/products/premium/compare/)
 - `page` [from sitemap](https://joinhandshake.com/employers/resources/codex-creator-challenge-ai-showcase/)
-- `page` [from sitemap](https://joinhandshake.com/employers/resources/collection/whitepaper/)
 - `page` [from sitemap](https://joinhandshake.com/find-jobs/boston-ma/environmental/)
 - `page` [from sitemap](https://joinhandshake.com/find-jobs/new-york-ny/environmental/)
 - `page` [from sitemap](https://joinhandshake.com/find-jobs/role/environmental/)
@@ -385,7 +388,7 @@ is in `catalogs/<domain>.json`.
 - `page` [packaged](https://forgejo.org/download)
 - `page` [run the binary](https://forgejo.org/download/)
 
-## markovstudios.com (6 links from 4 live hosts)
+## markovstudios.com (7 links from 4 live hosts)
 
 - `page` [Datasets](https://www.markovstudios.com/datasets)
 - `page` [from sitemap](https://www.markovstudios.com/datasets/cad-environments)
@@ -393,17 +396,17 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.markovstudios.com/datasets/general-phone-use)
 - `page` [Open sourceFree to browse835,530 downloads on Hugging Face. You can view every dataset here.Explore open source→](https://www.markovstudios.com/open-source)
 - `page` [Benchmark23 Jul 2026Introducing AutoCAD BenchFifty precise AutoCAD tasks done through the screen alone. The best model f](https://www.markovstudios.com/research/autocad-bench)
+- `page` [Benchmark17 Nov 2026Introducing SolidWorks Bench73 complete machines, from a drawing package to a mated SolidWorks assem](https://www.markovstudios.com/research/solidworks-bench)
 
-## mechanize.work (2 links from 13 live hosts)
+## mechanize.work (2 links from 15 live hosts)
 
 - `page` [view more here](https://gbaeval.com/)
 - `page` [from sitemap](https://www.mechanize.work/technical-blog/introducing-gba-eval/)
 
-## mercor.com (153 links from 241 live hosts)
+## mercor.com (155 links from 241 live hosts)
 
 - `hosted` [Paper](https://arxiv.org/abs/2603.04370)
 - `hosted` [Paper](https://arxiv.org/abs/2607.27189)
-- `hosted` [Code](https://github.com/Mercor-Intelligence/apex-swe)
 - `hosted` [Code](https://github.com/google-research/ple)
 - `hosted` [Code](https://github.com/harveyai/harvey-labs)
 - `hosted` [Code](https://github.com/sierra-research/tau2-bench)
@@ -421,7 +424,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.mercor.com/apex/apex-agents-leaderboard/corporate-lawyer-agent/)
 - `page` [from sitemap](https://www.mercor.com/apex/apex-agents-leaderboard/investment-banking-analyst-agent/)
 - `page` [from sitemap](https://www.mercor.com/apex/apex-agents-leaderboard/management-consultant-agent/)
-- `page` [Leaderboard](https://www.mercor.com/apex/apex-swe-leaderboard/)
+- `page` [APEX-SWE](https://www.mercor.com/apex/apex-swe-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/apex/apex-swe-leaderboard/integration-swe/)
 - `page` [from sitemap](https://www.mercor.com/apex/apex-swe-leaderboard/observability-swe/)
 - `page` [from sitemap](https://www.mercor.com/apex/apex-v1-leaderboard/)
@@ -512,12 +515,14 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-2-1-leaderboard/sample-task/)
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-4-0-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/apex/oss-benchmarks/oss-terminal-bench-4-0-leaderboard/sample-task/)
-- `page` [from sitemap](https://www.mercor.com/apex/partner-benchmarks/frontiercode-leaderboard/)
+- `page` [Leaderboard](https://www.mercor.com/apex/partner-benchmarks/frontiercode-leaderboard/)
 - `page` [Leaderboard](https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/sample-task/)
 - `page` [Leaderboard](https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/)
 - `page` [Leaderboard](https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/sample-task/)
+- `page` [from sitemap](https://www.mercor.com/apex/partner-benchmarks/thrive-individual-tax-leaderboard/)
+- `page` [from sitemap](https://www.mercor.com/apex/partner-benchmarks/thrive-it-helpdesk-leaderboard/)
 - `page` [from sitemap](https://www.mercor.com/blog/agent-eval-systems/)
 - `page` [Aug 8, 2026Part 3: When AI Strengthens the Investment ThesisEnterprise](https://www.mercor.com/blog/ai-due-diligence-case-study/)
 - `page` [Aug 27, 2026Your AI should earn underwriting authority the way a new underwriter doesEnterprise](https://www.mercor.com/blog/ai-underwriting-evals/)
@@ -546,17 +551,17 @@ is in `catalogs/<domain>.json`.
 - `page` [Evaluate AISee how AI performs on valuable work](https://www.mercor.com:443/apex/)
 - `page` [Leaderboard](https://www.mercor.com:443/apex/apex-accounting-leaderboard/)
 - `page` [APEX-Agents](https://www.mercor.com:443/apex/apex-agents-leaderboard/)
-- `page` [Leaderboard](https://www.mercor.com:443/apex/apex-swe-leaderboard/)
+- `page` [APEX-SWE](https://www.mercor.com:443/apex/apex-swe-leaderboard/)
+- `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/frontiercode-leaderboard/)
 - `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/harvey-lab-leaderboard/)
 - `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/ple-bench-leaderboard/)
-- `page` [Leaderboard](https://www.mercor.com:443/apex/partner-benchmarks/tau-3-banking-leaderboard/)
-- `page` [Aug 8, 2026Part 3: When AI Strengthens the Investment ThesisEnterprise](https://www.mercor.com:443/blog/ai-due-diligence-case-study/)
-- …and 3 more in `catalogs/mercor.com.json`
+- …and 5 more in `catalogs/mercor.com.json`
 
-## metaphi.ai (12 links from 15 live hosts)
+## metaphi.ai (13 links from 16 live hosts)
 
 - `hosted` [Paper ↗](https://arxiv.org/abs/2603.22744)
 - `hosted` [GitHub ↗](https://github.com/metaphi-labs/lh-bench)
+- `page` [CodeVal](https://docs.metaphi.ai/kennet/data-licensing/codeval)
 - `page` [Skip to content](https://metaphi.ai/benchmarks)
 - `page` [CompanyGym](https://metaphi.ai/benchmarks/companygym)
 - `page` [from sitemap](https://metaphi.ai/benchmarks/companygym/memo)
@@ -568,7 +573,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://metaphi.ai/essays/static-benchmarks)
 - `page` [RL environments](https://metaphi.ai/ots)
 
-## micro1.ai (36 links from 200 live hosts)
+## micro1.ai (37 links from 201 live hosts)
 
 - `page` [from sitemap](https://www.micro1.ai/benchmark/cortex-retrieval-bench)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/crosby-micro1-redlinebench)
@@ -579,9 +584,10 @@ is in `catalogs/<domain>.json`.
 - `page` [Medical IndexThe micro1 Medical Index brings our medical benchmarks together in one place.Index](https://www.micro1.ai/benchmark/medical-index)
 - `page` [MissionReportThe standard for evaluating frontier models on government status reporting](https://www.micro1.ai/benchmark/mission-report)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/pharma-bench)
+- `page` [from sitemap](https://www.micro1.ai/benchmark/real-work-decision)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/realm-financial)
 - `page` [from sitemap](https://www.micro1.ai/benchmark/realm-pathology)
-- `page` [from sitemap](https://www.micro1.ai/benchmark/wellness-bench)
+- `page` [from sitemap](https://www.micro1.ai/blog/every-task-checked-against-every-public-benchmark)
 - `page` [from sitemap](https://www.micro1.ai/blog/healthcare-ai-evaluation)
 - `page` [from sitemap](https://www.micro1.ai/blog/retrieval-gap-in-financial-ai)
 - `page` [from sitemap](https://www.micro1.ai/blog/why-the-ai-evaluation-layer-is-your-real-ip)
@@ -611,12 +617,13 @@ is in `catalogs/<domain>.json`.
 
 - `page` [from sitemap](https://normal.ai/leaderboard/cad-arena)
 
-## ooakdata.com (2 links from 22 live hosts)
+## ooakdata.com (3 links from 28 live hosts)
 
-- `page` [from sitemap](https://ooakdata.com/research/why-synthetic-benchmarks-are-holding-ai-back)
+- `page` [Mar 18, 2026 · 10 min read Why synthetic benchmarks are holding AI back The AI industry over-indexes on synthetic benchm](https://ooakdata.com/research/why-synthetic-benchmarks-are-holding-ai-back)
 - `page` [ooakdata OOAK samples](https://samples.ooakdata.com/)
+- `page` [Mar 18, 2026 · 10 min read Why synthetic benchmarks are holding AI back The AI industry over-indexes on synthetic benchm](https://www.ooakdata.com/research/why-synthetic-benchmarks-are-holding-ai-back)
 
-## originator.inc (0 links from 69 live hosts)
+## originator.inc (0 links from 71 live hosts)
 
 
 ## pareto.ai (3 links from 44 live hosts)
@@ -625,7 +632,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://pareto.ai/blog/the-ultimate-guide-to-retrieval-augmented-generation-rag)
 - `page` [LEAPBench Evaluating how efficiently frontier LLMs learn across optimization tasks. Explore results→ /leapbench](https://research.pareto.ai/leapbench)
 
-## parsewave.ai (15 links from 26 live hosts)
+## parsewave.ai (15 links from 27 live hosts)
 
 - `page` [//ADatasetsData](https://beta.parsewave.ai/)
 - `page` [The same QC on a public benchmark: the OSWorld 2.0 audit →](https://beta.parsewave.ai/benchmark-research/osworld-v2)
@@ -643,7 +650,7 @@ is in `catalogs/<domain>.json`.
 - `page` [[ Request a sampleSample ]](https://parsewave.ai/contact)
 - `page` [Samples](https://parsewave.ai/samples)
 
-## patronus.ai (31 links from 24 live hosts)
+## patronus.ai (34 links from 27 live hosts)
 
 - `hosted` [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
 - `hosted` [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
@@ -670,12 +677,15 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://www.patronus.ai/resources/coding-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/computer-use-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/financial-llm-benchmarks)
+- `page` [from sitemap](https://www.patronus.ai/resources/gui-agent-datasets)
 - `page` [from sitemap](https://www.patronus.ai/resources/how-to-evaluate-rl-environments)
 - `page` [from sitemap](https://www.patronus.ai/resources/knowledge-work-rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-companies)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-companies-dataset)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-market-map)
 - `page` [from sitemap](https://www.patronus.ai/resources/rl-environment-startups)
+- `page` [from sitemap](https://www.patronus.ai/resources/rl-environments-faq)
+- `page` [from sitemap](https://www.patronus.ai/resources/world-model-benchmarks)
 
 ## phinity.ai (0 links from 2 live hosts)
 
@@ -840,11 +850,13 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://refresh.dev/one-pager)
 - `page` [Explore our environments](https://www.refresh.dev/)
 
-## risedatalabs.com (46 links from 23 live hosts)
+## risedatalabs.com (48 links from 24 live hosts)
 
-- `page` [Healthcare Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/healthcare-expert-%E2%80%94-ai-training-evaluation-x5d4n)
-- `page` [Legal & Paralegal Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-0qn42)
-- `page` [Finance Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-cmov7)
+- `page` [Advanced Sciences PhD Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/advanced-sciences-phd-expert-%E2%80%94-ai-training-evaluation-sszim)
+- `page` [Management Consulting Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/management-consulting-expert-%E2%80%94-ai-training-evaluation-am20m)
+- `page` [Product & UX/UI Design Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/product-ux%2Fui-design-expert-%E2%80%94-ai-training-evaluation-60bbs)
+- `page` [Radiologist — Medical Imaging AI Evaluation](https://experts.risedatalabs.com/jobs/radiologist-%E2%80%94-medical-imaging-ai-evaluation-sev0q)
+- `page` [Sales Operations Expert — AI Training & Evaluation](https://experts.risedatalabs.com/jobs/sales-operations-expert-%E2%80%94-ai-training-evaluation-4qw64)
 - `page` [from sitemap](https://risedatalabs.com/benchmarks)
 - `page` [from sitemap](https://risedatalabs.com/benchmarks/browsecomp)
 - `page` [from sitemap](https://risedatalabs.com/benchmarks/deepsearchqa)
@@ -889,7 +901,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://risedatalabs.com/solutions/model-evaluation-benchmarking)
 - `page` [from sitemap](https://risedatalabs.com/solutions/rl-environment)
 
-## scale.com (110 links from 994 live hosts)
+## scale.com (106 links from 995 live hosts)
 
 - `file` [Logo files](https://brand.scale.com/scale-logos.zip)
 - `hosted` [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -914,14 +926,11 @@ is in `catalogs/<domain>.json`.
 - `page` [Environments](https://docs.gym.scale.com/environments/overview)
 - `page` [Benchmark](https://docs.nucleus.scale.com/en/latest/api/nucleus/index.html)
 - `page` [EvaluationCriterion](https://docs.nucleus.scale.com/en/latest/api/nucleus/validate/index.html)
-- `page` [11.05.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY · 11.05.2026San F](https://job-boards.greenhouse.io/scaleai/jobs/4728014005)
-- `page` [Physical AIOct 29, 2026FineART: Scale AI’s First Open-Source Robotics Dataset and ModelWe’re releasing FineART-VLA, an o](https://labs.scale.com/blog/fineart)
+- `page` [11.19.2026Machine Learning Research Scientist, EvaluationsSan Francisco, CA; Seattle, WA; New York, NY · 11.19.2026San F](https://job-boards.greenhouse.io/scaleai/jobs/4728014005)
 - `page` [[LEADERBOARDS]](https://labs.scale.com/leaderboard)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/adversarial_robustness)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/arabic)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/audiomc)
-- `page` [from sitemap](https://labs.scale.com/leaderboard/audiomc-audio)
-- `page` [from sitemap](https://labs.scale.com/leaderboard/audiomc-text)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/chinese)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/coding)
 - `page` [DistressBench](https://labs.scale.com/leaderboard/distressbench)
@@ -943,8 +952,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://labs.scale.com/leaderboard/mcp_atlas)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/multichallenge)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/multinrc)
-- `page` [from sitemap](https://labs.scale.com/leaderboard/prbench-finance)
-- `page` [from sitemap](https://labs.scale.com/leaderboard/prbench-legal)
+- `page` [from sitemap](https://labs.scale.com/leaderboard/prbench)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/propensitybench)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/rli)
 - `page` [from sitemap](https://labs.scale.com/leaderboard/scipredict)
@@ -1092,7 +1100,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Get started](https://docs.snorkel.ai/docs/26.7/user-guide/evaluation/evaluation-workflow-overview)
 - `page` [Dataset on Harbor Hub](https://hub.harborframework.com/datasets/snorkel-ai/senior-swe-bench-v2026.06/latest)
 - `page` [Leaderboards(opens in a new tab)](https://leaderboard.snorkel.ai/)
-- `page` [REPORTSSecurity Whitepaper](https://security.snorkel.ai/?itemName=data_security&itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click)
+- `page` [REPORTSSecurity Whitepaper](https://security.snorkel.ai/?itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click)
 - `page` [from sitemap](https://snorkel.ai/agentic-coding-benchmarks/)
 - `page` [from sitemap](https://snorkel.ai/arc-agi-3-interactive-reasoning-benchmark/)
 - `page` [from sitemap](https://snorkel.ai/blog/10-ks-information-extraction-case-studies/)
@@ -1159,7 +1167,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Agentic Coding](https://snorkel.ai/leaderboard/?topic=agentic-coding)
 - …and 98 more in `catalogs/snorkel.ai.json`
 
-## surgehq.ai (37 links from 690 live hosts)
+## surgehq.ai (38 links from 690 live hosts)
 
 - `page` [from sitemap](https://surgehq.ai/benchmark-license-terms)
 - `page` [benchmarks](https://surgehq.ai/benchmarks)
@@ -1168,7 +1176,8 @@ is in `catalogs/<domain>.json`.
 - `page` [ComplexConstraints](https://surgehq.ai/benchmarks/complex-constraints)
 - `page` [DAYJOB: Finance](https://surgehq.ai/benchmarks/dayjob-finance)
 - `page` [DAYJOB: Healthcare](https://surgehq.ai/benchmarks/dayjob-healthcare)
-- `page` [DAYJOB: Tax A benchmark for AI tax agents .hire-banner{transition-property:color} .hire-banner-arrow{transition-duration](https://surgehq.ai/benchmarks/dayjob-tax)
+- `page` [DAYJOB: Law Can AI do a lawyer’s job? .hire-banner{transition-property:color} .hire-banner-arrow{transition-duration:.35](https://surgehq.ai/benchmarks/dayjob-law)
+- `page` [DAYJOB: TaxNEW](https://surgehq.ai/benchmarks/dayjob-tax)
 - `page` [EnterpriseBench: CoreCraft](https://surgehq.ai/benchmarks/enterprisebench-corecraft)
 - `page` [GDP.pdf](https://surgehq.ai/benchmarks/gdp-pdf)
 - `page` [GDP.xlsx](https://surgehq.ai/benchmarks/gdp-xlsx)
@@ -1201,16 +1210,16 @@ is in `catalogs/<domain>.json`.
 
 ## symbal.ai (5 links from 25 live hosts)
 
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=0327898748e98b71f7be220e456785e29fedc80a74ebae9a5cb6bee498866959.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMmxsbS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybm5tT0x5MkJndENpZHRtSUklMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjI3YTU5NTE2YWI5OTYzYTU2MTc5ZmFjNmQxNmE1NzYzYjQ1NmE5NTA5NDRmZWFhYjgzOWZjOGFjZDFhNDVhOWY3JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyOWI1ZDc2YjctMTk2Ni00MWM0LWE5N2MtZTI1MjZkNWUyZmQ5JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=498a6d2ada1eaaf1a44e7a4dfdae8d87287c92d40ca9129efd75c0a4ad0d4ae6.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MSUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnRhc2stZmFjdG9yeS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybm1VVUxkelN1QWlZVk55Z0clMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjI0ODE2YWNlN2EwNWJmZGMyYjJlYWEyNWMxN2IyY2Q4MWMyMGY0ZGNhMTRjMjVlNDA0NGJjNTZmMmE0YzA3MWI1JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYTZiMzYzMjktMmE0OS00NzM1LTg0OTctZDc3NjE2MThlZDc2JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
-- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=db402ab283ed0bdd8ac0b2fad608e388d629c3d90116a86fc70ec3730040e9d6.JTdCJTIyaWF0JTIyJTNBMTc5NDg0Njg5MCUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnBsYXRmb3JtLmRldi5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybmRDdE81ZGEzcGN5clpDdm4lMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJlYzBiMGNiY2RjNDhjYmY1MjllZmM3OTFjODExZmZlNTQ3YjgyNWYzZmY2YzA0N2JkNzAyNDlkNzE1ZDg3ZDk4JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyYzJlYjY3NGItY2JiNy00MzUwLTg1ZTktOGQzMzkzN2NmY2IxJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=0ba627c7d661c931a8f63f0692b5a451204d112c1120fa19ae92d622545e5699.JTdCJTIyaWF0JTIyJTNBMTc5NTQ2MDAyNSUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnBsYXRmb3JtLmRldi5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjhjZmRjMDIwYzBhMzE0ZmQ5NDJjZjExZmJjZDBhNjhjZjA2NzIwNWM5ZGI3NTdlZWRkNmEyMDUwM2JkOWJjMWMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybjdEWjd6dWJpNG9rVG5tMlQlMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjIxMzY0ZjUyODFhYTVlNzgyYzY3ZGFmYTVkMzExZmZlZjgxMGMwZWFjN2RhZjAyMTczOWQ4NDRlNWYxZGI1NDkxJTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyM2VkYzQ0ZTItMDI3NS00NGMxLWEyYmEtYmQzMzVkNTQ5M2NlJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=57affcb00cf83b8bba8e42dafd13746ef37a40c65bf574467cf69d30e33c0e87.JTdCJTIyaWF0JTIyJTNBMTc5NTQ2MDAyNSUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMmxsbS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjFjYTFlZTZlNzY4NjZjODIzNjBlOWNhNTdjZDlkYTZkZTkyMGI2MGMyM2UyMDNjN2UwYjZjY2NjMjgyNzY0YTMlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIyblBIWGdxYTI3eTA5dVRWaVolMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjIzMjFkNjU3N2M1NDFlY2NmMmEyZmZiNWM1YzQwYjNlNzk5ZjM5ZTc5MzM1M2JkOWU1ODRhM2MxNmMxYmE1N2Q2JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyODVhMjU5ZGEtZWZiZC00Njg1LWJjYTctMDVjNDk5N2UxZTJhJTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
+- `hosted` [GitHub ・ GitHub](https://github.com/login/oauth/authorize?client_id=Ov23liwyM25j90wmFeGx&redirect_uri=https%3A%2F%2Fsymbal.cloudflareaccess.com%2Fcdn-cgi%2Faccess%2Fcallback&response_type=code&scope=user%3Aemail%2Cread%3Aorg&state=68003cad3c0de54b05813652d86171ccdbde00389bcc219d69a2dc58c70c7f77.JTdCJTIyaWF0JTIyJTNBMTc5NTQ2MDAyNiUyQyUyMmF1dGhEb21haW4lMjIlM0ElMjJzeW1iYWwuY2xvdWRmbGFyZWFjY2Vzcy5jb20lMjIlMkMlMjJob3N0bmFtZSUyMiUzQSUyMnRhc2stZmFjdG9yeS5zeW1iYWwuYWklMjIlMkMlMjJyZWRpcmVjdFVSTCUyMiUzQSUyMiUyRiUyMiUyQyUyMmF1ZCUyMiUzQSUyMjYzOTg0NDRjMzJhYjQ1OWNiMzMxOTM5Y2NkNTcwNTRmYTA3MDE5ZmQxZWNmMGRmYWZiZGQwYzE5NzRlNTFhNGQlMjIlMkMlMjJpc1NhbWVTaXRlTm9uZUNvbXBhdGlibGUlMjIlM0F0cnVlJTJDJTIyaXNJRFBUZXN0JTIyJTNBZmFsc2UlMkMlMjJpc1JlZnJlc2glMjIlM0FmYWxzZSUyQyUyMm5vbmNlJTIyJTNBJTIybnEwTnBtcm9zRFVvWnJtSW0lMjIlMkMlMjJpZHBJZCUyMiUzQSUyMmNlOGE2ZWE5LTc5YmUtNGFjOS05ZTc0LTk5MDE1N2UyNDhmNCUyMiUyQyUyMnNlcnZpY2VfdG9rZW5fc3RhdHVzJTIyJTNBZmFsc2UlMkMlMjJhdXRoX3N0YXR1cyUyMiUzQSUyMk5PTkUlMjIlMkMlMjJpc193YXJwJTIyJTNBZmFsc2UlMkMlMjJpc19nYXRld2F5JTIyJTNBZmFsc2UlMkMlMjJtdGxzX2F1dGglMjIlM0ElN0IlMjJjZXJ0X2lzc3Vlcl9kbiUyMiUzQSUyMiUyMiUyQyUyMmNlcnRfc2VyaWFsJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9pc3N1ZXJfc2tpJTIyJTNBJTIyJTIyJTJDJTIyY2VydF9wcmVzZW50ZWQlMjIlM0FmYWxzZSUyQyUyMmNvbW1vbl9uYW1lJTIyJTNBJTIyJTIyJTJDJTIyYXV0aF9zdGF0dXMlMjIlM0ElMjJOT05FJTIyJTdEJTJDJTIyYXBwU2Vzc2lvbkhhc2glMjIlM0ElMjJiYTEwYWFiNjA0MjQ2NWMyMjYyZjcyMzNhZWFiOTQ5YTljYjZlMWFiZjAwMTA0YWJhOTVhYjQyNzNiOGNkZGU0JTIyJTJDJTIyYXR0ZW1wdElkJTIyJTNBJTIyNzFiZWRhODUtNGFkZC00N2IzLWFhOWEtYmZmNjQ4MzI3ZmQ4JTIyJTJDJTIyYXR0ZW1wdFJlcHJvbXB0JTIyJTNBZmFsc2UlN0Q%253D)
 - `page` [Analytics View reports and analytics](https://dataset-collection-qa.symbal.ai/analytics)
 - `page` [QA Tasks Review and manage transcript tasks](https://dataset-collection-qa.symbal.ai/qa)
 
 ## tacitlabs.co (0 links from 2 live hosts)
 
 
-## tastelabs.com (10 links from 77 live hosts)
+## tastelabs.com (12 links from 77 live hosts)
 
 - `file` [/board.json](https://status.hdp.staging.tastelabs.com/board.json?minutes=120)
 - `file` [/board.json](https://status.hdp.tastelabs.com/board.json?minutes=120)
@@ -1218,15 +1227,17 @@ is in `catalogs/<domain>.json`.
 - `file` [/board.json](https://status.rle.tastelabs.com/board.json?minutes=120)
 - `file` [/board.json](https://status.rle.tastelabs.com:443/board.json?minutes=120)
 - `hosted` [GitHub](https://github.com/dubinc/dub)
+- `page` [CASE STUDY](https://dub.co/customers/efficient?utm_source=Custom+Domain&utm_medium=Welcome+Page&utm_campaign=apply.tastelabs.com&utm_content=efficient)
+- `page` [CASE STUDY](https://dub.co/customers/product-hunt?utm_source=Custom+Domain&utm_medium=Welcome+Page&utm_campaign=apply.tastelabs.com&utm_content=product-hunt)
+- `page` [CASE STUDY](https://dub.co/customers/raycast?utm_source=Custom+Domain&utm_medium=Welcome+Page&utm_campaign=apply.tastelabs.com&utm_content=raycast)
 - `page` [Pricing](https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Footer&utm_campaign=apply.tastelabs.com&utm_content=Pricing)
 - `page` [Pricing](https://dub.co/pricing?utm_source=Custom+Domain&utm_medium=Navbar&utm_campaign=apply.tastelabs.com&utm_content=Pricing)
-- `page` [Case StudyProduct](https://tastelabs.com/cases/general-intelligence-company)
 - `page` [AI Council SF 2026The World Is Not Enough: RL’s Environment ProblemExplore](https://www.youtube.com/watch?v=WDDwOsY9rw8&list=PLAesBe-zAQmHnJk60Oup93ccfAwo7Jv4r&index=15)
 
 ## thetasoftware.com (0 links from 3 live hosts)
 
 
-## trajectorylabs.com (8 links from 6 live hosts)
+## trajectorylabs.com (9 links from 6 live hosts)
 
 - `file` [View system card](https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf)
 - `file` [View safety report](https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf)
@@ -1236,8 +1247,9 @@ is in `catalogs/<domain>.json`.
 - `file` [View system card](https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf)
 - `page` [Evals Lead, AI Red TeamingFull-time · Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/46c81b28-b2c7-4f2b-a1d3-4445868570fc)
 - `page` [Head of EvalsFull-time · Berkeley, CA / Remote](https://jobs.ashbyhq.com/trajectory-labs/ba756ba4-424b-4f2c-a8f4-8f0ae1a7ee75)
+- `page` [from sitemap](https://www.trajectorylabs.com/blog/introducing-the-tl-ipi-benchmark)
 
-## turing.com (29 links from 1095 live hosts)
+## turing.com (29 links from 1059 live hosts)
 
 - `hosted` [View guidelines](https://docs.google.com/document/d/1jXCkAkoHbz-MOdH_RVLvRNP6V6d3o6S99LJiUmmhxY4/edit?usp=sharing)
 - `page` [Agentic Environments](https://agentic.turing.com/)
@@ -1269,9 +1281,8 @@ is in `catalogs/<domain>.json`.
 - `page` [Off-The-Shelf Datasets](https://www.turing.com/frontier-ai/datasets)
 - `page` [RL Environments](https://www.turing.com/frontier-ai/rl-environments)
 
-## uber.com (159 links from 658 live hosts)
+## uber.com (159 links from 661 live hosts)
 
-- `file` [Read more](https://insights.uberfreight.com/hubfs/UberFreight_Market_Update_Report.pdf)
 - `file` [here](https://tb-static.uber.com/prod/udam-assets/22e1d5ed-04ec-54cd-ab11-dafb9f37a68f.pdf)
 - `file` [here](https://tb-static.uber.com/prod/udam-assets/6dc1de13-23b5-5fd1-bdd2-34fd90fa3607.pdf)
 - `file` [here](https://tb-static.uber.com/prod/udam-assets/7217de23-9e1d-5c8b-a078-6baef6740af5.pdf)
@@ -1375,9 +1386,9 @@ is in `catalogs/<domain>.json`.
 - `hosted` [2,071 Commits](https://github.com/uber/jaeger/commits/main/)
 - `hosted` [Custom properties](https://github.com/uber/jaeger/custom-properties)
 - `hosted` [4 forks](https://github.com/uber/jaeger/forks)
+- `hosted` [Insights](https://github.com/uber/jaeger/insights)
 - `hosted` [Projects](https://github.com/uber/jaeger/projects)
 - `hosted` [Pull requests](https://github.com/uber/jaeger/pulls)
-- `hosted` [Insights](https://github.com/uber/jaeger/pulse)
 - `hosted` [Security and quality](https://github.com/uber/jaeger/security)
 - `hosted` [Tags](https://github.com/uber/jaeger/tags)
 - `hosted` [.github](https://github.com/uber/jaeger/tree/main/.github)
@@ -1408,6 +1419,7 @@ is in `catalogs/<domain>.json`.
 - `page` [Download the Driver app](https://earn.sng.link/A3ir4p/mf0l?_dl=uberdriver%3A%2F%2F&_smtype=3&pcn=uber-com-homepage-block&mvid=[marketing-visitor-id])
 - `page` [Pricing](https://github.com/pricing)
 - `page` [most requested data](https://help.uber.com/riders/article/whats-in-your-data-download?nodeId=3d476006-87a4-4404-ac1e-216825414e05)
+- `page` [Pricing](https://help.uber.com/ubereats/article/uber-eats-pricing)
 - `page` [Pricing](https://help.uber.com/ubereats/article/uber-eats-pricing?nodeId=2adbed88-9822-4690-9529-3061c4821755)
 - `page` [Learn more](https://medium.com/uber-under-the-hood/how-flexible-pricing-keeps-uber-predictable-and-reliable-for-everyone-b5c3ccb5d8bf)
 - `page` [Learn more](https://medium.com/uber-under-the-hood/what-happens-when-surge-pricing-is-banned-evidence-from-nevada-abee7e1e5dd9)
@@ -1418,9 +1430,9 @@ is in `catalogs/<domain>.json`.
 - `page` [Uber Engineering — Where the Digital World Meets the Physical One](https://www.linkedin.com/showcase/uberengineering)
 - `page` [DATA Making Every Core Count: In Pursuit Of Faster Apache Spark Jobs at Uber Data lake ingestion alone consumes 200,000+](https://www.uber.com/blog/uber-benchmarking-quanton/)
 - `page` [Making Every Core Count: In Pursuit Of Faster Apache Spark Jobs at Uber](https://www.uber.com/us/en/blog/uber-benchmarking-quanton/)
-- `page` [Uber Supports Congestion Pricing](https://www.uber.com/us/en/blog/uber-supports-congestion-pricing/)
 - `page` [Pricing](https://www.uber.com/us/en/marketplace/pricing/)
 - `page` [Marketplace | UberChevron downChevron down smallChevron left smallChevron right smallChevron left smallChevron right smallChevron left smallChevron ri](https://www.uber.com/us/en/marketplace/pricing/driver-promotions/)
+- `page` [Marketplace | UberChevron downChevron down smallChevron left smallChevron right smallChevron left smallChevron right smallChevron left smallChevron ri](https://www.uber.com/us/en/marketplace/pricing/service-fee/)
 - …and 9 more in `catalogs/uber.com.json`
 
 ## ulam.ai (3 links from 4 live hosts)
@@ -1432,7 +1444,7 @@ is in `catalogs/<domain>.json`.
 ## verita-ai.com (0 links from 48 live hosts)
 
 
-## vetto.ai (10 links from 95 live hosts)
+## vetto.ai (11 links from 95 live hosts)
 
 - `page` [Evals](https://poc.arena.vetto.ai/battle)
 - `page` [Leaderboard](https://poc.arena.vetto.ai/leaderboard)
@@ -1441,6 +1453,7 @@ is in `catalogs/<domain>.json`.
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-plot-twist-bench/)
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-programbench-vetted/)
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-slopcode-vetted/)
+- `page` [from sitemap](https://vetto.ai/companies/leaderboard-terminal-tasks-v2/)
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-terminal-tasks/)
 - `page` [from sitemap](https://vetto.ai/companies/leaderboard-vetto-science-bench/)
 - `page` [leaderboards](https://vetto.ai/companies/leaderboards/)
@@ -1450,7 +1463,7 @@ is in `catalogs/<domain>.json`.
 - `page` [May 25, 2026unix-ctf: Procedural Environments for Unix-Competence Reinforcement LearningWe introduce unix-ctf, a procedu](https://vmax.ai/team/unix-ctf-procedural-environments-for-unix-competence-reinforcement-learning)
 - `page` [May 25, 2026unix-ctf: Procedural Environments for Unix-Competence Reinforcement LearningWe introduce unix-ctf, a procedu](https://www.vmax.ai/team/unix-ctf-procedural-environments-for-unix-competence-reinforcement-learning)
 
-## wirestock.io (18 links from 69 live hosts)
+## wirestock.io (18 links from 65 live hosts)
 
 - `hosted` [Documentation by Anvil SpectaQL](https://github.com/anvilco/spectaql)
 - `page` [Pricing Guide: How to Price NFT Art that SellsPutting a price tag on your artwork is by no means a new conundrum, but it](https://wirestock.io/blog/nft-pricing-and-selling-guide)

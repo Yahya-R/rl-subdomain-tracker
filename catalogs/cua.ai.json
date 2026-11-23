@@ -1,6 +1,6 @@
 {
  "domain": "cua.ai",
- "live_hosts": 29,
+ "live_hosts": 31,
  "pages": [
   {
    "host": "accounts.cua.ai",
@@ -28,7 +28,7 @@
   {
    "host": "app.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3D96729fa88e1d314c6a9f15cea1750dbb01657e510360f7ab6bdd574ae3f9377b",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fapp.staging.cua.ai%252F%26nonce%3Dae56685fa801c8ce31b7159bf3f8fa5485a0dbb17a1cbdbd55b2ac0e9499c17d",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -197,9 +197,17 @@
   {
    "host": "home.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D124de5fa97ff24c8d9b8c34751bcce4adde07d2d75004cdb2a931e60ee0981c4",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fhome.staging.cua.ai%252F%26nonce%3D91322975d54e6e0c589a212e37dd38c7ab9ae23c67ae46f7b0123678b209f447",
    "title": "Login \u2013 Vercel",
    "links": []
+  },
+  {
+   "host": "hoy-api.cua.ai",
+   "status": "no response"
+  },
+  {
+   "host": "hoy.cua.ai",
+   "status": "robots.txt disallows"
   },
   {
    "host": "incus.cua.ai",
@@ -446,7 +454,7 @@
   {
    "host": "spaces.staging.cua.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3D0a1a04d8a81f3ae466906861d041232ef0382b55aef94aee6f1924abf8f6c6d2",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fspaces.staging.cua.ai%252F%26nonce%3D3278e9eec2edbdf5862f5d62942874a1135ba1ff9cd9f7c57bd8e6baba40d130",
    "title": "Login \u2013 Vercel",
    "links": []
   },

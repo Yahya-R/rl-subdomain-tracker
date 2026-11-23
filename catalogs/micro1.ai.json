@@ -1,6 +1,6 @@
 {
  "domain": "micro1.ai",
- "live_hosts": 200,
+ "live_hosts": 201,
  "pages": [
   {
    "host": "adm.micro1.ai",
@@ -303,6 +303,13 @@
    "links": []
   },
   {
+   "host": "comm.micro1.ai",
+   "status": "ok",
+   "url": "https://comm.micro1.ai/",
+   "title": "micro1 Communications",
+   "links": []
+  },
+  {
    "host": "community.micro1.ai",
    "status": "ok",
    "url": "https://www.micro1.ai/",
@@ -367,42 +374,42 @@
   {
    "host": "dagster-dev.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1524943835%3A1794846135849107&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=pA6pyd1Tv6YokqPBdw3pv0K2Sqm4picmTa5OzLT_Or4%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMszdhu7fGqNAvTj_tmQ05Dxmrwa9iC7i6XN3EJkwsNtXw3UrzhKIRo5d6aHdxXpPGVzceJHuhsSFo8etpEuEoJ-WABxEmQ5VKuJt75AdnB8niHRu90gvSuuHqgMTvvPC3u70SW9d7GLlAP0E_9qYb2TdS4qsHniOX2uBsteCBBsNZ9i9GJk_fd376cStcFXEIqj5hAkLeqtJsiES5BBOqOfJCaEi9AetQ3uY0JeJJNMnaBS-z1Qw1wTkrKDmKBz5wTYEkqFrjMPtza9gfIVQA4pxMnA8WQp0sAgq8MigUH3guJVn4ChGD4TbdRDjiuHol5BCfLciGbHzESiBdre8V1A7tSWtOYjYHDqdE2YajQ_F081FoJ6zyH5JCZ-xHrI0ZYr02u0FetXdK4hPwM0jGicW12Av3nRJnfI9mr1EyK8PoWTwXhhrnBOrgng_cHNwnezaqwSBL44SLWU8B3rDQShqJ682oJAhMWrUD0qrpIk5tWkCE%26flowName%3DGeneralOAuthFlow%26as%3DS-1524943835%253A1794846135849107%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcfx4FOiqGo4tmuia64kkbZVySsFCqx8JUyvgIic1ucA-Qi2t9qGai9c4b7ausE4fqTvWwpYrTHNV6o8iY-OMQxNfYQzaEhy_BY688DuZ-v6kEEwGJ0",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1508551723%3A1795459350198462&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=X5DwcBOxdZ_N0y7F57pdQ102WLpTu7oyErLLzGhDzYA%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPmTuVGSrh9vWlHcc8B4w8LDvgMWcEGSSwSO-bS2Kb3JyIKG9kQxWejwn_qsHVHRrb0Gq89DPLvnm143HoJe4U7QcTnCL83pNRHTywCbKdAGeIBi996N_jLUYOea1MDNWlJudcBc2G_N5CKBOqnwUgkSpLsLCuWeqIRhN7r4lfNfptbbIL-uRYIbrR5XPs3GxX9wAP8J_pgccWwHrv8DuRJqKTaBaUEXY5TkIR1TIt3VIdH4-4JzDhUQNERcoqn0uGu2wxPxoiB9ZccG6xAGMiMTMohWmHVGXY8C4N2OU3twbKSTVdl2yDnYG1zuMf18P6I255bT8R_yCqtyE0tIm7R3V96hWIBOkPR8X3ipNjyrnp1fz-M7Q3xWz0mLYc6amHRxtKbVp8WRy0_UrbS5fKSB2Qn-aBDklz-FPr7VaCnslyWswGhZRxp99mhg7c3hIYpO78RWtCcVWFA2sT0JX1CXag8K4x79BeAOwWlj6RYit4w-Gg%26flowName%3DGeneralOAuthFlow%26as%3DS-1508551723%253A1795459350198462%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.merit.micro1.ai&rart=ANgoxcfTN8sFsFNfuo2-BU8i6OMeiAcgx9lLait1QgaobIO50Gp2E4oxB1o702Hn1U9jJHWpSvUA0YwV5TYICGurWiL3h0VD5UO0vVBkcBQ6_T8FO9Q2T5k",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-dev.research.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-2028801907%3A1794846136130049&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=JFWXKzXGw9ibpxqjRpX2-Vi8iokxSBgt98RmV0oevE4%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANHwexDNKnlY7Gkvt4OqOFHg-OxT1miumW-hXaCtEB5gNxbbNzc8pXdWXr7Tu5JBMgGGqgpOck0XtppWow7X2CfkB_cLhNO8TEaW8iSXgK06Ge_I5xlRxmLiU1pNYupWVad9jMnj5gtlq0g3EkZFVJJFBCGyBfr1l9xnvS2jEwQ2II0rCX5RqE94ZHFv9plLDmQy3yBXmd23Xe22XDM8VwrgqDDc7Ki6zw0PplYbjWTZ8JVICGNL9vgpXb8hX4oObomk8dDy7_e4kisYTLwmAQg9y5LTEFMy7p6pmAfkQKATNmajTSrovtNmgsaF0TjDY240cDbXUFrL7uljkx_Ds_W2oGMvGpl31DAtN_tLZ5eVtz2oHfJ8RTRpRnSp4GEfpFKX4KQBgw_QlTjswyQChythGewXFMiJLvswjS6ItrbN2S-m0PFy6Ai3OwWNr8yIao4kDbqYozt4NgcqRX3tQwtLsJSSjPsJH7aF4GqU4nWss45lHnNDHHC75IbIrausP4omBO4%26flowName%3DGeneralOAuthFlow%26as%3DS-2028801907%253A1794846136130049%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxcfJoYRsnaGk0giFD0Es9YOIHnNtRgv2pC4jn2JJHEpBA63R0afbOmyfXgf8dJS055QZXcbyWrbWKrqMwdUrCJFpm7xpxafzUU6uBOpEbtaD2EB5Cok",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1427206484%3A1795459350579593&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=b874qLCX9PFDdv6vSY5riwtgRXWcCBR8OR4F-dSh7QU%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPul5qhNLa0ZlHavuzp5ujZ-77Z2IKXXTly_kHamSbf7L0DgXRSXKdq1AfroP_UltOaUx3QmbaEkV5SQ3hbH3XKJ_4hHmP30RRqGpfh09SBRoP8_65tE90i2aVC8oDtZStkimcZF1_oGTlp7QXd3ml4r-X1vln11tkYq3ayxtZ4IGZLrypfv2jtYsNw17NdsXD--Jxe4q12kNmKPOMR0qGviura6mqSpU4HbVKB2i0X3tvNxKLByYuRUIwCzmGejCrpMRA-1QPrVOXYDpnyU9C2FtMHKOks6OB2YU1RtP8rzYDL8NemW-i67wta_LP1jcbsqqtkKe3sLaU_ZIrlfAgUL8oTG31aHZXIX0OHYI26YSgRCfj3FLXzHgUW6wAISj1g3bSELSDw5rWkZ4DZf5vvofBdKyvnxO1jqyxHV34W8eAM2B0Yy_fBUIaUSUwqNKKSNF65JM8I_Xwkt62x1FnRM3yHu9KU2OltGzklMh34CrpmgXJKFTsTbkO1jLCJp7WBaUO9%26flowName%3DGeneralOAuthFlow%26as%3DS1427206484%253A1795459350579593%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-dev.research.merit.micro1.ai&rart=ANgoxccO4yMv6nGBVlZcy2o2WUUQB701LuXnpg4Nz8H1mhe1ZZ5USMIYcw4Yr2uq6qei9Pm7yNhOhHDk6-SmWeJiaFQvZZ7jx1siW9eVfZ9qFJj8RlmnCqE",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-preprod.forms.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S67142898%3A1794846136986814&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-preprod.forms.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=iqukR8MVt_YtzVYukpX-FYStlLtB0ouKURo8P_bhrMI%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPGMenToD2Xwi_SkLFvBbd8mW_psRtQ6eF2CX7NB6qYckyF740xE5UcMb3Lrh6IGCTU9tSb3DW-BzdZkGr2SeyS_sS4sr_6_su1RPeynKU7cVdisJKTjecSLxM8rH-StwquvubLP7TioTJvjvZK6lDmHCfqKCGVA2ytO1Z-ySIAfxCY6MOgNqNvA58hQAW7pgc9jSY9T_sfGGc3efMHO0oq2I8AU4SGV_n1DFqQust_NBQMK42RkdUey4z6PhwaASFE90rbc1C8ISi_sFg0stPAiovkbzz6KtDo_JSz3vddPoXg-go9hlN32GXyWkdveLRL1p16vE-mADNHiiXxg473b6eQ8-ppCAgITL4lwSM4AxohJOIrQxyWohCU-5SesHOQdNgT1c1FpzQxSx7ZtO8CqusdjClvU_FFeQGU1jEizPLDp4Z1oTUqNMkS9o9qQNyF7_19fOMut2S177TiCkMZsit19i-ki2R_6IaqPO1bnKsdKr6oUk74LMZ7isMnWhM-n7Kq%26flowName%3DGeneralOAuthFlow%26as%3DS67142898%253A1794846136986814%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-preprod.forms.merit.micro1.ai&rart=ANgoxcdnANlkOdrRCpG0i8u7kpTOd6yp9jzeXcev_AQ5s5JJ3QEQUzfUV4-i7_EbTHD4kvxz8-mb4YMCSCzHBSJHXp_gJqPPUsMGHMHD3e_W2VfACz_Zxzg",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S638329923%3A1795459351522991&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-preprod.forms.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=CpwcWpeGTAbx6eMtLI85RgNQvd22DTkk9AQ89c-LQ2Q%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANL12cFLA4y0m4q2k0CSFDj7LEh2aVTLf6jmWWWkQFHVd24EZoDjzZGt24SG4t69r3GDAW9HjltBlR9CfU9L8r8FbK333E_c1dgqzJVTuP24m9IT5-wS8suF7pG9hN7a6RGRDjg1Ofb_ElSYhhmK77jZVhRcTFlFJOGUjTT4KDIfJ0m2ziagKs4W3Zmxvt_odx6FvxgU7ND-3QZXRrqzg5DRug7cNhR-HbXxqyR3zhmxltTSXkuikAgKA6vD6CGcBaIM956ArjMQKG3lkLrm5xdIoI3rkeDznBmL6pfLL0PrV0jouZ9P-RVn9kIdqWZ57K1xoLa7e9IEQmXimBeAL-NzHayZDpwSUUOTfr3INDRF53N6uGuFZErFUQMBmCeNwxMkb7M5-fXm8NpB5Vk_lArQqOGJMDXsJzcN5wLVNb3oHZkQTWMUvcnZb1wkoFvQaIv3ObKKV-3fuWofikWXFKqR6fHPnLwU-lFwb7aEh-BSntKqaPRgSRK53jqSXqUjTTU2Qp2%26flowName%3DGeneralOAuthFlow%26as%3DS638329923%253A1795459351522991%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-preprod.forms.merit.micro1.ai&rart=ANgoxceoZnS_PMk_-J1qcGU8YHvuyoiWP91fUhnRnYorDSt-EkTkfxNLYT6qCpD-V9PaO7tVDo51dbRAscJ6wNygLW0eTrBcpps_A5CKQGDLGvk_pZ7Yl14",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-prod.forms.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1524943835%3A1794846137140280&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-prod.forms.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=F1vbNIhATeOgulkxzfJz6itAyLcHNz-DCvsgbikOVc0%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMVo1ST6yNq2hGAT6sYaK-IWjFnMehaTkzt0lSBmDX7rIzQVYsh-_9lEcYhVzr2DayEadWEiNGRzwlWBz5YF-LheDakAK68NVTJWyfmhFKqpqSWFxcUG8gFZp6gLo9ySQPkG8uxDhzonYycQsLVaQoVXsgX-M-VCRgHTLejrcMVCxXhX2lJcWOwLYQ5MWMWGroGltG85MsnRNNy7HIJkhNiXH9oJaWe0FIX5iYNoA_k9qgyvKDYRBHvgx-3RY_u-lMNbTcmR-gXUlHO5xxuTKOVKjUC8Rp0qr4xKErWxjWz69xk-tnDYPgByptbloHVtb8fYD0aIKgcHVhjbjFYzO73spqAcKHEqmtcN2u77kkOcdbkbPBjBuWqA5N2pZ0wPn7vjccJr84H2HT-WZGU5_emWeNg0Z7sx4Rip2sDkaMCZW5DFQn8Tvkmr4BuG0rA6r3NRjKbf4_nLkCfue-tvh12450HOHum4udQz48cIsVuZeLLTTiHeBpKcT6goYTaMiunJKP4%26flowName%3DGeneralOAuthFlow%26as%3DS-1524943835%253A1794846137140280%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-prod.forms.merit.micro1.ai&rart=ANgoxccy4r8fvoAigY23_f307I5z3Xoc8CuJEA2HWTUHsI4JNpES4AQrAkis87vlto-DSOBFvPbt9Yh_eK10bMIqsc-_1GuJ9jAjK2sKBZ097RZjJ2T3Cmg",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S2046916944%3A1795459351864794&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-prod.forms.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=i0fqyZ6wqcSGS4gTQKMcfiNekodS4nzdbdPvn5mQWhY%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANXtIVQyrI0PkOtNWVEiQY5SlgLLcpUOw7hZHJQp6VGZL6wTBtauv4rLWmHRKWkps6g0elHjdWgbJ_8YAQF8x5WSbfybdcmMySppIh8K7BnCgY9WKn--LX-tmr3CO6A3msVp3wywgfw8bUWLVXuXAb2Y3j7NkGac3XAeU_uYOodzMgMNov-82zymNxY9DwTEfYIYpDNT0WE-TV81z58sOygcEa-ArBrUAqw_-F1yvot-ysWBaigVgq_D6fPMb8n2nPOmdZxmYU6xkP5qk0rSafdTl048xkejAGqXaoRExWSWxyzsvXdiUvcpmvuchQbqUskvT4weWThDEMgt5kZp5d5-E2NAIQxWn1ccqVokLN7BqhsfR1oLYmfafYXuAZ186Vmmdw_bf3_Mg41Sa8isBgWUyw99_L8kEoRkB4VlDwvqakBg5kTpGoA9MIAHZSBw38Vphh-Hvcj7_WhzdZlNu2gPW_xC5efa2wrOw02Ox8kgYfvxds%26flowName%3DGeneralOAuthFlow%26as%3DS2046916944%253A1795459351864794%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-prod.forms.merit.micro1.ai&rart=ANgoxccTaASwaqLLX8csWv9YhuO1hSPTVCSpPiCK9CwDi9_OxLzdMSpZdR5UDsHW94qDr1m2Oo9j5WJN-tpuUAF7ucfvTR3yPJaDZjIt0mfy44ydktJYTtM",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster-staging.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S51808703%3A1794846138877541&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-staging.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=FWMQ_Olls6qWJpyKu2TvM4dwAPyfxx2aVkMe5I4VSYw%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPwk6uWjSvQMu0ST5kCCcp5SHrPPun-zo0si-i28bgyXNIq2ctAuTgae8AHLM1rl8mD6sNQSqZrtXzkddRSuvBAtPhYEVIDMkniISlH_t6laCdvzdHv9Xrz5WLRYoVNoyZqqA-_n4coDABcubxxp1-xoiKtkeAqI-1D0J6sBZEQKwqXtbT9huE7jIpyzVmxubY2_zWlpvj-9lx_e2yUXy5aBNor2IBQYOyjsFN4jwwbxFblST0_PcZ1l3dQN8Wn427ShJ_PlEUJjiuRv2IKTs-0QeuH2w57D_oTT8rsANL_Cmdbf9aWkYuddTvoINlx1wDMm3qJ36OpT4uL1SyBBY772PHGR19Idnsui8ct4KtRjYAWDlRsl2pG5IzAvjp6aewv3vPE7csKVgc-_fElay_UDxl4eH1dBEqaLs6eZcIT0jspG58Z6XTU6l_q23HOuFxVu476DLTdWJnoefwTufZhQMerFVkBB7Yylz-nOIUP8xHW6n8%26flowName%3DGeneralOAuthFlow%26as%3DS51808703%253A1794846138877541%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-staging.merit.micro1.ai&rart=ANgoxcfDoHVQ7NBgxxYJj2A9CFns_YAGf6XreeDRYwdaA4aBy6-SEjcIz8IjemfD-oxgb5EqjkT8lmjHmdw-OlQ35r_TVisrHsIB2WvqgN8aDhwCQLLpnQU",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1372896311%3A1795459352654754&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster-staging.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=MXCycLlCDE6phqSlckYz69_BQYi5II3O_w-vbNMtFkg%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP4RGVqEQGHsr6NeXZ095RoyWXxvFvOq8wyKyuC0wRY07j__6Q6A_ClXrUwh8nLdntDj-lQpneEPfRNaNmYjQLUd5rCb0kBfNEQhlD5WQBcTx7iXLxi6Vkb37GtZZBIaF7aEuz8-4NTkO3e03-qKRfBHZTOoFNNVBesFmlhlH3YxxIQ5OrSL96qjDGKBSdwfkz-zl1r9bE0vQWmHTLYaG4uJweoQSTeX0Le4fy2xypcO-IaeJiZydALYrwcKZjwhbMCuVVm-pmvjuaQnB7uNRQ-9vG17_YokxqsMfpFcM6Zfyiup_F8V8p7RiAJfmtWSPj7qD2qXFxBgahuF5pL24K5bQB4YL7Wx_AbLeQQTLxcG2eU1ifRm3wH0qluhhHVbc6wnqX3sIzVfswrUSZ63hDXcPFusifw1gOB3cZq_a3AQM-Hry6Bvm8G7DThvc1S3FhBVFa44NFur5psxkP592DcOduyLCP8z-l3ArWnnIhwRnPt2IQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1372896311%253A1795459352654754%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster-staging.merit.micro1.ai&rart=ANgoxcfGpxZMAWlm0ZZYGjWvf0_FeTL6wtK6G01d5ARL3phlF43ZiEyC0etF87RnGEsC71jVhdWVWdVD9KaZClzq0qsnuKPD-M0o6YQkWmftptWnYf9jof8",
    "title": "Sign in - Google Accounts",
    "links": []
   },
   {
    "host": "dagster.merit.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S254268450%3A1794846138355241&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=LYgXfC5pgeqsPqwsLH3FVQ139a78nGJ9WZ1YPxE7t6c%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANxEwRa0GJq7B1Kq-BNAw0r73imT1qk1SdXvnD-Qdz0LwJMSeNXQXPmEOr2bgRQGBpQfJRwWuJyWP3rJZC8j3kNAIskNhQbS17ak_IDE8QDK0mKouOhR8x6T1K3iYIGSBvihT9xxKbPRK-0rkYXc5sm4Y48LMKXTlIMF5424I3BhcKVxZHUj2ed3sAXRdzvKxW06jTIdT8H9JkMAGHSMtZqTmyWq8qCM_REH8ZfbQViGnynYmHfj7Gx-p9S-nqx6TRwTgZpF0-ON3ym9IpUGsVcYeA39DvGQSPv_PfEiTcrQ_IplkWrCPn0EgGBp2L5Zz8SsrWQ2oKhSc1MmCT3hGQhtiw0RQpuAlWUrX8y4O1gwtsI3v7enjo9GodG8dQ2LxsitsikB2rzS8fPHTxJJPsQMtntiT-sQbm7ZPaY2BWn5UOS4dBpB3UgsQSXSLVrYiz-cyObluiSqbpbS0e-d9zH9NPebvWKC7ysVpUnI9zqJDd4BfY%26flowName%3DGeneralOAuthFlow%26as%3DS254268450%253A1794846138355241%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcdTXAbZSq_4jh5D9aamv7g3PnqTuxpZlGgEidwyDhW96LrQg_KW3FyU2t4e4BDsyX53lLLg_cuyQsVhhz88EqzgCKJz1qVm8eM5DvU1LMpUm2Qkxbw",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1378046866%3A1795459352890374&access_type=offline&approval_prompt=force&client_id=322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fdagster.merit.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=N5nbSWp5Bu1qmEOc3iq_6IU0snZZW1mhgiPMXNaqWqc%3A%2F&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANAhOP8wVIDzaMGUShiDo2OENMgQJmhHBU8aINpiUWDs710FBT0Ht54IkFrr6E3tjIbPZpt3fA9ZCNdA0ya30WPKLXzF3ZCa1KCin-r-I5l6B--pIAmCe_DxvrkmdvvjnuJExAMH8Jbv9ir0beFt-Ohdb6AcDUjMEND534vouuNamwfTPB30SKjcIz5qQepyZPpMM6id4uWWdKNAzblPARMK80a5S5Nj-fPx8udq_xGI2mURrBq-mG1w9kg3G6HjjYd1ZIGyloM5RoCX79EhApQknxc9ci2LOgo9JRp0nc5NcTDz8eSfNj0XZeiorKU54fg7e3J67u9KOOwH13aV0BBfKZsS6jgTuWhCKay-wbc7rYOevdiqCkditvChATuwK-8xZUYAp9_dEt4YWYsox45J-ORuZwjTEriPo7BvwTqAtdY4Dj5GsAdvQVqwM-txLu_ETUlRf1rgWA1rKq3mLR4yX-M_ogEccCMjQceBg_-ROG_dI0%26flowName%3DGeneralOAuthFlow%26as%3DS1378046866%253A1795459352890374%26client_id%3D322638080641-kl03kaer0ifgv7aegmv4dngjo5v3ckg8.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fdagster.merit.micro1.ai&rart=ANgoxcdf8ljAJKzSPKXEoePVyRkhe1G4LEeuAm6qon-pLjWxruZFH6eWFG-N1jF9UCM7npXNet3aPFxSNGk2Ve4IxcQ3sl1P4h8SzsX2cJZEFdQAk1TLgwo",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -529,7 +536,7 @@
   {
    "host": "health-experts.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S688871149:1794846141923702",
+   "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/micro1.ai/health-campaign&followup=https://sites.google.com/micro1.ai/health-campaign&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S118289191:1795459356945383",
    "title": "Google Drive: Sign-in",
    "links": []
   },
@@ -593,13 +600,6 @@
    "status": "ok",
    "url": "https://kai.micro1.ai/",
    "title": "Kai \u00b7 micro1",
-   "links": []
-  },
-  {
-   "host": "kb.micro1.ai",
-   "status": "ok",
-   "url": "https://kb.micro1.ai/login?redirect=%2F",
-   "title": "Log in | Knowledge Base | micro1",
    "links": []
   },
   {
@@ -895,8 +895,15 @@
   {
    "host": "specula.micro1.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1693006911%3A1794846152506021&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=1lgeVlqtHvULS-iPk2oRAVWpUfMEKoxS2R0YhQRh9Fs&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEqspPeTlWG7LFlQ4vtHiEpt1N13G5_nl55t5452BkhbA-uVKMqbr7Q9gj8RpZiEVHl1HZDtW4H-ALOewNo_hFrirNjo7CmPIijqJGdT6j0zwz0wUxedtWGb6_285VezER5jA-prLJl1scT7RhDpP96yMFwh20Yxt58Q3FSgwbTnx2PsbeSol1ImjVaJo4V4CYwrg-50eigQlVNK9NG051oMaCIwgFDS55k2Tf5yTud1_437P2N5KmzxtMHXm9ITm3oYrvXwV7Z0mxaGODZ8iM2A9A0gPm_b1LlKGeTGuXfQawU_PBt_jdUMFZNsJTCKM7S061UX_YWfRoenW8L5_Uu2BRiBFAp0aOqjp30iFMIA_0KtI8ZJ_pHzDoz5FnZb1TVC04KX6ial8SBNdZJ0mpu8OM2A3iMd89P1Rv4Rg1-9mBFvokFwcfoST6Rr20LiMki4ynR58hjFlbT_4f-LHuD_ZdaZ3oTo78U3GG_FRatAXUso1qzYGOaIICs5KcYus8J6a97e8S_zWG7oeGTOS_Z6cnQFqzbi9MGw7Oy9IKOYGbxr9gAiVlBN4vyuPKL_8Oulaf1XqNoPajqC-4dlwbBLLd9shP-DI_-9HDdWKZhiPouDpLWa8c1_npZfazwEJqOpzJfXIzC-5JaQQa0SboT2LDtgErXrUwntJpgGdEhpS8YyztTOzV-_HFkdfezZZ5iIEGmpt0cnX6zaG0Yj5-WtDDyE6zqrrP-1XB16ktcNjMqwAx3oP4tAqzKEaJPZ-E2AwgeffkvluYuIaoBFStKvuP-XBauSBLOw5SXSVydEC8cTj0Hu3BCjgdVl-w5oyXVCJkl5oRfAI7G99a0taOHS2SmyjX9K_VkwQoWj03VsRctDUQQJKK6qnJmrnzkZsy4rvWPssgkJgAloLF82yylbYbdvfeO9Wg5CoWhU5f_TFo_YDCAg3PxI_qACZ-GM4GNNtGXlZ08x9rlDXXRIORCGR1mYZhvGza9YLY2EPeTk7Zb6mNwYwEKXrCzE2Ms6aeX2bB3vSpY4R2cWdROwB1GTA5vDHnkcH54Cx9MJND5T76Ier0Gu63pmRLEy2oqmCydDTSJHKl-THc8eUpTosxpcqDhVcMCZfFrMyRlcLctbFbVpblbAIs&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANOEmoE5Rn49uGxGKKyJvrCLmYB4OW2J9D2xdRcrSbDDJ_7kEcJUkiyKXD9PP_hmGJrzsNQ3xVX8cXkU8k6FcFsLR9Q3ydVNjef3RZTsibvUIKWFol9pwz5lYYJ4YgKENdpjGQEh5Ktz0RPqV7s_s1d6RbLSyZu1tzRhzzglLFHRhn0STfAF7cb8MzS1A2_9uGXepL5ALug_WUObENp9hrwo8u96VyForId_McH7JwFsaEbXPOYNjYCec0stsNLU0vuSrq5snqF3XkbWKiiSh7s7T7ljoTUp5I_KifhiaItYZ1JXU9B3BuJaUddkOJYukLrYunV2w0vSZQEwhL9IY4gEUjlaL6VWFFGo16cRdyAqOz7kGI8HyifhIO67uAso7NtpdbiKiiIqhUCxNR7mJGD0mNUpddUpb9s0LmrEwA1ICxdZX03pdgyIqnIFlxe27XeVNeItt9uko04xqcMYieuGlQrBg%26flowName%3DGeneralOAuthFlow%26as%3DS-1693006911%253A1794846152506021%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceYHxcjCplwT2SM2g9ZYmndL2xHlLqj7LP-zXdDP-vch9misv3_lbSyKEHWSY5hrzxpsm8Nlg2U4PyIOtoxryiXhasHn7OXUwR6dU6Q4Cl_WPgoDYE",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S1664242256%3A1795459367417350&client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&code_challenge=_B20DAnSkpXdEqQ_y9YpiNjc9I6N9RgCX3kU8Pouorw&code_challenge_method=S256&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AaMXCssEXub8NTDXqNeIDTQoVV7PfefZ3jNTc_2bNACmzPU2KJKhRE-j98zwpPgTq8NAWeONRaQyItpGI6iedVDFeWXjHBdaitxS433T3pFIzBELp4hXRPuOSfZyO9LXmErC4g7afTRmX5G6dooIS267P-KKXZ4Sn4I5bCRw2QBZo86IV7nDr6V4uQoyP-xhRmIp-aqfX0lo_g25RniccNCmJUfN5NnzgyHzeWaA-TzawkzyBFLLJ5KQaBqFPRDrlv0RaDGyJR-sfMXGnJRwG_aiYA79MF5RzLAdud_YHL0qY5fIIcXOKmeJ8kXXqnXdXM6uiH4NTAUDnY07LkjV5JrBsNJj72f3__fMotqBzVX7NPWtSvJoWhcGTo_5IWGOTsumndVYS6m-67EO58v5QywLWhwk_V6cTU-B6KO3u8xRFPbZFE3JNTkKHyNcUy-wPWUP2Uy8auqr1tHpuTwAKPOmZXgz5Q-T4kQf6lSQACk_X3lSIeJZbieYxGotkO1EU39iT1CqHmaJVjWQcHIScfcUCT-1DEwHm-3fsPsus2GqNP4a5dakZglYQlKQxISDFByIhiExcz9a6Bc4_nPq6iLgjU7JhhRooHH6s-0ads8uYtaSLMCLhhqFYsXcqn1KMLgEOut6gM6SrdAowmKfSWUUKAKVq1hysnXWVnmWqRRM3PIDtmPcHUva7zhbMb605L2U4ibXe9TxdHd0gS7QF1YGY-8EHpgXl4DnneHaYgtg_rYvDEuRzTP8aO4sUWaPjMFEAgRJ1PbTdUDA1Zhrz-Xe_w5yWaoiSLjm9HyqJxfktiU8t9my3zNz2FbySJNGXcAodWD42ZJ6-XC-Mdoj7-y8cyEwjkGwZ4C7cWt9aCb9j2CXMovFFqj_FcGomJC9LXTQD3uEywEqFkmaDYK4kGV3CWTTqysHFmXHvZDpGzqxD65H28B2to-EROijSEWmf1c1gIIDXzbq2wti8aFZF_jD7sRjaChjPHnAzm_6T85ops3zIzyVT_mk-N3e0qh-ThMqkpdJmD9foyH3M0jAsCm31OAhQYGRNb4e3udhALOIln9O0vEBSoFVWuv9M7CfD7RE9QlXoHOC9qz8SueoVtW7BGtSg5JAuEFC7EMwUnnaFhYnpLOJ7TSYmsih&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMFwvD8lojJLjra1CxJ37U0a9lOuZv6NnHEB4tZfSaGNPjJh1b3EhaEvVxFJslEVkvxW_T5BRt9ZvkyKvbY43Hx4xkty8UxDZSWAlApVsROT8Mv0zuVPiiowVzbBplKyCneWmt-yIg6CPk1AsXGnFvSD7HS7UBQ4_emEDYlkzLXwvRRVV7sDcZtWTiHd7Qem0TZyke_xxZJDOoxWSw9ZXNcg6BEguJvmNMRUl_9HI2qiNTdGMKCeiG_EJA4l3XOP2Ew8CGRXAI8mPEodlhp19ADvmWdkxfkuBrUHDM20DsC2VBN5AkKbmWVBa3dsfgIVGhk2djy9NpLjG8VrtWHsUxrnaXeXTl8v8l_0EDwcGTxW14zrkGaZVthjs08m0x_j5xU-ldbD21xcmGVeGFPiMVWuABeivz8ZTfPZqFnf7Ef64kwqIWt4aLmTeYLoskvcWFK0t6d3CxlpH5-wbrCOx7Yfrwdqw%26flowName%3DGeneralOAuthFlow%26as%3DS1664242256%253A1795459367417350%26client_id%3D369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxceQ87vul0Ag--gilt4CUkHE8EygVebLsFUoZHjw_Tk84_I3nGKVHWZ2_9yTsTCO2ZtFVg1EyRmlyKSa2C2j35qCDeD9AaCcYo2c5-iE80Aox9eYrXQ",
    "title": "Sign in - Google Accounts",
+   "links": []
+  },
+  {
+   "host": "stage.agents.micro1.ai",
+   "status": "ok",
+   "url": "https://stage.agents.micro1.ai/",
+   "title": "Agents console",
    "links": []
   },
   {
@@ -996,7 +1003,7 @@
   {
    "host": "studio.flow.gov.micro1.ai",
    "status": "ok",
-   "url": "https://login.flow.gov.micro1.ai/realms/nebari/protocol/openid-connect/auth?client_id=flow-studio-flow-studio&code_challenge=EzBA5DqGz-2Kz51MmfalPwpNcZGqMPaIc2zYMIdsMKs&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fstudio.flow.gov.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=openid%20profile%20email%20groups&state=eyJ1cmwiOiJodHRwczovL3N0dWRpby5mbG93Lmdvdi5taWNybzEuYWkvIiwiY3NyZl90b2tlbiI6IjhlNjkwYjljOTk5MTY4ZWIub2ZYZ3BtZXhDRFBoSkMwQ0V2bURyVGlMUk0vUXNPM3Q0aXR1bHJ1UnEvbz0ifQ",
+   "url": "https://login.flow.gov.micro1.ai/realms/nebari/protocol/openid-connect/auth?client_id=flow-studio-flow-studio&code_challenge=GwcmmnOaj96cTVIs-F_bxviQVRTZKE54I0UCRQIkpA0&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fstudio.flow.gov.micro1.ai%2Foauth2%2Fcallback&response_type=code&scope=openid%20profile%20email%20groups&state=eyJ1cmwiOiJodHRwczovL3N0dWRpby5mbG93Lmdvdi5taWNybzEuYWkvIiwiY3NyZl90b2tlbiI6ImNkZmJmYmE4NjhjZjRhMDYubXFSRDE5alp0d0FvUVlZd0hIQm5wWHBqWkV1NUpQdXY5SDBrUjljQUJMND0ifQ",
    "title": "Sign in to nebari",
    "links": []
   },
@@ -1246,10 +1253,6 @@
    "kind": "page"
   },
   {
-   "url": "https://www.micro1.ai/benchmark/wellness-bench",
-   "kind": "page"
-  },
-  {
    "url": "https://www.micro1.ai/benchmark/pharma-bench",
    "kind": "page"
   },
@@ -1263,6 +1266,10 @@
   },
   {
    "url": "https://www.micro1.ai/benchmark/dual-arm-sim",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/benchmark/real-work-decision",
    "kind": "page"
   },
   {
@@ -1295,6 +1302,10 @@
   },
   {
    "url": "https://www.micro1.ai/forum/retrieval-benchamrk-launch",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.micro1.ai/blog/every-task-checked-against-every-public-benchmark",
    "kind": "page"
   },
   {

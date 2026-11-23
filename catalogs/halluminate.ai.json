@@ -206,7 +206,7 @@
   {
    "host": "staging.horizon.halluminate.ai",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.horizon.halluminate.ai%252F%26nonce%3D03012c7055295281cc6d676a62d62b02d5418c50e7708f9a96d4835eee401911",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.horizon.halluminate.ai%252F%26nonce%3Da68c24fd808b93c72624c8972c645ec3127ea614e9d63569d865ded1f5c6a839",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -255,6 +255,10 @@
   }
  ],
  "sitemap_hits": [
+  {
+   "url": "https://halluminate.ai/blog/qa-benchmark",
+   "kind": "page"
+  },
   {
    "url": "https://halluminate.ai/blog/benchmark",
    "kind": "page"

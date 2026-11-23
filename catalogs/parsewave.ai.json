@@ -1,6 +1,6 @@
 {
  "domain": "parsewave.ai",
- "live_hosts": 26,
+ "live_hosts": 27,
  "pages": [
   {
    "host": "admin.parsewave.ai",
@@ -69,6 +69,13 @@
    "status": "ok",
    "url": "https://cc.parsewave.ai/",
    "title": "",
+   "links": []
+  },
+  {
+   "host": "compete.parsewave.ai",
+   "status": "ok",
+   "url": "https://compete.parsewave.ai/",
+   "title": "Parsewave Competitions",
    "links": []
   },
   {

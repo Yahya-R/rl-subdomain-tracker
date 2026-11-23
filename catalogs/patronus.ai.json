@@ -1,6 +1,6 @@
 {
  "domain": "patronus.ai",
- "live_hosts": 24,
+ "live_hosts": 27,
  "pages": [
   {
    "host": "api.patronus.ai",
@@ -31,6 +31,10 @@
   {
    "host": "auth.patronus.ai",
    "status": "robots.txt disallows"
+  },
+  {
+   "host": "auth0-poc.sandbox.patronus.ai",
+   "status": "no response"
   },
   {
    "host": "behavioral.rl.patronus.ai",
@@ -114,7 +118,7 @@
   {
    "host": "minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S51808703%3A1794846194712720&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=JaOysbOT3HtCuBEYSSKW1YMTgJky8nFbwEZhFQmpf5g7ZjeFtfMoDU12D545XDfSN4tlgfUQ1Mak0SSjqXGEE3kK5VT87gPPgrxiOoLPWKZw4TiWbwcsU4Bx7iWAWDedz7OPQmV2PO%2BBvJkjjRMAIbI29TqHZzAuTIAYT%2BPRTqEDB8E6yNR9fYDvcgCIgWtFKX%2FK3f7dKqWVzCbCUByfnUDTNWoSkd6k7F%2B1NEa3F%2FcCiGbVgQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANQ_Gj_2Q8WdW58LImbKF09NCec_l-qGXg1KWm4_Gmys9qlxpAMCJCSIjlpGXGIyXHznpsMqV6W2teIm6_NPULNRGVBukeRKXGsw9H_-JlfC3y0ZjhPEpjZcYmTZobi9wxjM76XQndidgQ0Xs2KWuEWDID8wT8U6cSmamtJPLv1wjSCZyjoeihJoGttwoJ768-BDXKiPUiD5ijUsKtArVsi7nMYCln9v_KSmOG3d-0WXjXvBpEldV55o-cK-TxxIUUAm8x5x7I80c9-XEJPrXfSG6_huN-GjJZ8rGyoNj4O6P9XxWwHn1lyXoRoM8g0QUNceuYAb02ogkuikBnFhjZqSFZ3sgktlYshwq_ktIDKJkM1G4QMa60IDpYPrPKIZl_dUedkr8f3-rv8fqTPMjTNKZUM7Rk0_jBuUquriGRBQ-YZl6mvthpWmoylUaxOe_84nkwYelLuss-1ZYO7tJjAPNRiWu0_0YvH0slWvebm0sXOV1o%26flowName%3DGeneralOAuthFlow%26as%3DS51808703%253A1794846194712720%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxcfO5TuVttmTr3zr9nqxDRNrIvNEylLF3zc615GWDK0Vi7YuJEkzHsqttRutiEG8bFiJUCQb2XTQZXu4c8zPkR7PYH54ZyVtP7N_zJRbA6NkGtk4f8s",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1442972100%3A1795459408954512&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fminibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=yzYf5Cl8odGay8wbk1GuBSI1sPNnnX5rKHu9BLFejPuoiLMrV9FAHdxW%2BrNMuXbU6D57PSZqzySyjUHXWtBqyaa0FFgtqbrHa%2Bdvuet3Jzs%2FmAQK34lTeA8TETxTr75OOetw1UzIRk3072cpbtLFmPpvdscT4t%2BsO7%2FvBqOkuix4IIjotA%2FUDF5aJLtPUdYjp4dFZcHl7qfy5M6O23ieTEwBZIF5oVczS9o5c7odG8CbR2O34A%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANen2NHrCcErBKfBhmzcQwLQUv3uBQiAO3wCodhSiz5xfLMk0aHXKiDcri4Od0eJK5RRuV346zvMvXXPUYKIEeMC5PRunvC9qhLHS3V1OkJ-R57reMl7QC9_5qO5qhBex90paK54QfhkErwpyvrG46PNectM4q4NtOVuU8Y3IrOkNYr2hDEoyeu94ItUvH_35347zVTcEUOGhhjg-Wahn4Tsre2-hXDEr0AlS4aID3M_w_YWt1f6rCjXRTf6bGsAN0OMMC3ShFKyPAKABWcd2eVTI2BqL3lkypd13nglrzOabe_P3YzXST3D4LataYybr94LGP-ssNXaBd0xfbFEcpnuSU8TCuCg5euv6D63yWg-uSN2fv-97bszDDCB5lLIRobHlsQuDYRXozfQb2j8rm2t21l3pfTLKMUpJvq6riBLFerU95k6qh_16a8b_GZ0U0EEPPx7mUlk-k-S3YWpm0HmfC7oK1DPq1xYGxnywI57GlUNLw%26flowName%3DGeneralOAuthFlow%26as%3DS1442972100%253A1795459408954512%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fminibatch.patronus.ai&rart=ANgoxcdfPKCwzEFK3Bu499KPhkYrFfYgczkzRiWeJn_cuoBIIQniRhQsP7wyrPQbi3M1gWZxHngZ4G5_5hzIOgPHwRhQHlTUzE_WQf1idvLgYMVfCS8YOCY",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -141,9 +145,17 @@
    ]
   },
   {
+   "host": "poc-alb.sandbox.patronus.ai",
+   "status": "no response"
+  },
+  {
+   "host": "poc-int.sandbox.patronus.ai",
+   "status": "no response"
+  },
+  {
    "host": "rewrite.minibatch.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1842954201%3A1794846194796893&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=M1SstTj%2BBdmNJEocqTd%2Bh4UNccAxTmyHuJ%2BcwV3ndpM4i%2FWmJTNaz4c01Wxb4baKAvsdAIhHCqPUvdmUMW%2Bk%2Bd5HRihLz5poorf86duM4yvIVwexJAUQdbf7LYfjM5J9Ac1DhywLqpz7TD34PrcO1GKoNmKOmVENH7dbJV%2Fet4gThlIwMyaTSF6x2vuU8Ey%2Fx5mY5hx5%2B2areFVsQ9j7%2FTpW6yc%2F%2F5OrTurPHAPw068pSG%2BwUg%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMqwNH0E4IsuRYFZPNIczma2Q2FjubUSRL1MOVeIUmPEKCysrQjEqtsgpVPAnKm7VE07MVHdKVn8IKcQ8YDGGB3WJgRXB3Go4lnLhTErauzi4Df6Rncspx27HJJCzIjTfWnYshRoORNUUb-PVLghdydRsJPHafRQanswJ97YDBqVVV1EkeS5CUI1THt7wkLA4Km-o0nQlZentGuuHd1WJkCxco8vu6cHV0rS7wtAURWeMjHezSEKf-AAINNmkD5GSF-OrBRj6Y7lTC-yesmWaor9Ke8ZlSAduOh-RNOGczafgrStj7cfYDUZEdxzDTaXD88pUBrH5lzfHLfrSW9jWzUrZTo3nXy5ZLNsw1tIeDOI_AG-HoxkTsCpIWbVyNUXXyqxp5sk_BaBOrRKknjOLHsSvP_DkkfFmrAUeKU5wenSTFJoPif3zzXt4wc4h9Y1LYDH0GoOnLTXSBOiw0MggAnowLDdZVGmsuOVDMqcVBg8tl0LmY%26flowName%3DGeneralOAuthFlow%26as%3DS-1842954201%253A1794846194796893%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxcfxFSMV16L23sY05kJQjCZcxxokT1nhwnIveoJyNSOxVgzPDBnkrMpnS6eURFhSTl2ElN7J93b1qWMs26lHMoOSV6W6f2O2xK2bSMrTNgK2VlrdrS0",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-534470887%3A1795459409820574&client_id=813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Frewrite.minibatch.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=lk5yo8%2B22DkPfPwxOqkQ9geitdcepk44XhyZI4mraaZy%2B0mGA677JZZNYEtJjeF7p8j7RtEEbOWYksZD6W4G1Qc0onB4JHzc3SnlllAfH7OWyVracstR21I1YaQP7%2B9xjc9i8TiRWqZ0eulUBgE%2B8pyumkNSsY6vx1HbT1hgZXLDLQwy5Ac0ZzsijozQU%2F0yJtlqbPJmRa06MaC1eVFummaOy7BNNA8bP16ZGu%2Bp0SJIFvj4UQ%3D%3D&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN2ugfVJZ5LsJ1nl1lXv_MS4o5mOgd65XJasNTTSTo1zyBfQ_GhDz55uiJppGqtHvCvLuX9kj5TFHq2K2bJncSpeJZJGj6UyR4KpVAZdFBNceXk4lD8MKAU03PcGek6xkzjnFh3VlAMZA-BFdclOwQp0BKdMjy4OA2NRs3YyMNT0jvmUMeuvCtZhJRT793Dlh1p26WR_ZQGodoA0JycwJEDpys_VveMg46v_Ke7bpJ1y2G4exhPhUXAd8iqZviL6SKO0N-Ybj8UQ6UboaqAldXoIoMRdFdpcOKVflYLnbY4ohdIXT1zQzQV9VyVHIWHHg2ttxWCpA47W_WLrvKKHaAGzivpR2Bcsbp4u3I2um9Zjfk1z3NNCEehNdJ4T-HK6qFMYolz2IaRgWM9scgGP1dvmyM_4pRhYtaHrGLB_gvDhsibSZPwOuGAKUaDCKu2F3Y0i6aFc6cLKOP4yrOEoiN0xuCSTOb932xi1pxsgxsi-du4Tb0%26flowName%3DGeneralOAuthFlow%26as%3DS-534470887%253A1795459409820574%26client_id%3D813456545680-sme1e66sok65o7on48tii7k0c3eq9iqc.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Frewrite.minibatch.patronus.ai&rart=ANgoxcePdf2SeqQuETDhqT95AWVNyL-CMipaYrDOTa3GZ91xX8XUT1On25_jYUs4uWnhtWuXUiKcKS55rOzqyRbSy8xmph7i9-ctoPK2TOAsdkX1xgjkS3U",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -157,7 +169,7 @@
   {
    "host": "solar.rl.patronus.ai",
    "status": "ok",
-   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fhd%253Dpatronus.ai&dsh=S-1642254988%3A1794846195191760&client_id=1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com&hd=patronus.ai&o2v=2&redirect_uri=https%3A%2F%2Fsolar.rl.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=04JrsBSa4soFXyxRE1r7UlVpCYQRsrDEnQ3czadK4BKkWEqXuffORBexY6U0K1n52ccdsSUAncMdZ8yLrxQyW1sBtUcFAm14EuQ7C6m%2FziXFb2FeKWwEBF8Q8rJQPDnGtXvirRLZm8kl2r%2FPdXcEY5DDOQGO4GaLklC%2B8pLVoEBVbwgT4lL53m5CTy0fnxm8oymTCJliYRSU2A3ac5sD6ai4A0nP1uAmiSWzmvBOF2bh9r7SpY%2F%2B&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN2I8JonO0mXSbZI_E81g_wrAwJuuUeIEAfIypm9GNFHGqCSQu5hOl1-JmePiqn34Kiwk0LaTrrO_qCu3pRopaW7npxhFBHw1GvgKmNDoKfulc1xbcCDt3QTGQmL8Dc2L4qzFVOHk20ESu1A_c3Of2hSFDjq7vb5RjBGccq6IOT_T3XXiU4xbnSoXVZS7rAhxcFSubyoT-ccmJmuVID_Ou5ZxafEcIYhxYPRnH9yuPLNOYxcm6soxY0G0BuzdLB_ipm7kLbX2vpmtCAqA1WHKRj6qzUyQ_VK4zwa_Pt0puS_OwpCSGsuXi-jLRg3wXodawo3kKy19c2j_r9vrBOykatjyyG2_U9q9qblaMP3YKYXg4q6I3x3mV8EEmrVA8NPV2zOOkTYpcktkXsgAPuuCH7-nH_jOBz8fbmuagby0pbtodZzdIlKgcucGX17NCHnNuGxuVRFdMonvpnrZBjl9pD2tySHbac8jklA_ujRhsVWISsxlM%26flowName%3DGeneralOAuthFlow%26as%3DS-1642254988%253A1794846195191760%26client_id%3D1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsolar.rl.patronus.ai&rart=ANgoxccYAvLgVZqit8qtnbP2akG1b7cs4ndcgQoXQcCeY6O9Tk17bScGgQjb6iGchGBeSuZe-cuD_QOFF01Koa8XQAMdS5G5ZvoN9D4VmJ73xYy5WisSuuc",
+   "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fhd%253Dpatronus.ai&dsh=S-534470887%3A1795459410188038&client_id=1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com&hd=patronus.ai&o2v=2&redirect_uri=https%3A%2F%2Fsolar.rl.patronus.ai%2Foauth2%2Fidpresponse&response_type=code&scope=openid+email+profile&service=lso&state=bbj8nmT9wvYTdHNcg6ULoeEQsOpVdtbdVf%2B6aHos9IsubK8YzVVFncRUdYooXyLGINajKsBJxd2kpj7921FSsT%2FPvPP0FwTF5dmIZ69%2FfLLCqfAli4C7aBTsgguTy8thYybP%2FukUQUFqKULQcmBM5LkhsrlWEEl7MJd2m37WcoJXGuQU7IQSZXRAUn0LeZpnSyPLdhj020i9g6G%2BmS91JUckNheIPNjF%2BAvxLVrIZXCLM0kgKazV&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANWTyW_Spklj8w_Mp-EIYqalkrJssuT2FibeUwBdhK5ccBgnYOi1KRhg8OisELkMOrltzTQ1iTXWltdG7hMJoefvombIzWPnKfSKNRqj2CKVwghNLk5OcZyEae27VLfbCjcfgNb5-ERMQyMnY4MLhb5p3hYjYIUAnUpRWzwVxVrWpliUAswK5GzRI6yZ3-e4dIhuP-s7AzEEYGskgk2MFdUXLs1tILQeb_8F85umj9cQkepo3ma-EkeeWr1Hbiz4SRZLRE1UQ6HXIlp6UkO4ot8HhMm64AAQcdBgvDqaI5lq1JHGbuW6D-VC3DOZfCIK4aixetti_VfVQ-DFod1igRaZElVNppdwRk9kr_iAYwiBBJWmxgFnUOz70voA9uu478u3ZRbcyEhTWBtUM0FuCYIxukQqkQQlUxcQaxQepQYKsWoHYY1q0ttYgrjlSobWqtvnuV7UdhufE0dXdCbHMrp4JFUOPlXgtg68VNaNVzOfQArbI8%26flowName%3DGeneralOAuthFlow%26as%3DS-534470887%253A1795459410188038%26client_id%3D1096597295162-5ksgsfh72gpeacfj7mhv2qod0au1vl71.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fsolar.rl.patronus.ai&rart=ANgoxce-IxYBGCgIvw3ag_IV1A827Mf4JgZ_VvhuzSk3Pz1FQ5SREFrgjuslbX7xljmFdvB4Uw1Ohv9PMVcT-4i-dHKPFbZbmFno2-djRNAy46-gzwO_gTc",
    "title": "Sign in - Google Accounts",
    "links": []
   },
@@ -168,7 +180,7 @@
   {
    "host": "wiki.rl.patronus.ai",
    "status": "ok",
-   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3D37f91841-be6f-4e63-9f93-62c83f2d7440%26page_id%3D79086602%26path%3DLw",
+   "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpages%2Fauth%3Fnonce%3Da29c0916-5924-4747-85aa-1fd16f464d57%26page_id%3D79086602%26path%3DLw",
    "title": "Sign in to GitHub \u00b7 GitHub",
    "links": [
     {
@@ -241,6 +253,18 @@
   },
   {
    "url": "https://www.patronus.ai/resources/rl-environment-market-map",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/gui-agent-datasets",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/rl-environments-faq",
+   "kind": "page"
+  },
+  {
+   "url": "https://www.patronus.ai/resources/world-model-benchmarks",
    "kind": "page"
   },
   {

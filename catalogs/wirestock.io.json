@@ -1,6 +1,6 @@
 {
  "domain": "wirestock.io",
- "live_hosts": 69,
+ "live_hosts": 65,
  "pages": [
   {
    "host": "agencies.wirestock.io",
@@ -122,10 +122,6 @@
    "links": []
   },
   {
-   "host": "dev.wirestock.io",
-   "status": "no response"
-  },
-  {
    "host": "development.api.wirestock.io",
    "status": "no response"
   },
@@ -226,7 +222,7 @@
    "status": "no response"
   },
   {
-   "host": "kubeprod.testing.wirestock.io",
+   "host": "litellm.wirestock.io",
    "status": "no response"
   },
   {
@@ -272,15 +268,7 @@
    "status": "no response"
   },
   {
-   "host": "robot.wirestock.io",
-   "status": "no response"
-  },
-  {
    "host": "spark.wirestock.io",
-   "status": "no response"
-  },
-  {
-   "host": "staging.wirestock.io",
    "status": "no response"
   },
   {
@@ -343,10 +331,6 @@
      "text": "Explore datasets"
     }
    ]
-  },
-  {
-   "host": "www.kubeprod.testing.wirestock.io",
-   "status": "no response"
   },
   {
    "host": "www.wirestock.io",

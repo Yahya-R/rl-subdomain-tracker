@@ -1,6 +1,6 @@
 {
  "domain": "risedatalabs.com",
- "live_hosts": 23,
+ "live_hosts": 24,
  "pages": [
   {
    "host": "accounts.comet.risedatalabs.com",
@@ -69,26 +69,36 @@
    "title": "Expert AI Training Jobs & Remote Projects | Rise Data Labs",
    "links": [
     {
-     "url": "https://experts.risedatalabs.com/jobs/healthcare-expert-%E2%80%94-ai-training-evaluation-x5d4n",
+     "url": "https://experts.risedatalabs.com/jobs/advanced-sciences-phd-expert-%E2%80%94-ai-training-evaluation-sszim",
      "kind": "page",
-     "text": "Healthcare Expert \u2014 AI Training & Evaluation"
+     "text": "Advanced Sciences PhD Expert \u2014 AI Training & Evaluation"
     },
     {
-     "url": "https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-0qn42",
+     "url": "https://experts.risedatalabs.com/jobs/management-consulting-expert-%E2%80%94-ai-training-evaluation-am20m",
      "kind": "page",
-     "text": "Legal & Paralegal Expert \u2014 AI Training & Evaluation"
+     "text": "Management Consulting Expert \u2014 AI Training & Evaluation"
     },
     {
-     "url": "https://experts.risedatalabs.com/jobs/legal-paralegal-expert-%E2%80%94-ai-training-evaluation-cmov7",
+     "url": "https://experts.risedatalabs.com/jobs/product-ux%2Fui-design-expert-%E2%80%94-ai-training-evaluation-60bbs",
      "kind": "page",
-     "text": "Finance Expert \u2014 AI Training & Evaluation"
+     "text": "Product & UX/UI Design Expert \u2014 AI Training & Evaluation"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/radiologist-%E2%80%94-medical-imaging-ai-evaluation-sev0q",
+     "kind": "page",
+     "text": "Radiologist \u2014 Medical Imaging AI Evaluation"
+    },
+    {
+     "url": "https://experts.risedatalabs.com/jobs/sales-operations-expert-%E2%80%94-ai-training-evaluation-4qw64",
+     "kind": "page",
+     "text": "Sales Operations Expert \u2014 AI Training & Evaluation"
     }
    ]
   },
   {
    "host": "experts.staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fexperts.staging.risedatalabs.com%252F%26nonce%3Dd23a93d6ee4609c24bcf43fa059cf361aacb3c88936381819a85beeb81994c32",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fexperts.staging.risedatalabs.com%252F%26nonce%3D717d4a2d05dff8461ce6079559a2d548079f940333be496c2ca1f63232fca14a",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -97,6 +107,13 @@
    "status": "ok",
    "url": "https://karakoram.risedatalabs.com/auth/signin",
    "title": "",
+   "links": []
+  },
+  {
+   "host": "novel.samples.risedatalabs.com",
+   "status": "ok",
+   "url": "https://novel.samples.risedatalabs.com/",
+   "title": "Protected report | Rise Data Labs",
    "links": []
   },
   {
@@ -129,7 +146,7 @@
   {
    "host": "staging-annotations.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging-annotations.risedatalabs.com%252F%26nonce%3D8f298a44769ccbfd0cac2a314ddcf19b884bf37a8f38c4662290265d1f954709",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging-annotations.risedatalabs.com%252F%26nonce%3D7ac429a45d76ef9348b695e084aa5fce7655547efb0bd0c8a23d275dae296400",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -143,7 +160,7 @@
   {
    "host": "staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.risedatalabs.com%252F%26nonce%3Dbcc91f4d0ce8a1e064c3743ad5d35f03c2ee9e493e825d2ac7f148402192ed89",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fstaging.risedatalabs.com%252F%26nonce%3D05c2c128e0628497f8685f2da8f3034a18fe1bc697a9215d92527db9681a6b3b",
    "title": "Login \u2013 Vercel",
    "links": []
   },
@@ -157,7 +174,7 @@
   {
    "host": "team.staging.risedatalabs.com",
    "status": "ok",
-   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fteam.staging.risedatalabs.com%252F%26nonce%3D429dca4b045390ac2cd16c873a3450cdf880b9bc4f85d226439950af2c848640",
+   "url": "https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fteam.staging.risedatalabs.com%252F%26nonce%3D09c33d664b9d9a3f40f22c28aa36a54a2026dca3ae792947ff662a820ed69c91",
    "title": "Login \u2013 Vercel",
    "links": []
   },

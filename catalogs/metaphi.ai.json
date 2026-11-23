@@ -1,6 +1,6 @@
 {
  "domain": "metaphi.ai",
- "live_hosts": 15,
+ "live_hosts": 16,
  "pages": [
   {
    "host": "agent.metaphi.ai",
@@ -26,7 +26,13 @@
    "status": "ok",
    "url": "https://docs.metaphi.ai/kennet/overview",
    "title": "Overview - Metaphi AI",
-   "links": []
+   "links": [
+    {
+     "url": "https://docs.metaphi.ai/kennet/data-licensing/codeval",
+     "kind": "page",
+     "text": "CodeVal"
+    }
+   ]
   },
   {
    "host": "enterprise.metaphi.ai",
@@ -85,15 +91,16 @@
    ]
   },
   {
+   "host": "gateway.metaphi.ai",
+   "status": "no response"
+  },
+  {
    "host": "harwell.metaphi.ai",
    "status": "no response"
   },
   {
    "host": "hum.metaphi.ai",
-   "status": "ok",
-   "url": "https://app.metaphi.ai/sign-in",
-   "title": "Sign in | Metaphi AI",
-   "links": []
+   "status": "no response"
   },
   {
    "host": "kennet.metaphi.ai",
@@ -103,7 +110,7 @@
    "host": "metaphi.ai",
    "status": "ok",
    "url": "https://metaphi.ai/",
-   "title": "Metaphi AI: RL environments and benchmarks for real-world work",
+   "title": "Metaphi AI: Environments and datasets for Autoresearch",
    "links": [
     {
      "url": "https://metaphi.ai/benchmarks",
