@@ -1,25 +1,25 @@
 {
  "admin.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.12.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
   "live": true
  },
  "apex-explorer.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "",
   "live": false
  },
  "arxiv.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "atelier-dev-us.ooakdata.com": {
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-23",
   "ip": "104.18.13.60",
   "live": true
  },
@@ -31,80 +31,104 @@
  },
  "docs.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "eval.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.13.60",
   "live": true
  },
  "flow.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.12.60",
   "live": true
  },
  "librarian-dev-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.13.60",
+  "live": true
+ },
+ "librarian-eu.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "librarian-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "links.partners.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "13.226.209.16",
+  "live": true
+ },
+ "mlflow-dev-us.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "obelus-admin-dev-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
+  "live": true
+ },
+ "obelus-admin-eu.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
   "ip": "104.18.12.60",
   "live": true
  },
  "obelus-admin-us.ooakdata.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.12.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
   "live": true
  },
  "obelus-dev-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
+  "live": true
+ },
+ "obelus-eu.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
   "ip": "104.18.12.60",
   "live": true
  },
  "obelus-us.ooakdata.com": {
   "first_seen": "2026-10-09",
-  "last_seen": "2026-11-17",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "parse.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "",
   "live": false
  },
  "pharos-dev-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.12.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
   "live": true
  },
  "pharos-dev.ooakdata.com": {
@@ -113,10 +137,16 @@
   "ip": "",
   "live": false
  },
+ "pharos-eu.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
+  "live": true
+ },
  "pharos-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.13.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.12.60",
   "live": true
  },
  "pharos.ooakdata.com": {
@@ -127,37 +157,43 @@
  },
  "redact.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.13.60",
   "live": true
  },
  "samples-admin-dev-us.ooakdata.com": {
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-23",
   "ip": "",
   "live": false
  },
  "samples-dev-us.ooakdata.com": {
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-21",
-  "ip": "104.18.12.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
+  "live": true
+ },
+ "samples-eu.ooakdata.com": {
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
   "live": true
  },
  "samples-us.ooakdata.com": {
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-23",
   "ip": "104.18.12.60",
   "live": true
  },
  "samples.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.13.60",
   "live": true
  },
  "update-dev-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "",
   "live": false
  },
@@ -169,7 +205,7 @@
  },
  "update-us.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "",
   "live": false
  },
@@ -181,13 +217,13 @@
  },
  "world-viewer-dev.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
-  "ip": "104.18.12.60",
+  "last_seen": "2026-11-23",
+  "ip": "104.18.13.60",
   "live": true
  },
  "www.ooakdata.com": {
   "first_seen": "2026-10-06",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "ip": "104.18.12.60",
   "live": true
  }
