@@ -1,5 +1,27 @@
 # New subdomains
 
+## 2026-11-23
+
+### hud.ai
+- recruiting.hud.ai (216.150.16.193)
+
+### ooakdata.com
+- librarian-eu.ooakdata.com (104.18.12.60)
+- mlflow-dev-us.ooakdata.com (104.18.12.60)
+- obelus-admin-eu.ooakdata.com (104.18.12.60)
+- obelus-eu.ooakdata.com (104.18.12.60)
+- pharos-eu.ooakdata.com (104.18.13.60)
+- samples-eu.ooakdata.com (104.18.13.60)
+
+### turing.com
+- hangar-production.acc-ops.turing.com (136.68.173.159)
+- hangar-staging.acc-ops.turing.com (136.68.173.159)
+
+### uber.com
+- echung2a.dev.uber.com (no DNS)
+- jmeyer-bmw.dev.uber.com (no DNS)
+- xinjiangshishicaiyitianjiqia.mx.dev.uber.com (no DNS)
+
 ## 2026-11-22
 
 ### uber.com
