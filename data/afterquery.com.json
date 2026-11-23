@@ -2,7 +2,7 @@
  "accounts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.123.129",
+  "ip": "64.239.123.1",
   "live": true
  },
  "accounts.delivery.afterquery.com": {
@@ -26,7 +26,7 @@
  "accounts.quill.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "accounts.security.afterquery.com": {
@@ -80,7 +80,7 @@
  "authe.afterquery.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-23",
-  "ip": "64.239.123.1",
+  "ip": "64.239.123.129",
   "live": true
  },
  "authz.afterquery.com": {
@@ -92,7 +92,7 @@
  "breachforces.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.193",
   "live": true
  },
  "chat.afterquery.com": {
@@ -116,13 +116,13 @@
  "clerk.forge.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "172.64.153.110",
+  "ip": "104.18.34.146",
   "live": true
  },
  "clerk.inference.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "clerk.quill.afterquery.com": {
@@ -152,13 +152,13 @@
  "cua-gw.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "34.224.160.98",
+  "ip": "100.57.218.172",
   "live": true
  },
  "data.afterquery.com": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.1",
+  "ip": "64.239.123.129",
   "live": true
  },
  "delivery.afterquery.com": {
@@ -188,7 +188,7 @@
  "e.experts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "172.66.169.73",
+  "ip": "104.20.19.245",
   "live": true
  },
  "egg.reviewer.afterquery.com": {
@@ -224,13 +224,13 @@
  "experts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "76.76.21.164",
+  "ip": "66.33.60.194",
   "live": true
  },
  "fd-api.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.1",
   "live": true
  },
  "goopy.afterquery.com": {
@@ -248,13 +248,13 @@
  "pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.65",
+  "ip": "64.239.123.129",
   "live": true
  },
  "quality-check.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.65",
   "live": true
  },
  "sec.afterquery.com": {
@@ -284,7 +284,7 @@
  "test.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "tg.internal.afterquery.com": {
@@ -296,7 +296,7 @@
  "trust.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "66.33.60.129",
+  "ip": "66.33.60.67",
   "live": true
  },
  "turing-backend.afterquery.com": {
@@ -308,7 +308,7 @@
  "weave-demo-be.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.123.193",
+  "ip": "64.239.123.65",
   "live": true
  },
  "whitebox.afterquery.com": {
@@ -320,7 +320,7 @@
  "www.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.193",
+  "ip": "64.239.123.193",
   "live": true
  },
  "www.auth.afterquery.com": {
@@ -332,7 +332,7 @@
  "www.pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-23",
-  "ip": "64.239.109.193",
+  "ip": "64.239.123.1",
   "live": true
  }
 }
