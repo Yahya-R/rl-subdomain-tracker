@@ -2,6 +2,16 @@
 
 ## 2026-11-24
 
+### scale.com
+- helm.corp.scale.com (32.185.37.84)
+
+### uber.com
+- eastus.atlas.cloudapp.uber.com (no DNS)
+- infiniti-pilot-4.dev.uber.com (no DNS)
+- spyker-lynx-2g.dev.uber.com (no DNS)
+
+## 2026-11-24
+
 ### uber.com
 - 4aa0e.mx.dev.uber.com (no DNS)
 - detailsg.uber.com (no DNS)
