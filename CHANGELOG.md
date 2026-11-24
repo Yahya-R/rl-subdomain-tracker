@@ -1,5 +1,13 @@
 # New subdomains
 
+## 2026-11-24
+
+### uber.com
+- 4aa0e.mx.dev.uber.com (no DNS)
+- detailsg.uber.com (no DNS)
+- kris03.dev.uber.com (no DNS)
+- shredm.dev.uber.com (no DNS)
+
 ## 2026-11-23
 
 ### uber.com
