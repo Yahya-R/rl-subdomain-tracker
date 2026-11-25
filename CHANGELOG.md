@@ -1,5 +1,21 @@
 # New subdomains
 
+## 2026-11-25
+
+### arimlabs.ai
+- data.arimlabs.ai (104.21.22.220)
+
+### fleetai.com
+- collector.fleetai.com (50.16.240.35)
+
+### mercor.com
+- demo-service.api.mercor.com (10.4.154.20)
+- demo-service.preprod.api.mercor.com (10.6.188.23)
+- new-service-eks-frontend.preprod.api.mercor.com (10.6.131.135)
+
+### parsewave.ai
+- iris.parsewave.ai (2.29.12.176)
+
 ## 2026-11-24
 
 ### scale.com
