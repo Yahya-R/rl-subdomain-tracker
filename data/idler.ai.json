@@ -2,13 +2,31 @@
  "api.idler.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
+  "ip": "216.24.57.16",
+  "live": true
+ },
+ "conductor.idler.ai": {
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
   "ip": "216.24.57.18",
+  "live": true
+ },
+ "conductor.staging.idler.ai": {
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "ip": "216.24.57.16",
+  "live": true
+ },
+ "fellowship.idler.ai": {
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "ip": "172.67.192.132",
   "live": true
  },
  "forktree.idler.ai": {
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-22",
-  "ip": "216.24.57.16",
+  "last_seen": "2026-11-25",
+  "ip": "216.24.57.18",
   "live": true
  },
  "idler.ai": {
@@ -32,7 +50,7 @@
  "outreach.idler.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "34.57.83.26",
+  "ip": "35.232.60.107",
   "live": true
  },
  "pages.idler.ai": {
@@ -44,13 +62,13 @@
  "security.idler.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "104.21.51.252",
+  "ip": "172.67.192.132",
   "live": true
  },
  "staging.idler.ai": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.1",
   "live": true
  },
  "strat.idler.ai": {
@@ -61,19 +79,19 @@
  },
  "www.idler.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "ip": "172.67.192.132",
   "live": true
  },
  "www.outreach.idler.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "ip": "",
   "live": false
  },
  "www.staging.idler.ai": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "ip": "",
   "live": false
  }

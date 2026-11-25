@@ -7,7 +7,7 @@
  },
  "accounts.delivery.afterquery.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-25",
   "ip": "104.18.34.146",
   "live": true
  },
@@ -26,7 +26,7 @@
  "accounts.quill.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "104.18.34.146",
+  "ip": "172.64.153.110",
   "live": true
  },
  "accounts.security.afterquery.com": {
@@ -44,7 +44,7 @@
  "afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.109.65",
+  "ip": "64.239.123.129",
   "live": true
  },
  "api.prod.aether.afterquery.com": {
@@ -61,14 +61,14 @@
  },
  "atrium.afterquery.com": {
   "first_seen": "2026-10-11",
-  "last_seen": "2026-11-24",
-  "ip": "64.239.123.129",
+  "last_seen": "2026-11-25",
+  "ip": "64.239.123.1",
   "live": true
  },
  "auth.aether.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "172.64.152.23",
+  "ip": "104.18.35.233",
   "live": true
  },
  "auth.afterquery.com": {
@@ -79,8 +79,8 @@
  },
  "authe.afterquery.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
-  "ip": "64.239.109.1",
+  "last_seen": "2026-11-25",
+  "ip": "64.239.109.65",
   "live": true
  },
  "authz.afterquery.com": {
@@ -91,8 +91,8 @@
  },
  "breachforces.afterquery.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-11-24",
-  "ip": "64.239.123.1",
+  "last_seen": "2026-11-25",
+  "ip": "64.239.109.193",
   "live": true
  },
  "chat.afterquery.com": {
@@ -104,7 +104,7 @@
  "clerk.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.123.1",
+  "ip": "64.239.109.193",
   "live": true
  },
  "clerk.delivery.afterquery.com": {
@@ -152,13 +152,13 @@
  "cua-gw.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "44.193.124.175",
+  "ip": "34.238.208.178",
   "live": true
  },
  "data.afterquery.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
-  "ip": "64.239.123.129",
+  "last_seen": "2026-11-25",
+  "ip": "64.239.123.1",
   "live": true
  },
  "delivery.afterquery.com": {
@@ -188,13 +188,13 @@
  "e.experts.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "172.66.169.73",
+  "ip": "104.20.19.245",
   "live": true
  },
  "egg.reviewer.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.123.129",
+  "ip": "64.239.109.129",
   "live": true
  },
  "ender-test-research.afterquery.com": {
@@ -223,14 +223,14 @@
  },
  "experts.afterquery.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-11-24",
-  "ip": "66.33.60.193",
+  "last_seen": "2026-11-25",
+  "ip": "76.76.21.22",
   "live": true
  },
  "fd-api.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.123.65",
+  "ip": "64.239.123.193",
   "live": true
  },
  "goopy.afterquery.com": {
@@ -248,7 +248,7 @@
  "pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-25",
-  "ip": "64.239.109.65",
+  "ip": "64.239.109.1",
   "live": true
  },
  "quality-check.afterquery.com": {
@@ -277,14 +277,14 @@
  },
  "team.afterquery.com": {
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "ip": "64.239.109.129",
   "live": true
  },
  "test.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "216.150.16.1",
+  "ip": "216.150.1.1",
   "live": true
  },
  "tg.internal.afterquery.com": {
@@ -295,8 +295,8 @@
  },
  "trust.afterquery.com": {
   "first_seen": "2026-10-05",
-  "last_seen": "2026-11-24",
-  "ip": "76.76.21.142",
+  "last_seen": "2026-11-25",
+  "ip": "76.76.21.164",
   "live": true
  },
  "turing-backend.afterquery.com": {
@@ -308,7 +308,7 @@
  "weave-demo-be.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.123.193",
+  "ip": "64.239.109.129",
   "live": true
  },
  "whitebox.afterquery.com": {
@@ -320,19 +320,19 @@
  "www.afterquery.com": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "64.239.123.65",
+  "ip": "64.239.123.193",
   "live": true
  },
  "www.auth.afterquery.com": {
   "first_seen": "2026-10-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "ip": "",
   "live": false
  },
  "www.pay.afterquery.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-25",
-  "ip": "64.239.109.193",
+  "ip": "64.239.109.65",
   "live": true
  }
 }
