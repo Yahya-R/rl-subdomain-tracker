@@ -14,7 +14,7 @@
  "admin.forch.flyte.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "192.168.191.154",
+  "ip": "192.168.112.186",
   "live": true
  },
  "allumiqs.latch.bio": {
@@ -32,7 +32,7 @@
  "argocd.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "192.168.143.152",
+  "ip": "192.168.120.44",
   "live": true
  },
  "argocde.latch.bio": {
@@ -50,7 +50,7 @@
  "auth.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "172.64.144.74",
+  "ip": "104.18.43.182",
   "live": true
  },
  "blog.latch.bio": {
@@ -92,7 +92,7 @@
  "clipper-viz-server.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "35.81.117.24",
+  "ip": "35.162.127.10",
   "live": true
  },
  "clipper-viz-servera.latch.bio": {
@@ -110,7 +110,7 @@
  "conference.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "31.43.161.6",
+  "ip": "31.43.160.6",
   "live": true
  },
  "conferencec.latch.bio": {
@@ -146,7 +146,7 @@
  "custom.pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "44.255.250.205",
+  "ip": "44.237.123.6",
   "live": true
  },
  "custom.pods.us-east.latch.bio": {
@@ -188,7 +188,7 @@
  "docs.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "52.33.90.102",
+  "ip": "32.184.174.215",
   "live": true
  },
  "factorial.latch.bio": {
@@ -236,7 +236,7 @@
  "jlab.pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "44.255.250.205",
+  "ip": "44.237.123.6",
   "live": true
  },
  "jlab.pods.us-east.latch.bio": {
@@ -290,7 +290,7 @@
  "pods.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "100.23.112.27",
+  "ip": "44.255.250.205",
   "live": true
  },
  "pods.us-west.latch.bio": {
@@ -416,7 +416,7 @@
  "trust.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "172.64.146.8",
+  "ip": "104.18.41.248",
   "live": true
  },
  "u003econsole.latch.bio": {
@@ -452,7 +452,7 @@
  "wiki.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "76.76.21.98",
+  "ip": "76.76.21.142",
   "live": true
  },
  "wildcard.custom.pods.latch.bio": {
@@ -476,7 +476,7 @@
  "wildcard.rstudio.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-25",
-  "ip": "100.23.112.27",
+  "ip": "44.255.250.205",
   "live": true
  },
  "www.argocd.latch.bio": {
@@ -524,13 +524,13 @@
  "www.latch.bio": {
   "first_seen": "2026-10-05",
   "last_seen": "2026-11-25",
-  "ip": "32.190.89.234",
+  "ip": "32.184.174.215",
   "live": true
  },
  "www.pods.latch.bio": {
   "first_seen": "2026-10-07",
   "last_seen": "2026-11-25",
-  "ip": "100.23.112.27",
+  "ip": "44.237.123.6",
   "live": true
  },
  "www.pods.us-west.latch.bio": {
