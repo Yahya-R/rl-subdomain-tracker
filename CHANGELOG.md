@@ -3,6 +3,29 @@
 ## 2026-11-25
 
 ### arimlabs.ai
+- api.stage.vectra.arimlabs.ai (136.82.159.163)
+- stage.vectra.arimlabs.ai (136.82.159.163)
+
+### idler.ai
+- conductor.idler.ai (216.24.57.18)
+- conductor.staging.idler.ai (216.24.57.16)
+- fellowship.idler.ai (172.67.192.132)
+
+### micro1.ai
+- stage.academy.micro1.ai (3.170.42.25)
+
+### originator.inc
+- foundry.jupiter.data.originator.inc (172.67.75.187)
+
+### uber.com
+- cadillac-jimmy-4s.dev.uber.com (no DNS)
+- markus8.dev.uber.com (no DNS)
+- tcapi1.dev.uber.com (no DNS)
+- u3v5.mx.dev.uber.com (no DNS)
+
+## 2026-11-25
+
+### arimlabs.ai
 - data.arimlabs.ai (104.21.22.220)
 
 ### fleetai.com
