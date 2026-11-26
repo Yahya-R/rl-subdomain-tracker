@@ -1,5 +1,12 @@
 # New subdomains
 
+## 2026-11-26
+
+### uber.com
+- bastion04-phx3.uber.com (no DNS)
+- dil.dev.uber.com (no DNS)
+- satyai.dev.uber.com (no DNS)
+
 ## 2026-11-25
 
 ### arimlabs.ai
