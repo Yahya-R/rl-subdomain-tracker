@@ -2,6 +2,15 @@
 
 ## 2026-11-26
 
+### originator.inc
+- ori.jupiter.data.originator.inc (104.26.8.62)
+
+### risedatalabs.com
+- massine.sample.risedatalabs.com (77.112.82.187)
+- sylia.sample.risedatalabs.com (77.112.82.187)
+
+## 2026-11-26
+
 ### uber.com
 - bastion04-phx3.uber.com (no DNS)
 - dil.dev.uber.com (no DNS)

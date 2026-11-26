@@ -104,7 +104,7 @@
  "engine.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.129",
   "live": true
  },
  "ensemble.staging.tastelabs.com": {
@@ -122,7 +122,7 @@
  "goldenstone-preference.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "216.150.16.1",
+  "ip": "216.150.16.193",
   "live": true
  },
  "grafana.tastelabs.com": {
@@ -176,7 +176,7 @@
  "hfi-summer.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.193",
   "live": true
  },
  "humans-provisioner.internal.tastelabs.com": {
@@ -188,13 +188,13 @@
  "index.engine.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "ingest.webapp-capture-api.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "integration.portal.tastelabs.com": {
@@ -212,7 +212,7 @@
  "links.recruiting.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "18.238.96.119",
+  "ip": "18.160.18.48",
   "live": true
  },
  "mcp.hdp.tastelabs.com": {
@@ -320,7 +320,7 @@
  "r2.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "reflection.rl.tastelabs.com": {
@@ -356,7 +356,7 @@
  "running.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "216.150.1.129",
+  "ip": "216.150.1.1",
   "live": true
  },
  "rustore.tastelabs.com": {
@@ -398,7 +398,7 @@
  "staging-portal.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "216.150.16.193",
+  "ip": "216.150.1.1",
   "live": true
  },
  "staging.metabase.tastelabs.com": {
@@ -494,7 +494,7 @@
  "tastemakers.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "172.66.152.147",
+  "ip": "104.20.16.112",
   "live": true
  },
  "traces.hdp.staging.tastelabs.com": {
@@ -554,7 +554,7 @@
  "www.tastelabs.com": {
   "first_seen": "2026-10-06",
   "last_seen": "2026-11-26",
-  "ip": "104.20.16.112",
+  "ip": "172.66.152.147",
   "live": true
  },
  "xai-grok-sxs.tastelabs.com": {
