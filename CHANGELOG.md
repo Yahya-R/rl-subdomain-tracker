@@ -2,6 +2,19 @@
 
 ## 2026-11-27
 
+### bespokelabs.ai
+- data.bespokelabs.ai (34.8.82.86)
+
+### micro1.ai
+- api.ai-recommendation.micro1.ai (44.212.122.178)
+
+### originator.inc
+- analytics.originator.inc (104.26.8.62)
+- foundry.sugar.data.originator.inc (104.26.8.62)
+- ori.sugar.data.originator.inc (172.67.75.187)
+
+## 2026-11-27
+
 ### arimlabs.ai
 - llm.stage.vectra.arimlabs.ai (136.82.168.187)
 
