@@ -1,5 +1,13 @@
 # New subdomains
 
+## 2026-11-27
+
+### arimlabs.ai
+- llm.stage.vectra.arimlabs.ai (136.82.168.187)
+
+### uber.com
+- background-checki.dev.uber.com (no DNS)
+
 ## 2026-11-26
 
 ### originator.inc
