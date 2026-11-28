@@ -231,7 +231,7 @@
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 18,
-   "wayback": null,
+   "wayback": 9,
    "rapiddns": 3,
    "c99": 0
   },
@@ -245,10 +245,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:32",
+  "last_scan": "2026-11-28T08:10",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "chakra.dev": {
@@ -297,7 +296,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:33",
+  "last_scan": "2026-11-28T08:11",
   "failed_sources": [
    "certspotter"
   ]
@@ -1132,11 +1131,11 @@
  },
  "plato.so": {
   "sources": {
-   "crtsh": 54,
+   "crtsh": 55,
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 57,
-   "wayback": null,
+   "wayback": 6,
    "rapiddns": 1,
    "c99": 0
   },
@@ -1150,10 +1149,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:31",
+  "last_scan": "2026-11-28T08:08",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "pre.dev": {
@@ -1330,8 +1328,8 @@
  },
  "scale.com": {
   "sources": {
-   "crtsh": 2689,
-   "certspotter": null,
+   "crtsh": 2688,
+   "certspotter": 99,
    "hackertarget": 0,
    "subdomain_center": 500,
    "wayback": null,
@@ -1348,9 +1346,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:32",
+  "last_scan": "2026-11-28T08:09",
   "failed_sources": [
-   "certspotter",
    "wayback"
   ]
  },
@@ -1399,7 +1396,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:32",
+  "last_scan": "2026-11-28T08:10",
   "failed_sources": [
    "certspotter"
   ]
@@ -1579,7 +1576,7 @@
  },
  "uber.com": {
   "sources": {
-   "crtsh": 278,
+   "crtsh": 276,
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 500,
@@ -1597,7 +1594,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:31",
+  "last_scan": "2026-11-28T08:08",
   "failed_sources": [
    "certspotter",
    "wayback"

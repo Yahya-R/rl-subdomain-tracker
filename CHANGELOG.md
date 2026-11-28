@@ -2,6 +2,21 @@
 
 ## 2026-11-28
 
+### gr.inc
+- chaty2k.gr.inc (34.160.223.52)
+- infer.chaty2k.gr.inc (34.160.223.52)
+
+### hud.ai
+- api.beta.hud.ai (44.255.128.8)
+
+### uber.com
+- alpha-cn-dca1.uber.com (no DNS)
+- altenterprise.geetima6.dev.uber.com (no DNS)
+- checkout.uber.com (no DNS)
+- develastic.uber.com (no DNS)
+
+## 2026-11-28
+
 ### afterquery.com
 - core.afterquery.com (34.120.185.227)
 
