@@ -1,5 +1,19 @@
 # New subdomains
 
+## 2026-11-28
+
+### afterquery.com
+- core.afterquery.com (34.120.185.227)
+
+### quesma.com
+- advent-of-slop.quesma.com (104.21.38.231)
+- adventofaislop.quesma.com (no DNS)
+
+### uber.com
+- cheung3.dev.uber.com (no DNS)
+- gatewayreports.uber.com (no DNS)
+- mitsubishi-regency-3.dev.uber.com (no DNS)
+
 ## 2026-11-27
 
 ### bespokelabs.ai
