@@ -51,11 +51,11 @@
  },
  "alignai.co": {
   "sources": {
-   "crtsh": 15,
+   "crtsh": 9,
    "certspotter": null,
-   "hackertarget": 13,
+   "hackertarget": 15,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -69,10 +69,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:07",
+  "last_scan": "2026-11-28T07:48",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "andromede.ai": {
@@ -210,7 +209,7 @@
    "certspotter": null,
    "hackertarget": 50,
    "subdomain_center": 12,
-   "wayback": null,
+   "wayback": 9,
    "rapiddns": 0,
    "c99": 0
   },
@@ -224,10 +223,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:08",
+  "last_scan": "2026-11-28T07:48",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "bespokelabs.ai": {
@@ -490,7 +488,7 @@
    "certspotter": null,
    "hackertarget": 1,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 1,
    "rapiddns": 0,
    "c99": 0
   },
@@ -504,16 +502,15 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:09",
+  "last_scan": "2026-11-28T07:49",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "emulated.so": {
   "sources": {
    "crtsh": 3,
-   "certspotter": 3,
+   "certspotter": null,
    "hackertarget": 3,
    "subdomain_center": 0,
    "wayback": null,
@@ -530,8 +527,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:09",
+  "last_scan": "2026-11-28T07:49",
   "failed_sources": [
+   "certspotter",
    "wayback"
   ]
  },
@@ -613,11 +611,11 @@
  },
  "gr.inc": {
   "sources": {
-   "crtsh": 14,
-   "certspotter": null,
+   "crtsh": 13,
+   "certspotter": 18,
    "hackertarget": 17,
    "subdomain_center": 4,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -631,11 +629,8 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:10",
-  "failed_sources": [
-   "certspotter",
-   "wayback"
-  ]
+  "last_scan": "2026-11-28T07:49",
+  "failed_sources": []
  },
  "halluminate.ai": {
   "sources": {
@@ -845,7 +840,7 @@
    "certspotter": null,
    "hackertarget": 3,
    "subdomain_center": 2,
-   "wayback": null,
+   "wayback": 3,
    "rapiddns": 0,
    "c99": 0
   },
@@ -859,10 +854,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:10",
+  "last_scan": "2026-11-28T07:51",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "mechanize.work": {
@@ -922,7 +916,7 @@
    "certspotter": null,
    "hackertarget": 14,
    "subdomain_center": 3,
-   "wayback": null,
+   "wayback": 8,
    "rapiddns": 1,
    "c99": 0
   },
@@ -936,10 +930,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:12",
+  "last_scan": "2026-11-28T07:50",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "micro1.ai": {
@@ -988,7 +981,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:12",
+  "last_scan": "2026-11-28T07:50",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1178,11 +1171,11 @@
  },
  "pre.dev": {
   "sources": {
-   "crtsh": 28,
+   "crtsh": 26,
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 136,
-   "wayback": null,
+   "wayback": 22,
    "rapiddns": 1,
    "c99": 0
   },
@@ -1196,10 +1189,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:12",
+  "last_scan": "2026-11-28T07:50",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "preferencemodel.com": {
@@ -1281,7 +1273,7 @@
    "certspotter": null,
    "hackertarget": 4,
    "subdomain_center": 0,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1295,10 +1287,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:08",
+  "last_scan": "2026-11-28T07:48",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "refresh.dev": {
@@ -1321,7 +1312,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:13",
+  "last_scan": "2026-11-28T07:52",
   "failed_sources": [
    "certspotter",
    "wayback"
@@ -1456,7 +1447,7 @@
    "certspotter": null,
    "hackertarget": 24,
    "subdomain_center": 28,
-   "wayback": null,
+   "wayback": 2,
    "rapiddns": 0,
    "c99": 0
   },
@@ -1470,10 +1461,9 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:09",
+  "last_scan": "2026-11-28T07:49",
   "failed_sources": [
-   "certspotter",
-   "wayback"
+   "certspotter"
   ]
  },
  "tacitlabs.co": {
@@ -1503,7 +1493,7 @@
  },
  "tastelabs.com": {
   "sources": {
-   "crtsh": 75,
+   "crtsh": 74,
    "certspotter": null,
    "hackertarget": 0,
    "subdomain_center": 4,
@@ -1521,7 +1511,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:12",
+  "last_scan": "2026-11-28T07:51",
   "failed_sources": [
    "certspotter"
   ]
@@ -1701,7 +1691,7 @@
    "wayback"
   ],
   "complete": true,
-  "last_scan": "2026-11-28T00:08",
+  "last_scan": "2026-11-28T07:48",
   "failed_sources": [
    "certspotter",
    "wayback"
